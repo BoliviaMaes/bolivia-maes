@@ -1,2664 +1,2668 @@
 {
-  "Autoridades": [
+  "autoridades": [
     {
-      "Cargo": "Viceministro de Desarrollo Rural y Agropecuario",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "rec161AO5afiDeIfg",
+      "cargo": "Viceministro de Desarrollo Rural y Agropecuario",
+      "desde": "2020-11-17",
+      "entidad": [
         "recbZDq1W7CX2uEST"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recmeGFUComeX4dRI"
       ],
-      "Persona": [
+      "id": 25,
+      "persona": [
         "rec9ID6uVNfZeCgAQ"
-      ],
-      "airtableId": "rec161AO5afiDeIfg",
-      "id": 25
+      ]
     },
     {
-      "Cargo": "Comandante en Jefe Accidental de las Fuerzas Armadas",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "rec2VWDUcJm5gZYpW",
+      "cargo": "Comandante en Jefe Accidental de las Fuerzas Armadas",
+      "desde": "2020-11-17",
+      "entidad": [
         "reccOyt73GJKFfU2z"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recn3BI0JXt1APt1o"
       ],
-      "Persona": [
+      "id": 19,
+      "persona": [
         "recaxy9A2mmMRnwKw"
-      ],
-      "airtableId": "rec2VWDUcJm5gZYpW",
-      "id": 19
+      ]
     },
     {
-      "Cargo": "Directora General del Servicio General de Identificación Personal",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "rec2fOFUP0SaichhD",
+      "cargo": "Directora General del Servicio General de Identificación Personal",
+      "desde": "2020-11-17",
+      "entidad": [
         "recc8qv7GXfPHsdUg"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recnntK0meZ6C2MT5"
       ],
-      "Persona": [
+      "id": 26,
+      "persona": [
         "recaRqbAFDSRTAPCd"
-      ],
-      "airtableId": "rec2fOFUP0SaichhD",
-      "id": 26
+      ]
     },
     {
-      "Cargo": "Directora General Ejecutiva de la Lotería Nacional de Beneficencia y Salubridad",
-      "Desde": "2020-11-27",
-      "Entidad": [
+      "airtableId": "rec3FEK8CFNtKW5oO",
+      "cargo": "Directora General Ejecutiva de la Lotería Nacional de Beneficencia y Salubridad",
+      "desde": "2020-11-27",
+      "entidad": [
         "recNB343Y7zTT14nC"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recDReYqE3afKHqLC"
       ],
-      "Persona": [
+      "id": 69,
+      "persona": [
         "recKBhFHNYlCUnp86"
-      ],
-      "airtableId": "rec3FEK8CFNtKW5oO",
-      "id": 69
+      ]
     },
     {
-      "Cargo": "Directora Ejecutiva de la AJ (Autoridad de Fiscalización y Control Social del Juego)",
-      "Desde": "2020-11-20",
-      "Entidad": [
+      "airtableId": "rec4q4g6EjkxFSb2E",
+      "cargo": "Directora Ejecutiva de la AJ (Autoridad de Fiscalización y Control Social del Juego)",
+      "desde": "2020-11-20",
+      "entidad": [
         "recejG6jvgHc487Fh"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recpyJlcbxrtZIGE6"
       ],
-      "Persona": [
+      "id": 37,
+      "persona": [
         "recc2GMMuWkeggJne"
-      ],
-      "airtableId": "rec4q4g6EjkxFSb2E",
-      "id": 37
+      ]
     },
     {
-      "Cargo": "Viceministro de Descolonización y Despatriarcalización",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "rec6N2HNTBByviXYS",
+      "cargo": "Viceministro de Descolonización y Despatriarcalización",
+      "desde": "2020-11-21",
+      "entidad": [
         "recgGEx0KyYdUyTBv"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recrVHMTqPIuP8sAk"
       ],
-      "Persona": [
+      "id": 41,
+      "persona": [
         "recepEdtJeBf6Gvjs"
-      ],
-      "airtableId": "rec6N2HNTBByviXYS",
-      "id": 41
+      ]
     },
     {
-      "Cargo": "Presidenta de la Aduana Nacional",
-      "Desde": "2020-11-24",
-      "Entidad": [
+      "airtableId": "rec7MYTm8hs8ujVOV",
+      "cargo": "Presidenta de la Aduana Nacional",
+      "desde": "2020-11-24",
+      "entidad": [
         "rechFAJzZePNTzRry"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recsUDYsFvz4O9qqn"
       ],
-      "Persona": [
+      "id": 59,
+      "persona": [
         "recfoAp2YUsP5Ht9v"
-      ],
-      "airtableId": "rec7MYTm8hs8ujVOV",
-      "id": 59
+      ]
     },
     {
-      "Cargo": "Comandante General de la Fuerza Aérea",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "rec7SvwCIPN1hz5si",
+      "cargo": "Comandante General de la Fuerza Aérea",
+      "desde": "2020-11-17",
+      "entidad": [
         "rechL7mPzMaGGP15V"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recs0aBIf3UXBpA4K"
       ],
-      "Persona": [
+      "id": 22,
+      "persona": [
         "recfu72iysNISXDNS"
-      ],
-      "airtableId": "rec7SvwCIPN1hz5si",
-      "id": 22
+      ]
     },
     {
-      "Cargo": "Director General Ejecutivo del INE (Instituto Nacional de Estadísticas)",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "rec7elN1JC1HgKgra",
+      "cargo": "Director General Ejecutivo del INE (Instituto Nacional de Estadísticas)",
+      "desde": "2020-11-21",
+      "entidad": [
         "rech7XDeAzomF0c4N"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recsm0S7gQ8DAAL3C"
       ],
-      "Persona": [
+      "id": 46,
+      "persona": [
         "recfQXjHzf1oR8OMK"
-      ],
-      "airtableId": "rec7elN1JC1HgKgra",
-      "id": 46
+      ]
     },
     {
-      "Cargo": "Directora General del Servicio Plurinacional de la Mujer y la Despatriarcalización \"Ana María Romero\"",
-      "Desde": "2020-11-27",
-      "Entidad": [
+      "airtableId": "rec7s9R6JgKqZyXMr",
+      "cargo": "Directora General del Servicio Plurinacional de la Mujer y la Despatriarcalización \"Ana María Romero\"",
+      "desde": "2020-11-27",
+      "entidad": [
         "recuS9p6tAC2qIcSz"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recrrCoEN5J99zGK1"
       ],
-      "Persona": [
+      "id": 66,
+      "persona": [
         "recdABzeBoiKOSu1W"
-      ],
-      "airtableId": "rec7s9R6JgKqZyXMr",
-      "id": 66
+      ]
     },
     {
-      "Cargo": "Viceministra de Igualdad de Oportunidades",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "rec7spLwKOoRxEDzP",
+      "cargo": "Viceministra de Igualdad de Oportunidades",
+      "desde": "2020-11-13",
+      "entidad": [
         "rechl1BJBLLwWUzcs"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recsA4QCh2vNRu8bh"
       ],
-      "Persona": [
+      "id": 6,
+      "persona": [
         "recf41hcAroy82bUp"
-      ],
-      "airtableId": "rec7spLwKOoRxEDzP",
-      "id": 6
+      ]
     },
     {
-      "Cargo": "Procurador General del Estado",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "rec9Obg5onwXOb3CD",
+      "cargo": "Procurador General del Estado",
+      "desde": "2020-11-13",
+      "entidad": [
         "recjHN6ifkTCdrZfg"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recuWQlbVBDT81ye5"
       ],
-      "Persona": [
+      "id": 15,
+      "persona": [
         "rechqNMLe0wEpzBXd"
-      ],
-      "airtableId": "rec9Obg5onwXOb3CD",
-      "id": 15
+      ]
     },
     {
-      "Cargo": "Director General de la Hoja de Coca e Industrialización",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "recA3AWfjN9MC1vXG",
+      "cargo": "Director General de la Hoja de Coca e Industrialización",
+      "desde": "2020-11-21",
+      "entidad": [
         "recKWcMsaKwr1hrAj"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recVbf1lQ1gIWR0z8"
       ],
-      "Persona": [
+      "id": 48,
+      "persona": [
         "recIFcsV9q9tdp3ig"
-      ],
-      "airtableId": "recA3AWfjN9MC1vXG",
-      "id": 48
+      ]
     },
     {
-      "Cargo": "Viceministro de Tesoro y Crédito Público",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recAIYfWUWaZOyrYW",
+      "cargo": "Viceministro de Tesoro y Crédito Público",
+      "desde": "2020-11-13",
+      "entidad": [
         "recKBA59LTxEdOnBz"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recVQDk2rahV8oWAo"
       ],
-      "Persona": [
+      "id": 10,
+      "persona": [
         "recIkALCKzaGpWZjw"
-      ],
-      "airtableId": "recAIYfWUWaZOyrYW",
-      "id": 10
+      ]
     },
     {
-      "Cargo": "Embajador Extraordinario y Plenipotenciario de Bolivia ante la ONU",
-      "Desde": "2020-11-19",
-      "Entidad": [
+      "airtableId": "recBmzIpN8E5u1E84",
+      "cargo": "Embajador Extraordinario y Plenipotenciario de Bolivia ante la ONU",
+      "desde": "2020-11-19",
+      "entidad": [
         "recLfbyCE51KThALH"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recWueNvkmL1OR9Kw"
       ],
-      "Persona": [
+      "id": 32,
+      "persona": [
         "recJYbe5DLEM5pctE"
-      ],
-      "airtableId": "recBmzIpN8E5u1E84",
-      "id": 32
+      ]
     },
     {
-      "Cargo": "Viceministro de Seguros de Salud y Gestión del Sistema Único de Salud",
-      "Desde": "2020-11-23",
-      "Entidad": [
+      "airtableId": "recBraO3XrkBmtoxh",
+      "cargo": "Viceministro de Seguros de Salud y Gestión del Sistema Único de Salud",
+      "desde": "2020-11-23",
+      "entidad": [
         "recLkMEgOoHgLJkaU"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recWzPT9uFrxGjT9J"
       ],
-      "Persona": [
+      "id": 54,
+      "persona": [
         "recJ3MkJN4kiXRWSR"
-      ],
-      "airtableId": "recBraO3XrkBmtoxh",
-      "id": 54
+      ]
     },
     {
-      "Cargo": "Director Ejecutivo de la Agencia Nacional de Hidrocarburos (ANH)",
-      "Desde": "2020-11-20",
-      "Entidad": [
+      "airtableId": "recC68zb9RRnYHXUl",
+      "cargo": "Director Ejecutivo de la Agencia Nacional de Hidrocarburos (ANH)",
+      "desde": "2020-11-20",
+      "entidad": [
         "recMZKpo0Oe2nXTxY"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recXeNEhG5YjixswN"
       ],
-      "Persona": [
+      "id": 36,
+      "persona": [
         "recKIK5RZuR4z5vfV"
-      ],
-      "airtableId": "recC68zb9RRnYHXUl",
-      "id": 36
+      ]
     },
     {
-      "Cargo": "Presidente de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)",
-      "Desde": "2020-11-20",
-      "Entidad": [
+      "airtableId": "recCFHGv3st69JOKh",
+      "cargo": "Presidente de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)",
+      "desde": "2020-11-20",
+      "entidad": [
         "recMyjwIUpQLyZKnU"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recXNmLBAGA2tzjmJ"
       ],
-      "Persona": [
+      "id": 35,
+      "persona": [
         "recKhjcbT5tNK7m5R"
-      ],
-      "airtableId": "recCFHGv3st69JOKh",
-      "id": 35
+      ]
     },
     {
-      "Cargo": "Viceministro  de Lucha Contra el Contrabando",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "recDKEWD88MNsFpPj",
+      "cargo": "Viceministro  de Lucha Contra el Contrabando",
+      "desde": "2020-11-17",
+      "entidad": [
         "recNDgMQZ59sRVlsW"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recYSj1JFmTJMvUrL"
       ],
-      "Persona": [
+      "id": 28,
+      "persona": [
         "recLmgsjYLMu33XaT"
-      ],
-      "airtableId": "recDKEWD88MNsFpPj",
-      "id": 28
+      ]
     },
     {
-      "Cargo": "Presidente de Impuestos Nacionales",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recEGcFGKmfXEqav0",
+      "cargo": "Presidente de Impuestos Nacionales",
+      "desde": "2020-11-13",
+      "entidad": [
         "recOzOvTBjCC3G68D"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recZORKMhAmTYgF7s"
       ],
-      "Persona": [
+      "id": 2,
+      "persona": [
         "recMiObmAZfEfOIQA"
-      ],
-      "airtableId": "recEGcFGKmfXEqav0",
-      "id": 2
+      ]
     },
     {
-      "Cargo": "Viceministro de Defensa y Cooperación al Desarrollo Integral",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "recG8xE6KeTlikqsb",
+      "cargo": "Viceministro de Defensa y Cooperación al Desarrollo Integral",
+      "desde": "2020-11-17",
+      "entidad": [
         "recQ19ujBbg0HAm5O"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "rec1gcJchs0hCaV4D"
       ],
-      "Persona": [
+      "id": 29,
+      "persona": [
         "recOK9aMART2TIYNL"
-      ],
-      "airtableId": "recG8xE6KeTlikqsb",
-      "id": 29
+      ]
     },
     {
-      "Cargo": "Comandante General interino de la Policía Boliviana",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "recHFb3zPcdwNDASK",
+      "cargo": "Comandante General interino de la Policía Boliviana",
+      "desde": "2020-11-17",
+      "entidad": [
         "recRyNTMG9AbcTwvn"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "rec2NQ8Fmqks7t5uc"
       ],
-      "Persona": [
+      "id": 24,
+      "persona": [
         "recPhNzfFPddo18dk"
-      ],
-      "airtableId": "recHFb3zPcdwNDASK",
-      "id": 24
+      ]
     },
     {
-      "Cargo": "Viceministro de Altas Tecnologías Energéticas",
-      "Desde": "2020-11-27",
-      "Entidad": [
+      "airtableId": "recHxfSAKalYuhilJ",
+      "cargo": "Viceministro de Altas Tecnologías Energéticas",
+      "desde": "2020-11-27",
+      "entidad": [
         "reczz5xCwbq6m6S26"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "rec3l4QUvbtMNTDay"
       ],
-      "Persona": [
+      "id": 72,
+      "persona": [
         "recVAwe4aCOFqbkjr"
-      ],
-      "airtableId": "recHxfSAKalYuhilJ",
-      "id": 72
+      ]
     },
     {
-      "Cargo": "Viceministro de Presupuesto y Contabilidad Fiscal",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recIWafKRWQR1vjFM",
+      "cargo": "Viceministro de Presupuesto y Contabilidad Fiscal",
+      "desde": "2020-11-13",
+      "entidad": [
         "recSPM5XITdwqLfip"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "rec34PkQoaXNllOhe"
       ],
-      "Persona": [
+      "id": 12,
+      "persona": [
         "recQyMLqHzQyCTR0m"
-      ],
-      "airtableId": "recIWafKRWQR1vjFM",
-      "id": 12
+      ]
     },
     {
-      "Cargo": "Viceministro de Justicia y Derechos Fundamentales",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recJGLbmug7495IyK",
+      "cargo": "Viceministro de Justicia y Derechos Fundamentales",
+      "desde": "2020-11-13",
+      "entidad": [
         "recTzn1zlduJylEbn"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "rec4Oqgs1ue0tVdac"
       ],
-      "Persona": [
+      "id": 5,
+      "persona": [
         "recRinH2kT7LKtgTk"
-      ],
-      "airtableId": "recJGLbmug7495IyK",
-      "id": 5
+      ]
     },
     {
-      "Cargo": "Viceministro de Régimen Interior y Policía",
-      "Desde": "2020-11-20",
-      "Entidad": [
+      "airtableId": "recME9ztz5dSGXaei",
+      "cargo": "Viceministro de Régimen Interior y Policía",
+      "desde": "2020-11-20",
+      "entidad": [
         "recWxLpGq2Ax5d6RV"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "rec7MOEz6jkO0NFQK"
       ],
-      "Persona": [
+      "id": 33,
+      "persona": [
         "recUgL59pIdzhlIzS"
-      ],
-      "airtableId": "recME9ztz5dSGXaei",
-      "id": 33
+      ]
     },
     {
-      "Cargo": "Ministra de Culturas, Descolonización y Despatriarcalización",
-      "Desde": "2020-11-20",
-      "Entidad": [
+      "airtableId": "recMzFkbm1hX0Sdw9",
+      "cargo": "Ministra de Culturas, Descolonización y Despatriarcalización",
+      "desde": "2020-11-20",
+      "entidad": [
         "recWshaodYECp899M"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "rec7HkphTfoTkII8B"
       ],
-      "Persona": [
+      "id": 40,
+      "persona": [
         "recUbhQRcEhEBgLRJ"
-      ],
-      "airtableId": "recMzFkbm1hX0Sdw9",
-      "id": 40
+      ]
     },
     {
-      "Cargo": "Viceministra de Comunicación",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recP4SZbcqHbkOgzo",
+      "cargo": "Viceministra de Comunicación",
+      "desde": "2020-11-13",
+      "entidad": [
         "recZXuPo3n4QJ4cc1"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recacx4hJEO7EELbQ"
       ],
-      "Persona": [
+      "id": 3,
+      "persona": [
         "recXGuvR23HSVcOUY"
-      ],
-      "airtableId": "recP4SZbcqHbkOgzo",
-      "id": 3
+      ]
     },
     {
-      "Cargo": "Viceministra de Pensiones y Servicios Financieros",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recP52OuCZ2RCl8hd",
+      "cargo": "Viceministra de Pensiones y Servicios Financieros",
+      "desde": "2020-11-13",
+      "entidad": [
         "recZYEEHtWpw1B4UQ"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recadHTA9d9NWbDTF"
       ],
-      "Persona": [
+      "id": 13,
+      "persona": [
         "recXHEkasC2ydJGCN"
-      ],
-      "airtableId": "recP52OuCZ2RCl8hd",
-      "id": 13
+      ]
     },
     {
-      "Cargo": "Viceministra de Educación Superior y Formación Profesional",
-      "Desde": "2020-11-24",
-      "Entidad": [
+      "airtableId": "recPhuw5iJDrnZnZ5",
+      "cargo": "Viceministra de Educación Superior y Formación Profesional",
+      "desde": "2020-11-24",
+      "entidad": [
         "recZa6mi9G06MfjCI"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recap9BbPXKnHPSBx"
       ],
-      "Persona": [
+      "id": 57,
+      "persona": [
         "recXT62L8mD8YnVkF"
-      ],
-      "airtableId": "recPhuw5iJDrnZnZ5",
-      "id": 57
+      ]
     },
     {
-      "Cargo": "Viceministro de Interculturalidad",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "recPipiPddnOBqG7W",
+      "cargo": "Viceministro de Interculturalidad",
+      "desde": "2020-11-21",
+      "entidad": [
         "recZb1824aKt0GCKz"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recaq4nVKruKVgbJo"
       ],
-      "Persona": [
+      "id": 42,
+      "persona": [
         "recXU1Ov3QnvcOesw"
-      ],
-      "airtableId": "recPipiPddnOBqG7W",
-      "id": 42
+      ]
     },
     {
-      "Cargo": "Viceministro de Medio Ambiente, Biodiversidad, Cambios Climáticos y de Gestión y Desarrollo Forestal",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "recQGiiCKU8RljYpu",
+      "cargo": "Viceministro de Medio Ambiente, Biodiversidad, Cambios Climáticos y de Gestión y Desarrollo Forestal",
+      "desde": "2020-11-21",
+      "entidad": [
         "rec0zU8PBRvwKzU27"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recbOXnIh8fNF9t1W"
       ],
-      "Persona": [
+      "id": 45,
+      "persona": [
         "recYiUOiAx8yWHwK4"
-      ],
-      "airtableId": "recQGiiCKU8RljYpu",
-      "id": 45
+      ]
     },
     {
-      "Cargo": "Viceministra de Educación Alternativa y Especial",
-      "Desde": "2020-11-24",
-      "Entidad": [
+      "airtableId": "recQJyD13H5dbGlxn",
+      "cargo": "Viceministra de Educación Alternativa y Especial",
+      "desde": "2020-11-24",
+      "entidad": [
         "rec0CateUEsSAWha0"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recbRdI7AVc9vwQ9P"
       ],
-      "Persona": [
+      "id": 58,
+      "persona": [
         "recYla9HTk5UM4TSX"
-      ],
-      "airtableId": "recQJyD13H5dbGlxn",
-      "id": 58
+      ]
     },
     {
-      "Cargo": "Director Ejecutivo del FNDR (Fondo Nacional de Desarrollo Regional)",
-      "Desde": "2020-11-25",
-      "Entidad": [
+      "airtableId": "recR1NSGyn44FG6iq",
+      "cargo": "Director Ejecutivo del FNDR (Fondo Nacional de Desarrollo Regional)",
+      "desde": "2020-11-25",
+      "entidad": [
         "reczDRfj7RzcIwK3w"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recbM8iBqEtKSgyS1"
       ],
-      "Persona": [
+      "id": 62,
+      "persona": [
         "recdKXhJtgZdP5nzL"
-      ],
-      "airtableId": "recR1NSGyn44FG6iq",
-      "id": 62
+      ]
     },
     {
-      "Cargo": "Viceministro de Autonomías",
-      "Desde": "2020-11-24",
-      "Entidad": [
+      "airtableId": "recSbmgmgqz2jaFtn",
+      "cargo": "Viceministro de Autonomías",
+      "desde": "2020-11-24",
+      "entidad": [
         "rec24Y6z7nWHIqB60"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recdj1lsNEGYD0a5P"
       ],
-      "Persona": [
+      "id": 60,
+      "persona": [
         "rec0NYM263zJUydOX"
-      ],
-      "airtableId": "recSbmgmgqz2jaFtn",
-      "id": 60
+      ]
     },
     {
-      "Cargo": "Viceministra de Transparencia Institucional y Lucha contra la Corrupción",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recStcTu0QSUbytnH",
+      "cargo": "Viceministra de Transparencia Institucional y Lucha contra la Corrupción",
+      "desde": "2020-11-13",
+      "entidad": [
         "rec2mOJHRNfzAOp0k"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recdBRYAx4ZQvoYZ9"
       ],
-      "Persona": [
+      "id": 8,
+      "persona": [
         "rec05OpaQtSBMW1Ih"
-      ],
-      "airtableId": "recStcTu0QSUbytnH",
-      "id": 8
+      ]
     },
     {
-      "Cargo": "Director General Ejecutivo del Fonabosque (Fondo Nacional de Desarrollo Forestal).",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "recVTGN6t3SybDamY",
+      "cargo": "Director General Ejecutivo del Fonabosque (Fondo Nacional de Desarrollo Forestal).",
+      "desde": "2020-11-21",
+      "entidad": [
         "rec5MiDjk0fdAT6ZB"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recg1lSc0hZuvtFYq"
       ],
-      "Persona": [
+      "id": 44,
+      "persona": [
         "rec3vijMjGSfM1IHy"
-      ],
-      "airtableId": "recVTGN6t3SybDamY",
-      "id": 44
+      ]
     },
     {
-      "Cargo": "Viceministro de Educación Regular",
-      "Desde": "2020-11-24",
-      "Entidad": [
+      "airtableId": "recVahsQwKvQ9tI3i",
+      "cargo": "Viceministro de Educación Regular",
+      "desde": "2020-11-24",
+      "entidad": [
         "rec53Ti3nHSvyJEGV"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recgiWxW3YCMtjdFK"
       ],
-      "Persona": [
+      "id": 56,
+      "persona": [
         "rec3MTYwmnvxKRgoS"
-      ],
-      "airtableId": "recVahsQwKvQ9tI3i",
-      "id": 56
+      ]
     },
     {
-      "Cargo": "Viceministro de Cooperativas Mineras",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "recX06mvBnhnpOGdO",
+      "cargo": "Viceministro de Cooperativas Mineras",
+      "desde": "2020-11-21",
+      "entidad": [
         "rec7TIcIskE2O4CQr"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "reci8LrB8BojJEbPg"
       ],
-      "Persona": [
+      "id": 51,
+      "persona": [
         "rec5CISbr0h40ceyo"
-      ],
-      "airtableId": "recX06mvBnhnpOGdO",
-      "id": 51
+      ]
     },
     {
-      "Cargo": "Viceministro de Coordinación y Gestión Gubernamental",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recXaG8XCk3UZg5gj",
+      "cargo": "Viceministro de Coordinación y Gestión Gubernamental",
+      "desde": "2020-11-13",
+      "entidad": [
         "rec73iYathqzow1TW"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "reciild39yaQj6ASL"
       ],
-      "Persona": [
+      "id": 16,
+      "persona": [
         "rec5MiEDsX3BAEDBT"
-      ],
-      "airtableId": "recXaG8XCk3UZg5gj",
-      "id": 16
+      ]
     },
     {
-      "Cargo": "Directora Ejecutiva del FPS (Fondo Productivo Social)",
-      "Desde": "2020-11-25",
-      "Entidad": [
+      "airtableId": "recXeCB6m4Dyzo1HW",
+      "cargo": "Directora Ejecutiva del FPS (Fondo Productivo Social)",
+      "desde": "2020-11-25",
+      "entidad": [
         "recAJ7vOCTHDlNjuv"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recIPWKtOvEglfvnt"
       ],
-      "Persona": [
+      "id": 63,
+      "persona": [
         "recmTwyqtN2KRfkCD"
-      ],
-      "airtableId": "recXeCB6m4Dyzo1HW",
-      "id": 63
+      ]
     },
     {
-      "Cargo": "Viceministro de la Coca y Desarrollo Integral",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "recYpcPxLi05q1yAm",
+      "cargo": "Viceministro de la Coca y Desarrollo Integral",
+      "desde": "2020-11-21",
+      "entidad": [
         "rec8iOFKCfnKPhudZ"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recjxRUDiw71KR3cO"
       ],
-      "Persona": [
+      "id": 47,
+      "persona": [
         "rec61OldBV0M1p6VW"
-      ],
-      "airtableId": "recYpcPxLi05q1yAm",
-      "id": 47
+      ]
     },
     {
-      "Cargo": "Presidente del Banco Central de Bolivia",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recaAU4C3yRFrXdm8",
+      "cargo": "Presidente del Banco Central de Bolivia",
+      "desde": "2020-11-13",
+      "entidad": [
         "recktwUPUvekQd9ZL"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recvIz9IAMYBLNIYA"
       ],
-      "Persona": [
+      "id": 4,
+      "persona": [
         "recicwAiTbRm2lLHI"
-      ],
-      "airtableId": "recaAU4C3yRFrXdm8",
-      "id": 4
+      ]
     },
     {
-      "Cargo": "Viceministra de Promoción, Vigilancia Epidemiológica y Medicina Tradicional",
-      "Desde": "2020-11-23",
-      "Entidad": [
+      "airtableId": "recaFJupkRz2W8WY3",
+      "cargo": "Viceministra de Promoción, Vigilancia Epidemiológica y Medicina Tradicional",
+      "desde": "2020-11-23",
+      "entidad": [
         "reckylkCbOWHloSBG"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recvNozvR5GYgYrAv"
       ],
-      "Persona": [
+      "id": 52,
+      "persona": [
         "recihl05auzJxwujD"
-      ],
-      "airtableId": "recaFJupkRz2W8WY3",
-      "id": 52
+      ]
     },
     {
-      "Cargo": "Viceministro de Defensa Social y Sustancias Controladas",
-      "Desde": "2020-11-14",
-      "Entidad": [
+      "airtableId": "recbTNjwSDaY7yQPd",
+      "cargo": "Viceministro de Defensa Social y Sustancias Controladas",
+      "desde": "2020-11-14",
+      "entidad": [
         "reclMp9JJAxDwOMsQ"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recw1soCpRhUrolrF"
       ],
-      "Persona": [
+      "id": 17,
+      "persona": [
         "recjvpPcIgaFIWoaN"
-      ],
-      "airtableId": "recbTNjwSDaY7yQPd",
-      "id": 17
+      ]
     },
     {
-      "Cargo": "Viceministro de Defensa de los Derechos del Usuario y Consumidor",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "reccZAUFd6O8o260A",
+      "cargo": "Viceministro de Defensa de los Derechos del Usuario y Consumidor",
+      "desde": "2020-11-13",
+      "entidad": [
         "recmScKS43bNNi2Dd"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recx7fZLKkV4ISBC2"
       ],
-      "Persona": [
+      "id": 7,
+      "persona": [
         "reckBcql3JOPZqEla"
-      ],
-      "airtableId": "reccZAUFd6O8o260A",
-      "id": 7
+      ]
     },
     {
-      "Cargo": "Viceministro de Política Minera, Regulación y Fiscalización",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "recdFyryO44KuY0Cg",
+      "cargo": "Viceministro de Política Minera, Regulación y Fiscalización",
+      "desde": "2020-11-21",
+      "entidad": [
         "recnyahLF1rpTeWfT"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recyNdwElibGOOveI"
       ],
-      "Persona": [
+      "id": 50,
+      "persona": [
         "reclhaXeEH4r5myXQ"
-      ],
-      "airtableId": "recdFyryO44KuY0Cg",
-      "id": 50
+      ]
     },
     {
-      "Cargo": "Jefe de Estado Mayor General Accidental del Comando en Jefe de las Fuerzas Armadas",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "recdMinbx2Gb9PV8h",
+      "cargo": "Jefe de Estado Mayor General Accidental del Comando en Jefe de las Fuerzas Armadas",
+      "desde": "2020-11-17",
+      "entidad": [
         "recnFUdooZ3Qy5RLU"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recyUXsh4gN7tFqKJ"
       ],
-      "Persona": [
+      "id": 20,
+      "persona": [
         "recloUTRnFGSKdttR"
-      ],
-      "airtableId": "recdMinbx2Gb9PV8h",
-      "id": 20
+      ]
     },
     {
-      "Cargo": "Viceministro de Política Tributaria",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "rece90HbPaOkyYSyg",
+      "cargo": "Viceministro de Política Tributaria",
+      "desde": "2020-11-13",
+      "entidad": [
         "reco2CxoG7bZXeObT"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "reczhFMhmoVgSOnaI"
       ],
-      "Persona": [
+      "id": 11,
+      "persona": [
         "recmLCdRFNO19mqTQ"
-      ],
-      "airtableId": "rece90HbPaOkyYSyg",
-      "id": 11
+      ]
     },
     {
-      "Cargo": "Viceministro de Seguridad Ciudadana",
-      "Desde": "2020-11-20",
-      "Entidad": [
+      "airtableId": "recfzOdMwLqm9SFs2",
+      "cargo": "Viceministro de Seguridad Ciudadana",
+      "desde": "2020-11-20",
+      "entidad": [
         "recpsq3ZnIN1y8B5F"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recAHtiS3ZxitIa4u"
       ],
-      "Persona": [
+      "id": 34,
+      "persona": [
         "recnbqJsmoq3KgdNC"
-      ],
-      "airtableId": "recfzOdMwLqm9SFs2",
-      "id": 34
+      ]
     },
     {
-      "Cargo": "Viceministro de Desarrollo Productivo Minero",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "recgvNUebiHDy7aXX",
+      "cargo": "Viceministro de Desarrollo Productivo Minero",
+      "desde": "2020-11-21",
+      "entidad": [
         "recqopKr2f4iXn6AA"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recBDsZkIwOzSXFzp"
       ],
-      "Persona": [
+      "id": 49,
+      "persona": [
         "reco7pqU1VHk9vIix"
-      ],
-      "airtableId": "recgvNUebiHDy7aXX",
-      "id": 49
+      ]
     },
     {
-      "Cargo": "Viceministro de Trabajo y Previsión Social",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "rechLVAC9mH7pjkcL",
+      "cargo": "Viceministro de Trabajo y Previsión Social",
+      "desde": "2020-11-17",
+      "entidad": [
         "recrExqP0j4MOzgPo"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recCTAFIGAO3J9POd"
       ],
-      "Persona": [
+      "id": 30,
+      "persona": [
         "recpnx6iZZHO0HSxl"
-      ],
-      "airtableId": "rechLVAC9mH7pjkcL",
-      "id": 30
+      ]
     },
     {
-      "Cargo": "Director General Ejecutivo del Senape (Servicio Nacional de Patrimonio del Estado)",
-      "Desde": "2020-11-20",
-      "Entidad": [
+      "airtableId": "recio0kFx9eRUaPRg",
+      "cargo": "Director General Ejecutivo del Senape (Servicio Nacional de Patrimonio del Estado)",
+      "desde": "2020-11-20",
+      "entidad": [
         "recshCaSo6BwjqLuT"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recDwFpL4nlNe0ktI"
       ],
-      "Persona": [
+      "id": 38,
+      "persona": [
         "recq0CQlnMeyvyncQ"
-      ],
-      "airtableId": "recio0kFx9eRUaPRg",
-      "id": 38
+      ]
     },
     {
-      "Cargo": "Viceministro de Defensa Civil",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "recjexOdVpN5o2MtL",
+      "cargo": "Viceministro de Defensa Civil",
+      "desde": "2020-11-13",
+      "entidad": [
         "rect79EqMmaKNiI6o"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recEmcTjsDU1ISh5d"
       ],
-      "Persona": [
+      "id": 14,
+      "persona": [
         "recrQ9kTL2NMZqkOl"
-      ],
-      "airtableId": "recjexOdVpN5o2MtL",
-      "id": 14
+      ]
     },
     {
-      "Cargo": "Directora Ejecutiva del SEA (Servicio Estatal de Autonomías)",
-      "Desde": "2020-11-24",
-      "Entidad": [
+      "airtableId": "reckZMgID1FCmyh1M",
+      "cargo": "Directora Ejecutiva del SEA (Servicio Estatal de Autonomías)",
+      "desde": "2020-11-24",
+      "entidad": [
         "recuSo6VuY2hLOdEp"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recF7rlOafMyGoMDe"
       ],
-      "Persona": [
+      "id": 61,
+      "persona": [
         "recsBoMotEFjXWPmm"
-      ],
-      "airtableId": "reckZMgID1FCmyh1M",
-      "id": 61
+      ]
     },
     {
-      "Cargo": "Viceministro de Agua Potable y Saneamiento Básico",
-      "Desde": "2020-11-27",
-      "Entidad": [
+      "airtableId": "recmFfU2YPNzG2m1T",
+      "cargo": "Viceministro de Agua Potable y Saneamiento Básico",
+      "desde": "2020-11-27",
+      "entidad": [
         "recINHhColXLVHKEP"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recU7jDzpM1ensCB1"
       ],
-      "Persona": [
+      "id": 67,
+      "persona": [
         "reczQmXFbWFxxep2b"
-      ],
-      "airtableId": "recmFfU2YPNzG2m1T",
-      "id": 67
+      ]
     },
     {
-      "Cargo": "Viceministro de Descolonización",
-      "Desde": "2020-11-13",
-      "Entidad": [
+      "airtableId": "reco6N1CFBdVnWDgy",
+      "cargo": "Viceministro de Descolonización",
+      "desde": "2020-11-13",
+      "entidad": [
         "recyZpRPwyAAMczTb"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recJes6IcPkRHM8S0"
       ],
-      "Hasta": "2020-11-20",
-      "Persona": [
+      "hasta": "2020-11-20",
+      "id": 9,
+      "persona": [
         "recwIpxivedCYkbB8"
       ],
-      "Succesora": [
+      "sucesora": [
         "rec6N2HNTBByviXYS"
-      ],
-      "airtableId": "reco6N1CFBdVnWDgy",
-      "id": 9
+      ]
     },
     {
-      "Cargo": "Viceministro de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos",
-      "Desde": "2020-11-23",
-      "Entidad": [
+      "airtableId": "recpaIpiUsmPRpcvD",
+      "cargo": "Viceministro de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos",
+      "desde": "2020-11-23",
+      "entidad": [
         "recz3kfvLpJugF88g"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recKinuorGtLbfH75"
       ],
-      "Persona": [
+      "id": 55,
+      "persona": [
         "recxMkVYK5mwsNKQd"
-      ],
-      "airtableId": "recpaIpiUsmPRpcvD",
-      "id": 55
+      ]
     },
     {
-      "Cargo": "Comandante General de la Armada",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "recpbIDze6l3No8Xr",
+      "cargo": "Comandante General de la Armada",
+      "desde": "2020-11-17",
+      "entidad": [
         "recz4ktM53IIcE4A4"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recKjnIFLksZ7eDzT"
       ],
-      "Persona": [
+      "id": 23,
+      "persona": [
         "recxNk9f4JlKoMGi1"
-      ],
-      "airtableId": "recpbIDze6l3No8Xr",
-      "id": 23
+      ]
     },
     {
-      "Cargo": "Gerente General de ENTEL (Empresa Nacional de Telecomunicaciones)",
-      "Desde": "2020-11-27",
-      "Entidad": [
+      "airtableId": "recplry7wQgzs40Pp",
+      "cargo": "Gerente General de ENTEL (Empresa Nacional de Telecomunicaciones)",
+      "desde": "2020-11-27",
+      "entidad": [
         "recvV6W1W8KsG5eJw"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recvkcBjR6sHcOH5E"
       ],
-      "Persona": [
+      "id": 70,
+      "persona": [
         "recdWV1XwyBsqt7is"
-      ],
-      "airtableId": "recplry7wQgzs40Pp",
-      "id": 70
+      ]
     },
     {
-      "Cargo": "Viceministro de Coordinación con Movimientos Sociales",
-      "Desde": "2020-11-12",
-      "Entidad": [
+      "airtableId": "recq4zRxdRCg1FaKp",
+      "cargo": "Viceministro de Coordinación con Movimientos Sociales",
+      "desde": "2020-11-12",
+      "entidad": [
         "recAXbHK4OZVqV6n2"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recLceWDK5JclvFmR"
       ],
-      "Persona": [
+      "id": 1,
+      "persona": [
         "recyGbnd3uCXC3I5Z"
-      ],
-      "airtableId": "recq4zRxdRCg1FaKp",
-      "id": 1
+      ]
     },
     {
-      "Cargo": "Directora de la UIF (Unidad de Investigaciones Financieras)",
-      "Desde": "2020-11-27",
-      "Entidad": [
+      "airtableId": "recqRdFZXznk5dCyt",
+      "cargo": "Directora de la UIF (Unidad de Investigaciones Financieras)",
+      "desde": "2020-11-27",
+      "entidad": [
         "recrwF4xEjfVleKFU"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "rechIaZ7EqntT1Mm7"
       ],
-      "Persona": [
+      "id": 65,
+      "persona": [
         "rec4uyYbo1rrxikqd"
-      ],
-      "airtableId": "recqRdFZXznk5dCyt",
-      "id": 65
+      ]
     },
     {
-      "Cargo": "Gerente General de la Gestora Pública de la Seguridad Social de Largo Plazo",
-      "Desde": "2020-11-25",
-      "Entidad": [
+      "airtableId": "recrJYbjvZmSRCnEg",
+      "cargo": "Gerente General de la Gestora Pública de la Seguridad Social de Largo Plazo",
+      "desde": "2020-11-25",
+      "entidad": [
         "recsG84XJ2a9Ix4xR"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recpHUg0tg3f5oret"
       ],
-      "Persona": [
+      "id": 64,
+      "persona": [
         "rec27Tcxm6ZnVzSdh"
-      ],
-      "airtableId": "recrJYbjvZmSRCnEg",
-      "id": 64
+      ]
     },
     {
-      "Cargo": "Comandante General Accidental del Ejercito",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "rectHWn5WJkv1K2wy",
+      "cargo": "Comandante General Accidental del Ejercito",
+      "desde": "2020-11-17",
+      "entidad": [
         "recDAydiNGHaq0Y9b"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recOPBsbtXrrlAx80"
       ],
-      "Persona": [
+      "id": 21,
+      "persona": [
         "recBjyTLMmkcC8AR8"
-      ],
-      "airtableId": "rectHWn5WJkv1K2wy",
-      "id": 21
+      ]
     },
     {
-      "Cargo": "Director General Ejecutivo de AGETIC",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "rectRPJZLNqMuoQKq",
+      "cargo": "Director General Ejecutivo de AGETIC",
+      "desde": "2020-11-17",
+      "entidad": [
         "recDKrzcCKNrTEMn3"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recOZuO5i1xIOelmS"
       ],
-      "Persona": [
+      "id": 31,
+      "persona": [
         "recBtrfFBqqt5Mo50"
-      ],
-      "airtableId": "rectRPJZLNqMuoQKq",
-      "id": 31
+      ]
     },
     {
-      "Cargo": "Presidente de la Administradora Boliviana de Carreteras (ABC)",
-      "Desde": "2020-11-14",
-      "Entidad": [
+      "airtableId": "rectdQ1Bkzv1uYWeU",
+      "cargo": "Presidente de la Administradora Boliviana de Carreteras (ABC)",
+      "desde": "2020-11-14",
+      "entidad": [
         "recD6sRObwSGTeSRx"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recOlv6HRNCXOOrQm"
       ],
-      "Persona": [
+      "id": 18,
+      "persona": [
         "recBPsxhacvI5muzu"
-      ],
-      "airtableId": "rectdQ1Bkzv1uYWeU",
-      "id": 18
+      ]
     },
     {
-      "Cargo": "Viceministra de Gestión del Sistema Sanitario",
-      "Desde": "2020-11-23",
-      "Entidad": [
+      "airtableId": "recu3JmGxYQ4wCbue",
+      "cargo": "Viceministra de Gestión del Sistema Sanitario",
+      "desde": "2020-11-23",
+      "entidad": [
         "recEWlcToVdJVS77R"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recPborM4cX0QsG6G"
       ],
-      "Persona": [
+      "id": 53,
+      "persona": [
         "recCFlSmnBQL70JPO"
-      ],
-      "airtableId": "recu3JmGxYQ4wCbue",
-      "id": 53
+      ]
     },
     {
-      "Cargo": "Viceministro de Exploración y Explotación de Hidrocarburos",
-      "Desde": "2020-11-27",
-      "Entidad": [
+      "airtableId": "recuCDoC9kxbG3N4J",
+      "cargo": "Viceministro de Exploración y Explotación de Hidrocarburos",
+      "desde": "2020-11-27",
+      "entidad": [
         "recc9MsgaFNLedbUg"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recWu67B9BJP5CjDU"
       ],
-      "Persona": [
+      "id": 71,
+      "persona": [
         "recHssgP4xO5U0AX6"
-      ],
-      "airtableId": "recuCDoC9kxbG3N4J",
-      "id": 71
+      ]
     },
     {
-      "Cargo": "Director Ejecutivo de la UPRE (Unidad de Proyectos Especiales)",
-      "Desde": "2020-11-20",
-      "Entidad": [
+      "airtableId": "recygYart4WLzcsLO",
+      "cargo": "Director Ejecutivo de la UPRE (Unidad de Proyectos Especiales)",
+      "desde": "2020-11-20",
+      "entidad": [
         "recI9A0Ek1jqYsoor"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recToDfx0i3HT2Xng"
       ],
-      "Persona": [
+      "id": 39,
+      "persona": [
         "recGSAG7jHWsaA06o"
-      ],
-      "airtableId": "recygYart4WLzcsLO",
-      "id": 39
+      ]
     },
     {
-      "Cargo": "Director Ejecutivo de la Agencia para el Desarrollo de la Sociedad de la Información en Bolivia -  ADSIB",
-      "Desde": "2020-11-17",
-      "Entidad": [
+      "airtableId": "reczQcJ5egUokq9mv",
+      "cargo": "Director Ejecutivo de la Agencia para el Desarrollo de la Sociedad de la Información en Bolivia -  ADSIB",
+      "desde": "2020-11-17",
+      "entidad": [
         "recJJOzi5dh3JG5Z8"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recUYRObLu1kEgEYX"
       ],
-      "Persona": [
+      "id": 27,
+      "persona": [
         "recHsOfL4TU5VOHH5"
-      ],
-      "airtableId": "reczQcJ5egUokq9mv",
-      "id": 27
+      ]
     },
     {
-      "Cargo": "Director del SERNAP (Servicio Nacional de Áreas Protegidas)",
-      "Desde": "2020-11-21",
-      "Entidad": [
+      "airtableId": "reczb0hVemUSLI006",
+      "cargo": "Director del SERNAP (Servicio Nacional de Áreas Protegidas)",
+      "desde": "2020-11-21",
+      "entidad": [
         "recJ4C785jhxaYWDJ"
       ],
-      "Fuente / tweet": [
+      "fuente": [
         "recUjFm1LA1O5yvCy"
       ],
-      "Persona": [
+      "id": 43,
+      "persona": [
         "recHNCNB4ZUzm6ylG"
-      ],
-      "airtableId": "reczb0hVemUSLI006",
-      "id": 43
+      ]
     }
   ],
-  "Entidades": [
+  "entidades": [
     {
-      "Depende de": [
-        "recsuCxQwrF93G855"
-      ],
-      "Nombre": "Viceministerio de Educación Alternativa y Especial",
-      "Personas en el cargo": [
+      "airtableId": "rec0CateUEsSAWha0",
+      "autoridades": [
         "recQJyD13H5dbGlxn"
       ],
-      "airtableId": "rec0CateUEsSAWha0",
-      "id": 58
-    },
-    {
-      "Depende de": [
-        "recTV9hdUCYs4u19T"
-      ],
-      "Nombre": "Viceministerio de Medio Ambiente, Biodiversidad, Cambios Climáticos y de Gestión y Desarrollo Forestal",
-      "Personas en el cargo": [
-        "recQGiiCKU8RljYpu"
-      ],
-      "airtableId": "rec0zU8PBRvwKzU27",
-      "id": 45
-    },
-    {
-      "Depende de": [
-        "reccX4xvpiziL6dV9"
-      ],
-      "Nombre": "Viceministerio de Autonomías",
-      "Personas en el cargo": [
-        "recSbmgmgqz2jaFtn"
-      ],
-      "airtableId": "rec24Y6z7nWHIqB60",
-      "id": 60
-    },
-    {
-      "Depende de": [
-        "recRiMRkZ9ral1hlk"
-      ],
-      "Nombre": "Viceministerio de Transparencia Institucional y Lucha contra la Corrupción",
-      "Personas en el cargo": [
-        "recStcTu0QSUbytnH"
-      ],
-      "airtableId": "rec2mOJHRNfzAOp0k",
-      "id": 8
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recsuCxQwrF93G855"
       ],
-      "Nombre": "Viceministerio de Educación Regular",
-      "Personas en el cargo": [
-        "recVahsQwKvQ9tI3i"
-      ],
-      "airtableId": "rec53Ti3nHSvyJEGV",
-      "id": 56
+      "id": 58,
+      "nombre": "Viceministerio de Educación Alternativa y Especial"
     },
     {
-      "Depende de": [
+      "airtableId": "rec0zU8PBRvwKzU27",
+      "autoridades": [
+        "recQGiiCKU8RljYpu"
+      ],
+      "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
-      "Nombre": "Fondo Nacional de Desarrollo Forestal",
-      "Personas en el cargo": [
+      "id": 45,
+      "nombre": "Viceministerio de Medio Ambiente, Biodiversidad, Cambios Climáticos y de Gestión y Desarrollo Forestal"
+    },
+    {
+      "airtableId": "rec24Y6z7nWHIqB60",
+      "autoridades": [
+        "recSbmgmgqz2jaFtn"
+      ],
+      "dependencia": [
+        "reccX4xvpiziL6dV9"
+      ],
+      "id": 60,
+      "nombre": "Viceministerio de Autonomías"
+    },
+    {
+      "airtableId": "rec2mOJHRNfzAOp0k",
+      "autoridades": [
+        "recStcTu0QSUbytnH"
+      ],
+      "dependencia": [
+        "recRiMRkZ9ral1hlk"
+      ],
+      "id": 8,
+      "nombre": "Viceministerio de Transparencia Institucional y Lucha contra la Corrupción"
+    },
+    {
+      "airtableId": "rec53Ti3nHSvyJEGV",
+      "autoridades": [
+        "recVahsQwKvQ9tI3i"
+      ],
+      "dependencia": [
+        "recsuCxQwrF93G855"
+      ],
+      "id": 56,
+      "nombre": "Viceministerio de Educación Regular"
+    },
+    {
+      "airtableId": "rec5MiDjk0fdAT6ZB",
+      "autoridades": [
         "recVTGN6t3SybDamY"
       ],
-      "Sigla": "Fonabosque",
-      "airtableId": "rec5MiDjk0fdAT6ZB",
-      "id": 44
+      "dependencia": [
+        "recTV9hdUCYs4u19T"
+      ],
+      "id": 44,
+      "nombre": "Fondo Nacional de Desarrollo Forestal",
+      "sigla": "Fonabosque"
     },
     {
       "airtableId": "rec6hLDHJ33gjulLJ",
       "id": 90
     },
     {
-      "Depende de": [
+      "airtableId": "rec6hOG1aBXYJnXYZ",
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Planificación del Desarrollo",
-      "airtableId": "rec6hOG1aBXYJnXYZ",
-      "id": 76
+      "id": 76,
+      "nombre": "Ministerio de Planificación del Desarrollo"
     },
     {
-      "Depende de": [
-        "reccX4xvpiziL6dV9"
-      ],
-      "Nombre": "Viceministerio de Coordinación y Gestión Gubernamental",
-      "Personas en el cargo": [
+      "airtableId": "rec73iYathqzow1TW",
+      "autoridades": [
         "recXaG8XCk3UZg5gj"
       ],
-      "airtableId": "rec73iYathqzow1TW",
-      "id": 16
+      "dependencia": [
+        "reccX4xvpiziL6dV9"
+      ],
+      "id": 16,
+      "nombre": "Viceministerio de Coordinación y Gestión Gubernamental"
     },
     {
-      "Depende de": [
-        "recnjo1nbKW3JKsVr"
-      ],
-      "Nombre": "Viceministerio de Cooperativas Mineras",
-      "Personas en el cargo": [
+      "airtableId": "rec7TIcIskE2O4CQr",
+      "autoridades": [
         "recX06mvBnhnpOGdO"
       ],
-      "airtableId": "rec7TIcIskE2O4CQr",
-      "id": 51
+      "dependencia": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "id": 51,
+      "nombre": "Viceministerio de Cooperativas Mineras"
     },
     {
-      "Depende de": [
-        "recdkuR3fetrWHrQf"
-      ],
-      "Nombre": "Viceministerio de la Coca y Desarrollo Integral",
-      "Personas en el cargo": [
+      "airtableId": "rec8iOFKCfnKPhudZ",
+      "autoridades": [
         "recYpcPxLi05q1yAm"
       ],
-      "airtableId": "rec8iOFKCfnKPhudZ",
-      "id": 47
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 47,
+      "nombre": "Viceministerio de la Coca y Desarrollo Integral"
     },
     {
-      "Depende de": [
-        "rec6hOG1aBXYJnXYZ"
-      ],
-      "Nombre": "Fondo Productivo Social",
-      "Personas en el cargo": [
+      "airtableId": "recAJ7vOCTHDlNjuv",
+      "autoridades": [
         "recXeCB6m4Dyzo1HW"
       ],
-      "Sigla": "FPS",
-      "airtableId": "recAJ7vOCTHDlNjuv",
-      "id": 81
+      "dependencia": [
+        "rec6hOG1aBXYJnXYZ"
+      ],
+      "id": 81,
+      "nombre": "Fondo Productivo Social",
+      "sigla": "FPS"
     },
     {
-      "Depende de": [
-        "reccX4xvpiziL6dV9"
-      ],
-      "Nombre": "Viceministerio de Coordinación con Movimientos Sociales",
-      "Personas en el cargo": [
+      "airtableId": "recAXbHK4OZVqV6n2",
+      "autoridades": [
         "recq4zRxdRCg1FaKp"
       ],
-      "airtableId": "recAXbHK4OZVqV6n2",
-      "id": 1
+      "dependencia": [
+        "reccX4xvpiziL6dV9"
+      ],
+      "id": 1,
+      "nombre": "Viceministerio de Coordinación con Movimientos Sociales"
     },
     {
-      "Depende de": [
-        "recKXt5RcXpXXrIyO"
-      ],
-      "Nombre": "Administradora Boliviana de Carreteras",
-      "Personas en el cargo": [
+      "airtableId": "recD6sRObwSGTeSRx",
+      "autoridades": [
         "rectdQ1Bkzv1uYWeU"
       ],
-      "Sigla": "ABC",
-      "airtableId": "recD6sRObwSGTeSRx",
-      "id": 18
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 18,
+      "nombre": "Administradora Boliviana de Carreteras",
+      "sigla": "ABC"
     },
     {
-      "Depende de": [
-        "reccOyt73GJKFfU2z"
-      ],
-      "Nombre": "Ejercito",
-      "Personas en el cargo": [
+      "airtableId": "recDAydiNGHaq0Y9b",
+      "autoridades": [
         "rectHWn5WJkv1K2wy"
       ],
-      "airtableId": "recDAydiNGHaq0Y9b",
-      "id": 21
+      "dependencia": [
+        "reccOyt73GJKFfU2z"
+      ],
+      "id": 21,
+      "nombre": "Ejercito"
     },
     {
-      "Depende de": [
+      "airtableId": "recDI8RDjX6z76J0n",
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Economía y Finanzas Públicas",
-      "airtableId": "recDI8RDjX6z76J0n",
-      "id": 63
+      "id": 63,
+      "nombre": "Ministerio de Economía y Finanzas Públicas"
     },
     {
-      "Depende de": [
-        "reccX4xvpiziL6dV9"
-      ],
-      "Nombre": "Agencia de Gobierno Electrónico y Tecnologías de la Información y Comunicación",
-      "Personas en el cargo": [
+      "airtableId": "recDKrzcCKNrTEMn3",
+      "autoridades": [
         "rectRPJZLNqMuoQKq"
       ],
-      "Sigla": "AGETIC",
-      "airtableId": "recDKrzcCKNrTEMn3",
-      "id": 31
-    },
-    {
-      "Nombre": "Presidencia del Estado",
-      "airtableId": "recDPejejWlgRG7Vc",
-      "id": 65
-    },
-    {
-      "Depende de": [
-        "recuomBcP9OFzwKQi"
-      ],
-      "Nombre": "Viceministerio de Gestión del Sistema Sanitario",
-      "Personas en el cargo": [
-        "recu3JmGxYQ4wCbue"
-      ],
-      "airtableId": "recEWlcToVdJVS77R",
-      "id": 53
-    },
-    {
-      "Nombre": "Vicepresidencia del Estado",
-      "airtableId": "recHi2gYNUwRbBTai",
-      "id": 70
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
-      "Nombre": "Unidad de Proyectos Especiales",
-      "Personas en el cargo": [
+      "id": 31,
+      "nombre": "Agencia de Gobierno Electrónico y Tecnologías de la Información y Comunicación",
+      "sigla": "AGETIC"
+    },
+    {
+      "airtableId": "recDPejejWlgRG7Vc",
+      "id": 65,
+      "nombre": "Presidencia del Estado"
+    },
+    {
+      "airtableId": "recEWlcToVdJVS77R",
+      "autoridades": [
+        "recu3JmGxYQ4wCbue"
+      ],
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 53,
+      "nombre": "Viceministerio de Gestión del Sistema Sanitario"
+    },
+    {
+      "airtableId": "recHi2gYNUwRbBTai",
+      "id": 70,
+      "nombre": "Vicepresidencia del Estado"
+    },
+    {
+      "airtableId": "recI9A0Ek1jqYsoor",
+      "autoridades": [
         "recygYart4WLzcsLO"
       ],
-      "Sigla": "UPRE",
-      "airtableId": "recI9A0Ek1jqYsoor",
-      "id": 39
+      "dependencia": [
+        "reccX4xvpiziL6dV9"
+      ],
+      "id": 39,
+      "nombre": "Unidad de Proyectos Especiales",
+      "sigla": "UPRE"
     },
     {
-      "Depende de": [
-        "recTV9hdUCYs4u19T"
-      ],
-      "Nombre": "Viceministerio de Agua Potable y Saneamiento Básico",
-      "Personas en el cargo": [
+      "airtableId": "recINHhColXLVHKEP",
+      "autoridades": [
         "recmFfU2YPNzG2m1T"
       ],
-      "airtableId": "recINHhColXLVHKEP",
-      "id": 71
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
-      "Nombre": "Servicio Nacional de Áreas Protegidas",
-      "Personas en el cargo": [
-        "reczb0hVemUSLI006"
-      ],
-      "Sigla": "SERNAP",
-      "airtableId": "recJ4C785jhxaYWDJ",
-      "id": 43
+      "id": 71,
+      "nombre": "Viceministerio de Agua Potable y Saneamiento Básico"
     },
     {
-      "Depende de": [
+      "airtableId": "recJ4C785jhxaYWDJ",
+      "autoridades": [
+        "reczb0hVemUSLI006"
+      ],
+      "dependencia": [
+        "recTV9hdUCYs4u19T"
+      ],
+      "id": 43,
+      "nombre": "Servicio Nacional de Áreas Protegidas",
+      "sigla": "SERNAP"
+    },
+    {
+      "airtableId": "recJJOzi5dh3JG5Z8",
+      "autoridades": [
+        "reczQcJ5egUokq9mv"
+      ],
+      "dependencia": [
         "recHi2gYNUwRbBTai"
       ],
-      "Nombre": "Agencia para el Desarrollo de la Sociedad de la Información en Bolivia",
-      "Personas en el cargo": [
-        "reczQcJ5egUokq9mv"
-      ],
-      "Sigla": "ADSIB",
-      "airtableId": "recJJOzi5dh3JG5Z8",
-      "id": 27
+      "id": 27,
+      "nombre": "Agencia para el Desarrollo de la Sociedad de la Información en Bolivia",
+      "sigla": "ADSIB"
     },
     {
-      "Depende de": [
-        "recDI8RDjX6z76J0n"
-      ],
-      "Nombre": "Viceministerio de Tesoro y Crédito Público",
-      "Personas en el cargo": [
+      "airtableId": "recKBA59LTxEdOnBz",
+      "autoridades": [
         "recAIYfWUWaZOyrYW"
       ],
-      "airtableId": "recKBA59LTxEdOnBz",
-      "id": 10
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 10,
+      "nombre": "Viceministerio de Tesoro y Crédito Público"
     },
     {
-      "Depende de": [
-        "recdkuR3fetrWHrQf"
-      ],
-      "Nombre": "Dirección General de la Hoja de Coca e Industrialización",
-      "Personas en el cargo": [
+      "airtableId": "recKWcMsaKwr1hrAj",
+      "autoridades": [
         "recA3AWfjN9MC1vXG"
       ],
-      "airtableId": "recKWcMsaKwr1hrAj",
-      "id": 48
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 48,
+      "nombre": "Dirección General de la Hoja de Coca e Industrialización"
     },
     {
-      "Depende de": [
+      "airtableId": "recKXt5RcXpXXrIyO",
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Obras Públicas, Servicios y Vivienda",
-      "airtableId": "recKXt5RcXpXXrIyO",
-      "id": 67
+      "id": 67,
+      "nombre": "Ministerio de Obras Públicas, Servicios y Vivienda"
     },
     {
-      "Depende de": [
+      "airtableId": "recLfbyCE51KThALH",
+      "autoridades": [
+        "recBmzIpN8E5u1E84"
+      ],
+      "dependencia": [
         "recrEl2V8GSxaSshp"
       ],
-      "Nombre": "Misión de Bolivia ante la ONU",
-      "Personas en el cargo": [
-        "recBmzIpN8E5u1E84"
-      ],
-      "airtableId": "recLfbyCE51KThALH",
-      "id": 32
+      "id": 32,
+      "nombre": "Misión de Bolivia ante la ONU"
     },
     {
-      "Depende de": [
-        "recuomBcP9OFzwKQi"
-      ],
-      "Nombre": "Viceministerio de Seguros de Salud y Gestión del Sistema Único de Salud",
-      "Personas en el cargo": [
+      "airtableId": "recLkMEgOoHgLJkaU",
+      "autoridades": [
         "recBraO3XrkBmtoxh"
       ],
-      "airtableId": "recLkMEgOoHgLJkaU",
-      "id": 54
-    },
-    {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Nombre": "Ministerio de Defensa",
-      "airtableId": "recMG6vay1qsi6aUd",
-      "id": 66
-    },
-    {
-      "Depende de": [
-        "recVWx1zATfZJ6Z5x"
-      ],
-      "Nombre": "Agencia Nacional de Hidrocarburos",
-      "Personas en el cargo": [
-        "recC68zb9RRnYHXUl"
-      ],
-      "Sigla": "ANH",
-      "airtableId": "recMZKpo0Oe2nXTxY",
-      "id": 36
-    },
-    {
-      "Depende de": [
-        "recVWx1zATfZJ6Z5x"
-      ],
-      "Nombre": "Yacimientos Petrolíferos Fiscales Bolivianos",
-      "Personas en el cargo": [
-        "recCFHGv3st69JOKh"
-      ],
-      "Sigla": "YPFB",
-      "airtableId": "recMyjwIUpQLyZKnU",
-      "id": 35
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
-      "Nombre": "Lotería Nacional de Beneficencia y Salubridad",
-      "Personas en el cargo": [
+      "id": 54,
+      "nombre": "Viceministerio de Seguros de Salud y Gestión del Sistema Único de Salud"
+    },
+    {
+      "airtableId": "recMG6vay1qsi6aUd",
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "id": 66,
+      "nombre": "Ministerio de Defensa"
+    },
+    {
+      "airtableId": "recMZKpo0Oe2nXTxY",
+      "autoridades": [
+        "recC68zb9RRnYHXUl"
+      ],
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "id": 36,
+      "nombre": "Agencia Nacional de Hidrocarburos",
+      "sigla": "ANH"
+    },
+    {
+      "airtableId": "recMyjwIUpQLyZKnU",
+      "autoridades": [
+        "recCFHGv3st69JOKh"
+      ],
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "id": 35,
+      "nombre": "Yacimientos Petrolíferos Fiscales Bolivianos",
+      "sigla": "YPFB"
+    },
+    {
+      "airtableId": "recNB343Y7zTT14nC",
+      "autoridades": [
         "rec3FEK8CFNtKW5oO"
       ],
-      "Sigla": "Lonabol",
-      "airtableId": "recNB343Y7zTT14nC",
-      "id": 86
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 86,
+      "nombre": "Lotería Nacional de Beneficencia y Salubridad",
+      "sigla": "Lonabol"
     },
     {
-      "Depende de": [
-        "recVFpQI3U7A124Tu"
-      ],
-      "Nombre": "Viceministerio  de Lucha Contra el Contrabando",
-      "Personas en el cargo": [
+      "airtableId": "recNDgMQZ59sRVlsW",
+      "autoridades": [
         "recDKEWD88MNsFpPj"
       ],
-      "airtableId": "recNDgMQZ59sRVlsW",
-      "id": 28
-    },
-    {
-      "Depende de": [
-        "recDI8RDjX6z76J0n"
-      ],
-      "Nombre": "Impuestos Nacionales",
-      "Personas en el cargo": [
-        "recEGcFGKmfXEqav0"
-      ],
-      "airtableId": "recOzOvTBjCC3G68D",
-      "id": 2
-    },
-    {
-      "Depende de": [
-        "recMG6vay1qsi6aUd"
-      ],
-      "Nombre": "Viceministerio de Defensa y Cooperación al Desarrollo Integral",
-      "Personas en el cargo": [
-        "recG8xE6KeTlikqsb"
-      ],
-      "airtableId": "recQ19ujBbg0HAm5O",
-      "id": 29
-    },
-    {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Nombre": "Ministerio de Justicia",
-      "airtableId": "recRiMRkZ9ral1hlk",
-      "id": 64
-    },
-    {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Nombre": "Policía Boliviana",
-      "Personas en el cargo": [
-        "recHFb3zPcdwNDASK"
-      ],
-      "airtableId": "recRyNTMG9AbcTwvn",
-      "id": 24
-    },
-    {
-      "Depende de": [
-        "recDI8RDjX6z76J0n"
-      ],
-      "Nombre": "Viceministerio de Presupuesto y Contabilidad Fiscal",
-      "Personas en el cargo": [
-        "recIWafKRWQR1vjFM"
-      ],
-      "airtableId": "recSPM5XITdwqLfip",
-      "id": 12
-    },
-    {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Nombre": "Ministerio de Medio Ambiente y Agua",
-      "airtableId": "recTV9hdUCYs4u19T",
-      "id": 75
-    },
-    {
-      "Depende de": [
-        "recRiMRkZ9ral1hlk"
-      ],
-      "Nombre": "Viceministerio de Justicia y Derechos Fundamentales",
-      "Personas en el cargo": [
-        "recJGLbmug7495IyK"
-      ],
-      "airtableId": "recTzn1zlduJylEbn",
-      "id": 5
-    },
-    {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Nombre": "Ministerio de Gobierno",
-      "airtableId": "recVFpQI3U7A124Tu",
-      "id": 69
-    },
-    {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Nombre": "Ministerio de Hidrocárburos",
-      "airtableId": "recVWx1zATfZJ6Z5x",
-      "id": 74
-    },
-    {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Desde": "2020-11-20",
-      "Nombre": "Ministerio de Culturas, Descolonización y Despatriarcalización",
-      "Personas en el cargo": [
-        "recMzFkbm1hX0Sdw9"
-      ],
-      "airtableId": "recWshaodYECp899M",
-      "id": 40
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recVFpQI3U7A124Tu"
       ],
-      "Nombre": "Viceministerio de Régimen Interior y Policía",
-      "Personas en el cargo": [
-        "recME9ztz5dSGXaei"
-      ],
-      "airtableId": "recWxLpGq2Ax5d6RV",
-      "id": 33
+      "id": 28,
+      "nombre": "Viceministerio  de Lucha Contra el Contrabando"
     },
     {
-      "Depende de": [
-        "reccX4xvpiziL6dV9"
+      "airtableId": "recOzOvTBjCC3G68D",
+      "autoridades": [
+        "recEGcFGKmfXEqav0"
       ],
-      "Nombre": "Viceministerio de Comunicación",
-      "Personas en el cargo": [
-        "recP4SZbcqHbkOgzo"
-      ],
-      "airtableId": "recZXuPo3n4QJ4cc1",
-      "id": 3
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
-      "Nombre": "Viceministerio de Pensiones y Servicios Financieros",
-      "Personas en el cargo": [
-        "recP52OuCZ2RCl8hd"
-      ],
-      "airtableId": "recZYEEHtWpw1B4UQ",
-      "id": 13
+      "id": 2,
+      "nombre": "Impuestos Nacionales"
     },
     {
-      "Depende de": [
+      "airtableId": "recQ19ujBbg0HAm5O",
+      "autoridades": [
+        "recG8xE6KeTlikqsb"
+      ],
+      "dependencia": [
+        "recMG6vay1qsi6aUd"
+      ],
+      "id": 29,
+      "nombre": "Viceministerio de Defensa y Cooperación al Desarrollo Integral"
+    },
+    {
+      "airtableId": "recRiMRkZ9ral1hlk",
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "id": 64,
+      "nombre": "Ministerio de Justicia"
+    },
+    {
+      "airtableId": "recRyNTMG9AbcTwvn",
+      "autoridades": [
+        "recHFb3zPcdwNDASK"
+      ],
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "id": 24,
+      "nombre": "Policía Boliviana"
+    },
+    {
+      "airtableId": "recSPM5XITdwqLfip",
+      "autoridades": [
+        "recIWafKRWQR1vjFM"
+      ],
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 12,
+      "nombre": "Viceministerio de Presupuesto y Contabilidad Fiscal"
+    },
+    {
+      "airtableId": "recTV9hdUCYs4u19T",
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "id": 75,
+      "nombre": "Ministerio de Medio Ambiente y Agua"
+    },
+    {
+      "airtableId": "recTzn1zlduJylEbn",
+      "autoridades": [
+        "recJGLbmug7495IyK"
+      ],
+      "dependencia": [
+        "recRiMRkZ9ral1hlk"
+      ],
+      "id": 5,
+      "nombre": "Viceministerio de Justicia y Derechos Fundamentales"
+    },
+    {
+      "airtableId": "recVFpQI3U7A124Tu",
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "id": 69,
+      "nombre": "Ministerio de Gobierno"
+    },
+    {
+      "airtableId": "recVWx1zATfZJ6Z5x",
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "id": 74,
+      "nombre": "Ministerio de Hidrocárburos"
+    },
+    {
+      "airtableId": "recWshaodYECp899M",
+      "autoridades": [
+        "recMzFkbm1hX0Sdw9"
+      ],
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "desde": "2020-11-20",
+      "id": 40,
+      "nombre": "Ministerio de Culturas, Descolonización y Despatriarcalización"
+    },
+    {
+      "airtableId": "recWxLpGq2Ax5d6RV",
+      "autoridades": [
+        "recME9ztz5dSGXaei"
+      ],
+      "dependencia": [
+        "recVFpQI3U7A124Tu"
+      ],
+      "id": 33,
+      "nombre": "Viceministerio de Régimen Interior y Policía"
+    },
+    {
+      "airtableId": "recZXuPo3n4QJ4cc1",
+      "autoridades": [
+        "recP4SZbcqHbkOgzo"
+      ],
+      "dependencia": [
+        "reccX4xvpiziL6dV9"
+      ],
+      "id": 3,
+      "nombre": "Viceministerio de Comunicación"
+    },
+    {
+      "airtableId": "recZYEEHtWpw1B4UQ",
+      "autoridades": [
+        "recP52OuCZ2RCl8hd"
+      ],
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 13,
+      "nombre": "Viceministerio de Pensiones y Servicios Financieros"
+    },
+    {
+      "airtableId": "recZa6mi9G06MfjCI",
+      "autoridades": [
+        "recPhuw5iJDrnZnZ5"
+      ],
+      "dependencia": [
         "recsuCxQwrF93G855"
       ],
-      "Nombre": "Viceministerio de Educación Superior y Formación Profesional",
-      "Personas en el cargo": [
-        "recPhuw5iJDrnZnZ5"
-      ],
-      "airtableId": "recZa6mi9G06MfjCI",
-      "id": 57
+      "id": 57,
+      "nombre": "Viceministerio de Educación Superior y Formación Profesional"
     },
     {
-      "Depende de": [
-        "recWshaodYECp899M"
-      ],
-      "Desde": "2020-11-20",
-      "Nombre": "Viceministerio de Interculturalidad",
-      "Personas en el cargo": [
+      "airtableId": "recZb1824aKt0GCKz",
+      "autoridades": [
         "recPipiPddnOBqG7W"
       ],
-      "airtableId": "recZb1824aKt0GCKz",
-      "id": 42
+      "dependencia": [
+        "recWshaodYECp899M"
+      ],
+      "desde": "2020-11-20",
+      "id": 42,
+      "nombre": "Viceministerio de Interculturalidad"
     },
     {
-      "Depende de": [
+      "airtableId": "recbZDq1W7CX2uEST",
+      "autoridades": [
+        "rec161AO5afiDeIfg"
+      ],
+      "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
-      "Nombre": "Viceministerio de Desarrollo Rural y Agropecuario",
-      "Personas en el cargo": [
-        "rec161AO5afiDeIfg"
-      ],
-      "airtableId": "recbZDq1W7CX2uEST",
-      "id": 25
+      "id": 25,
+      "nombre": "Viceministerio de Desarrollo Rural y Agropecuario"
     },
     {
-      "Depende de": [
-        "recVFpQI3U7A124Tu"
-      ],
-      "Nombre": "Servicio General de Identificación Personal",
-      "Personas en el cargo": [
+      "airtableId": "recc8qv7GXfPHsdUg",
+      "autoridades": [
         "rec2fOFUP0SaichhD"
       ],
-      "Sigla": "SEGIP",
-      "airtableId": "recc8qv7GXfPHsdUg",
-      "id": 26
+      "dependencia": [
+        "recVFpQI3U7A124Tu"
+      ],
+      "id": 26,
+      "nombre": "Servicio General de Identificación Personal",
+      "sigla": "SEGIP"
     },
     {
-      "Depende de": [
-        "recVWx1zATfZJ6Z5x"
-      ],
-      "Nombre": "Viceministerio de Exploración y Explotación de Hidrocarburos",
-      "Personas en el cargo": [
+      "airtableId": "recc9MsgaFNLedbUg",
+      "autoridades": [
         "recuCDoC9kxbG3N4J"
       ],
-      "Sigla": "VEEH",
-      "airtableId": "recc9MsgaFNLedbUg",
-      "id": 88
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "id": 88,
+      "nombre": "Viceministerio de Exploración y Explotación de Hidrocarburos",
+      "sigla": "VEEH"
     },
     {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Nombre": "Fuerzas Armadas",
-      "Personas en el cargo": [
+      "airtableId": "reccOyt73GJKFfU2z",
+      "autoridades": [
         "rec2VWDUcJm5gZYpW"
       ],
-      "airtableId": "reccOyt73GJKFfU2z",
-      "id": 19
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de la Presidencia",
+      "id": 19,
+      "nombre": "Fuerzas Armadas"
+    },
+    {
       "airtableId": "reccX4xvpiziL6dV9",
-      "id": 62
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Desarrollo Rural y Tierras",
-      "airtableId": "recdkuR3fetrWHrQf",
-      "id": 68
+      "id": 62,
+      "nombre": "Ministerio de la Presidencia"
     },
     {
-      "Depende de": [
-        "recDI8RDjX6z76J0n"
+      "airtableId": "recdkuR3fetrWHrQf",
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Autoridad de Fiscalización y Control Social del Juego",
-      "Personas en el cargo": [
+      "id": 68,
+      "nombre": "Ministerio de Desarrollo Rural y Tierras"
+    },
+    {
+      "airtableId": "recejG6jvgHc487Fh",
+      "autoridades": [
         "rec4q4g6EjkxFSb2E"
       ],
-      "Sigla": "AJ",
-      "airtableId": "recejG6jvgHc487Fh",
-      "id": 37
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 37,
+      "nombre": "Autoridad de Fiscalización y Control Social del Juego",
+      "sigla": "AJ"
     },
     {
-      "Depende de": [
+      "airtableId": "recgGEx0KyYdUyTBv",
+      "autoridades": [
+        "rec6N2HNTBByviXYS"
+      ],
+      "dependencia": [
         "recWshaodYECp899M"
       ],
-      "Desde": "2020-11-20",
-      "Nombre": "Viceministerio de Descolonización y Despatriarcalización",
-      "Personas en el cargo": [
-        "rec6N2HNTBByviXYS"
-      ],
-      "airtableId": "recgGEx0KyYdUyTBv",
-      "id": 41
+      "desde": "2020-11-20",
+      "id": 41,
+      "nombre": "Viceministerio de Descolonización y Despatriarcalización"
     },
     {
-      "Depende de": [
-        "rec6hOG1aBXYJnXYZ"
-      ],
-      "Nombre": "Instituto Nacional de Estadísticas",
-      "Personas en el cargo": [
+      "airtableId": "rech7XDeAzomF0c4N",
+      "autoridades": [
         "rec7elN1JC1HgKgra"
       ],
-      "Sigla": "INE",
-      "airtableId": "rech7XDeAzomF0c4N",
-      "id": 46
+      "dependencia": [
+        "rec6hOG1aBXYJnXYZ"
+      ],
+      "id": 46,
+      "nombre": "Instituto Nacional de Estadísticas",
+      "sigla": "INE"
     },
     {
-      "Depende de": [
-        "recDI8RDjX6z76J0n"
-      ],
-      "Nombre": "Aduana Nacional de Bolivia",
-      "Personas en el cargo": [
+      "airtableId": "rechFAJzZePNTzRry",
+      "autoridades": [
         "rec7MYTm8hs8ujVOV"
       ],
-      "airtableId": "rechFAJzZePNTzRry",
-      "id": 59
-    },
-    {
-      "Depende de": [
-        "reccOyt73GJKFfU2z"
-      ],
-      "Nombre": "Fuerza Aérea",
-      "Personas en el cargo": [
-        "rec7SvwCIPN1hz5si"
-      ],
-      "airtableId": "rechL7mPzMaGGP15V",
-      "id": 22
-    },
-    {
-      "Depende de": [
-        "recRiMRkZ9ral1hlk"
-      ],
-      "Nombre": "Viceministerio de Igualdad de Oportunidades",
-      "Personas en el cargo": [
-        "rec7spLwKOoRxEDzP"
-      ],
-      "airtableId": "rechl1BJBLLwWUzcs",
-      "id": 6
-    },
-    {
-      "Depende de": [
-        "recDPejejWlgRG7Vc"
-      ],
-      "Nombre": "Procuraduría General del Estado",
-      "Personas en el cargo": [
-        "rec9Obg5onwXOb3CD"
-      ],
-      "airtableId": "recjHN6ifkTCdrZfg",
-      "id": 15
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
-      "Nombre": "Banco Central de Bolivia",
-      "Personas en el cargo": [
-        "recaAU4C3yRFrXdm8"
-      ],
-      "airtableId": "recktwUPUvekQd9ZL",
-      "id": 4
+      "id": 59,
+      "nombre": "Aduana Nacional de Bolivia"
     },
     {
-      "Depende de": [
+      "airtableId": "rechL7mPzMaGGP15V",
+      "autoridades": [
+        "rec7SvwCIPN1hz5si"
+      ],
+      "dependencia": [
+        "reccOyt73GJKFfU2z"
+      ],
+      "id": 22,
+      "nombre": "Fuerza Aérea"
+    },
+    {
+      "airtableId": "rechl1BJBLLwWUzcs",
+      "autoridades": [
+        "rec7spLwKOoRxEDzP"
+      ],
+      "dependencia": [
+        "recRiMRkZ9ral1hlk"
+      ],
+      "id": 6,
+      "nombre": "Viceministerio de Igualdad de Oportunidades"
+    },
+    {
+      "airtableId": "recjHN6ifkTCdrZfg",
+      "autoridades": [
+        "rec9Obg5onwXOb3CD"
+      ],
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "id": 15,
+      "nombre": "Procuraduría General del Estado"
+    },
+    {
+      "airtableId": "recktwUPUvekQd9ZL",
+      "autoridades": [
+        "recaAU4C3yRFrXdm8"
+      ],
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 4,
+      "nombre": "Banco Central de Bolivia"
+    },
+    {
+      "airtableId": "reckylkCbOWHloSBG",
+      "autoridades": [
+        "recaFJupkRz2W8WY3"
+      ],
+      "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
-      "Nombre": "Viceministerio de Promoción, Vigilancia Epidemiológica y Medicina Tradicional",
-      "Personas en el cargo": [
-        "recaFJupkRz2W8WY3"
-      ],
-      "airtableId": "reckylkCbOWHloSBG",
-      "id": 52
+      "id": 52,
+      "nombre": "Viceministerio de Promoción, Vigilancia Epidemiológica y Medicina Tradicional"
     },
     {
-      "Depende de": [
-        "recMG6vay1qsi6aUd"
-      ],
-      "Nombre": "Viceministerio de Defensa Social y Sustancias Controladas",
-      "Personas en el cargo": [
+      "airtableId": "reclMp9JJAxDwOMsQ",
+      "autoridades": [
         "recbTNjwSDaY7yQPd"
       ],
-      "airtableId": "reclMp9JJAxDwOMsQ",
-      "id": 17
+      "dependencia": [
+        "recMG6vay1qsi6aUd"
+      ],
+      "id": 17,
+      "nombre": "Viceministerio de Defensa Social y Sustancias Controladas"
     },
     {
-      "Depende de": [
-        "recRiMRkZ9ral1hlk"
-      ],
-      "Nombre": "Viceministerio de Defensa de los Derechos del Usuario y Consumidor",
-      "Personas en el cargo": [
+      "airtableId": "recmScKS43bNNi2Dd",
+      "autoridades": [
         "reccZAUFd6O8o260A"
       ],
-      "airtableId": "recmScKS43bNNi2Dd",
-      "id": 7
+      "dependencia": [
+        "recRiMRkZ9ral1hlk"
+      ],
+      "id": 7,
+      "nombre": "Viceministerio de Defensa de los Derechos del Usuario y Consumidor"
     },
     {
-      "Depende de": [
-        "reccOyt73GJKFfU2z"
-      ],
-      "Nombre": "Estado Mayor de las Fuerzas Armadas",
-      "Personas en el cargo": [
+      "airtableId": "recnFUdooZ3Qy5RLU",
+      "autoridades": [
         "recdMinbx2Gb9PV8h"
       ],
-      "airtableId": "recnFUdooZ3Qy5RLU",
-      "id": 20
+      "dependencia": [
+        "reccOyt73GJKFfU2z"
+      ],
+      "id": 20,
+      "nombre": "Estado Mayor de las Fuerzas Armadas"
     },
     {
-      "Depende de": [
+      "airtableId": "recnjo1nbKW3JKsVr",
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Minería",
-      "airtableId": "recnjo1nbKW3JKsVr",
-      "id": 77
+      "id": 77,
+      "nombre": "Ministerio de Minería"
     },
     {
-      "Depende de": [
-        "recnjo1nbKW3JKsVr"
-      ],
-      "Nombre": "Viceministerio de Política Minera, Regulación y Fiscalización",
-      "Personas en el cargo": [
+      "airtableId": "recnyahLF1rpTeWfT",
+      "autoridades": [
         "recdFyryO44KuY0Cg"
       ],
-      "airtableId": "recnyahLF1rpTeWfT",
-      "id": 50
+      "dependencia": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "id": 50,
+      "nombre": "Viceministerio de Política Minera, Regulación y Fiscalización"
     },
     {
-      "Depende de": [
-        "recDI8RDjX6z76J0n"
-      ],
-      "Nombre": "Viceministerio de Política Tributaria",
-      "Personas en el cargo": [
+      "airtableId": "reco2CxoG7bZXeObT",
+      "autoridades": [
         "rece90HbPaOkyYSyg"
       ],
-      "airtableId": "reco2CxoG7bZXeObT",
-      "id": 11
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 11,
+      "nombre": "Viceministerio de Política Tributaria"
     },
     {
-      "Depende de": [
+      "airtableId": "recpsq3ZnIN1y8B5F",
+      "autoridades": [
+        "recfzOdMwLqm9SFs2"
+      ],
+      "dependencia": [
         "recVFpQI3U7A124Tu"
       ],
-      "Nombre": "Viceministerio de Seguridad Ciudadana",
-      "Personas en el cargo": [
-        "recfzOdMwLqm9SFs2"
-      ],
-      "airtableId": "recpsq3ZnIN1y8B5F",
-      "id": 34
+      "id": 34,
+      "nombre": "Viceministerio de Seguridad Ciudadana"
     },
     {
-      "Depende de": [
+      "airtableId": "recqopKr2f4iXn6AA",
+      "autoridades": [
+        "recgvNUebiHDy7aXX"
+      ],
+      "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
-      "Nombre": "Viceministerio de Desarrollo Productivo Minero",
-      "Personas en el cargo": [
-        "recgvNUebiHDy7aXX"
-      ],
-      "airtableId": "recqopKr2f4iXn6AA",
-      "id": 49
+      "id": 49,
+      "nombre": "Viceministerio de Desarrollo Productivo Minero"
     },
     {
-      "Depende de": [
+      "airtableId": "recrEl2V8GSxaSshp",
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Relaciones Exteriores",
-      "airtableId": "recrEl2V8GSxaSshp",
-      "id": 73
+      "id": 73,
+      "nombre": "Ministerio de Relaciones Exteriores"
     },
     {
-      "Depende de": [
+      "airtableId": "recrExqP0j4MOzgPo",
+      "autoridades": [
+        "rechLVAC9mH7pjkcL"
+      ],
+      "dependencia": [
         "recyMpkgqj37VCj7M"
       ],
-      "Nombre": "Viceministerio de Trabajo y Previsión Social",
-      "Personas en el cargo": [
-        "rechLVAC9mH7pjkcL"
-      ],
-      "airtableId": "recrExqP0j4MOzgPo",
-      "id": 30
+      "id": 30,
+      "nombre": "Viceministerio de Trabajo y Previsión Social"
     },
     {
-      "Depende de": [
-        "recDI8RDjX6z76J0n"
-      ],
-      "Nombre": "Unidad de Investigaciones Financieras",
-      "Personas en el cargo": [
+      "airtableId": "recrwF4xEjfVleKFU",
+      "autoridades": [
         "recqRdFZXznk5dCyt"
       ],
-      "Sigla": "UIF",
-      "airtableId": "recrwF4xEjfVleKFU",
-      "id": 83
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
-      "Nombre": "Gestora Pública de la Seguridad Social de Largo Plazo",
-      "Personas en el cargo": [
+      "id": 83,
+      "nombre": "Unidad de Investigaciones Financieras",
+      "sigla": "UIF"
+    },
+    {
+      "airtableId": "recsG84XJ2a9Ix4xR",
+      "autoridades": [
         "recrJYbjvZmSRCnEg"
       ],
-      "airtableId": "recsG84XJ2a9Ix4xR",
-      "id": 82
-    },
-    {
-      "Depende de": [
+      "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
-      "Nombre": "Servicio Nacional de Patrimonio del Estado",
-      "Personas en el cargo": [
+      "id": 82,
+      "nombre": "Gestora Pública de la Seguridad Social de Largo Plazo"
+    },
+    {
+      "airtableId": "recshCaSo6BwjqLuT",
+      "autoridades": [
         "recio0kFx9eRUaPRg"
       ],
-      "Sigla": "Senape",
-      "airtableId": "recshCaSo6BwjqLuT",
-      "id": 38
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 38,
+      "nombre": "Servicio Nacional de Patrimonio del Estado",
+      "sigla": "Senape"
     },
     {
-      "Depende de": [
+      "airtableId": "recsuCxQwrF93G855",
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Educación",
-      "airtableId": "recsuCxQwrF93G855",
-      "id": 79
+      "id": 79,
+      "nombre": "Ministerio de Educación"
     },
     {
-      "Depende de": [
+      "airtableId": "rect79EqMmaKNiI6o",
+      "autoridades": [
+        "recjexOdVpN5o2MtL"
+      ],
+      "dependencia": [
         "recMG6vay1qsi6aUd"
       ],
-      "Nombre": "Viceministerio de Defensa Civil",
-      "Personas en el cargo": [
-        "recjexOdVpN5o2MtL"
-      ],
-      "airtableId": "rect79EqMmaKNiI6o",
-      "id": 14
+      "id": 14,
+      "nombre": "Viceministerio de Defensa Civil"
     },
     {
-      "Depende de": [
-        "recRiMRkZ9ral1hlk"
-      ],
-      "Nombre": "Servicio Plurinacional de la Mujer y la Despatriarcalización \"Ana María Romero\"",
-      "Personas en el cargo": [
+      "airtableId": "recuS9p6tAC2qIcSz",
+      "autoridades": [
         "rec7s9R6JgKqZyXMr"
       ],
-      "Sigla": "Sepmud",
-      "airtableId": "recuS9p6tAC2qIcSz",
-      "id": 84
+      "dependencia": [
+        "recRiMRkZ9ral1hlk"
+      ],
+      "id": 84,
+      "nombre": "Servicio Plurinacional de la Mujer y la Despatriarcalización \"Ana María Romero\"",
+      "sigla": "Sepmud"
     },
     {
-      "Depende de": [
+      "airtableId": "recuSo6VuY2hLOdEp",
+      "autoridades": [
+        "reckZMgID1FCmyh1M"
+      ],
+      "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
-      "Nombre": "Servicio Estatal de Autonomías",
-      "Personas en el cargo": [
-        "reckZMgID1FCmyh1M"
-      ],
-      "Sigla": "SEA",
-      "airtableId": "recuSo6VuY2hLOdEp",
-      "id": 61
+      "id": 61,
+      "nombre": "Servicio Estatal de Autonomías",
+      "sigla": "SEA"
     },
     {
-      "Depende de": [
+      "airtableId": "recuomBcP9OFzwKQi",
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Salud",
-      "airtableId": "recuomBcP9OFzwKQi",
-      "id": 78
+      "id": 78,
+      "nombre": "Ministerio de Salud"
     },
     {
-      "Depende de": [
+      "airtableId": "recvV6W1W8KsG5eJw",
+      "autoridades": [
+        "recplry7wQgzs40Pp"
+      ],
+      "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
-      "Nombre": "Empresa Nacional de Telecomunicaciones",
-      "Personas en el cargo": [
-        "recplry7wQgzs40Pp"
-      ],
-      "Sigla": "Entel-Bolivia",
-      "airtableId": "recvV6W1W8KsG5eJw",
-      "id": 87
+      "id": 87,
+      "nombre": "Empresa Nacional de Telecomunicaciones",
+      "sigla": "Entel-Bolivia"
     },
     {
-      "Depende de": [
+      "airtableId": "recyMpkgqj37VCj7M",
+      "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
-      "Nombre": "Ministerio de Trabajo",
-      "airtableId": "recyMpkgqj37VCj7M",
-      "id": 72
+      "id": 72,
+      "nombre": "Ministerio de Trabajo"
     },
     {
-      "Depende de": [
+      "airtableId": "recyZpRPwyAAMczTb",
+      "autoridades": [
+        "reco6N1CFBdVnWDgy"
+      ],
+      "dependencia": [
         "recRiMRkZ9ral1hlk"
       ],
-      "Hasta": "2020-11-20",
-      "Nombre": "Viceministerio de Descolonización",
-      "Personas en el cargo": [
-        "reco6N1CFBdVnWDgy"
-      ],
-      "Remplazada por": [
+      "hasta": "2020-11-20",
+      "id": 9,
+      "nombre": "Viceministerio de Descolonización",
+      "sucesora": [
         "recgGEx0KyYdUyTBv"
-      ],
-      "airtableId": "recyZpRPwyAAMczTb",
-      "id": 9
+      ]
     },
     {
-      "Depende de": [
-        "recVWx1zATfZJ6Z5x"
-      ],
-      "Nombre": "Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos",
-      "Personas en el cargo": [
+      "airtableId": "recz3kfvLpJugF88g",
+      "autoridades": [
         "recpaIpiUsmPRpcvD"
       ],
-      "airtableId": "recz3kfvLpJugF88g",
-      "id": 55
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "id": 55,
+      "nombre": "Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos"
     },
     {
-      "Depende de": [
+      "airtableId": "recz4ktM53IIcE4A4",
+      "autoridades": [
+        "recpbIDze6l3No8Xr"
+      ],
+      "dependencia": [
         "reccOyt73GJKFfU2z"
       ],
-      "Nombre": "Armada",
-      "Personas en el cargo": [
-        "recpbIDze6l3No8Xr"
-      ],
-      "airtableId": "recz4ktM53IIcE4A4",
-      "id": 23
+      "id": 23,
+      "nombre": "Armada"
     },
     {
-      "Depende de": [
+      "airtableId": "reczDRfj7RzcIwK3w",
+      "autoridades": [
+        "recR1NSGyn44FG6iq"
+      ],
+      "dependencia": [
         "rec6hOG1aBXYJnXYZ"
       ],
-      "Nombre": "Fondo Nacional de Desarrollo Regional",
-      "Personas en el cargo": [
-        "recR1NSGyn44FG6iq"
-      ],
-      "Sigla": "FNDR",
-      "airtableId": "reczDRfj7RzcIwK3w",
-      "id": 80
+      "id": 80,
+      "nombre": "Fondo Nacional de Desarrollo Regional",
+      "sigla": "FNDR"
     },
     {
-      "Depende de": [
+      "airtableId": "reczz5xCwbq6m6S26",
+      "autoridades": [
+        "recHxfSAKalYuhilJ"
+      ],
+      "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
-      "Desde": "2020-11-27",
-      "Nombre": "Viceministerio de Altas Tecnologías Energéticas",
-      "Personas en el cargo": [
-        "recHxfSAKalYuhilJ"
-      ],
-      "Sigla": "VATE",
-      "airtableId": "reczz5xCwbq6m6S26",
-      "id": 89
+      "desde": "2020-11-27",
+      "id": 89,
+      "nombre": "Viceministerio de Altas Tecnologías Energéticas",
+      "sigla": "VATE"
     }
   ],
-  "Links": [
+  "fuentes": [
     {
-      "Autoridad": [
+      "airtableId": "rec1gcJchs0hCaV4D",
+      "autoridad": [
         "recG8xE6KeTlikqsb"
       ],
-      "Fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328732088783302658",
-      "airtableId": "rec1gcJchs0hCaV4D",
-      "id": 29
+      "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
+      "id": 29,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328732088783302658"
     },
     {
-      "Autoridad": [
+      "airtableId": "rec2NQ8Fmqks7t5uc",
+      "autoridad": [
         "recHFb3zPcdwNDASK"
       ],
-      "Fuente": "https://eldeber.com.bo/pais/arce-pide-institucionalizar-la-policia-que-no-vaya-contra-un-gobierno-democratico-y-que-recupere-la-_208944",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328623491487293440",
-      "airtableId": "rec2NQ8Fmqks7t5uc",
-      "id": 24
+      "fuente": "https://eldeber.com.bo/pais/arce-pide-institucionalizar-la-policia-que-no-vaya-contra-un-gobierno-democratico-y-que-recupere-la-_208944",
+      "id": 24,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328623491487293440"
     },
     {
-      "Autoridad": [
+      "airtableId": "rec34PkQoaXNllOhe",
+      "autoridad": [
         "recIWafKRWQR1vjFM"
       ],
-      "Fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327095981566009344",
-      "airtableId": "rec34PkQoaXNllOhe",
-      "id": 12
+      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
+      "id": 12,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327095981566009344"
     },
     {
-      "Autoridad": [
+      "airtableId": "rec3l4QUvbtMNTDay",
+      "autoridad": [
         "recHxfSAKalYuhilJ"
       ],
-      "Fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1332645202633297920/photo/1",
-      "airtableId": "rec3l4QUvbtMNTDay",
-      "id": 71
+      "fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
+      "id": 71,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332645202633297920/photo/1"
     },
     {
-      "Autoridad": [
+      "airtableId": "rec4Oqgs1ue0tVdac",
+      "autoridad": [
         "recJGLbmug7495IyK"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327050453197189120",
-      "airtableId": "rec4Oqgs1ue0tVdac",
-      "id": 5
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "id": 5,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327050453197189120"
     },
     {
-      "Autoridad": [
+      "airtableId": "rec7HkphTfoTkII8B",
+      "autoridad": [
         "recMzFkbm1hX0Sdw9"
       ],
-      "Fuente": "https://www.facebook.com/LuchoXBolivia/videos/393791228497070",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329877215971074056",
-      "airtableId": "rec7HkphTfoTkII8B",
-      "id": 40
+      "fuente": "https://www.facebook.com/LuchoXBolivia/videos/393791228497070",
+      "id": 40,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329877215971074056"
     },
     {
-      "Autoridad": [
+      "airtableId": "rec7MOEz6jkO0NFQK",
+      "autoridad": [
         "recME9ztz5dSGXaei"
       ],
-      "Fuente": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329581820015472641",
-      "airtableId": "rec7MOEz6jkO0NFQK",
-      "id": 33
+      "fuente": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
+      "id": 33,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329581820015472641"
     },
     {
-      "Autoridad": [
+      "airtableId": "recAHtiS3ZxitIa4u",
+      "autoridad": [
         "recfzOdMwLqm9SFs2"
       ],
-      "Fuente": "https://twitter.com/Canal_BoliviaTV/status/1329567594328842241",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329582969800040448",
-      "airtableId": "recAHtiS3ZxitIa4u",
-      "id": 34
+      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1329567594328842241",
+      "id": 34,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329582969800040448"
     },
     {
-      "Autoridad": [
+      "airtableId": "recBDsZkIwOzSXFzp",
+      "autoridad": [
         "recgvNUebiHDy7aXX"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330119773137620995",
-      "airtableId": "recBDsZkIwOzSXFzp",
-      "id": 49
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
+      "id": 49,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330119773137620995"
     },
     {
-      "Autoridad": [
+      "airtableId": "recCTAFIGAO3J9POd",
+      "autoridad": [
         "rechLVAC9mH7pjkcL"
       ],
-      "Fuente": "https://correodelsur.com/politica/20201117_victor-quispe-es-el-nuevo-viceministro-de-trabajo-y-prevision-social.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328782274796675074",
-      "airtableId": "recCTAFIGAO3J9POd",
-      "id": 30
+      "fuente": "https://correodelsur.com/politica/20201117_victor-quispe-es-el-nuevo-viceministro-de-trabajo-y-prevision-social.html",
+      "id": 30,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328782274796675074"
     },
     {
-      "Autoridad": [
+      "airtableId": "recDReYqE3afKHqLC",
+      "autoridad": [
         "rec3FEK8CFNtKW5oO"
       ],
-      "Fuente": "https://noticiasporelmundo.com/bolivia/posesionan-a-nelida-acuna-como-directora-de-la-loteria-nacional-noticias-bolivia",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1332615212789346305",
-      "airtableId": "recDReYqE3afKHqLC",
-      "id": 68
+      "fuente": "https://noticiasporelmundo.com/bolivia/posesionan-a-nelida-acuna-como-directora-de-la-loteria-nacional-noticias-bolivia",
+      "id": 68,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332615212789346305"
     },
     {
-      "Autoridad": [
+      "airtableId": "recDwFpL4nlNe0ktI",
+      "autoridad": [
         "recio0kFx9eRUaPRg"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329706323890622469",
-      "airtableId": "recDwFpL4nlNe0ktI",
-      "id": 38
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
+      "id": 38,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329706323890622469"
     },
     {
-      "Autoridad": [
+      "airtableId": "recEmcTjsDU1ISh5d",
+      "autoridad": [
         "recjexOdVpN5o2MtL"
       ],
-      "Fuente": "https://www.la-razon.com/nacional/2020/11/12/el-exministro-juan-carlos-calvimontes-nuevo-viceministro-de-defensa-civil/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1327169942895128576",
-      "airtableId": "recEmcTjsDU1ISh5d",
-      "id": 14
+      "fuente": "https://www.la-razon.com/nacional/2020/11/12/el-exministro-juan-carlos-calvimontes-nuevo-viceministro-de-defensa-civil/",
+      "id": 14,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327169942895128576"
     },
     {
-      "Autoridad": [
+      "airtableId": "recF7rlOafMyGoMDe",
+      "autoridad": [
         "reckZMgID1FCmyh1M"
       ],
-      "Fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331358805590937600",
-      "airtableId": "recF7rlOafMyGoMDe",
-      "id": 61
+      "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
+      "id": 61,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331358805590937600"
     },
     {
-      "Autoridad": [
+      "airtableId": "recIPWKtOvEglfvnt",
+      "autoridad": [
         "recXeCB6m4Dyzo1HW"
       ],
-      "Fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331629723793944576",
-      "airtableId": "recIPWKtOvEglfvnt",
-      "id": 63
+      "fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
+      "id": 63,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331629723793944576"
     },
     {
-      "Autoridad": [
+      "airtableId": "recJes6IcPkRHM8S0",
+      "autoridad": [
         "reco6N1CFBdVnWDgy"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327093489939714049",
-      "airtableId": "recJes6IcPkRHM8S0",
-      "id": 9
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "id": 9,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327093489939714049"
     },
     {
-      "Autoridad": [
+      "airtableId": "recKinuorGtLbfH75",
+      "autoridad": [
         "recpaIpiUsmPRpcvD"
       ],
-      "Fuente": "https://twitter.com/vicemincom/status/1330888016215351300",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330915947645898754",
-      "airtableId": "recKinuorGtLbfH75",
-      "id": 55
+      "fuente": "https://twitter.com/vicemincom/status/1330888016215351300",
+      "id": 55,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330915947645898754"
     },
     {
-      "Autoridad": [
+      "airtableId": "recKjnIFLksZ7eDzT",
+      "autoridad": [
         "recpbIDze6l3No8Xr"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328379383762055168",
-      "airtableId": "recKjnIFLksZ7eDzT",
-      "id": 23
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "id": 23,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328379383762055168"
     },
     {
-      "Autoridad": [
+      "airtableId": "recLceWDK5JclvFmR",
+      "autoridad": [
         "recq4zRxdRCg1FaKp"
       ],
-      "Fuente": "https://www.lostiempos.com/actualidad/pais/20201112/gabriela-alcon-es-nueva-viceministra-comunicacion-juan-villca-coordinacion ",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1326993065945526272",
-      "airtableId": "recLceWDK5JclvFmR",
-      "id": 1
+      "fuente": "https://www.lostiempos.com/actualidad/pais/20201112/gabriela-alcon-es-nueva-viceministra-comunicacion-juan-villca-coordinacion ",
+      "id": 1,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1326993065945526272"
     },
     {
-      "Autoridad": [
+      "airtableId": "recOPBsbtXrrlAx80",
+      "autoridad": [
         "rectHWn5WJkv1K2wy"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328378779840942081",
-      "airtableId": "recOPBsbtXrrlAx80",
-      "id": 21
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "id": 21,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328378779840942081"
     },
     {
-      "Autoridad": [
+      "airtableId": "recOZuO5i1xIOelmS",
+      "autoridad": [
         "rectRPJZLNqMuoQKq"
       ],
-      "Fuente": "https://twitter.com/AgeticOficial/status/1328795211288424449",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328798468333318145",
-      "airtableId": "recOZuO5i1xIOelmS",
-      "id": 31
+      "fuente": "https://twitter.com/AgeticOficial/status/1328795211288424449",
+      "id": 31,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328798468333318145"
     },
     {
-      "Autoridad": [
+      "airtableId": "recOlv6HRNCXOOrQm",
+      "autoridad": [
         "rectdQ1Bkzv1uYWeU"
       ],
-      "Fuente": "https://twitter.com/noticiasfides/status/1327386120871620608",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1327390470503346176",
-      "airtableId": "recOlv6HRNCXOOrQm",
-      "id": 18
+      "fuente": "https://twitter.com/noticiasfides/status/1327386120871620608",
+      "id": 18,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327390470503346176"
     },
     {
-      "Autoridad": [
+      "airtableId": "recPborM4cX0QsG6G",
+      "autoridad": [
         "recu3JmGxYQ4wCbue"
       ],
-      "Fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330914758715969542",
-      "airtableId": "recPborM4cX0QsG6G",
-      "id": 53
+      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
+      "id": 53,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330914758715969542"
     },
     {
-      "Autoridad": [
+      "airtableId": "recToDfx0i3HT2Xng",
+      "autoridad": [
         "recygYart4WLzcsLO"
       ],
-      "Fuente": "https://twitter.com/REV0LUCI0N_2006/status/1329844860111687683",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329859533506752512",
-      "airtableId": "recToDfx0i3HT2Xng",
-      "id": 39
+      "fuente": "https://twitter.com/REV0LUCI0N_2006/status/1329844860111687683",
+      "id": 39,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329859533506752512"
     },
     {
-      "Autoridad": [
+      "airtableId": "recU7jDzpM1ensCB1",
+      "autoridad": [
         "recmFfU2YPNzG2m1T"
       ],
-      "Fuente": "https://correodelsur.com/local/20201127_carmelo-valda-a-la-cabeza-del-viceministerio-de-agua.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1332293970752380929",
-      "airtableId": "recU7jDzpM1ensCB1",
-      "id": 67
+      "fuente": "https://correodelsur.com/local/20201127_carmelo-valda-a-la-cabeza-del-viceministerio-de-agua.html",
+      "id": 67,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332293970752380929"
     },
     {
-      "Autoridad": [
+      "airtableId": "recUYRObLu1kEgEYX",
+      "autoridad": [
         "reczQcJ5egUokq9mv"
       ],
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328728947476017154",
-      "airtableId": "recUYRObLu1kEgEYX",
-      "id": 27
+      "id": 27,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328728947476017154"
     },
     {
-      "Autoridad": [
+      "airtableId": "recUjFm1LA1O5yvCy",
+      "autoridad": [
         "reczb0hVemUSLI006"
       ],
-      "Fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330024810269827072",
-      "airtableId": "recUjFm1LA1O5yvCy",
-      "id": 43
+      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
+      "id": 43,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330024810269827072"
     },
     {
-      "Autoridad": [
+      "airtableId": "recVQDk2rahV8oWAo",
+      "autoridad": [
         "recAIYfWUWaZOyrYW"
       ],
-      "Fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327094066505535488",
-      "airtableId": "recVQDk2rahV8oWAo",
-      "id": 10
+      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
+      "id": 10,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327094066505535488"
     },
     {
-      "Autoridad": [
+      "airtableId": "recVbf1lQ1gIWR0z8",
+      "autoridad": [
         "recA3AWfjN9MC1vXG"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330109333426855937",
-      "airtableId": "recVbf1lQ1gIWR0z8",
-      "id": 48
+      "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
+      "id": 48,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330109333426855937"
     },
     {
-      "Autoridad": [
+      "airtableId": "recWu67B9BJP5CjDU",
+      "autoridad": [
         "recuCDoC9kxbG3N4J"
       ],
-      "Fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1332644544677076992/photo/1",
-      "airtableId": "recWu67B9BJP5CjDU",
-      "id": 70
+      "fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
+      "id": 70,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332644544677076992/photo/1"
     },
     {
-      "Autoridad": [
+      "airtableId": "recWueNvkmL1OR9Kw",
+      "autoridad": [
         "recBmzIpN8E5u1E84"
       ],
-      "Fuente": "https://elpais.bo/nacional/20201119_pary-es-designado-como-embajador-ante-la-onu.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329537630204256264",
-      "airtableId": "recWueNvkmL1OR9Kw",
-      "id": 32
+      "fuente": "https://elpais.bo/nacional/20201119_pary-es-designado-como-embajador-ante-la-onu.html",
+      "id": 32,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329537630204256264"
     },
     {
-      "Autoridad": [
+      "airtableId": "recWzPT9uFrxGjT9J",
+      "autoridad": [
         "recBraO3XrkBmtoxh"
       ],
-      "Fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330915174413443079",
-      "airtableId": "recWzPT9uFrxGjT9J",
-      "id": 54
+      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
+      "id": 54,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330915174413443079"
     },
     {
-      "Autoridad": [
+      "airtableId": "recXNmLBAGA2tzjmJ",
+      "autoridad": [
         "recCFHGv3st69JOKh"
       ],
-      "Fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329702895441354752",
-      "airtableId": "recXNmLBAGA2tzjmJ",
-      "id": 35
+      "fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
+      "id": 35,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329702895441354752"
     },
     {
-      "Autoridad": [
+      "airtableId": "recXeNEhG5YjixswN",
+      "autoridad": [
         "recC68zb9RRnYHXUl"
       ],
-      "Fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329704235005599748",
-      "airtableId": "recXeNEhG5YjixswN",
-      "id": 36
+      "fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
+      "id": 36,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329704235005599748"
     },
     {
-      "Autoridad": [
+      "airtableId": "recYSj1JFmTJMvUrL",
+      "autoridad": [
         "recDKEWD88MNsFpPj"
       ],
-      "Fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328731538125623297",
-      "airtableId": "recYSj1JFmTJMvUrL",
-      "id": 28
+      "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
+      "id": 28,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328731538125623297"
     },
     {
-      "Autoridad": [
+      "airtableId": "recZORKMhAmTYgF7s",
+      "autoridad": [
         "recEGcFGKmfXEqav0"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/12/mario-cazon-retorna-la-presidencia-de-impuestos-nacionales-274698.html",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327046912059580421",
-      "airtableId": "recZORKMhAmTYgF7s",
-      "id": 2
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/mario-cazon-retorna-la-presidencia-de-impuestos-nacionales-274698.html",
+      "id": 2,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327046912059580421"
     },
     {
-      "Autoridad": [
+      "airtableId": "recacx4hJEO7EELbQ",
+      "autoridad": [
         "recP4SZbcqHbkOgzo"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/12/gabriela-alcon-es-nombrada-viceministra-de-comunicacion-274688.html",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327047625577820164",
-      "airtableId": "recacx4hJEO7EELbQ",
-      "id": 3
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/gabriela-alcon-es-nombrada-viceministra-de-comunicacion-274688.html",
+      "id": 3,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327047625577820164"
     },
     {
-      "Autoridad": [
+      "airtableId": "recadHTA9d9NWbDTF",
+      "autoridad": [
         "recP52OuCZ2RCl8hd"
       ],
-      "Fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327096732317085696",
-      "airtableId": "recadHTA9d9NWbDTF",
-      "id": 13
+      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
+      "id": 13,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327096732317085696"
     },
     {
-      "Autoridad": [
+      "airtableId": "recap9BbPXKnHPSBx",
+      "autoridad": [
         "recPhuw5iJDrnZnZ5"
       ],
-      "Fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331070387543805953",
-      "airtableId": "recap9BbPXKnHPSBx",
-      "id": 57
+      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
+      "id": 57,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331070387543805953"
     },
     {
-      "Autoridad": [
+      "airtableId": "recaq4nVKruKVgbJo",
+      "autoridad": [
         "recPipiPddnOBqG7W"
       ],
-      "Fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330023229583396864",
-      "airtableId": "recaq4nVKruKVgbJo",
-      "id": 42
+      "fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
+      "id": 42,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330023229583396864"
     },
     {
-      "Autoridad": [
+      "airtableId": "recbM8iBqEtKSgyS1",
+      "autoridad": [
         "recR1NSGyn44FG6iq"
       ],
-      "Fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331629481132429312",
-      "airtableId": "recbM8iBqEtKSgyS1",
-      "id": 62
+      "fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
+      "id": 62,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331629481132429312"
     },
     {
-      "Autoridad": [
+      "airtableId": "recbOXnIh8fNF9t1W",
+      "autoridad": [
         "recQGiiCKU8RljYpu"
       ],
-      "Fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330028460597776385",
-      "airtableId": "recbOXnIh8fNF9t1W",
-      "id": 45
+      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
+      "id": 45,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330028460597776385"
     },
     {
-      "Autoridad": [
+      "airtableId": "recbRdI7AVc9vwQ9P",
+      "autoridad": [
         "recQJyD13H5dbGlxn"
       ],
-      "Fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331071560111837188",
-      "airtableId": "recbRdI7AVc9vwQ9P",
-      "id": 58
+      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
+      "id": 58,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331071560111837188"
     },
     {
-      "Autoridad": [
+      "airtableId": "recdBRYAx4ZQvoYZ9",
+      "autoridad": [
         "recStcTu0QSUbytnH"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327092510678769666",
-      "airtableId": "recdBRYAx4ZQvoYZ9",
-      "id": 8
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "id": 8,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327092510678769666"
     },
     {
-      "Autoridad": [
+      "airtableId": "recdj1lsNEGYD0a5P",
+      "autoridad": [
         "recSbmgmgqz2jaFtn"
       ],
-      "Fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331357554098712576",
-      "airtableId": "recdj1lsNEGYD0a5P",
-      "id": 60
+      "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
+      "id": 60,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331357554098712576"
     },
     {
-      "Autoridad": [
+      "airtableId": "recg1lSc0hZuvtFYq",
+      "autoridad": [
         "recVTGN6t3SybDamY"
       ],
-      "Fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330027410599923714",
-      "airtableId": "recg1lSc0hZuvtFYq",
-      "id": 44
+      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
+      "id": 44,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330027410599923714"
     },
     {
-      "Autoridad": [
+      "airtableId": "recgiWxW3YCMtjdFK",
+      "autoridad": [
         "recVahsQwKvQ9tI3i"
       ],
-      "Fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331069507033567236",
-      "airtableId": "recgiWxW3YCMtjdFK",
-      "id": 56
+      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
+      "id": 56,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331069507033567236"
     },
     {
-      "Autoridad": [
+      "airtableId": "rechIaZ7EqntT1Mm7",
+      "autoridad": [
         "recqRdFZXznk5dCyt"
       ],
-      "Fuente": "https://correodelsur.com/politica/20201126_ana-maria-morales-asume-como-nueva-directora-de-la-uif.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1332235424824233984",
-      "airtableId": "rechIaZ7EqntT1Mm7",
-      "id": 65
+      "fuente": "https://correodelsur.com/politica/20201126_ana-maria-morales-asume-como-nueva-directora-de-la-uif.html",
+      "id": 65,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332235424824233984"
     },
     {
-      "Autoridad": [
+      "airtableId": "reci8LrB8BojJEbPg",
+      "autoridad": [
         "recX06mvBnhnpOGdO"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330120688598982658",
-      "airtableId": "reci8LrB8BojJEbPg",
-      "id": 51
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
+      "id": 51,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330120688598982658"
     },
     {
-      "Autoridad": [
+      "airtableId": "reciild39yaQj6ASL",
+      "autoridad": [
         "recXaG8XCk3UZg5gj"
       ],
-      "Fuente": "https://twitter.com/LaRazon_Bolivia/status/1327322323377119232",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1327332161565896704",
-      "airtableId": "reciild39yaQj6ASL",
-      "id": 16
+      "fuente": "https://twitter.com/LaRazon_Bolivia/status/1327322323377119232",
+      "id": 16,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327332161565896704"
     },
     {
-      "Autoridad": [
+      "airtableId": "recjxRUDiw71KR3cO",
+      "autoridad": [
         "recYpcPxLi05q1yAm"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330108072006721538",
-      "airtableId": "recjxRUDiw71KR3cO",
-      "id": 47
+      "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
+      "id": 47,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330108072006721538"
     },
     {
-      "Autoridad": [
+      "airtableId": "recmeGFUComeX4dRI",
+      "autoridad": [
         "rec161AO5afiDeIfg"
       ],
-      "Fuente": "https://www.atb.com.bo/pol%C3%ADtica/%C3%A1lvaro-mollinedo-fue-posesionado-como-nuevo-viceministro-de-desarrollo-rural-y-agropecuario",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328687269214101504",
-      "airtableId": "recmeGFUComeX4dRI",
-      "id": 25
+      "fuente": "https://www.atb.com.bo/pol%C3%ADtica/%C3%A1lvaro-mollinedo-fue-posesionado-como-nuevo-viceministro-de-desarrollo-rural-y-agropecuario",
+      "id": 25,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328687269214101504"
     },
     {
-      "Autoridad": [
+      "airtableId": "recn3BI0JXt1APt1o",
+      "autoridad": [
         "rec2VWDUcJm5gZYpW"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328377952434855938",
-      "airtableId": "recn3BI0JXt1APt1o",
-      "id": 19
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "id": 19,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328377952434855938"
     },
     {
-      "Autoridad": [
+      "airtableId": "recnntK0meZ6C2MT5",
+      "autoridad": [
         "rec2fOFUP0SaichhD"
       ],
-      "Fuente": "https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328725113118846979",
-      "airtableId": "recnntK0meZ6C2MT5",
-      "id": 26
+      "fuente": "https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/",
+      "id": 26,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328725113118846979"
     },
     {
-      "Autoridad": [
+      "airtableId": "recpHUg0tg3f5oret",
+      "autoridad": [
         "recrJYbjvZmSRCnEg"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/exejecutivo-de-la-afp-prevision-bbva-es-designado-gerente-general-de-la-gestora-publica_210081",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331876258519642112",
-      "airtableId": "recpHUg0tg3f5oret",
-      "id": 64
+      "fuente": "https://eldeber.com.bo/economia/exejecutivo-de-la-afp-prevision-bbva-es-designado-gerente-general-de-la-gestora-publica_210081",
+      "id": 64,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331876258519642112"
     },
     {
-      "Autoridad": [
+      "airtableId": "recpyJlcbxrtZIGE6",
+      "autoridad": [
         "rec4q4g6EjkxFSb2E"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1329705521260220417",
-      "airtableId": "recpyJlcbxrtZIGE6",
-      "id": 37
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
+      "id": 37,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329705521260220417"
     },
     {
-      "Autoridad": [
+      "airtableId": "recrVHMTqPIuP8sAk",
+      "autoridad": [
         "rec6N2HNTBByviXYS"
       ],
-      "Fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330021347007877122",
-      "airtableId": "recrVHMTqPIuP8sAk",
-      "id": 41
+      "fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
+      "id": 41,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330021347007877122"
     },
     {
-      "Autoridad": [
+      "airtableId": "recrrCoEN5J99zGK1",
+      "autoridad": [
         "rec7s9R6JgKqZyXMr"
       ],
-      "Fuente": "https://mobile.twitter.com/canela_cs/status/1332085062242799616",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1332236779076919298",
-      "airtableId": "recrrCoEN5J99zGK1",
-      "id": 66
+      "fuente": "https://mobile.twitter.com/canela_cs/status/1332085062242799616",
+      "id": 66,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332236779076919298"
     },
     {
-      "Autoridad": [
+      "airtableId": "recs0aBIf3UXBpA4K",
+      "autoridad": [
         "rec7SvwCIPN1hz5si"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328379118531059712",
-      "airtableId": "recs0aBIf3UXBpA4K",
-      "id": 22
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "id": 22,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328379118531059712"
     },
     {
-      "Autoridad": [
+      "airtableId": "recsA4QCh2vNRu8bh",
+      "autoridad": [
         "rec7spLwKOoRxEDzP"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327051254019870721",
-      "airtableId": "recsA4QCh2vNRu8bh",
-      "id": 6
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "id": 6,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051254019870721"
     },
     {
-      "Autoridad": [
+      "airtableId": "recsUDYsFvz4O9qqn",
+      "autoridad": [
         "rec7MYTm8hs8ujVOV"
       ],
-      "Fuente": "https://erbol.com.bo/nacional/karina-serrudo-es-la-nueva-presidenta-de-la-aduana-nacional",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1331357450516226052",
-      "airtableId": "recsUDYsFvz4O9qqn",
-      "id": 59
+      "fuente": "https://erbol.com.bo/nacional/karina-serrudo-es-la-nueva-presidenta-de-la-aduana-nacional",
+      "id": 59,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331357450516226052"
     },
     {
-      "Autoridad": [
+      "airtableId": "recsm0S7gQ8DAAL3C",
+      "autoridad": [
         "rec7elN1JC1HgKgra"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/humberto-arandia-claure-juro-como-director-del-ine_209479",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330106235450953733",
-      "airtableId": "recsm0S7gQ8DAAL3C",
-      "id": 46
+      "fuente": "https://eldeber.com.bo/economia/humberto-arandia-claure-juro-como-director-del-ine_209479",
+      "id": 46,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330106235450953733"
     },
     {
-      "Autoridad": [
+      "airtableId": "recuWQlbVBDT81ye5",
+      "autoridad": [
         "rec9Obg5onwXOb3CD"
       ],
-      "Fuente": "https://eldeber.com.bo/pais/wilfredo-chavez-asume-como-procurador-general-del-estado-y-arce-le-encomienda-tres-acciones_208428",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1327170593410650115",
-      "airtableId": "recuWQlbVBDT81ye5",
-      "id": 15
+      "fuente": "https://eldeber.com.bo/pais/wilfredo-chavez-asume-como-procurador-general-del-estado-y-arce-le-encomienda-tres-acciones_208428",
+      "id": 15,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327170593410650115"
     },
     {
-      "Autoridad": [
+      "airtableId": "recvIz9IAMYBLNIYA",
+      "autoridad": [
         "recaAU4C3yRFrXdm8"
       ],
-      "Fuente": "http://erbol.com.bo/nacional/edwin-rojas-ulo-jura-como-nuevo-presidente-del-banco-central-de-bolivia",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327048145554051083",
-      "airtableId": "recvIz9IAMYBLNIYA",
-      "id": 4
+      "fuente": "http://erbol.com.bo/nacional/edwin-rojas-ulo-jura-como-nuevo-presidente-del-banco-central-de-bolivia",
+      "id": 4,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327048145554051083"
     },
     {
-      "Autoridad": [
+      "airtableId": "recvNozvR5GYgYrAv",
+      "autoridad": [
         "recaFJupkRz2W8WY3"
       ],
-      "Fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330914210197499904",
-      "airtableId": "recvNozvR5GYgYrAv",
-      "id": 52
+      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
+      "id": 52,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330914210197499904"
     },
     {
-      "Autoridad": [
+      "airtableId": "recvkcBjR6sHcOH5E",
+      "autoridad": [
         "recplry7wQgzs40Pp"
       ],
-      "Fuente": "https://correodelsur.com/politica/20201127_roy-mendez-retorna-a-la-gerencia-de-entel.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1332616878020288512",
-      "airtableId": "recvkcBjR6sHcOH5E",
-      "id": 69
+      "fuente": "https://correodelsur.com/politica/20201127_roy-mendez-retorna-a-la-gerencia-de-entel.html",
+      "id": 69,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332616878020288512"
     },
     {
-      "Autoridad": [
+      "airtableId": "recw1soCpRhUrolrF",
+      "autoridad": [
         "recbTNjwSDaY7yQPd"
       ],
-      "Fuente": "https://www.paginasiete.bo/seguridad/2020/11/13/jaime-mamani-es-viceministro-de-defensa-social-sustancias-controladas-274813.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1327370051951976449",
-      "airtableId": "recw1soCpRhUrolrF",
-      "id": 17
+      "fuente": "https://www.paginasiete.bo/seguridad/2020/11/13/jaime-mamani-es-viceministro-de-defensa-social-sustancias-controladas-274813.html",
+      "id": 17,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327370051951976449"
     },
     {
-      "Autoridad": [
+      "airtableId": "recx7fZLKkV4ISBC2",
+      "autoridad": [
         "reccZAUFd6O8o260A"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327051769881505792",
-      "airtableId": "recx7fZLKkV4ISBC2",
-      "id": 7
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "id": 7,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051769881505792"
     },
     {
-      "Autoridad": [
+      "airtableId": "recyNdwElibGOOveI",
+      "autoridad": [
         "recdFyryO44KuY0Cg"
       ],
-      "Fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1330120207558438914",
-      "airtableId": "recyNdwElibGOOveI",
-      "id": 50
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
+      "id": 50,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330120207558438914"
     },
     {
-      "Autoridad": [
+      "airtableId": "recyUXsh4gN7tFqKJ",
+      "autoridad": [
         "recdMinbx2Gb9PV8h"
       ],
-      "Fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "Tweet @MAEsBolivia": "https://twitter.com/BoliviaMaes/status/1328378396544561152",
-      "airtableId": "recyUXsh4gN7tFqKJ",
-      "id": 20
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "id": 20,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328378396544561152"
     },
     {
-      "Autoridad": [
+      "airtableId": "reczhFMhmoVgSOnaI",
+      "autoridad": [
         "rece90HbPaOkyYSyg"
       ],
-      "Fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
-      "Tweet @MAEsBolivia": "https://mobile.twitter.com/BoliviaMaes/status/1327095255221612545",
-      "airtableId": "reczhFMhmoVgSOnaI",
-      "id": 11
+      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
+      "id": 11,
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327095255221612545"
     }
   ],
-  "Personas": [
+  "personas": [
     {
-      "Fotos": [
+      "airtableId": "rec05OpaQtSBMW1Ih",
+      "autoridades": [
+        "recStcTu0QSUbytnH"
+      ],
+      "fotos": [
         {
           "filename": "EmrHhuxWMAIuivn.png",
           "id": "attkgTflb6kiJjbSi",
@@ -2684,16 +2688,16 @@
           "url": "https://dl.airtable.com/.attachments/e4dd6e920436147397fc6efe9033b7aa/497f1364/EmrHhuxWMAIuivn.png"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Julia Susana Ríos Laguna",
-      "Personas en el cargo": [
-        "recStcTu0QSUbytnH"
-      ],
-      "airtableId": "rec05OpaQtSBMW1Ih",
-      "id": 8
+      "genero": "Mujer",
+      "id": 8,
+      "nombre": "Julia Susana Ríos Laguna"
     },
     {
-      "Fotos": [
+      "airtableId": "rec0NYM263zJUydOX",
+      "autoridades": [
+        "recSbmgmgqz2jaFtn"
+      ],
+      "fotos": [
         {
           "filename": "EnnrF3zW4AAlIRU.jpeg",
           "id": "attyX29NYvAlVL9U8",
@@ -2719,16 +2723,16 @@
           "url": "https://dl.airtable.com/.attachments/2735e6ce503425dfb9e38cb85c4b91d1/e565ba05/EnnrF3zW4AAlIRU.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "David Pérez",
-      "Personas en el cargo": [
-        "recSbmgmgqz2jaFtn"
-      ],
-      "airtableId": "rec0NYM263zJUydOX",
-      "id": 60
+      "genero": "Hombre",
+      "id": 60,
+      "nombre": "David Pérez"
     },
     {
-      "Fotos": [
+      "airtableId": "rec27Tcxm6ZnVzSdh",
+      "autoridades": [
+        "recrJYbjvZmSRCnEg"
+      ],
+      "fotos": [
         {
           "filename": "f608x342-335582_365305_164.jpeg",
           "id": "attpZF7tKx8Lk0EUN",
@@ -2754,16 +2758,16 @@
           "url": "https://dl.airtable.com/.attachments/c95ce6dbb7f4f565fceb09c10be11fdf/e1609d48/f608x342-335582_365305_164.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Pablo Mauricio Salazar Pérez",
-      "Personas en el cargo": [
-        "recrJYbjvZmSRCnEg"
-      ],
-      "airtableId": "rec27Tcxm6ZnVzSdh",
-      "id": 64
+      "genero": "Hombre",
+      "id": 64,
+      "nombre": "Pablo Mauricio Salazar Pérez"
     },
     {
-      "Fotos": [
+      "airtableId": "rec3MTYwmnvxKRgoS",
+      "autoridades": [
+        "recVahsQwKvQ9tI3i"
+      ],
+      "fotos": [
         {
           "filename": "bartolome.png",
           "id": "attbL7A15GBXc1582",
@@ -2789,16 +2793,16 @@
           "url": "https://dl.airtable.com/.attachments/8e5c0dbf5bc87b452c2e1baf911a933d/a8504331/bartolome.png"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Bartolomé Puma",
-      "Personas en el cargo": [
-        "recVahsQwKvQ9tI3i"
-      ],
-      "airtableId": "rec3MTYwmnvxKRgoS",
-      "id": 56
+      "genero": "Hombre",
+      "id": 56,
+      "nombre": "Bartolomé Puma"
     },
     {
-      "Fotos": [
+      "airtableId": "rec3vijMjGSfM1IHy",
+      "autoridades": [
+        "recVTGN6t3SybDamY"
+      ],
+      "fotos": [
         {
           "filename": "EnTiXPeXEAIPiKu.jpeg",
           "id": "attM6EYgaWo3razyc",
@@ -2824,16 +2828,16 @@
           "url": "https://dl.airtable.com/.attachments/2dbb6c371266a73859143d8f6098a15f/dd1b97b2/EnTiXPeXEAIPiKu.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Adolfo León Rejas",
-      "Personas en el cargo": [
-        "recVTGN6t3SybDamY"
-      ],
-      "airtableId": "rec3vijMjGSfM1IHy",
-      "id": 44
+      "genero": "Hombre",
+      "id": 44,
+      "nombre": "Adolfo León Rejas"
     },
     {
-      "Fotos": [
+      "airtableId": "rec4uyYbo1rrxikqd",
+      "autoridades": [
+        "recqRdFZXznk5dCyt"
+      ],
+      "fotos": [
         {
           "filename": "f33505c3-9c71-4cc0-ae92-24d61a9ceebe.jpeg",
           "id": "attCeNf03dqOPltIV",
@@ -2859,16 +2863,16 @@
           "url": "https://dl.airtable.com/.attachments/65f4ee1fbf02886a2a078ac2ee2eeec9/33769483/f33505c3-9c71-4cc0-ae92-24d61a9ceebe.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Ana María Morales",
-      "Personas en el cargo": [
-        "recqRdFZXznk5dCyt"
-      ],
-      "airtableId": "rec4uyYbo1rrxikqd",
-      "id": 65
+      "genero": "Mujer",
+      "id": 65,
+      "nombre": "Ana María Morales"
     },
     {
-      "Fotos": [
+      "airtableId": "rec5CISbr0h40ceyo",
+      "autoridades": [
+        "recX06mvBnhnpOGdO"
+      ],
+      "fotos": [
         {
           "filename": "EnWJt4_XMAQfonY.jpeg",
           "id": "att8ERQgCSLo5OCPe",
@@ -2877,16 +2881,16 @@
           "url": "https://dl.airtable.com/.attachments/dc05cb2c86d241b617d5954b39c31fe4/35ba2b1a/EnWJt4_XMAQfonY.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Mauricio Guzmán Mujica",
-      "Personas en el cargo": [
-        "recX06mvBnhnpOGdO"
-      ],
-      "airtableId": "rec5CISbr0h40ceyo",
-      "id": 51
+      "genero": "Hombre",
+      "id": 51,
+      "nombre": "Mauricio Guzmán Mujica"
     },
     {
-      "Fotos": [
+      "airtableId": "rec5MiEDsX3BAEDBT",
+      "autoridades": [
+        "recXaG8XCk3UZg5gj"
+      ],
+      "fotos": [
         {
           "filename": "freddy bobaryn.jpeg",
           "id": "attto2cHWzwEkjDna",
@@ -2912,16 +2916,16 @@
           "url": "https://dl.airtable.com/.attachments/a416823eec67efa4688e1e472e6d39e5/cb4291aa/freddybobaryn.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Freddy Martín Bobaryn López",
-      "Personas en el cargo": [
-        "recXaG8XCk3UZg5gj"
-      ],
-      "airtableId": "rec5MiEDsX3BAEDBT",
-      "id": 16
+      "genero": "Hombre",
+      "id": 16,
+      "nombre": "Freddy Martín Bobaryn López"
     },
     {
-      "Fotos": [
+      "airtableId": "rec61OldBV0M1p6VW",
+      "autoridades": [
+        "recYpcPxLi05q1yAm"
+      ],
+      "fotos": [
         {
           "filename": "EnV-PeaXEAA69ql.jpeg",
           "id": "attpKVcQjxzlS8t1T",
@@ -2947,16 +2951,16 @@
           "url": "https://dl.airtable.com/.attachments/16f2c3355cb6bff489a569bedb55bec2/c61945a1/EnV-PeaXEAA69ql.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Rolando Canceno Mamani",
-      "Personas en el cargo": [
-        "recYpcPxLi05q1yAm"
-      ],
-      "airtableId": "rec61OldBV0M1p6VW",
-      "id": 47
+      "genero": "Hombre",
+      "id": 47,
+      "nombre": "Rolando Canceno Mamani"
     },
     {
-      "Fotos": [
+      "airtableId": "rec9ID6uVNfZeCgAQ",
+      "autoridades": [
+        "rec161AO5afiDeIfg"
+      ],
+      "fotos": [
         {
           "filename": "EnBx_wuXEAAhK-P.png",
           "id": "attFR6WeKYNyHAJFJ",
@@ -2982,16 +2986,16 @@
           "url": "https://dl.airtable.com/.attachments/45e8ca2d643d8b76682925711373bdfc/29dde68d/EnBx_wuXEAAhK-P.png"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Álvaro Mollinedo Catari",
-      "Personas en el cargo": [
-        "rec161AO5afiDeIfg"
-      ],
-      "airtableId": "rec9ID6uVNfZeCgAQ",
-      "id": 25
+      "genero": "Hombre",
+      "id": 25,
+      "nombre": "Álvaro Mollinedo Catari"
     },
     {
-      "Fotos": [
+      "airtableId": "recBPsxhacvI5muzu",
+      "autoridades": [
+        "rectdQ1Bkzv1uYWeU"
+      ],
+      "fotos": [
         {
           "filename": "EmvWmMwW8AIItd5.jpeg",
           "id": "att8Y2XPLoIuR113K",
@@ -3017,16 +3021,16 @@
           "url": "https://dl.airtable.com/.attachments/24767312b5e82a84303cb824395ae6c2/0b9fe974/EmvWmMwW8AIItd5.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Henry Nina Calle",
-      "Personas en el cargo": [
-        "rectdQ1Bkzv1uYWeU"
-      ],
-      "airtableId": "recBPsxhacvI5muzu",
-      "id": 18
+      "genero": "Hombre",
+      "id": 18,
+      "nombre": "Henry Nina Calle"
     },
     {
-      "Fotos": [
+      "airtableId": "recBjyTLMmkcC8AR8",
+      "autoridades": [
+        "rectHWn5WJkv1K2wy"
+      ],
+      "fotos": [
         {
           "filename": "Em9YpA_XUAYPVTz.jpeg",
           "id": "attwufesRly067ims",
@@ -3052,16 +3056,16 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Faud Genaro Ramos Espinoza",
-      "Personas en el cargo": [
-        "rectHWn5WJkv1K2wy"
-      ],
-      "airtableId": "recBjyTLMmkcC8AR8",
-      "id": 21
+      "genero": "Hombre",
+      "id": 21,
+      "nombre": "Faud Genaro Ramos Espinoza"
     },
     {
-      "Fotos": [
+      "airtableId": "recBtrfFBqqt5Mo50",
+      "autoridades": [
+        "rectRPJZLNqMuoQKq"
+      ],
+      "fotos": [
         {
           "filename": "EnDTkAPXUAAkuSZ.jpeg",
           "id": "attjQqMADfLGj4LUH",
@@ -3111,16 +3115,16 @@
           "url": "https://dl.airtable.com/.attachments/1c16c3f1b31bb204b99f87b785ca6471/bd57ef32/EnDTkAxW4AAfOhg.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Vladimir Terán Gutiérrez",
-      "Personas en el cargo": [
-        "rectRPJZLNqMuoQKq"
-      ],
-      "airtableId": "recBtrfFBqqt5Mo50",
-      "id": 31
+      "genero": "Hombre",
+      "id": 31,
+      "nombre": "Vladimir Terán Gutiérrez"
     },
     {
-      "Fotos": [
+      "airtableId": "recCFlSmnBQL70JPO",
+      "autoridades": [
+        "recu3JmGxYQ4wCbue"
+      ],
+      "fotos": [
         {
           "filename": "335244.jpeg",
           "id": "attFhVcZeYTEVQI73",
@@ -3170,16 +3174,16 @@
           "url": "https://dl.airtable.com/.attachments/8b824d92a4d89c3d30bbcec8a6c262b0/5b7b5538/Eng-wqmWMAUDPa9.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Alejandra Hidalgo Ugarte",
-      "Personas en el cargo": [
-        "recu3JmGxYQ4wCbue"
-      ],
-      "airtableId": "recCFlSmnBQL70JPO",
-      "id": 53
+      "genero": "Mujer",
+      "id": 53,
+      "nombre": "Alejandra Hidalgo Ugarte"
     },
     {
-      "Fotos": [
+      "airtableId": "recGSAG7jHWsaA06o",
+      "autoridades": [
+        "recygYart4WLzcsLO"
+      ],
+      "fotos": [
         {
           "filename": "EnSO1_GXUAEx01S.jpeg",
           "id": "attlhfM3AOIKbUtf2",
@@ -3229,16 +3233,16 @@
           "url": "https://dl.airtable.com/.attachments/3dfcc65962a4de069b0aea94a48b7ca9/bbaf8d89/EnSO1McXEAg5XQW.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Gonzalo Rodríguez",
-      "Personas en el cargo": [
-        "recygYart4WLzcsLO"
-      ],
-      "airtableId": "recGSAG7jHWsaA06o",
-      "id": 39
+      "genero": "Hombre",
+      "id": 39,
+      "nombre": "Gonzalo Rodríguez"
     },
     {
-      "Fotos": [
+      "airtableId": "recHNCNB4ZUzm6ylG",
+      "autoridades": [
+        "reczb0hVemUSLI006"
+      ],
+      "fotos": [
         {
           "filename": "EnTdOSpXIAMW6jL.jpeg",
           "id": "attXweguCFc9Nl7W6",
@@ -3264,16 +3268,16 @@
           "url": "https://dl.airtable.com/.attachments/202b8f4f44c02231ee61a944c0e2a8d8/cc071d03/EnTdOSpXIAMW6jL.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Teodoro Mamani Ibarra",
-      "Personas en el cargo": [
-        "reczb0hVemUSLI006"
-      ],
-      "airtableId": "recHNCNB4ZUzm6ylG",
-      "id": 43
+      "genero": "Hombre",
+      "id": 43,
+      "nombre": "Teodoro Mamani Ibarra"
     },
     {
-      "Fotos": [
+      "airtableId": "recHsOfL4TU5VOHH5",
+      "autoridades": [
+        "reczQcJ5egUokq9mv"
+      ],
+      "fotos": [
         {
           "filename": "index.jpeg",
           "id": "attFheq93hXrwT30a",
@@ -3299,16 +3303,16 @@
           "url": "https://dl.airtable.com/.attachments/0b5106978cb47cac4422b207694f89b5/f62ccd56/index.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Bladimir Magne Molina",
-      "Personas en el cargo": [
-        "reczQcJ5egUokq9mv"
-      ],
-      "airtableId": "recHsOfL4TU5VOHH5",
-      "id": 27
+      "genero": "Hombre",
+      "id": 27,
+      "nombre": "Bladimir Magne Molina"
     },
     {
-      "Fotos": [
+      "airtableId": "recHssgP4xO5U0AX6",
+      "autoridades": [
+        "recuCDoC9kxbG3N4J"
+      ],
+      "fotos": [
         {
           "filename": "En6A6PWW4AAuyCV.jpeg",
           "id": "attrQx9tN2F66OuN1",
@@ -3334,16 +3338,16 @@
           "url": "https://dl.airtable.com/.attachments/d8761eca20ddb96e18a6735a8552b460/f2675836/En6A6PWW4AAuyCV.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Luis Alberto Poma Calle",
-      "Personas en el cargo": [
-        "recuCDoC9kxbG3N4J"
-      ],
-      "airtableId": "recHssgP4xO5U0AX6",
-      "id": 70
+      "genero": "Hombre",
+      "id": 70,
+      "nombre": "Luis Alberto Poma Calle"
     },
     {
-      "Fotos": [
+      "airtableId": "recIFcsV9q9tdp3ig",
+      "autoridades": [
+        "recA3AWfjN9MC1vXG"
+      ],
+      "fotos": [
         {
           "filename": "viceministros-de-coca_435187480_1140x520.jpeg",
           "id": "attCiGmakkFTW2NAu",
@@ -3369,16 +3373,16 @@
           "url": "https://dl.airtable.com/.attachments/3b698d5d697e1fe8afb67a96442e9880/6c7ef0d4/viceministros-de-coca_435187480_1140x520.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Darío Manrique Choque",
-      "Personas en el cargo": [
-        "recA3AWfjN9MC1vXG"
-      ],
-      "airtableId": "recIFcsV9q9tdp3ig",
-      "id": 48
+      "genero": "Hombre",
+      "id": 48,
+      "nombre": "Darío Manrique Choque"
     },
     {
-      "Fotos": [
+      "airtableId": "recIkALCKzaGpWZjw",
+      "autoridades": [
+        "recAIYfWUWaZOyrYW"
+      ],
+      "fotos": [
         {
           "filename": "EmrI_73XMAEHjGi.png",
           "id": "attL6utwVkdwCTnkK",
@@ -3404,16 +3408,16 @@
           "url": "https://dl.airtable.com/.attachments/28f67e74015fc73031d1caca90b0a083/599e753b/EmrI_73XMAEHjGi.png"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Sergio Armando Cusicanqui Loayza",
-      "Personas en el cargo": [
-        "recAIYfWUWaZOyrYW"
-      ],
-      "airtableId": "recIkALCKzaGpWZjw",
-      "id": 10
+      "genero": "Hombre",
+      "id": 10,
+      "nombre": "Sergio Armando Cusicanqui Loayza"
     },
     {
-      "Fotos": [
+      "airtableId": "recJ3MkJN4kiXRWSR",
+      "autoridades": [
+        "recBraO3XrkBmtoxh"
+      ],
+      "fotos": [
         {
           "filename": "Eng-vIrXEAIJgA8.jpeg",
           "id": "attEoyxLTWRn6BXvq",
@@ -3439,16 +3443,16 @@
           "url": "https://dl.airtable.com/.attachments/c44ba5f4953829ce13f4afaabc392e93/51b7dcca/Eng-vIrXEAIJgA8.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Álvaro Terrazas Pelaez",
-      "Personas en el cargo": [
-        "recBraO3XrkBmtoxh"
-      ],
-      "airtableId": "recJ3MkJN4kiXRWSR",
-      "id": 54
+      "genero": "Hombre",
+      "id": 54,
+      "nombre": "Álvaro Terrazas Pelaez"
     },
     {
-      "Fotos": [
+      "airtableId": "recJYbe5DLEM5pctE",
+      "autoridades": [
+        "recBmzIpN8E5u1E84"
+      ],
+      "fotos": [
         {
           "filename": "EnN3bajW4AAjKgV.jpeg",
           "id": "atttkjzw3oDbWvoPE",
@@ -3474,16 +3478,16 @@
           "url": "https://dl.airtable.com/.attachments/454eb1a10877178ef0fee5a2b1d88612/72595795/EnN3bajW4AAjKgV.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Diego Pary Rodríguez",
-      "Personas en el cargo": [
-        "recBmzIpN8E5u1E84"
-      ],
-      "airtableId": "recJYbe5DLEM5pctE",
-      "id": 32
+      "genero": "Hombre",
+      "id": 32,
+      "nombre": "Diego Pary Rodríguez"
     },
     {
-      "Fotos": [
+      "airtableId": "recKBhFHNYlCUnp86",
+      "autoridades": [
+        "rec3FEK8CFNtKW5oO"
+      ],
+      "fotos": [
         {
           "filename": "nlida-acua-es-la-nueva-directora-de-la-lotera-nacional._159132661_760x520.jpeg",
           "id": "attrpSOzAxBlPdSwL",
@@ -3509,16 +3513,16 @@
           "url": "https://dl.airtable.com/.attachments/d3b656f0e0f33948e067cbd354b55c00/b40b815a/nlida-acua-es-la-nueva-directora-de-la-lotera-nacional._159132661_760x520.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "María Nélida Acuña Segovia",
-      "Personas en el cargo": [
-        "rec3FEK8CFNtKW5oO"
-      ],
-      "airtableId": "recKBhFHNYlCUnp86",
-      "id": 68
+      "genero": "Mujer",
+      "id": 68,
+      "nombre": "María Nélida Acuña Segovia"
     },
     {
-      "Fotos": [
+      "airtableId": "recKIK5RZuR4z5vfV",
+      "autoridades": [
+        "recC68zb9RRnYHXUl"
+      ],
+      "fotos": [
         {
           "filename": "incendio-1024x632.jpeg",
           "id": "attYwtG8NaRz2KPRe",
@@ -3544,16 +3548,16 @@
           "url": "https://dl.airtable.com/.attachments/48baa39c22a748f00a8af63744bde630/718abe47/incendio-1024x632.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Germán Daniel Jiménez Terán",
-      "Personas en el cargo": [
-        "recC68zb9RRnYHXUl"
-      ],
-      "airtableId": "recKIK5RZuR4z5vfV",
-      "id": 36
+      "genero": "Hombre",
+      "id": 36,
+      "nombre": "Germán Daniel Jiménez Terán"
     },
     {
-      "Fotos": [
+      "airtableId": "recKhjcbT5tNK7m5R",
+      "autoridades": [
+        "recCFHGv3st69JOKh"
+      ],
+      "fotos": [
         {
           "filename": "ingeniero-.webp",
           "id": "attZ4OA8qC3rgWqCj",
@@ -3579,16 +3583,16 @@
           "url": "https://dl.airtable.com/.attachments/9a2e2812872782de29ba7a97aab5baff/68726ec5/ingeniero-.webp"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Wilson Felipe Zelaya Prudencio",
-      "Personas en el cargo": [
-        "recCFHGv3st69JOKh"
-      ],
-      "airtableId": "recKhjcbT5tNK7m5R",
-      "id": 35
+      "genero": "Hombre",
+      "id": 35,
+      "nombre": "Wilson Felipe Zelaya Prudencio"
     },
     {
-      "Fotos": [
+      "airtableId": "recLmgsjYLMu33XaT",
+      "autoridades": [
+        "recDKEWD88MNsFpPj"
+      ],
+      "fotos": [
         {
           "filename": "index.jpeg",
           "id": "attBerh6dy1Cceboh",
@@ -3614,16 +3618,16 @@
           "url": "https://dl.airtable.com/.attachments/7654306a505c0d2a9bf6912f1788ed3b/03d876b1/index.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Gonzalo Renán Rodríguez",
-      "Personas en el cargo": [
-        "recDKEWD88MNsFpPj"
-      ],
-      "airtableId": "recLmgsjYLMu33XaT",
-      "id": 28
+      "genero": "Hombre",
+      "id": 28,
+      "nombre": "Gonzalo Renán Rodríguez"
     },
     {
-      "Fotos": [
+      "airtableId": "recMiObmAZfEfOIQA",
+      "autoridades": [
+        "recEGcFGKmfXEqav0"
+      ],
+      "fotos": [
         {
           "filename": "Emqd9-CW4AECqRV.jpeg",
           "id": "attKgwDQ7Xz5U0T3o",
@@ -3649,16 +3653,16 @@
           "url": "https://dl.airtable.com/.attachments/461cbb9284ffd3804f4a5c75aaa2ba8c/d4825ac7/Emqd9-CW4AECqRV.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Mario Cazón Morales",
-      "Personas en el cargo": [
-        "recEGcFGKmfXEqav0"
-      ],
-      "airtableId": "recMiObmAZfEfOIQA",
-      "id": 2
+      "genero": "Hombre",
+      "id": 2,
+      "nombre": "Mario Cazón Morales"
     },
     {
-      "Fotos": [
+      "airtableId": "recOK9aMART2TIYNL",
+      "autoridades": [
+        "recG8xE6KeTlikqsb"
+      ],
+      "fotos": [
         {
           "filename": "ceba6219-f16d-4d56-965e-2a3b7160f326.jpg",
           "id": "attSVNcQtmTgwkAT7",
@@ -3684,16 +3688,16 @@
           "url": "https://dl.airtable.com/.attachments/bb5766b7baa67d27042347cfe455fb40/dd21365c/ceba6219-f16d-4d56-965e-2a3b7160f326.jpg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "José Manuel Puente Guarachi",
-      "Personas en el cargo": [
-        "recG8xE6KeTlikqsb"
-      ],
-      "airtableId": "recOK9aMART2TIYNL",
-      "id": 29
+      "genero": "Hombre",
+      "id": 29,
+      "nombre": "José Manuel Puente Guarachi"
     },
     {
-      "Fotos": [
+      "airtableId": "recPhNzfFPddo18dk",
+      "autoridades": [
+        "recHFb3zPcdwNDASK"
+      ],
+      "fotos": [
         {
           "filename": "4-17.jpg",
           "id": "attXdCbfP4Baa8Vlf",
@@ -3743,16 +3747,16 @@
           "url": "https://dl.airtable.com/.attachments/ec63cb93ab4f3c6e5e06887e88e85a15/6d3eaff3/aguilera.jpg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Máximo Jhonny Aguilera Montecinos",
-      "Personas en el cargo": [
-        "recHFb3zPcdwNDASK"
-      ],
-      "airtableId": "recPhNzfFPddo18dk",
-      "id": 24
+      "genero": "Hombre",
+      "id": 24,
+      "nombre": "Máximo Jhonny Aguilera Montecinos"
     },
     {
-      "Fotos": [
+      "airtableId": "recQyMLqHzQyCTR0m",
+      "autoridades": [
+        "recIWafKRWQR1vjFM"
+      ],
+      "fotos": [
         {
           "filename": "EmrKtm2XYAA6wy1.jpeg",
           "id": "attt4OF6M47iap3K9",
@@ -3778,16 +3782,16 @@
           "url": "https://dl.airtable.com/.attachments/d650a37a2e5c1233ab304e1cbf18d702/1f974410/EmrKtm2XYAA6wy1.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Zenón Pedro Mamani Ticona",
-      "Personas en el cargo": [
-        "recIWafKRWQR1vjFM"
-      ],
-      "airtableId": "recQyMLqHzQyCTR0m",
-      "id": 12
+      "genero": "Hombre",
+      "id": 12,
+      "nombre": "Zenón Pedro Mamani Ticona"
     },
     {
-      "Fotos": [
+      "airtableId": "recRinH2kT7LKtgTk",
+      "autoridades": [
+        "recJGLbmug7495IyK"
+      ],
+      "fotos": [
         {
           "filename": "EmqhLGKXIAIJzjp.png",
           "id": "attCYOgoeaXLMMpbX",
@@ -3813,16 +3817,16 @@
           "url": "https://dl.airtable.com/.attachments/e0ecd4ace149ecf1c3daf3c529d518eb/7861c859/EmqhLGKXIAIJzjp.png"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "César Adalid Siles Bazán",
-      "Personas en el cargo": [
-        "recJGLbmug7495IyK"
-      ],
-      "airtableId": "recRinH2kT7LKtgTk",
-      "id": 5
+      "genero": "Hombre",
+      "id": 5,
+      "nombre": "César Adalid Siles Bazán"
     },
     {
-      "Fotos": [
+      "airtableId": "recUbhQRcEhEBgLRJ",
+      "autoridades": [
+        "recMzFkbm1hX0Sdw9"
+      ],
+      "fotos": [
         {
           "filename": "EnSsQCiXMAEODA5.png",
           "id": "attVEfsjrusOC3J3Y",
@@ -3848,16 +3852,16 @@
           "url": "https://dl.airtable.com/.attachments/657e1c85338b4e055874c3491e77aa7b/6a8c5f6d/EnSsQCiXMAEODA5.png"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Sabina Orellana Cruz",
-      "Personas en el cargo": [
-        "recMzFkbm1hX0Sdw9"
-      ],
-      "airtableId": "recUbhQRcEhEBgLRJ",
-      "id": 40
+      "genero": "Mujer",
+      "id": 40,
+      "nombre": "Sabina Orellana Cruz"
     },
     {
-      "Fotos": [
+      "airtableId": "recUgL59pIdzhlIzS",
+      "autoridades": [
+        "recME9ztz5dSGXaei"
+      ],
+      "fotos": [
         {
           "filename": "EnOfngdXIAA-BQJ.jpeg",
           "id": "attA2DTzW6dcEzEa5",
@@ -3883,16 +3887,16 @@
           "url": "https://dl.airtable.com/.attachments/363c40a8a446899b539dc8f2c6d2c1cf/eaaf6573/EnOfngdXIAA-BQJ.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Emilio Rodas",
-      "Personas en el cargo": [
-        "recME9ztz5dSGXaei"
-      ],
-      "airtableId": "recUgL59pIdzhlIzS",
-      "id": 33
+      "genero": "Hombre",
+      "id": 33,
+      "nombre": "Emilio Rodas"
     },
     {
-      "Fotos": [
+      "airtableId": "recVAwe4aCOFqbkjr",
+      "autoridades": [
+        "recHxfSAKalYuhilJ"
+      ],
+      "fotos": [
         {
           "filename": "En6BtBlXYAAgGw5.png",
           "id": "attQyRd1SVncgz0MW",
@@ -3918,16 +3922,16 @@
           "url": "https://dl.airtable.com/.attachments/8b24ca5620279f1d87bdd12234c5d2eb/4ae2ff9e/En6BtBlXYAAgGw5.png"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Álvaro Hernán Arnez Prado",
-      "Personas en el cargo": [
-        "recHxfSAKalYuhilJ"
-      ],
-      "airtableId": "recVAwe4aCOFqbkjr",
-      "id": 71
+      "genero": "Hombre",
+      "id": 71,
+      "nombre": "Álvaro Hernán Arnez Prado"
     },
     {
-      "Fotos": [
+      "airtableId": "recXGuvR23HSVcOUY",
+      "autoridades": [
+        "recP4SZbcqHbkOgzo"
+      ],
+      "fotos": [
         {
           "filename": "EmqesUUW4AYMgWp.png",
           "id": "attAmFoLMsPcTDZzG",
@@ -3953,16 +3957,16 @@
           "url": "https://dl.airtable.com/.attachments/9b1b8c77541be5de03a1353d870bb0fb/aa4d22e2/EmqesUUW4AYMgWp.png"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Gabriela Alcón Merubia",
-      "Personas en el cargo": [
-        "recP4SZbcqHbkOgzo"
-      ],
-      "airtableId": "recXGuvR23HSVcOUY",
-      "id": 3
+      "genero": "Mujer",
+      "id": 3,
+      "nombre": "Gabriela Alcón Merubia"
     },
     {
-      "Fotos": [
+      "airtableId": "recXHEkasC2ydJGCN",
+      "autoridades": [
+        "recP52OuCZ2RCl8hd"
+      ],
+      "fotos": [
         {
           "filename": "EmrLaYTWEAEXOOx.png",
           "id": "att21IoYGyI8hHsBe",
@@ -3988,16 +3992,16 @@
           "url": "https://dl.airtable.com/.attachments/34835c4d1763df9fb6c92b7ebd776fbe/8fac6779/EmrLaYTWEAEXOOx.png"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Ivette Espinoza Vásquez",
-      "Personas en el cargo": [
-        "recP52OuCZ2RCl8hd"
-      ],
-      "airtableId": "recXHEkasC2ydJGCN",
-      "id": 13
+      "genero": "Mujer",
+      "id": 13,
+      "nombre": "Ivette Espinoza Vásquez"
     },
     {
-      "Fotos": [
+      "airtableId": "recXT62L8mD8YnVkF",
+      "autoridades": [
+        "recPhuw5iJDrnZnZ5"
+      ],
+      "fotos": [
         {
           "filename": "áurea.png",
           "id": "attzJ8aKmNurIytQr",
@@ -4023,16 +4027,16 @@
           "url": "https://dl.airtable.com/.attachments/4b732160726f7c21f76dac425500662a/2d65d69d/urea.png"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Áurea Balderrama",
-      "Personas en el cargo": [
-        "recPhuw5iJDrnZnZ5"
-      ],
-      "airtableId": "recXT62L8mD8YnVkF",
-      "id": 57
+      "genero": "Mujer",
+      "id": 57,
+      "nombre": "Áurea Balderrama"
     },
     {
-      "Fotos": [
+      "airtableId": "recXU1Ov3QnvcOesw",
+      "autoridades": [
+        "recPipiPddnOBqG7W"
+      ],
+      "fotos": [
         {
           "filename": "cergio-prudencio-1024x683.jpeg",
           "id": "attUplQMEbkWzme1A",
@@ -4058,16 +4062,16 @@
           "url": "https://dl.airtable.com/.attachments/9f093064cb700d2617401c533da67b4a/49009876/cergio-prudencio-1024x683.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Cergio Prudencio Bilbao",
-      "Personas en el cargo": [
-        "recPipiPddnOBqG7W"
-      ],
-      "airtableId": "recXU1Ov3QnvcOesw",
-      "id": 42
+      "genero": "Hombre",
+      "id": 42,
+      "nombre": "Cergio Prudencio Bilbao"
     },
     {
-      "Fotos": [
+      "airtableId": "recYiUOiAx8yWHwK4",
+      "autoridades": [
+        "recQGiiCKU8RljYpu"
+      ],
+      "fotos": [
         {
           "filename": "309720_1_18.jpeg",
           "id": "attms3oYH4NV23n54",
@@ -4093,16 +4097,16 @@
           "url": "https://dl.airtable.com/.attachments/8b9380e6561d6cecd1831f0ef169fa44/bf7295c7/309720_1_18.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Magin Herrera López",
-      "Personas en el cargo": [
-        "recQGiiCKU8RljYpu"
-      ],
-      "airtableId": "recYiUOiAx8yWHwK4",
-      "id": 45
+      "genero": "Hombre",
+      "id": 45,
+      "nombre": "Magin Herrera López"
     },
     {
-      "Fotos": [
+      "airtableId": "recYla9HTk5UM4TSX",
+      "autoridades": [
+        "recQJyD13H5dbGlxn"
+      ],
+      "fotos": [
         {
           "filename": "sandra cruz.png",
           "id": "attFUoU7i5xN6ZLEl",
@@ -4128,16 +4132,16 @@
           "url": "https://dl.airtable.com/.attachments/289d46fb2abf39b09e7d3a58f2d62d84/e581eb65/sandracruz.png"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Sandra Cruz Nina",
-      "Personas en el cargo": [
-        "recQJyD13H5dbGlxn"
-      ],
-      "airtableId": "recYla9HTk5UM4TSX",
-      "id": 58
+      "genero": "Mujer",
+      "id": 58,
+      "nombre": "Sandra Cruz Nina"
     },
     {
-      "Fotos": [
+      "airtableId": "recaRqbAFDSRTAPCd",
+      "autoridades": [
+        "rec2fOFUP0SaichhD"
+      ],
+      "fotos": [
         {
           "filename": "la-nueva-autoridad-i-apg._728988730_1140x520.jpeg",
           "id": "attEuM6TtbPvVclld",
@@ -4163,16 +4167,16 @@
           "url": "https://dl.airtable.com/.attachments/b2a049f99efe743a344100fb7225f9ae/aaecdb1a/la-nueva-autoridad-i-apg._728988730_1140x520.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Patricia Hermosa",
-      "Personas en el cargo": [
-        "rec2fOFUP0SaichhD"
-      ],
-      "airtableId": "recaRqbAFDSRTAPCd",
-      "id": 26
+      "genero": "Mujer",
+      "id": 26,
+      "nombre": "Patricia Hermosa"
     },
     {
-      "Fotos": [
+      "airtableId": "recaxy9A2mmMRnwKw",
+      "autoridades": [
+        "rec2VWDUcJm5gZYpW"
+      ],
+      "fotos": [
         {
           "filename": "Em9YpA_XUAYPVTz.jpeg",
           "id": "attwufesRly067ims",
@@ -4198,16 +4202,16 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Jaime Alberto Zabala Saldías",
-      "Personas en el cargo": [
-        "rec2VWDUcJm5gZYpW"
-      ],
-      "airtableId": "recaxy9A2mmMRnwKw",
-      "id": 19
+      "genero": "Hombre",
+      "id": 19,
+      "nombre": "Jaime Alberto Zabala Saldías"
     },
     {
-      "Fotos": [
+      "airtableId": "recc2GMMuWkeggJne",
+      "autoridades": [
+        "rec4q4g6EjkxFSb2E"
+      ],
+      "fotos": [
         {
           "filename": "1605830897737575-1-1.jpeg",
           "id": "attOpjuz4jdHipBPk",
@@ -4233,16 +4237,16 @@
           "url": "https://dl.airtable.com/.attachments/fb873cc3a7cf2524ecf91dc09bcb85a4/141782c6/1605830897737575-1-1.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Jessica Paola Saravia",
-      "Personas en el cargo": [
-        "rec4q4g6EjkxFSb2E"
-      ],
-      "airtableId": "recc2GMMuWkeggJne",
-      "id": 37
+      "genero": "Mujer",
+      "id": 37,
+      "nombre": "Jessica Paola Saravia"
     },
     {
-      "Fotos": [
+      "airtableId": "recdABzeBoiKOSu1W",
+      "autoridades": [
+        "rec7s9R6JgKqZyXMr"
+      ],
+      "fotos": [
         {
           "filename": "EnyETLTWEAYwDsp.jpeg",
           "id": "attRbAjUZUYlYscVi",
@@ -4268,16 +4272,16 @@
           "url": "https://dl.airtable.com/.attachments/4b4e287353d70d719d1951fbe6d8a1c6/04af66dc/EnyETLTWEAYwDsp.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Wendy Jahel Pérez Salinas",
-      "Personas en el cargo": [
-        "rec7s9R6JgKqZyXMr"
-      ],
-      "airtableId": "recdABzeBoiKOSu1W",
-      "id": 66
+      "genero": "Mujer",
+      "id": 66,
+      "nombre": "Wendy Jahel Pérez Salinas"
     },
     {
-      "Fotos": [
+      "airtableId": "recdKXhJtgZdP5nzL",
+      "autoridades": [
+        "recR1NSGyn44FG6iq"
+      ],
+      "fotos": [
         {
           "filename": "13afcb5c-47f4-42da-aea8-ec359723629a.jpeg",
           "id": "attBANc3hrA4MuXew",
@@ -4327,16 +4331,16 @@
           "url": "https://dl.airtable.com/.attachments/5302584332e80a5705b902affb58edb3/e6bc3f34/EnndK64XEAIMQbj.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Edson Ross Valda Gómez",
-      "Personas en el cargo": [
-        "recR1NSGyn44FG6iq"
-      ],
-      "airtableId": "recdKXhJtgZdP5nzL",
-      "id": 62
+      "genero": "Hombre",
+      "id": 62,
+      "nombre": "Edson Ross Valda Gómez"
     },
     {
-      "Fotos": [
+      "airtableId": "recdWV1XwyBsqt7is",
+      "autoridades": [
+        "recplry7wQgzs40Pp"
+      ],
+      "fotos": [
         {
           "filename": "roque-mendez-soleto-entel-telecomunicaciones_lrzima20130419_0156_11.jpeg",
           "id": "attOa9R5pCSFmC6p4",
@@ -4362,16 +4366,16 @@
           "url": "https://dl.airtable.com/.attachments/f8423a9aeed5fabd4330f57fd94433f7/7bc7112d/roque-mendez-soleto-entel-telecomunicaciones_lrzima20130419_0156_11.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Roque Roy Méndez Soleto",
-      "Personas en el cargo": [
-        "recplry7wQgzs40Pp"
-      ],
-      "airtableId": "recdWV1XwyBsqt7is",
-      "id": 69
+      "genero": "Hombre",
+      "id": 69,
+      "nombre": "Roque Roy Méndez Soleto"
     },
     {
-      "Fotos": [
+      "airtableId": "recepEdtJeBf6Gvjs",
+      "autoridades": [
+        "rec6N2HNTBByviXYS"
+      ],
+      "fotos": [
         {
           "filename": "ed153ea0-dc23-48d1-b27d-bc9457f39262.jpeg",
           "id": "attP1sI880tmfBNQY",
@@ -4397,16 +4401,16 @@
           "url": "https://dl.airtable.com/.attachments/c04b0738d7781733d938f51b73234be0/fb928ffc/ed153ea0-dc23-48d1-b27d-bc9457f39262.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Pelagio Condori Yana",
-      "Personas en el cargo": [
-        "rec6N2HNTBByviXYS"
-      ],
-      "airtableId": "recepEdtJeBf6Gvjs",
-      "id": 41
+      "genero": "Hombre",
+      "id": 41,
+      "nombre": "Pelagio Condori Yana"
     },
     {
-      "Fotos": [
+      "airtableId": "recf41hcAroy82bUp",
+      "autoridades": [
+        "rec7spLwKOoRxEDzP"
+      ],
+      "fotos": [
         {
           "filename": "EmqiDP1W4AALSUb.jpeg",
           "id": "atttxtoZeNgqnY9YZ",
@@ -4456,16 +4460,16 @@
           "url": "https://dl.airtable.com/.attachments/94d8d56403d28c21d636fed5c81ff9f3/f30602b6/f768x1-333866_333993_5050.webp"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Miriam Julieta Huacani",
-      "Personas en el cargo": [
-        "rec7spLwKOoRxEDzP"
-      ],
-      "airtableId": "recf41hcAroy82bUp",
-      "id": 6
+      "genero": "Mujer",
+      "id": 6,
+      "nombre": "Miriam Julieta Huacani"
     },
     {
-      "Fotos": [
+      "airtableId": "recfQXjHzf1oR8OMK",
+      "autoridades": [
+        "rec7elN1JC1HgKgra"
+      ],
+      "fotos": [
         {
           "filename": "EnV8kiHXYAgSSoR.jpeg",
           "id": "attCKsIHFuUibqheA",
@@ -4491,16 +4495,16 @@
           "url": "https://dl.airtable.com/.attachments/2fcacfeca1dcf4b2d8ac9d5d032c402e/d59d34d3/EnV8kiHXYAgSSoR.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Humberto Arandia Claure",
-      "Personas en el cargo": [
-        "rec7elN1JC1HgKgra"
-      ],
-      "airtableId": "recfQXjHzf1oR8OMK",
-      "id": 46
+      "genero": "Hombre",
+      "id": 46,
+      "nombre": "Humberto Arandia Claure"
     },
     {
-      "Fotos": [
+      "airtableId": "recfoAp2YUsP5Ht9v",
+      "autoridades": [
+        "rec7MYTm8hs8ujVOV"
+      ],
+      "fotos": [
         {
           "filename": "karina-serrudo-2411.png",
           "id": "attCk5r1DmeCcM72Y",
@@ -4526,16 +4530,16 @@
           "url": "https://dl.airtable.com/.attachments/2b7960db5dc4faf6bd893a9af2f60179/f5ed4ebe/karina-serrudo-2411.png"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Liliana Karina Serrudo Miranda",
-      "Personas en el cargo": [
-        "rec7MYTm8hs8ujVOV"
-      ],
-      "airtableId": "recfoAp2YUsP5Ht9v",
-      "id": 59
+      "genero": "Mujer",
+      "id": 59,
+      "nombre": "Liliana Karina Serrudo Miranda"
     },
     {
-      "Fotos": [
+      "airtableId": "recfu72iysNISXDNS",
+      "autoridades": [
+        "rec7SvwCIPN1hz5si"
+      ],
+      "fotos": [
         {
           "filename": "Em9YpA_XUAYPVTz.jpeg",
           "id": "attwufesRly067ims",
@@ -4561,16 +4565,16 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "César Moisés Vallejos Rocha",
-      "Personas en el cargo": [
-        "rec7SvwCIPN1hz5si"
-      ],
-      "airtableId": "recfu72iysNISXDNS",
-      "id": 22
+      "genero": "Hombre",
+      "id": 22,
+      "nombre": "César Moisés Vallejos Rocha"
     },
     {
-      "Fotos": [
+      "airtableId": "rechqNMLe0wEpzBXd",
+      "autoridades": [
+        "rec9Obg5onwXOb3CD"
+      ],
+      "fotos": [
         {
           "filename": "chavez-posesion-apg.jpg",
           "id": "attvO8Po3i6XmZHXf",
@@ -4596,16 +4600,16 @@
           "url": "https://dl.airtable.com/.attachments/8083695b9e5b366aa738105aa3bc1147/d4444a51/chavez-posesion-apg.jpg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Wilfredo Franz David Chávez Serrano",
-      "Personas en el cargo": [
-        "rec9Obg5onwXOb3CD"
-      ],
-      "airtableId": "rechqNMLe0wEpzBXd",
-      "id": 15
+      "genero": "Hombre",
+      "id": 15,
+      "nombre": "Wilfredo Franz David Chávez Serrano"
     },
     {
-      "Fotos": [
+      "airtableId": "recicwAiTbRm2lLHI",
+      "autoridades": [
+        "recaAU4C3yRFrXdm8"
+      ],
+      "fotos": [
         {
           "filename": "EmqfOK1WEAA4W5r.jpeg",
           "id": "attddueldyA1G68jA",
@@ -4631,16 +4635,16 @@
           "url": "https://dl.airtable.com/.attachments/ce08768136e8d7d83f5017344ca1271f/6d86d6c8/EmqfOK1WEAA4W5r.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Edwin Rojas Ulo",
-      "Personas en el cargo": [
-        "recaAU4C3yRFrXdm8"
-      ],
-      "airtableId": "recicwAiTbRm2lLHI",
-      "id": 4
+      "genero": "Hombre",
+      "id": 4,
+      "nombre": "Edwin Rojas Ulo"
     },
     {
-      "Fotos": [
+      "airtableId": "recihl05auzJxwujD",
+      "autoridades": [
+        "recaFJupkRz2W8WY3"
+      ],
+      "fotos": [
         {
           "filename": "4-2.jpeg",
           "id": "attqDxPggEV2fK7KH",
@@ -4714,16 +4718,16 @@
           "url": "https://dl.airtable.com/.attachments/1dcaa78f4b56293c53109cc87109a7c8/0e28c114/EnhAy6IXEAAmA8P.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "María Renée Castro",
-      "Personas en el cargo": [
-        "recaFJupkRz2W8WY3"
-      ],
-      "airtableId": "recihl05auzJxwujD",
-      "id": 52
+      "genero": "Mujer",
+      "id": 52,
+      "nombre": "María Renée Castro"
     },
     {
-      "Fotos": [
+      "airtableId": "recjvpPcIgaFIWoaN",
+      "autoridades": [
+        "recbTNjwSDaY7yQPd"
+      ],
+      "fotos": [
         {
           "filename": "EmvEBvsXcAULiQF.jpeg",
           "id": "attCvUSb88mXCgokj",
@@ -4749,16 +4753,16 @@
           "url": "https://dl.airtable.com/.attachments/d01344e47b8e6a9f91dc18e7b7fbb084/959678ca/EmvEBvsXcAULiQF.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Jaime Mamani Espíndola",
-      "Personas en el cargo": [
-        "recbTNjwSDaY7yQPd"
-      ],
-      "airtableId": "recjvpPcIgaFIWoaN",
-      "id": 17
+      "genero": "Hombre",
+      "id": 17,
+      "nombre": "Jaime Mamani Espíndola"
     },
     {
-      "Fotos": [
+      "airtableId": "reckBcql3JOPZqEla",
+      "autoridades": [
+        "reccZAUFd6O8o260A"
+      ],
+      "fotos": [
         {
           "filename": "EmqigDDXcAEtQfW.png",
           "id": "attOTkuLAJ9knEv5Q",
@@ -4784,16 +4788,16 @@
           "url": "https://dl.airtable.com/.attachments/d82897e2885559de5bb3a2472e3b519e/b402ec8b/EmqigDDXcAEtQfW.png"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Jorge Silva Trujillo",
-      "Personas en el cargo": [
-        "reccZAUFd6O8o260A"
-      ],
-      "airtableId": "reckBcql3JOPZqEla",
-      "id": 7
+      "genero": "Hombre",
+      "id": 7,
+      "nombre": "Jorge Silva Trujillo"
     },
     {
-      "Fotos": [
+      "airtableId": "reclhaXeEH4r5myXQ",
+      "autoridades": [
+        "recdFyryO44KuY0Cg"
+      ],
+      "fotos": [
         {
           "filename": "EnWJt4_XMAQfonY.jpeg",
           "id": "att8ERQgCSLo5OCPe",
@@ -4802,16 +4806,16 @@
           "url": "https://dl.airtable.com/.attachments/dc05cb2c86d241b617d5954b39c31fe4/35ba2b1a/EnWJt4_XMAQfonY.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Juan José Carvajal Huanca",
-      "Personas en el cargo": [
-        "recdFyryO44KuY0Cg"
-      ],
-      "airtableId": "reclhaXeEH4r5myXQ",
-      "id": 50
+      "genero": "Hombre",
+      "id": 50,
+      "nombre": "Juan José Carvajal Huanca"
     },
     {
-      "Fotos": [
+      "airtableId": "recloUTRnFGSKdttR",
+      "autoridades": [
+        "recdMinbx2Gb9PV8h"
+      ],
+      "fotos": [
         {
           "filename": "Em9YpA_XUAYPVTz.jpeg",
           "id": "attwufesRly067ims",
@@ -4837,16 +4841,16 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Miguel Ángel Contreras Campero",
-      "Personas en el cargo": [
-        "recdMinbx2Gb9PV8h"
-      ],
-      "airtableId": "recloUTRnFGSKdttR",
-      "id": 20
+      "genero": "Hombre",
+      "id": 20,
+      "nombre": "Miguel Ángel Contreras Campero"
     },
     {
-      "Fotos": [
+      "airtableId": "recmLCdRFNO19mqTQ",
+      "autoridades": [
+        "rece90HbPaOkyYSyg"
+      ],
+      "fotos": [
         {
           "filename": "EmrKEaLXcAE9srN.png",
           "id": "atte223Te2gLho2Ok",
@@ -4872,16 +4876,16 @@
           "url": "https://dl.airtable.com/.attachments/fd4a56ebc3bc41ac12f730777b7b63a3/c909b5f4/EmrKEaLXcAE9srN.png"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Jhonny Cristian Morales Coronel",
-      "Personas en el cargo": [
-        "rece90HbPaOkyYSyg"
-      ],
-      "airtableId": "recmLCdRFNO19mqTQ",
-      "id": 11
+      "genero": "Hombre",
+      "id": 11,
+      "nombre": "Jhonny Cristian Morales Coronel"
     },
     {
-      "Fotos": [
+      "airtableId": "recmTwyqtN2KRfkCD",
+      "autoridades": [
+        "recXeCB6m4Dyzo1HW"
+      ],
+      "fotos": [
         {
           "filename": "13afcb5c-47f4-42da-aea8-ec359723629a.jpeg",
           "id": "attBANc3hrA4MuXew",
@@ -4914,16 +4918,16 @@
           "url": "https://dl.airtable.com/.attachments/5978a3d332253f76c1374510b5d71fc9/75e17c50/EnndK64XMAIV1j5.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Rodney Cristina Pérez Choque",
-      "Personas en el cargo": [
-        "recXeCB6m4Dyzo1HW"
-      ],
-      "airtableId": "recmTwyqtN2KRfkCD",
-      "id": 63
+      "genero": "Mujer",
+      "id": 63,
+      "nombre": "Rodney Cristina Pérez Choque"
     },
     {
-      "Fotos": [
+      "airtableId": "recnbqJsmoq3KgdNC",
+      "autoridades": [
+        "recfzOdMwLqm9SFs2"
+      ],
+      "fotos": [
         {
           "filename": "EnOgqeEW8AIVdbo.jpeg",
           "id": "attMGKtGmpbkUCteQ",
@@ -4949,16 +4953,16 @@
           "url": "https://dl.airtable.com/.attachments/69ed345f52a4ab5ef4f20e82f45767ee/5a8448da/EnOgqeEW8AIVdbo.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Gonzalo Lazcano",
-      "Personas en el cargo": [
-        "recfzOdMwLqm9SFs2"
-      ],
-      "airtableId": "recnbqJsmoq3KgdNC",
-      "id": 34
+      "genero": "Hombre",
+      "id": 34,
+      "nombre": "Gonzalo Lazcano"
     },
     {
-      "Fotos": [
+      "airtableId": "reco7pqU1VHk9vIix",
+      "autoridades": [
+        "recgvNUebiHDy7aXX"
+      ],
+      "fotos": [
         {
           "filename": "EnWJt4_XMAQfonY.jpeg",
           "id": "att8ERQgCSLo5OCPe",
@@ -4984,16 +4988,16 @@
           "url": "https://dl.airtable.com/.attachments/dc05cb2c86d241b617d5954b39c31fe4/35ba2b1a/EnWJt4_XMAQfonY.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Winston Medrano Escalante",
-      "Personas en el cargo": [
-        "recgvNUebiHDy7aXX"
-      ],
-      "airtableId": "reco7pqU1VHk9vIix",
-      "id": 49
+      "genero": "Hombre",
+      "id": 49,
+      "nombre": "Winston Medrano Escalante"
     },
     {
-      "Fotos": [
+      "airtableId": "recpnx6iZZHO0HSxl",
+      "autoridades": [
+        "rechLVAC9mH7pjkcL"
+      ],
+      "fotos": [
         {
           "filename": "72fbf578-6f0f-454b-8ce9-bb59169cfe2a.jpg",
           "id": "attGADf2v92NpIYFj",
@@ -5019,16 +5023,16 @@
           "url": "https://dl.airtable.com/.attachments/ca382395e8d6e73b947d0777f2ad7c59/e876f79b/72fbf578-6f0f-454b-8ce9-bb59169cfe2a.jpg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Víctor Quispe Ticona",
-      "Personas en el cargo": [
-        "rechLVAC9mH7pjkcL"
-      ],
-      "airtableId": "recpnx6iZZHO0HSxl",
-      "id": 30
+      "genero": "Hombre",
+      "id": 30,
+      "nombre": "Víctor Quispe Ticona"
     },
     {
-      "Fotos": [
+      "airtableId": "recq0CQlnMeyvyncQ",
+      "autoridades": [
+        "recio0kFx9eRUaPRg"
+      ],
+      "fotos": [
         {
           "filename": "1605830897737575-1-1.jpeg",
           "id": "attk1B1fNDbCGj1uN",
@@ -5054,16 +5058,16 @@
           "url": "https://dl.airtable.com/.attachments/1671169336a31e4f1f3489ec7530ad34/b007c872/1605830897737575-1-1.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Roy Ramiro Flores",
-      "Personas en el cargo": [
-        "recio0kFx9eRUaPRg"
-      ],
-      "airtableId": "recq0CQlnMeyvyncQ",
-      "id": 38
+      "genero": "Hombre",
+      "id": 38,
+      "nombre": "Roy Ramiro Flores"
     },
     {
-      "Fotos": [
+      "airtableId": "recrQ9kTL2NMZqkOl",
+      "autoridades": [
+        "recjexOdVpN5o2MtL"
+      ],
+      "fotos": [
         {
           "filename": "Calvimontes-12-533x261.jpg",
           "id": "attUeM1SexVwDSJl3",
@@ -5089,16 +5093,16 @@
           "url": "https://dl.airtable.com/.attachments/6b002f5674a9280540cfa4c0d3c79332/b9d1d050/Calvimontes-12-533x261.jpg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Juan Carlos Calvimontes",
-      "Personas en el cargo": [
-        "recjexOdVpN5o2MtL"
-      ],
-      "airtableId": "recrQ9kTL2NMZqkOl",
-      "id": 14
+      "genero": "Hombre",
+      "id": 14,
+      "nombre": "Juan Carlos Calvimontes"
     },
     {
-      "Fotos": [
+      "airtableId": "recsBoMotEFjXWPmm",
+      "autoridades": [
+        "reckZMgID1FCmyh1M"
+      ],
+      "fotos": [
         {
           "filename": "helena_argirakis_1_caladaaaa.jpeg",
           "id": "attueFow8WuAeHdKP",
@@ -5124,16 +5128,16 @@
           "url": "https://dl.airtable.com/.attachments/f390387980d5cd9d2c2c0d74f052357e/39f3dfe1/helena_argirakis_1_caladaaaa.jpeg"
         }
       ],
-      "Genero": "Mujer",
-      "Nombre completo": "Helena Argirakis Jordán",
-      "Personas en el cargo": [
-        "reckZMgID1FCmyh1M"
-      ],
-      "airtableId": "recsBoMotEFjXWPmm",
-      "id": 61
+      "genero": "Mujer",
+      "id": 61,
+      "nombre": "Helena Argirakis Jordán"
     },
     {
-      "Fotos": [
+      "airtableId": "recwIpxivedCYkbB8",
+      "autoridades": [
+        "reco6N1CFBdVnWDgy"
+      ],
+      "fotos": [
         {
           "filename": "EmqiDP1W4AALSUb.jpeg",
           "id": "atttxtoZeNgqnY9YZ",
@@ -5183,16 +5187,16 @@
           "url": "https://dl.airtable.com/.attachments/d0f7586038ca35a1afe4b3578c0a68dd/a240327a/f768x1-333869_333996_5050.webp"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Pelagio Condori Yana",
-      "Personas en el cargo": [
-        "reco6N1CFBdVnWDgy"
-      ],
-      "airtableId": "recwIpxivedCYkbB8",
-      "id": 9
+      "genero": "Hombre",
+      "id": 9,
+      "nombre": "Pelagio Condori Yana"
     },
     {
-      "Fotos": [
+      "airtableId": "recxMkVYK5mwsNKQd",
+      "autoridades": [
+        "recpaIpiUsmPRpcvD"
+      ],
+      "fotos": [
         {
           "filename": "EnhDVIGXYAIaKZ1.jpeg",
           "id": "attmgnFNAEz45DvZi",
@@ -5218,16 +5222,16 @@
           "url": "https://dl.airtable.com/.attachments/632d8b4368d898f83a99b0bb894d34a1/40cabfb5/EnhDVIGXYAIaKZ1.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "William Donaire",
-      "Personas en el cargo": [
-        "recpaIpiUsmPRpcvD"
-      ],
-      "airtableId": "recxMkVYK5mwsNKQd",
-      "id": 55
+      "genero": "Hombre",
+      "id": 55,
+      "nombre": "William Donaire"
     },
     {
-      "Fotos": [
+      "airtableId": "recxNk9f4JlKoMGi1",
+      "autoridades": [
+        "recpbIDze6l3No8Xr"
+      ],
+      "fotos": [
         {
           "filename": "Em9YpA_XUAYPVTz.jpeg",
           "id": "attwufesRly067ims",
@@ -5253,16 +5257,16 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Javier Torrico Vega",
-      "Personas en el cargo": [
-        "recpbIDze6l3No8Xr"
-      ],
-      "airtableId": "recxNk9f4JlKoMGi1",
-      "id": 23
+      "genero": "Hombre",
+      "id": 23,
+      "nombre": "Javier Torrico Vega"
     },
     {
-      "Fotos": [
+      "airtableId": "recyGbnd3uCXC3I5Z",
+      "autoridades": [
+        "recq4zRxdRCg1FaKp"
+      ],
+      "fotos": [
         {
           "filename": "EmptIKkXUAMgWW3.jpeg",
           "id": "attI9cxSKlopiBdAs",
@@ -5288,16 +5292,16 @@
           "url": "https://dl.airtable.com/.attachments/e0594c1b81cd0eeb373d582f2f5bd220/e1c93208/EmptIKkXUAMgWW3.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Juan Villca",
-      "Personas en el cargo": [
-        "recq4zRxdRCg1FaKp"
-      ],
-      "airtableId": "recyGbnd3uCXC3I5Z",
-      "id": 1
+      "genero": "Hombre",
+      "id": 1,
+      "nombre": "Juan Villca"
     },
     {
-      "Fotos": [
+      "airtableId": "reczQmXFbWFxxep2b",
+      "autoridades": [
+        "recmFfU2YPNzG2m1T"
+      ],
+      "fotos": [
         {
           "filename": "6cb74849-ff01-423e-8f69-0753cb8218dc.jpeg",
           "id": "atth6JL6aTRLcVNVw",
@@ -5323,13 +5327,9 @@
           "url": "https://dl.airtable.com/.attachments/0f39e9f3f27e93cd740abd868cc37e1a/6f832514/6cb74849-ff01-423e-8f69-0753cb8218dc.jpeg"
         }
       ],
-      "Genero": "Hombre",
-      "Nombre completo": "Carmelo Valda",
-      "Personas en el cargo": [
-        "recmFfU2YPNzG2m1T"
-      ],
-      "airtableId": "reczQmXFbWFxxep2b",
-      "id": 67
+      "genero": "Hombre",
+      "id": 67,
+      "nombre": "Carmelo Valda"
     }
   ]
 }
