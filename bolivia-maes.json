@@ -916,6 +916,21 @@
       ]
     },
     {
+      "airtableId": "recagbaP23mAGkKvs",
+      "cargo": "Director General Ejecutivo de la ASFI (Autoridad de Supervisión del Sistema Financiero)",
+      "desde": "2020-12-02",
+      "entidad": [
+        "rec695Y70CzqJdhzF"
+      ],
+      "fuente": [
+        "recAqNvBIy7DNo4Jb"
+      ],
+      "id": 106,
+      "persona": [
+        "recTmCwA63n22m692"
+      ]
+    },
+    {
       "airtableId": "recbTNjwSDaY7yQPd",
       "cargo": "Viceministro de Defensa Social y Sustancias Controladas",
       "desde": "2020-11-14",
@@ -1325,6 +1340,21 @@
       ]
     },
     {
+      "airtableId": "recqW1xocpPZdWieY",
+      "cargo": "Gerente Ejecutivo de BoA (Empresa Pública Nacional Estratégica Boliviana de Aviación)",
+      "desde": "2020-12-02",
+      "entidad": [
+        "recgdNaRmqEisAps9"
+      ],
+      "fuente": [
+        "recPj6sQDrX9g37uc"
+      ],
+      "id": 105,
+      "persona": [
+        "recJgECOthSwzpO5r"
+      ]
+    },
+    {
       "airtableId": "recrJYbjvZmSRCnEg",
       "cargo": "Gerente General de la Gestora Pública de la Seguridad Social de Largo Plazo",
       "desde": "2020-11-25",
@@ -1644,6 +1674,18 @@
       "id": 44,
       "nombre": "Fondo Nacional de Desarrollo Forestal",
       "sigla": "Fonabosque"
+    },
+    {
+      "airtableId": "rec695Y70CzqJdhzF",
+      "autoridades": [
+        "recagbaP23mAGkKvs"
+      ],
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 105,
+      "nombre": "Autoridad de Supervisión del Sistema Financiero",
+      "sigla": "ASFI"
     },
     {
       "airtableId": "rec6hLDHJ33gjulLJ",
@@ -2291,6 +2333,18 @@
       "nombre": "Viceministerio de Descolonización y Despatriarcalización"
     },
     {
+      "airtableId": "recgdNaRmqEisAps9",
+      "autoridades": [
+        "recqW1xocpPZdWieY"
+      ],
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 104,
+      "nombre": "Empresa Pública Nacional Estratégica Boliviana de Aviación",
+      "sigla": "BoA"
+    },
+    {
       "airtableId": "rech7XDeAzomF0c4N",
       "autoridades": [
         "rec7elN1JC1HgKgra"
@@ -2834,6 +2888,15 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1329582969800040448"
     },
     {
+      "airtableId": "recAqNvBIy7DNo4Jb",
+      "autoridad": [
+        "recagbaP23mAGkKvs"
+      ],
+      "fuente": "https://eldeber.com.bo/pais/posesionan-a-reynaldo-yujra-como-director-ejecutivo-de-la-asfi_210727",
+      "id": 90,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334252230157938696"
+    },
+    {
       "airtableId": "recBDsZkIwOzSXFzp",
       "autoridad": [
         "recgvNUebiHDy7aXX"
@@ -3021,6 +3084,15 @@
       "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
       "id": 53,
       "tweet": "https://twitter.com/BoliviaMaes/status/1330914758715969542"
+    },
+    {
+      "airtableId": "recPj6sQDrX9g37uc",
+      "autoridad": [
+        "recqW1xocpPZdWieY"
+      ],
+      "fuente": "https://www.opinion.com.bo/articulo/pais/ronald-caso-vuelve-ser-gerente-boa/20201202145131798208.html",
+      "id": 89,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334217316100399109"
     },
     {
       "airtableId": "recRMJcMft85nfKQG",
@@ -4758,6 +4830,41 @@
       "nombre": "Diego Pary Rodríguez"
     },
     {
+      "airtableId": "recJgECOthSwzpO5r",
+      "autoridades": [
+        "recqW1xocpPZdWieY"
+      ],
+      "fotos": [
+        {
+          "filename": "2020120214553136441.jpeg",
+          "id": "attjXwHWv383zsktz",
+          "size": 102026,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2b34dc42151b5eb6ed588276f392121c/116169db",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5a55c7f2a5347477e94e9b53266bf703/41648ad5",
+              "width": 910
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dfb0fd52d11bfc1280ca4d67a5f91366/2329ce31",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/02d7eaf020d91067d52de70b9ec653d7/bf5db6df/2020120214553136441.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 104,
+      "nombre": "Ronald Salvador Casso Casso"
+    },
+    {
       "airtableId": "recKBhFHNYlCUnp86",
       "autoridades": [
         "rec3FEK8CFNtKW5oO"
@@ -5305,6 +5412,41 @@
       "genero": "Hombre",
       "id": 73,
       "nombre": "Marco Antonio Escobar Seleme"
+    },
+    {
+      "airtableId": "recTmCwA63n22m692",
+      "autoridades": [
+        "recagbaP23mAGkKvs"
+      ],
+      "fotos": [
+        {
+          "filename": "yujra-asume-como-nuevo-director-ejecutivo-de-la-asfi.jpeg",
+          "id": "attaqHLdtJBILyoOp",
+          "size": 195599,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6f284de25299a82e841fc59b01966377/417c7139",
+              "width": 3000
+            },
+            "large": {
+              "height": 746,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f91c7eb22acb7f334e25176434f8322f/6c936c4d",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dc280c04f7df40cbd5e71f1175f66e89/7d54942c",
+              "width": 25
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/caae6e560bed766b0622862dfbba3024/6f82acd7/yujra-asume-como-nuevo-director-ejecutivo-de-la-asfi.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 105,
+      "nombre": "Juan Reynaldo Yujra Segales"
     },
     {
       "airtableId": "recTqN5HabIGCRU4U",
