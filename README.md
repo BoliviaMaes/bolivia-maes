@@ -6,7 +6,7 @@ El archivo JSON [bolivia-maes.json](./bolivia-maes.json) contiene los datos publ
 
 ---
 
-## Usan los datos de @BoliviaMaes
+## Usan los datos de @BoliviaMaes
 
 El proyecto siguiente utiliza los datos de @BoliviaMaes:
 
