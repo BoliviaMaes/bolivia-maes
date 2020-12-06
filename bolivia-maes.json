@@ -901,10 +901,6 @@
       ]
     },
     {
-      "airtableId": "recVKbk3703RYy8bj",
-      "id": 122
-    },
-    {
       "airtableId": "recVTGN6t3SybDamY",
       "cargo": "Director General Ejecutivo del Fonabosque (Fondo Nacional de Desarrollo Forestal).",
       "desde": "2020-11-21",
@@ -917,6 +913,21 @@
       "id": 44,
       "persona": [
         "rec3vijMjGSfM1IHy"
+      ]
+    },
+    {
+      "airtableId": "recVY8njuYBvWuto0",
+      "cargo": "Directora General de Migración",
+      "desde": "2020-11-23",
+      "entidad": [
+        "recfmzNBkcUNYl59U"
+      ],
+      "fuente": [
+        "rec88ugM9sCswTbRA"
+      ],
+      "id": 123,
+      "persona": [
+        "recfU0rLEmQ7mxUGg"
       ]
     },
     {
@@ -1845,7 +1856,8 @@
         "reccX4xvpiziL6dV9"
       ],
       "id": 60,
-      "nombre": "Viceministerio de Autonomías"
+      "nombre": "Viceministerio de Autonomías",
+      "twitter": "@AutonomiasBol"
     },
     {
       "airtableId": "rec2mOJHRNfzAOp0k",
@@ -1856,7 +1868,8 @@
         "recRiMRkZ9ral1hlk"
       ],
       "id": 8,
-      "nombre": "Viceministerio de Transparencia Institucional y Lucha contra la Corrupción"
+      "nombre": "Viceministerio de Transparencia Institucional y Lucha contra la Corrupción",
+      "twitter": "@V_Transparencia"
     },
     {
       "airtableId": "rec3fjmNTzBZ0RW3B",
@@ -1867,7 +1880,8 @@
         "recZXuPo3n4QJ4cc1"
       ],
       "id": 100,
-      "nombre": "Empresa Pública Editorial del Estado Plurinacional de Bolivia"
+      "nombre": "Empresa Pública Editorial del Estado Plurinacional de Bolivia",
+      "twitter": "@EditorialEstado"
     },
     {
       "airtableId": "rec53Ti3nHSvyJEGV",
@@ -1889,8 +1903,9 @@
         "recrEl2V8GSxaSshp"
       ],
       "id": 102,
-      "nombre": "Viceministerio de Comercio Exterior",
-      "sigla": "VCE"
+      "nombre": "Viceministerio de Comercio Exterior e Integración",
+      "sigla": "VCEI",
+      "twitter": "@VCEIBolivia"
     },
     {
       "airtableId": "rec5MiDjk0fdAT6ZB",
@@ -1902,7 +1917,8 @@
       ],
       "id": 44,
       "nombre": "Fondo Nacional de Desarrollo Forestal",
-      "sigla": "Fonabosque"
+      "sigla": "Fonabosque",
+      "twitter": "@fonabosque"
     },
     {
       "airtableId": "rec60LAr5uanVLhQh",
@@ -1926,7 +1942,8 @@
       ],
       "id": 105,
       "nombre": "Autoridad de Supervisión del Sistema Financiero",
-      "sigla": "ASFI"
+      "sigla": "ASFI",
+      "twitter": "@asfibolivia"
     },
     {
       "airtableId": "rec6hLDHJ33gjulLJ",
@@ -1938,7 +1955,8 @@
       ],
       "id": 90,
       "nombre": "Ministerio de Desarrollo Productivo y Economía Plural",
-      "sigla": "MDPyEP"
+      "sigla": "MDPyEP",
+      "twitter": "@MDPyEPBolivia"
     },
     {
       "airtableId": "rec6hOG1aBXYJnXYZ",
@@ -1949,7 +1967,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 76,
-      "nombre": "Ministerio de Planificación del Desarrollo"
+      "nombre": "Ministerio de Planificación del Desarrollo",
+      "sigla": "MPD",
+      "twitter": "@minplanifica"
     },
     {
       "airtableId": "rec73iYathqzow1TW",
@@ -1982,7 +2002,8 @@
         "recdkuR3fetrWHrQf"
       ],
       "id": 47,
-      "nombre": "Viceministerio de la Coca y Desarrollo Integral"
+      "nombre": "Viceministerio de la Coca y Desarrollo Integral",
+      "twitter": "@cocavcdi"
     },
     {
       "airtableId": "recAJ7vOCTHDlNjuv",
@@ -1994,7 +2015,8 @@
       ],
       "id": 81,
       "nombre": "Fondo Productivo Social",
-      "sigla": "FPS"
+      "sigla": "FPS",
+      "twitter": "@FPS_Bolivia"
     },
     {
       "airtableId": "recAXbHK4OZVqV6n2",
@@ -2006,6 +2028,16 @@
       ],
       "id": 1,
       "nombre": "Viceministerio de Coordinación con Movimientos Sociales"
+    },
+    {
+      "airtableId": "recAmAK3GEie38r1Y",
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 122,
+      "nombre": "Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria",
+      "sigla": "Senasag",
+      "twitter": "@SenasagBolivia"
     },
     {
       "airtableId": "recCRRYiYn2874TKD",
@@ -2040,7 +2072,8 @@
         "reccOyt73GJKFfU2z"
       ],
       "id": 21,
-      "nombre": "Ejercito"
+      "nombre": "Ejercito",
+      "twitter": "@BoliviaEjercito"
     },
     {
       "airtableId": "recDI8RDjX6z76J0n",
@@ -2051,7 +2084,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 63,
-      "nombre": "Ministerio de Economía y Finanzas Públicas"
+      "nombre": "Ministerio de Economía y Finanzas Públicas",
+      "sigla": "MEFP",
+      "twitter": "@EconomiaBo"
     },
     {
       "airtableId": "recDKrzcCKNrTEMn3",
@@ -2063,7 +2098,8 @@
       ],
       "id": 31,
       "nombre": "Agencia de Gobierno Electrónico y Tecnologías de la Información y Comunicación",
-      "sigla": "AGETIC"
+      "sigla": "AGETIC",
+      "twitter": "@AgeticOficial"
     },
     {
       "airtableId": "recDPejejWlgRG7Vc",
@@ -2094,7 +2130,8 @@
       ],
       "id": 92,
       "nombre": "Empresa Nacional de Electricidad",
-      "sigla": "ENDE"
+      "sigla": "ENDE",
+      "twitter": "@ENDECORPORACION"
     },
     {
       "airtableId": "recGiUlqM9f9ntcIC",
@@ -2106,7 +2143,8 @@
       ],
       "id": 111,
       "nombre": "Agencia Boliviana Espacial",
-      "sigla": "ABE"
+      "sigla": "ABE",
+      "twitter": "@ABEBOLIVIA"
     },
     {
       "airtableId": "recHCCAe3PMIFpZ9N",
@@ -2121,12 +2159,24 @@
       "sigla": "VVU"
     },
     {
+      "airtableId": "recHIPOn4UwiPkBOq",
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 124,
+      "nombre": "Servicios de Aeropuertos Bolivianos SA",
+      "sigla": "SABSA",
+      "twitter": "@BoliviaSabsa"
+    },
+    {
       "airtableId": "recHi2gYNUwRbBTai",
       "autoridades": [
         "recHhEmWb7S0S5ySb"
       ],
       "id": 70,
-      "nombre": "Vicepresidencia del Estado"
+      "nombre": "Vicepresidencia del Estado",
+      "sigla": "VPEP",
+      "twitter": "@VPEP_Bol"
     },
     {
       "airtableId": "recI9A0Ek1jqYsoor",
@@ -2161,7 +2211,8 @@
       ],
       "id": 43,
       "nombre": "Servicio Nacional de Áreas Protegidas",
-      "sigla": "SERNAP"
+      "sigla": "SERNAP",
+      "twitter": "@BoliviaSernap"
     },
     {
       "airtableId": "recJJOzi5dh3JG5Z8",
@@ -2173,7 +2224,8 @@
       ],
       "id": 27,
       "nombre": "Agencia para el Desarrollo de la Sociedad de la Información en Bolivia",
-      "sigla": "ADSIB"
+      "sigla": "ADSIB",
+      "twitter": "@AdsibBolivia"
     },
     {
       "airtableId": "recKBA59LTxEdOnBz",
@@ -2206,7 +2258,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 67,
-      "nombre": "Ministerio de Obras Públicas, Servicios y Vivienda"
+      "nombre": "Ministerio de Obras Públicas, Servicios y Vivienda",
+      "sigla": "MOPSV",
+      "twitter": "@mopsv_Bolivia"
     },
     {
       "airtableId": "recLL6oSqrudYT1U2",
@@ -2229,7 +2283,8 @@
         "recrEl2V8GSxaSshp"
       ],
       "id": 32,
-      "nombre": "Misión de Bolivia ante la ONU"
+      "nombre": "Misión de Bolivia ante la ONU",
+      "twitter": "@BoliviaUNNY"
     },
     {
       "airtableId": "recLkMEgOoHgLJkaU",
@@ -2251,7 +2306,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 66,
-      "nombre": "Ministerio de Defensa"
+      "nombre": "Ministerio de Defensa",
+      "sigla": "MD",
+      "twitter": "@mindefbolivia"
     },
     {
       "airtableId": "recMZKpo0Oe2nXTxY",
@@ -2263,7 +2320,8 @@
       ],
       "id": 36,
       "nombre": "Agencia Nacional de Hidrocarburos",
-      "sigla": "ANH"
+      "sigla": "ANH",
+      "twitter": "@AnhBolivia"
     },
     {
       "airtableId": "recMyjwIUpQLyZKnU",
@@ -2275,7 +2333,8 @@
       ],
       "id": 35,
       "nombre": "Yacimientos Petrolíferos Fiscales Bolivianos",
-      "sigla": "YPFB"
+      "sigla": "YPFB",
+      "twitter": "@YPFB_corp"
     },
     {
       "airtableId": "recNB343Y7zTT14nC",
@@ -2287,7 +2346,8 @@
       ],
       "id": 86,
       "nombre": "Lotería Nacional de Beneficencia y Salubridad",
-      "sigla": "Lonabol"
+      "sigla": "Lonabol",
+      "twitter": "@lonaboloficial"
     },
     {
       "airtableId": "recNDgMQZ59sRVlsW",
@@ -2322,7 +2382,8 @@
       ],
       "id": 120,
       "nombre": "Autoridad de Fiscalización de Empresas",
-      "sigla": "AEMP"
+      "sigla": "AEMP",
+      "twitter": "@AEMP_Bolivia"
     },
     {
       "airtableId": "recORizjtTew7imV6",
@@ -2334,7 +2395,8 @@
       ],
       "id": 96,
       "nombre": "Agencia Boliviana de Información",
-      "sigla": "ABI"
+      "sigla": "ABI",
+      "twitter": "@abi_bolivia"
     },
     {
       "airtableId": "recOzOvTBjCC3G68D",
@@ -2345,7 +2407,9 @@
         "recDI8RDjX6z76J0n"
       ],
       "id": 2,
-      "nombre": "Impuestos Nacionales"
+      "nombre": "Impuestos Nacionales",
+      "sigla": "SIN",
+      "twitter": "@sinbolivia"
     },
     {
       "airtableId": "recQ19ujBbg0HAm5O",
@@ -2379,7 +2443,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 64,
-      "nombre": "Ministerio de Justicia"
+      "nombre": "Ministerio de Justicia",
+      "sigla": "MJ",
+      "twitter": "@MinJusticiaBol"
     },
     {
       "airtableId": "recRyNTMG9AbcTwvn",
@@ -2390,7 +2456,8 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 24,
-      "nombre": "Policía Boliviana"
+      "nombre": "Policía Boliviana",
+      "twitter": "@Pol_Boliviana"
     },
     {
       "airtableId": "recSPM5XITdwqLfip",
@@ -2425,7 +2492,8 @@
       ],
       "id": 75,
       "nombre": "Ministerio de Medio Ambiente y Agua",
-      "sigla": "MMAyA"
+      "sigla": "MMAyA",
+      "twitter": "@AmbienteyAgua"
     },
     {
       "airtableId": "recTzn1zlduJylEbn",
@@ -2447,7 +2515,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 69,
-      "nombre": "Ministerio de Gobierno"
+      "nombre": "Ministerio de Gobierno",
+      "sigla": "MG",
+      "twitter": "@MindeGobierno"
     },
     {
       "airtableId": "recVWx1zATfZJ6Z5x",
@@ -2458,7 +2528,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 74,
-      "nombre": "Ministerio de Hidrocarburos y Energías"
+      "nombre": "Ministerio de Hidrocarburos y Energías",
+      "sigla": "MHE",
+      "twitter": "@BOLIVIA_MH"
     },
     {
       "airtableId": "recWshaodYECp899M",
@@ -2470,7 +2542,8 @@
       ],
       "desde": "2020-11-20",
       "id": 40,
-      "nombre": "Ministerio de Culturas, Descolonización y Despatriarcalización"
+      "nombre": "Ministerio de Culturas, Descolonización y Despatriarcalización",
+      "sigla": "MCDD"
     },
     {
       "airtableId": "recWxLpGq2Ax5d6RV",
@@ -2493,7 +2566,8 @@
       ],
       "id": 118,
       "nombre": "Insumos Bolivia",
-      "sigla": "Inbol"
+      "sigla": "Inbol",
+      "twitter": "@inbol_bo"
     },
     {
       "airtableId": "recXU8Pykjp4MDDvB",
@@ -2505,7 +2579,8 @@
       ],
       "id": 119,
       "nombre": "Servicio Nacional Textil",
-      "sigla": "Senatex"
+      "sigla": "Senatex",
+      "twitter": "@SenatexBolivia"
     },
     {
       "airtableId": "recZXuPo3n4QJ4cc1",
@@ -2516,7 +2591,8 @@
         "reccX4xvpiziL6dV9"
       ],
       "id": 3,
-      "nombre": "Viceministerio de Comunicación"
+      "nombre": "Viceministerio de Comunicación",
+      "twitter": "@vicemincom"
     },
     {
       "airtableId": "recZYEEHtWpw1B4UQ",
@@ -2573,7 +2649,8 @@
         "recdkuR3fetrWHrQf"
       ],
       "id": 25,
-      "nombre": "Viceministerio de Desarrollo Rural y Agropecuario"
+      "nombre": "Viceministerio de Desarrollo Rural y Agropecuario",
+      "twitter": "@VAgropecuario"
     },
     {
       "airtableId": "recbyxfOHMNLhBsr9",
@@ -2597,7 +2674,8 @@
       ],
       "id": 26,
       "nombre": "Servicio General de Identificación Personal",
-      "sigla": "SEGIP"
+      "sigla": "SEGIP",
+      "twitter": "@OficialSegip"
     },
     {
       "airtableId": "recc9MsgaFNLedbUg",
@@ -2620,7 +2698,8 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 19,
-      "nombre": "Fuerzas Armadas"
+      "nombre": "Fuerzas Armadas",
+      "twitter": "@ComandoLas"
     },
     {
       "airtableId": "reccX4xvpiziL6dV9",
@@ -2631,7 +2710,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 62,
-      "nombre": "Ministerio de la Presidencia"
+      "nombre": "Ministerio de la Presidencia",
+      "sigla": "MP",
+      "twitter": "@MinPresidencia"
     },
     {
       "airtableId": "reccvJTxdkFEZNV3r",
@@ -2643,7 +2724,8 @@
       ],
       "id": 112,
       "nombre": "Viceministerio de Comercio Interno",
-      "sigla": "VCI"
+      "sigla": "VCI",
+      "twitter": "@vcie_bo"
     },
     {
       "airtableId": "recdYVjnj6i7aL8ON",
@@ -2655,7 +2737,8 @@
       ],
       "id": 116,
       "nombre": "Empresa Boliviana de Alimentos y Derivados",
-      "sigla": "EBA"
+      "sigla": "EBA",
+      "twitter": "@ebabolivia"
     },
     {
       "airtableId": "recdkuR3fetrWHrQf",
@@ -2667,7 +2750,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 68,
-      "nombre": "Ministerio de Desarrollo Rural y Tierras"
+      "nombre": "Ministerio de Desarrollo Rural y Tierras",
+      "sigla": "MDRT",
+      "twitter": "@MDRyTOficial"
     },
     {
       "airtableId": "recejG6jvgHc487Fh",
@@ -2679,7 +2764,21 @@
       ],
       "id": 37,
       "nombre": "Autoridad de Fiscalización y Control Social del Juego",
-      "sigla": "AJ"
+      "sigla": "AJ",
+      "twitter": "@ajcomunica"
+    },
+    {
+      "airtableId": "recfmzNBkcUNYl59U",
+      "autoridades": [
+        "recVY8njuYBvWuto0"
+      ],
+      "dependencia": [
+        "recVFpQI3U7A124Tu"
+      ],
+      "id": 125,
+      "nombre": "Dirección General de Migración",
+      "sigla": "Digemig",
+      "twitter": "@MIGRACION_BOL"
     },
     {
       "airtableId": "recgGEx0KyYdUyTBv",
@@ -2691,7 +2790,8 @@
       ],
       "desde": "2020-11-20",
       "id": 41,
-      "nombre": "Viceministerio de Descolonización y Despatriarcalización"
+      "nombre": "Viceministerio de Descolonización y Despatriarcalización",
+      "twitter": "@VCMdesco"
     },
     {
       "airtableId": "recgdNaRmqEisAps9",
@@ -2703,7 +2803,8 @@
       ],
       "id": 104,
       "nombre": "Empresa Pública Nacional Estratégica Boliviana de Aviación",
-      "sigla": "BoA"
+      "sigla": "BoA",
+      "twitter": "@BoABolivia"
     },
     {
       "airtableId": "rech7XDeAzomF0c4N",
@@ -2715,7 +2816,8 @@
       ],
       "id": 46,
       "nombre": "Instituto Nacional de Estadísticas",
-      "sigla": "INE"
+      "sigla": "INE",
+      "twitter": "@INE_Bolivia"
     },
     {
       "airtableId": "rechFAJzZePNTzRry",
@@ -2726,7 +2828,9 @@
         "recDI8RDjX6z76J0n"
       ],
       "id": 59,
-      "nombre": "Aduana Nacional de Bolivia"
+      "nombre": "Aduana Nacional de Bolivia",
+      "sigla": "ANB",
+      "twitter": "@aduanabolivia"
     },
     {
       "airtableId": "rechL7mPzMaGGP15V",
@@ -2760,7 +2864,8 @@
       ],
       "id": 103,
       "nombre": "Empresa Estatal de Transporte por Cable Mi Teleférico",
-      "sigla": "Mi Teleférico"
+      "sigla": "Mi Teleférico",
+      "twitter": "@miteleferico"
     },
     {
       "airtableId": "recjHN6ifkTCdrZfg",
@@ -2771,7 +2876,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 15,
-      "nombre": "Procuraduría General del Estado"
+      "nombre": "Procuraduría General del Estado",
+      "sigla": "PGE",
+      "twitter": "@PGE_Bolivia"
     },
     {
       "airtableId": "recktwUPUvekQd9ZL",
@@ -2782,7 +2889,9 @@
         "recDI8RDjX6z76J0n"
       ],
       "id": 4,
-      "nombre": "Banco Central de Bolivia"
+      "nombre": "Banco Central de Bolivia",
+      "sigla": "BCB",
+      "twitter": "@BancoCentralBO"
     },
     {
       "airtableId": "reckylkCbOWHloSBG",
@@ -2827,7 +2936,9 @@
         "recRiMRkZ9ral1hlk"
       ],
       "id": 7,
-      "nombre": "Viceministerio de Defensa de los Derechos del Usuario y Consumidor"
+      "nombre": "Viceministerio de Defensa de los Derechos del Usuario y Consumidor",
+      "sigla": "VDDUC",
+      "twitter": "@consumidorbo"
     },
     {
       "airtableId": "recnFUdooZ3Qy5RLU",
@@ -2849,8 +2960,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 77,
-      "nombre": "Ministerio de Minería",
-      "sigla": "MM"
+      "nombre": "Ministerio de Minería y Metalurgia",
+      "sigla": "MMM",
+      "twitter": "@minmineriabo"
     },
     {
       "airtableId": "recnyahLF1rpTeWfT",
@@ -2884,7 +2996,8 @@
       ],
       "id": 98,
       "nombre": "Empresa Estatal de Televisión “Bolivia Tv”",
-      "sigla": "Bolivia Tv"
+      "sigla": "Bolivia Tv",
+      "twitter": "@Canal_BoliviaTV"
     },
     {
       "airtableId": "recpsq3ZnIN1y8B5F",
@@ -2895,7 +3008,8 @@
         "recVFpQI3U7A124Tu"
       ],
       "id": 34,
-      "nombre": "Viceministerio de Seguridad Ciudadana"
+      "nombre": "Viceministerio de Seguridad Ciudadana",
+      "twitter": "@vmsc_bolivia"
     },
     {
       "airtableId": "recqIU5v7Y2mS9UOt",
@@ -2929,7 +3043,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 73,
-      "nombre": "Ministerio de Relaciones Exteriores"
+      "nombre": "Ministerio de Relaciones Exteriores",
+      "sigla": "MRE",
+      "twitter": "@MRE_Bolivia"
     },
     {
       "airtableId": "recrExqP0j4MOzgPo",
@@ -2941,6 +3057,15 @@
       ],
       "id": 30,
       "nombre": "Viceministerio de Trabajo y Previsión Social"
+    },
+    {
+      "airtableId": "recrodKMMCT6YIO8j",
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 123,
+      "nombre": "Viceministerio de Deportes",
+      "twitter": "@vicedeportesbo"
     },
     {
       "airtableId": "recrwF4xEjfVleKFU",
@@ -2975,7 +3100,8 @@
       ],
       "id": 38,
       "nombre": "Servicio Nacional de Patrimonio del Estado",
-      "sigla": "Senape"
+      "sigla": "Senape",
+      "twitter": "@SenapeBolivia"
     },
     {
       "airtableId": "recsuCxQwrF93G855",
@@ -2986,7 +3112,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 79,
-      "nombre": "Ministerio de Educación"
+      "nombre": "Ministerio de Educación",
+      "sigla": "ME",
+      "twitter": "@minedubol"
     },
     {
       "airtableId": "rect79EqMmaKNiI6o",
@@ -3009,7 +3137,8 @@
       ],
       "id": 84,
       "nombre": "Servicio Plurinacional de la Mujer y la Despatriarcalización \"Ana María Romero\"",
-      "sigla": "Sepmud"
+      "sigla": "Sepmud",
+      "twitter": "@Sepmudbo"
     },
     {
       "airtableId": "recuSo6VuY2hLOdEp",
@@ -3032,7 +3161,9 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 78,
-      "nombre": "Ministerio de Salud"
+      "nombre": "Ministerio de Salud",
+      "sigla": "MS",
+      "twitter": "@MinSaludBolivia"
     },
     {
       "airtableId": "recv0GqYie4W2RIRn",
@@ -3042,7 +3173,6 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
-      "desde": "2020-11-30",
       "id": 93,
       "nombre": "Autoridad de Fiscalización de Electricidad y Tecnología Nuclear",
       "sigla": "AETN"
@@ -3056,7 +3186,8 @@
         "recZXuPo3n4QJ4cc1"
       ],
       "id": 99,
-      "nombre": "Radio Illimani - Red Patria Nueva"
+      "nombre": "Radio Illimani - Red Patria Nueva",
+      "twitter": "@RadioIllimani @PatriaNuevaBo"
     },
     {
       "airtableId": "recvV6W1W8KsG5eJw",
@@ -3068,7 +3199,8 @@
       ],
       "id": 87,
       "nombre": "Empresa Nacional de Telecomunicaciones",
-      "sigla": "Entel-Bolivia"
+      "sigla": "Entel-Bolivia",
+      "twitter": "@entelbo"
     },
     {
       "airtableId": "recwqL9u3uLwcmRPz",
@@ -3079,7 +3211,8 @@
         "recZXuPo3n4QJ4cc1"
       ],
       "id": 95,
-      "nombre": "Periódico Bolivia"
+      "nombre": "Periódico Bolivia",
+      "twitter": "@Bolivia_bol"
     },
     {
       "airtableId": "recxzuGZwOGJr7TZT",
@@ -3091,7 +3224,8 @@
       ],
       "id": 110,
       "nombre": "Agencia Estatal de Vivienda",
-      "sigla": "AEVivienda"
+      "sigla": "AEVivienda",
+      "twitter": "@AeviBolivia"
     },
     {
       "airtableId": "recyLf6XPjWlW7w1B",
@@ -3103,7 +3237,8 @@
       ],
       "id": 117,
       "nombre": "Empresa Azucarera San Buenaventura",
-      "sigla": "EASBA"
+      "sigla": "EASBA",
+      "twitter": "@EASBA_Bolivia"
     },
     {
       "airtableId": "recyMpkgqj37VCj7M",
@@ -3115,7 +3250,8 @@
       ],
       "id": 72,
       "nombre": "Ministerio de Trabajo, Empleo y Previsión Social",
-      "sigla": "MTEPS"
+      "sigla": "MTEPS",
+      "twitter": "@MinTrabajoBol"
     },
     {
       "airtableId": "recyZpRPwyAAMczTb",
@@ -3152,7 +3288,8 @@
         "reccOyt73GJKFfU2z"
       ],
       "id": 23,
-      "nombre": "Armada"
+      "nombre": "Armada",
+      "twitter": "@ArmadaBoliviana"
     },
     {
       "airtableId": "reczDRfj7RzcIwK3w",
@@ -3164,7 +3301,8 @@
       ],
       "id": 80,
       "nombre": "Fondo Nacional de Desarrollo Regional",
-      "sigla": "FNDR"
+      "sigla": "FNDR",
+      "twitter": "@FNDR_Bolivia"
     },
     {
       "airtableId": "reczz5xCwbq6m6S26",
@@ -3174,10 +3312,19 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
-      "desde": "2020-11-27",
       "id": 89,
       "nombre": "Viceministerio de Altas Tecnologías Energéticas",
       "sigla": "VATE"
+    },
+    {
+      "airtableId": "reczzGBh5rfP7ad3c",
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 121,
+      "nombre": "Instituto Nacional de Innovación Agropecuaria y Forestal",
+      "sigla": "INIAF",
+      "twitter": "@INIAFBolivia"
     }
   ],
   "fuentes": [
@@ -3278,6 +3425,14 @@
       "fuente": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
       "id": 33,
       "tweet": "https://twitter.com/BoliviaMaes/status/1329581820015472641"
+    },
+    {
+      "airtableId": "rec88ugM9sCswTbRA",
+      "autoridad": [
+        "recVY8njuYBvWuto0"
+      ],
+      "fuente": "https://mobile.twitter.com/MIGRACION_BOL/status/1330909496126951425",
+      "id": 106
     },
     {
       "airtableId": "rec8rn6iwcvOfsPmW",
@@ -3490,7 +3645,7 @@
       "autoridad": [
         "recEG0R9MK8FKDzyj"
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334900359110791168",
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
       "id": 101,
       "tweet": "https://twitter.com/BoliviaMaes/status/1334916756926832649"
     },
@@ -3719,7 +3874,7 @@
       "autoridad": [
         "recGD7aJZg8lxBbuX"
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334900359110791168",
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
       "id": 102,
       "tweet": "https://twitter.com/BoliviaMaes/status/1334917762637066240"
     },
@@ -4739,7 +4894,8 @@
       ],
       "genero": "Hombre",
       "id": 16,
-      "nombre": "Freddy Martín Bobaryn López"
+      "nombre": "Freddy Martín Bobaryn López",
+      "twitter": "@fbobaryn"
     },
     {
       "airtableId": "rec61OldBV0M1p6VW",
@@ -4844,7 +5000,8 @@
       ],
       "genero": "Hombre",
       "id": 93,
-      "nombre": "Iván Manolo Lima Magne"
+      "nombre": "Iván Manolo Lima Magne",
+      "twitter": "@ivanlimamagne"
     },
     {
       "airtableId": "rec9ID6uVNfZeCgAQ",
@@ -5102,7 +5259,8 @@
       ],
       "genero": "Hombre",
       "id": 103,
-      "nombre": "David Choquehuanca Céspedes"
+      "nombre": "David Choquehuanca Céspedes",
+      "twitter": "@LaramaDavid"
     },
     {
       "airtableId": "recDJ2t4RNXoKDDdl",
@@ -5207,7 +5365,8 @@
       ],
       "genero": "Hombre",
       "id": 87,
-      "nombre": "Rogelio Mayta Mayta"
+      "nombre": "Rogelio Mayta Mayta",
+      "twitter": "@RogelioMayta_Bo"
     },
     {
       "airtableId": "recERNQ8SGNgSqLWl",
@@ -5686,7 +5845,8 @@
       ],
       "genero": "Hombre",
       "id": 32,
-      "nombre": "Diego Pary Rodríguez"
+      "nombre": "Diego Pary Rodríguez",
+      "twitter": "@DiegoPary"
     },
     {
       "airtableId": "recJgECOthSwzpO5r",
@@ -5721,7 +5881,8 @@
       ],
       "genero": "Hombre",
       "id": 104,
-      "nombre": "Ronald Salvador Casso Casso"
+      "nombre": "Ronald Salvador Casso Casso",
+      "twitter": "@RonaldCasso"
     },
     {
       "airtableId": "recKBhFHNYlCUnp86",
@@ -5791,7 +5952,8 @@
       ],
       "genero": "Hombre",
       "id": 36,
-      "nombre": "Germán Daniel Jiménez Terán"
+      "nombre": "Germán Daniel Jiménez Terán",
+      "twitter": "@GermanJimenezT"
     },
     {
       "airtableId": "recKhjcbT5tNK7m5R",
@@ -5896,7 +6058,8 @@
       ],
       "genero": "Hombre",
       "id": 102,
-      "nombre": "Luis Alberto Arce Catacora"
+      "nombre": "Luis Alberto Arce Catacora",
+      "twitter": "@LuchoXBolivia"
     },
     {
       "airtableId": "recLmgsjYLMu33XaT",
@@ -6200,7 +6363,8 @@
       ],
       "genero": "Hombre",
       "id": 96,
-      "nombre": "Adrián Quelca Tarqui"
+      "nombre": "Adrián Quelca Tarqui",
+      "twitter": "@QuelcaAdrian"
     },
     {
       "airtableId": "recRinH2kT7LKtgTk",
@@ -6375,7 +6539,8 @@
       ],
       "genero": "Hombre",
       "id": 89,
-      "nombre": "Carlos Eduardo del Castillo del Carpio"
+      "nombre": "Carlos Eduardo del Castillo del Carpio",
+      "twitter": "@EDelCastilloDC"
     },
     {
       "airtableId": "recUbhQRcEhEBgLRJ",
@@ -6445,7 +6610,8 @@
       ],
       "genero": "Hombre",
       "id": 33,
-      "nombre": "Emilio Rodas"
+      "nombre": "Emilio Rodas",
+      "twitter": "@RodasEmilio"
     },
     {
       "airtableId": "recVAwe4aCOFqbkjr",
@@ -6515,7 +6681,8 @@
       ],
       "genero": "Hombre",
       "id": 108,
-      "nombre": "Roger Cruz Pinedo"
+      "nombre": "Roger Cruz Pinedo",
+      "twitter": "@rogercruzpined1"
     },
     {
       "airtableId": "recXGuvR23HSVcOUY",
@@ -6550,7 +6717,8 @@
       ],
       "genero": "Mujer",
       "id": 3,
-      "nombre": "Gabriela Alcón Merubia"
+      "nombre": "Gabriela Alcón Merubia",
+      "twitter": "@GabrielaAlconM"
     },
     {
       "airtableId": "recXHEkasC2ydJGCN",
@@ -6620,7 +6788,8 @@
       ],
       "genero": "Mujer",
       "id": 57,
-      "nombre": "Áurea Balderrama"
+      "nombre": "Áurea Balderrama",
+      "twitter": "@AUREABALDERRAMA"
     },
     {
       "airtableId": "recXU1Ov3QnvcOesw",
@@ -6725,7 +6894,8 @@
       ],
       "genero": "Mujer",
       "id": 88,
-      "nombre": "María  Nela Prada Tejada"
+      "nombre": "María  Nela Prada Tejada",
+      "twitter": "@MariaNelaPradaT"
     },
     {
       "airtableId": "recYiUOiAx8yWHwK4",
@@ -6865,7 +7035,8 @@
       ],
       "genero": "Mujer",
       "id": 26,
-      "nombre": "Patricia Hermosa"
+      "nombre": "Patricia Hermosa",
+      "twitter": "@PatyHermosaG"
     },
     {
       "airtableId": "recaxy9A2mmMRnwKw",
@@ -6970,7 +7141,8 @@
       ],
       "genero": "Hombre",
       "id": 94,
-      "nombre": "Edgar Montaño Rojas"
+      "nombre": "Edgar Montaño Rojas",
+      "twitter": "@EdgarMo33322015"
     },
     {
       "airtableId": "recdABzeBoiKOSu1W",
@@ -7228,7 +7400,8 @@
       ],
       "genero": "Hombre",
       "id": 95,
-      "nombre": "Edgar Pozo Valdivia"
+      "nombre": "Edgar Pozo Valdivia",
+      "twitter": "@Edgarpozoval"
     },
     {
       "airtableId": "recfKktImAY2Cuau1",
@@ -7301,6 +7474,65 @@
       "nombre": "Humberto Arandia Claure"
     },
     {
+      "airtableId": "recfU0rLEmQ7mxUGg",
+      "autoridades": [
+        "recVY8njuYBvWuto0"
+      ],
+      "fotos": [
+        {
+          "filename": "Ens2dg6XIAUVvQ_.jpeg",
+          "id": "attrFbAXcjMML3cK5",
+          "size": 253305,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e3d3b4d04cff0c4667b146595b1e4959/07c1ffab",
+              "width": 3000
+            },
+            "large": {
+              "height": 677,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/94fc564537969d2086768be8646a33fd/5d9d9eb1",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ef51d28442dd90ea435bd908180bf6ec/b9adc15d",
+              "width": 27
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/18b88ec73de94a9fac5d4175cd5fb02c/3b190665/Ens2dg6XIAUVvQ_.jpeg"
+        },
+        {
+          "filename": "EnhAj0DXIAANRq5.jpeg",
+          "id": "attoPPlYj7TMAKWWI",
+          "size": 793087,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7218191d655c1f5dd9e4eecfd71945ab/0031059e",
+              "width": 3000
+            },
+            "large": {
+              "height": 585,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7a26f818b9870c6a7b7401faa9abe47a/3ec2b077",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c3e0b1dcde2a781b098135f2f9d96597/b111737d",
+              "width": 31
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a3e9105c463ddf6628cb2e8e54ae558e/6de6088b/EnhAj0DXIAANRq5.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 121,
+      "nombre": "Katherine Calderón Valle"
+    },
+    {
       "airtableId": "recfoAp2YUsP5Ht9v",
       "autoridades": [
         "rec7MYTm8hs8ujVOV"
@@ -7333,7 +7565,8 @@
       ],
       "genero": "Mujer",
       "id": 59,
-      "nombre": "Liliana Karina Serrudo Miranda"
+      "nombre": "Liliana Karina Serrudo Miranda",
+      "twitter": "@SerrudoKarina"
     },
     {
       "airtableId": "recfu72iysNISXDNS",
@@ -7473,7 +7706,8 @@
       ],
       "genero": "Hombre",
       "id": 15,
-      "nombre": "Wilfredo Franz David Chávez Serrano"
+      "nombre": "Wilfredo Franz David Chávez Serrano",
+      "twitter": "@wichaser"
     },
     {
       "airtableId": "recicwAiTbRm2lLHI",
@@ -7696,7 +7930,8 @@
       ],
       "genero": "Hombre",
       "id": 7,
-      "nombre": "Jorge Silva Trujillo"
+      "nombre": "Jorge Silva Trujillo",
+      "twitter": "@jorgecambio"
     },
     {
       "airtableId": "reckqcdfvWwB8AOgT",
@@ -7966,7 +8201,8 @@
       ],
       "genero": "Hombre",
       "id": 90,
-      "nombre": "Edmundo Novillo"
+      "nombre": "Edmundo Novillo",
+      "twitter": "@Ed_Novillo"
     },
     {
       "airtableId": "reco5hMTHBxCTzZnU",
@@ -8550,7 +8786,8 @@
       ],
       "genero": "Hombre",
       "id": 67,
-      "nombre": "Carmelo Valda"
+      "nombre": "Carmelo Valda",
+      "twitter": "@CarmeloValda"
     }
   ]
 }
