@@ -91,6 +91,21 @@
       ]
     },
     {
+      "airtableId": "rec4AYqMCCP4MFNDp",
+      "cargo": "Gerente General del SEDEM (Servicio de Desarrollo de las Empresas Públicas Productivas)",
+      "desde": "2020-12-07",
+      "entidad": [
+        "reccAXEFxQLBasjW7"
+      ],
+      "fuente": [
+        "recg3ZM9EeClmJdWm"
+      ],
+      "id": 124,
+      "persona": [
+        "recGU1ozqANDRAt03"
+      ]
+    },
+    {
       "airtableId": "rec4q4g6EjkxFSb2E",
       "cargo": "Directora Ejecutiva de la AJ (Autoridad de Fiscalización y Control Social del Juego)",
       "desde": "2020-11-20",
@@ -691,6 +706,21 @@
       ]
     },
     {
+      "airtableId": "recNswUXJakBAQZWz",
+      "cargo": "Presidente Ejecutivo Interino del Directorio de ENFE (Empresa Nacional de Ferrocarriles)",
+      "desde": "2020-12-07",
+      "entidad": [
+        "recJmLGJ8lygyRBSj"
+      ],
+      "fuente": [
+        "recaWXrbCFoDLoZTk"
+      ],
+      "id": 125,
+      "persona": [
+        "recB8czn0012QcC6r"
+      ]
+    },
+    {
       "airtableId": "recP4SZbcqHbkOgzo",
       "cargo": "Viceministra de Comunicación",
       "desde": "2020-11-13",
@@ -1123,6 +1153,21 @@
       "id": 121,
       "persona": [
         "recfKktImAY2Cuau1"
+      ]
+    },
+    {
+      "airtableId": "reccI0LvPKY6rqhUE",
+      "cargo": "Director Ejecutivo Interino de la DGAC (Dirección General de Aeronáutica Civil) ",
+      "desde": "2020-12-07",
+      "entidad": [
+        "recoAfPInKnlBD3JO"
+      ],
+      "fuente": [
+        "rec59NDbzpNYyxMNA"
+      ],
+      "id": 126,
+      "persona": [
+        "recGhJoEuhZb4Ea6Z"
       ]
     },
     {
@@ -2228,6 +2273,18 @@
       "twitter": "@AdsibBolivia"
     },
     {
+      "airtableId": "recJmLGJ8lygyRBSj",
+      "autoridades": [
+        "recNswUXJakBAQZWz"
+      ],
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 127,
+      "nombre": "Empresa Nacional de Ferrocarriles",
+      "sigla": "ENFE"
+    },
+    {
       "airtableId": "recKBA59LTxEdOnBz",
       "autoridades": [
         "recAIYfWUWaZOyrYW"
@@ -2690,6 +2747,18 @@
       "sigla": "VEEH"
     },
     {
+      "airtableId": "reccAXEFxQLBasjW7",
+      "autoridades": [
+        "rec4AYqMCCP4MFNDp"
+      ],
+      "dependencia": [
+        "rec6hLDHJ33gjulLJ"
+      ],
+      "id": 126,
+      "nombre": "Servicio de Desarrollo de las Empresas Públicas Productivas",
+      "sigla": "SEDEM"
+    },
+    {
       "airtableId": "reccOyt73GJKFfU2z",
       "autoridades": [
         "rec2VWDUcJm5gZYpW"
@@ -2985,6 +3054,18 @@
       ],
       "id": 11,
       "nombre": "Viceministerio de Política Tributaria"
+    },
+    {
+      "airtableId": "recoAfPInKnlBD3JO",
+      "autoridades": [
+        "reccI0LvPKY6rqhUE"
+      ],
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 128,
+      "nombre": "Dirección General de Aeronáutica Civil",
+      "sigla": "DGAC"
     },
     {
       "airtableId": "recpdpz1bWV3Zr83H",
@@ -3390,6 +3471,15 @@
       "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "id": 5,
       "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327050453197189120"
+    },
+    {
+      "airtableId": "rec59NDbzpNYyxMNA",
+      "autoridad": [
+        "reccI0LvPKY6rqhUE"
+      ],
+      "fuente": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
+      "id": 109,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1336230559526301696"
     },
     {
       "airtableId": "rec5s0djNZPhTiS0a",
@@ -3879,6 +3969,15 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1334917762637066240"
     },
     {
+      "airtableId": "recaWXrbCFoDLoZTk",
+      "autoridad": [
+        "recNswUXJakBAQZWz"
+      ],
+      "fuente": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
+      "id": 108,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1336229157383114753"
+    },
+    {
       "airtableId": "recacx4hJEO7EELbQ",
       "autoridad": [
         "recP4SZbcqHbkOgzo"
@@ -3985,6 +4084,15 @@
       "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
       "id": 44,
       "tweet": "https://twitter.com/BoliviaMaes/status/1330027410599923714"
+    },
+    {
+      "airtableId": "recg3ZM9EeClmJdWm",
+      "autoridad": [
+        "rec4AYqMCCP4MFNDp"
+      ],
+      "fuente": "https://eldeber.com.bo/pais/ministro-huanca-posesionan-a-gerente-de-sedem-e-instruye-acciones-legales-en-ecebol_211421",
+      "id": 107,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1336227917882388480"
     },
     {
       "airtableId": "recgiWxW3YCMtjdFK",
@@ -4666,7 +4774,8 @@
       ],
       "genero": "Hombre",
       "id": 116,
-      "nombre": "Jaime Freire Bustos"
+      "nombre": "Javier Freire Bustos",
+      "twitter": "@JavierFreire22"
     },
     {
       "airtableId": "rec3MTYwmnvxKRgoS",
@@ -5037,6 +5146,41 @@
       "genero": "Hombre",
       "id": 25,
       "nombre": "Álvaro Mollinedo Catari"
+    },
+    {
+      "airtableId": "recB8czn0012QcC6r",
+      "autoridades": [
+        "recNswUXJakBAQZWz"
+      ],
+      "fotos": [
+        {
+          "filename": "EoqsHFeW4AQkA3Z.jpeg",
+          "id": "attI9qHsujeYkFiBd",
+          "size": 89305,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cb3935ad34b954e981a1c8251038146a/681672c6",
+              "width": 3000
+            },
+            "large": {
+              "height": 624,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/38a749297576b125b9b68abf042144fc/504e1793",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6c564ff3674ed4739b6ec636c2e9b921/6fb0352e",
+              "width": 30
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b8b8ea6dda37c180624c397ac2095da0/bee5be96/EoqsHFeW4AQkA3Z.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 123,
+      "nombre": "Beymar Escalier"
     },
     {
       "airtableId": "recBPsxhacvI5muzu",
@@ -5531,6 +5675,76 @@
       "genero": "Hombre",
       "id": 39,
       "nombre": "Gonzalo Rodríguez"
+    },
+    {
+      "airtableId": "recGU1ozqANDRAt03",
+      "autoridades": [
+        "rec4AYqMCCP4MFNDp"
+      ],
+      "fotos": [
+        {
+          "filename": "senasag2.jpeg",
+          "id": "attmYez0OF0IEHzfo",
+          "size": 14232,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/009fb7547fee91adea378d939388233f/c8a2234c",
+              "width": 3000
+            },
+            "large": {
+              "height": 279,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/16c9ab3266bf580af608fe70b0f157ea/fe7d4783",
+              "width": 208
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6876ff2e63f72ee60dc9d4d4ec719389/fa7c70f6",
+              "width": 27
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/0a976030bbd29119eaf44c1fd35dbba5/f9720f2b/senasag2.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 122,
+      "nombre": "Fátima Pacheco Domínguez"
+    },
+    {
+      "airtableId": "recGhJoEuhZb4Ea6Z",
+      "autoridades": [
+        "reccI0LvPKY6rqhUE"
+      ],
+      "fotos": [
+        {
+          "filename": "IMG-20201207-WA0039.jpeg",
+          "id": "attjD59d5W1AZMnWX",
+          "size": 67408,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/48ff6b669ac1114d75744ff670e7bce4/93b4bf71",
+              "width": 3000
+            },
+            "large": {
+              "height": 630,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3adee6b7431007129b1787b7b36f98eb/ebd575c2",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3d26be02acb8fef91212b5a619a51a81/6e1b0614",
+              "width": 29
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7b65386da5b413b9bb7a81694fce5a39/b2640521/IMG-20201207-WA0039.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 124,
+      "nombre": "Celier Aparicio Arispe Rosas"
     },
     {
       "airtableId": "recGpbDrz8y29Tcci",
