@@ -271,6 +271,21 @@
       ]
     },
     {
+      "airtableId": "rec8RYVMgbacWA81M",
+      "cargo": "Gerente General de la CNS (Caja Nacional de Salud)",
+      "desde": "2020-12-08",
+      "entidad": [
+        "recSpPxv2UEzUcBZ9"
+      ],
+      "fuente": [
+        "recL32H6j7jPaeCdk"
+      ],
+      "id": 127,
+      "persona": [
+        "reczhJu1QRmDquDf5"
+      ]
+    },
+    {
       "airtableId": "rec9Obg5onwXOb3CD",
       "cargo": "Procurador General del Estado",
       "desde": "2020-11-13",
@@ -497,7 +512,7 @@
     },
     {
       "airtableId": "recEvkGKDvnnyXfef",
-      "cargo": "Ministro de Justicia",
+      "cargo": "Ministro de Justicia y Transparencia Institucional",
       "desde": "2020-11-09",
       "entidad": [
         "recRiMRkZ9ral1hlk"
@@ -2166,6 +2181,16 @@
       "nombre": "Viceministerio de Gestión del Sistema Sanitario"
     },
     {
+      "airtableId": "recFOLfLWOglx0Wku",
+      "dependencia": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "id": 132,
+      "nombre": "Servicio Nacional de Registro y Control de la Comercialización de Minerales y Metales",
+      "sigla": "Senarecom",
+      "twitter": "@senarecom1"
+    },
+    {
       "airtableId": "recGUD7Z0Yutsw0Qp",
       "autoridades": [
         "recQebcFZCzM7C4WA"
@@ -2177,6 +2202,16 @@
       "nombre": "Empresa Nacional de Electricidad",
       "sigla": "ENDE",
       "twitter": "@ENDECORPORACION"
+    },
+    {
+      "airtableId": "recGd2bkKqbHilBs8",
+      "dependencia": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "id": 131,
+      "nombre": "Corporación Minera de Bolivia",
+      "sigla": "Comibol",
+      "twitter": "@BocaminaCOMIBOL"
     },
     {
       "airtableId": "recGiUlqM9f9ntcIC",
@@ -2282,7 +2317,8 @@
       ],
       "id": 127,
       "nombre": "Empresa Nacional de Ferrocarriles",
-      "sigla": "ENFE"
+      "sigla": "ENFE",
+      "twitter": "@ENFE_BOLIVIA"
     },
     {
       "airtableId": "recKBA59LTxEdOnBz",
@@ -2500,7 +2536,7 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 64,
-      "nombre": "Ministerio de Justicia",
+      "nombre": "Ministerio de Justicia y Transparencia Institucional",
       "sigla": "MJ",
       "twitter": "@MinJusticiaBol"
     },
@@ -2526,6 +2562,19 @@
       ],
       "id": 12,
       "nombre": "Viceministerio de Presupuesto y Contabilidad Fiscal"
+    },
+    {
+      "airtableId": "recSpPxv2UEzUcBZ9",
+      "autoridades": [
+        "rec8RYVMgbacWA81M"
+      ],
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 129,
+      "nombre": "Caja Nacional de Salud",
+      "sigla": "CNS",
+      "twitter": "@CNS_Bolivia"
     },
     {
       "airtableId": "recTK3JBtupWDRLSB",
@@ -2638,6 +2687,16 @@
       "nombre": "Servicio Nacional Textil",
       "sigla": "Senatex",
       "twitter": "@SenatexBolivia"
+    },
+    {
+      "airtableId": "recXl5E4bULUVd7Gw",
+      "dependencia": [
+        "rec6hLDHJ33gjulLJ"
+      ],
+      "id": 133,
+      "nombre": "Empresa de Envases de Vidrio de Bolivia",
+      "sigla": "Envibol",
+      "twitter": "@envibol"
     },
     {
       "airtableId": "recZXuPo3n4QJ4cc1",
@@ -2756,7 +2815,8 @@
       ],
       "id": 126,
       "nombre": "Servicio de Desarrollo de las Empresas Públicas Productivas",
-      "sigla": "SEDEM"
+      "sigla": "SEDEM",
+      "twitter": "@Sedem_Bolivia"
     },
     {
       "airtableId": "reccOyt73GJKFfU2z",
@@ -2937,6 +2997,16 @@
       "twitter": "@miteleferico"
     },
     {
+      "airtableId": "reciPvyYzpk1CjOk9",
+      "dependencia": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "id": 130,
+      "nombre": "Autoridad Juridiccional Administrativa Minera",
+      "sigla": "AJAM",
+      "twitter": "@AJAMBolivia"
+    },
+    {
       "airtableId": "recjHN6ifkTCdrZfg",
       "autoridades": [
         "rec9Obg5onwXOb3CD"
@@ -3065,7 +3135,8 @@
       ],
       "id": 128,
       "nombre": "Dirección General de Aeronáutica Civil",
-      "sigla": "DGAC"
+      "sigla": "DGAC",
+      "twitter": "@dgacbolivia"
     },
     {
       "airtableId": "recpdpz1bWV3Zr83H",
@@ -3242,8 +3313,8 @@
         "recDPejejWlgRG7Vc"
       ],
       "id": 78,
-      "nombre": "Ministerio de Salud",
-      "sigla": "MS",
+      "nombre": "Ministerio de Salud y Deportes",
+      "sigla": "MSD",
       "twitter": "@MinSaludBolivia"
     },
     {
@@ -3738,6 +3809,15 @@
       "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
       "id": 101,
       "tweet": "https://twitter.com/BoliviaMaes/status/1334916756926832649"
+    },
+    {
+      "airtableId": "recL32H6j7jPaeCdk",
+      "autoridad": [
+        "rec8RYVMgbacWA81M"
+      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1336494175953498112",
+      "id": 110,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1336582385790558208"
     },
     {
       "airtableId": "recLZLMghunD2SaD6",
@@ -4466,6 +4546,30 @@
           },
           "type": "image/png",
           "url": "https://dl.airtable.com/.attachments/e4dd6e920436147397fc6efe9033b7aa/497f1364/EmrHhuxWMAIuivn.png"
+        },
+        {
+          "filename": "VTILCCJuliaSusanaRíos.jpeg",
+          "id": "attsmGUJ1N7QrLAno",
+          "size": 417168,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/48a84863e5fa5289b4d110dda4eff71d/c98c279a",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b0bb41ff2b1481faa5b1b5e8dd8ea679/81e092c8",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c12074ba3233aa91aacf7a00e716f0a7/7e6ac97a",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7b0ad5640d4d5dcf533d537295c3ff51/844af89c/VTILCCJuliaSusanaRios.jpeg"
         }
       ],
       "genero": "Mujer",
@@ -5105,6 +5209,30 @@
           },
           "type": "image/jpeg",
           "url": "https://dl.airtable.com/.attachments/e51656ac295508efa6b3b3680ab833f7/555d565c/ivn-lima_1394729995_760x520.jpeg"
+        },
+        {
+          "filename": "mae.jpeg",
+          "id": "atttqteInluhJTl0u",
+          "size": 24874176,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/aac2a88404a4587efc41e43b8da329ae/6339505f",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d27838c0c14c91904a09a1084d396bb8/2737b5a7",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/652a913c88499b8cad1ba30ea90557f9/63d0869f",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/d4035f3362f139362ca0aec0b9552b96/11eddbbe/mae.jpeg"
         }
       ],
       "genero": "Hombre",
@@ -6609,6 +6737,30 @@
           },
           "type": "image/png",
           "url": "https://dl.airtable.com/.attachments/e0ecd4ace149ecf1c3daf3c529d518eb/7861c859/EmqhLGKXIAIJzjp.png"
+        },
+        {
+          "filename": "VJDFCesarAdalidSilesBazan.jpeg",
+          "id": "attf4LiRKAbwNJ3oC",
+          "size": 389052,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/069aba6ba6d9e5e7a52facbe1e045a71/a69c862c",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f9a7e77af3710374faa428bb538fc950/a830865b",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/43f17cb921459d3569cb54337f096c82/b04ece7f",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/bc04b7e2a48036834eb0054b26a6e03f/924c286c/VJDFCesarAdalidSilesBazan.jpeg"
         }
       ],
       "genero": "Hombre",
@@ -7575,11 +7727,35 @@
           },
           "type": "image/webp",
           "url": "https://dl.airtable.com/.attachments/94d8d56403d28c21d636fed5c81ff9f3/f30602b6/f768x1-333866_333993_5050.webp"
+        },
+        {
+          "filename": "viomiriamhuacani.png",
+          "id": "attpEGj7dYYo3p3Vg",
+          "size": 2750311,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ca6c9f5029dc6fe14e2fc607a49d55d4/b0cec0d6",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1b5ff15e20179b1b1e06e1e9f1f4431b/771fce81",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5eeeb532192e38fcdce636b18223f448/4c34b90a",
+              "width": 24
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/7298cca0ee6c857e3355951f3fe810e1/f9a4a3e1/viomiriamhuacani.png"
         }
       ],
       "genero": "Mujer",
       "id": 6,
-      "nombre": "Miriam Julieta Huacani"
+      "nombre": "Miriam Julieta Huacani Zapana"
     },
     {
       "airtableId": "recfIzz7Vk4BIPaSy",
@@ -8140,11 +8316,35 @@
           },
           "type": "image/png",
           "url": "https://dl.airtable.com/.attachments/d82897e2885559de5bb3a2472e3b519e/b402ec8b/EmqigDDXcAEtQfW.png"
+        },
+        {
+          "filename": "VDDUCFelipeJorgeSilvaTrujillo.jpeg",
+          "id": "attqnRXm1xmihGDph",
+          "size": 237615,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a9c098f8abea63b4bcfaaac251317df4/89c23867",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c14c50f9ba186fff0d839e561b0a4e1f/82676b00",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/be971dc224fd9836e149a1a8493b721a/988871e9",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/bf27a5d2582fcc44a634ddcd69bcd407/8246bf03/VDDUCFelipeJorgeSilvaTrujillo.jpeg"
         }
       ],
       "genero": "Hombre",
       "id": 7,
-      "nombre": "Jorge Silva Trujillo",
+      "nombre": "Felipe Jorge Silva Trujillo",
       "twitter": "@jorgecambio"
     },
     {
@@ -9002,6 +9202,41 @@
       "id": 67,
       "nombre": "Carmelo Valda",
       "twitter": "@CarmeloValda"
+    },
+    {
+      "airtableId": "reczhJu1QRmDquDf5",
+      "autoridades": [
+        "rec8RYVMgbacWA81M"
+      ],
+      "fotos": [
+        {
+          "filename": "EowuOqgWEAAT6Bl.jpeg",
+          "id": "attGdYPZtfPImpf5L",
+          "size": 133155,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/26874ddf7606a1e6e3f93efed4b9e152/5fb2eff3",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e91c6815ea4afd53aec20bd8abf1d52e/4eaeaf42",
+              "width": 708
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bdcc49e9e78750dcf5f7bc544e7baeff/b98587d1",
+              "width": 50
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/920be62a8f6edde323259ea3ced3425a/1513e2bb/EowuOqgWEAAT6Bl.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 125,
+      "nombre": "Silvia Gallegos Romero"
     }
   ]
 }
