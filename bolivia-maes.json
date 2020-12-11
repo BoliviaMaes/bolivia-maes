@@ -526,6 +526,21 @@
       ]
     },
     {
+      "airtableId": "recFGHiTt4wWIqdJq",
+      "cargo": "Viceministro de Inversión Pública y Financiamiento Externo",
+      "desde": "2020-12-10",
+      "entidad": [
+        "recOxXon3IRtty2bn"
+      ],
+      "fuente": [
+        "reckIOZF27IOjiDQX"
+      ],
+      "id": 129,
+      "persona": [
+        "recz5rdtg5eAjBHtR"
+      ]
+    },
+    {
       "airtableId": "recFZWnVB8Jnq4Cyw",
       "cargo": "Ministro de Obras Públicas Servicios y Vivienda",
       "desde": "2020-11-09",
@@ -1078,6 +1093,21 @@
       "id": 47,
       "persona": [
         "rec61OldBV0M1p6VW"
+      ]
+    },
+    {
+      "airtableId": "recZDkPJe28GcfNpV",
+      "cargo": "Viceministro de Planificación y Coordinación",
+      "desde": "2020-12-10",
+      "entidad": [
+        "reciJUoAjHQX0OOlY"
+      ],
+      "fuente": [
+        "rec7bW1c3TCHz1Kt1"
+      ],
+      "id": 128,
+      "persona": [
+        "rec3pFWIssZW0RNT5"
       ]
     },
     {
@@ -2492,6 +2522,18 @@
       "twitter": "@abi_bolivia"
     },
     {
+      "airtableId": "recOxXon3IRtty2bn",
+      "autoridades": [
+        "recFGHiTt4wWIqdJq"
+      ],
+      "dependencia": [
+        "rec6hOG1aBXYJnXYZ"
+      ],
+      "id": 135,
+      "nombre": "Viceministerio de Inversión Pública y Financiamiento Externo",
+      "sigla": "VIPFE"
+    },
+    {
       "airtableId": "recOzOvTBjCC3G68D",
       "autoridades": [
         "recEGcFGKmfXEqav0"
@@ -2636,7 +2678,7 @@
       "id": 74,
       "nombre": "Ministerio de Hidrocarburos y Energías",
       "sigla": "MHE",
-      "twitter": "@BOLIVIA_MH"
+      "twitter": "@Bolivia_MHE"
     },
     {
       "airtableId": "recWshaodYECp899M",
@@ -2995,6 +3037,18 @@
       "nombre": "Empresa Estatal de Transporte por Cable Mi Teleférico",
       "sigla": "Mi Teleférico",
       "twitter": "@miteleferico"
+    },
+    {
+      "airtableId": "reciJUoAjHQX0OOlY",
+      "autoridades": [
+        "recZDkPJe28GcfNpV"
+      ],
+      "dependencia": [
+        "rec6hOG1aBXYJnXYZ"
+      ],
+      "id": 134,
+      "nombre": "Viceministerio de Planificación y Coordinación",
+      "sigla": "VPC"
     },
     {
       "airtableId": "reciPvyYzpk1CjOk9",
@@ -3586,6 +3640,15 @@
       "fuente": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
       "id": 33,
       "tweet": "https://twitter.com/BoliviaMaes/status/1329581820015472641"
+    },
+    {
+      "airtableId": "rec7bW1c3TCHz1Kt1",
+      "autoridad": [
+        "recZDkPJe28GcfNpV"
+      ],
+      "fuente": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
+      "id": 111,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337149550025449484"
     },
     {
       "airtableId": "rec88ugM9sCswTbRA",
@@ -4227,6 +4290,15 @@
       "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
       "id": 47,
       "tweet": "https://twitter.com/BoliviaMaes/status/1330108072006721538"
+    },
+    {
+      "airtableId": "reckIOZF27IOjiDQX",
+      "autoridad": [
+        "recFGHiTt4wWIqdJq"
+      ],
+      "fuente": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
+      "id": 112,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337150847822815233"
     },
     {
       "airtableId": "reclhdguGr7rEWcOH",
@@ -4915,6 +4987,65 @@
       "genero": "Hombre",
       "id": 56,
       "nombre": "Bartolomé Puma"
+    },
+    {
+      "airtableId": "rec3pFWIssZW0RNT5",
+      "autoridades": [
+        "recZDkPJe28GcfNpV"
+      ],
+      "fotos": [
+        {
+          "filename": "8wg1_bolivia_CBD_9204.jpeg",
+          "id": "atteAwWvpUWKOGkBP",
+          "size": 2342132,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7fe7fc9a795ed135961e198de5a9c54c/05b10d40",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2ce544c3796e70020dd79fd349210445/541ca8e2",
+              "width": 582
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d7f14a87430bfca07a6097f40c68b0d0/182c348b",
+              "width": 41
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e46510e91e7266332ea7649f2d8aa84e/43a4b56e/8wg1_bolivia_CBD_9204.jpeg"
+        },
+        {
+          "filename": "Eo5259qXcAATjf-.png",
+          "id": "attc4pbT17WcK2khu",
+          "size": 277582,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/978c6ec100fa95ecd51ceafff9661421/6f0b03b4",
+              "width": 3000
+            },
+            "large": {
+              "height": 375,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/90eac919ae773f82d1a3f9302d54efea/8b47effb",
+              "width": 654
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7ed07fb36f8c95defed5786b115246c8/492f2dff",
+              "width": 63
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/f50ba2e106534d40c08c81c1452f6eb6/d06a0a49/Eo5259qXcAATjf-.png"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 126,
+      "nombre": "Diego Pacheco Balanza"
     },
     {
       "airtableId": "rec3vijMjGSfM1IHy",
@@ -6941,7 +7072,8 @@
       ],
       "genero": "Mujer",
       "id": 40,
-      "nombre": "Sabina Orellana Cruz"
+      "nombre": "Sabina Orellana Cruz",
+      "twitter": "@sabinaore70"
     },
     {
       "airtableId": "recUgL59pIdzhlIzS",
@@ -9166,6 +9298,41 @@
       "genero": "Hombre",
       "id": 1,
       "nombre": "Juan Villca"
+    },
+    {
+      "airtableId": "recz5rdtg5eAjBHtR",
+      "autoridades": [
+        "recFGHiTt4wWIqdJq"
+      ],
+      "fotos": [
+        {
+          "filename": "Prensa_0.jpeg",
+          "id": "atttyWs7vKfzISRMg",
+          "size": 36923,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ce1ebc4851d16eb8556dc309f1212fd3/795a18ed",
+              "width": 3000
+            },
+            "large": {
+              "height": 313,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/01d321b81a1bec7efd92648a098b3d25/aba4219c",
+              "width": 355
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/25a464d5b1140a7e898915ba5c6d3005/c4a72960",
+              "width": 41
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/bdb18e6b9c432db9871f67c1509e4ef9/b82f9db1/Prensa_0.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 127,
+      "nombre": "Harley Rodríguez Tellez"
     },
     {
       "airtableId": "reczQmXFbWFxxep2b",
