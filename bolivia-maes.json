@@ -376,6 +376,21 @@
       ]
     },
     {
+      "airtableId": "recBpYsDbhG6TogXc",
+      "cargo": "Director Ejecutivo de la Autoridad de Fiscalización y Control de Pensiones y Seguros (APS)",
+      "desde": "2020-12-11",
+      "entidad": [
+        "reco99O3A2HHOg4CP"
+      ],
+      "fuente": [
+        "recCls3RVxmRy5bOw"
+      ],
+      "id": 132,
+      "persona": [
+        "recfXwljENCLDFEN0"
+      ]
+    },
+    {
       "airtableId": "recBraO3XrkBmtoxh",
       "cargo": "Viceministro de Seguros de Salud y Gestión del Sistema Único de Salud",
       "desde": "2020-11-23",
@@ -643,6 +658,18 @@
       "id": 72,
       "persona": [
         "recVAwe4aCOFqbkjr"
+      ]
+    },
+    {
+      "airtableId": "recITBLC8q6GRemce",
+      "cargo": "Vocero Presidencial",
+      "desde": "2020-12-11",
+      "entidad": [
+        "recEJuQ08Sx4oc78J"
+      ],
+      "id": 135,
+      "persona": [
+        "recjhz8gyMJwGqHL5"
       ]
     },
     {
@@ -1565,6 +1592,18 @@
       ]
     },
     {
+      "airtableId": "recoQ6ATSbRsGWlpT",
+      "cargo": "Viceministro de Relaciones Exteriores",
+      "desde": "2020-12-04",
+      "entidad": [
+        "recM2dLFNUaRgVPmO"
+      ],
+      "id": 134,
+      "persona": [
+        "reccjForRsIZpYsjy"
+      ]
+    },
+    {
       "airtableId": "recoTcA6Jf19g7xAj",
       "cargo": "Ministro de Educación y Culturas",
       "desde": "2020-11-09",
@@ -2200,6 +2239,16 @@
       "nombre": "Presidencia del Estado"
     },
     {
+      "airtableId": "recEJuQ08Sx4oc78J",
+      "autoridades": [
+        "recITBLC8q6GRemce"
+      ],
+      "desde": "2020-12-11",
+      "id": 138,
+      "nombre": "Vocería Presidencial",
+      "sigla": "VP"
+    },
+    {
       "airtableId": "recEWlcToVdJVS77R",
       "autoridades": [
         "recu3JmGxYQ4wCbue"
@@ -2419,6 +2468,15 @@
       ],
       "id": 54,
       "nombre": "Viceministerio de Seguros de Salud y Gestión del Sistema Único de Salud"
+    },
+    {
+      "airtableId": "recM2dLFNUaRgVPmO",
+      "autoridades": [
+        "recoQ6ATSbRsGWlpT"
+      ],
+      "id": 137,
+      "nombre": "Viceministerio de Relaciones Exteriores",
+      "sigla": "VRE"
     },
     {
       "airtableId": "recMG6vay1qsi6aUd",
@@ -3180,6 +3238,15 @@
       "nombre": "Viceministerio de Política Tributaria"
     },
     {
+      "airtableId": "reco99O3A2HHOg4CP",
+      "autoridades": [
+        "recBpYsDbhG6TogXc"
+      ],
+      "id": 136,
+      "nombre": "Autoridad de Fiscalización y Control de Pensiones y Seguros",
+      "sigla": "APS"
+    },
+    {
       "airtableId": "recoAfPInKnlBD3JO",
       "autoridades": [
         "reccI0LvPKY6rqhUE"
@@ -3728,6 +3795,15 @@
       "fuente": "https://twitter.com/Canal_BoliviaTV/status/1333823932638633985",
       "id": 84,
       "tweet": "https://twitter.com/BoliviaMaes/status/1333830566614102016"
+    },
+    {
+      "airtableId": "recCls3RVxmRy5bOw",
+      "autoridad": [
+        "recBpYsDbhG6TogXc"
+      ],
+      "fuente": "https://economy.com.bo/portada-economy/25-nosotros/5260-posesionan-a-%C3%B3scar-ferrufino-como-director-de-la-aps.html",
+      "id": 113,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337864353241034755"
     },
     {
       "airtableId": "recDReYqE3afKHqLC",
@@ -7643,6 +7719,41 @@
       "twitter": "@EdgarMo33322015"
     },
     {
+      "airtableId": "reccjForRsIZpYsjy",
+      "autoridades": [
+        "recoQ6ATSbRsGWlpT"
+      ],
+      "fotos": [
+        {
+          "filename": "freddy mamani.jpg",
+          "id": "attUHx8iadd95UeIX",
+          "size": 54463,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b1b2365efa08cdb6db1ec52e1d816858/4f5224ba",
+              "width": 3000
+            },
+            "large": {
+              "height": 464,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e398ac7a65bbd2ae5109eb621bcd8395/f776e74e",
+              "width": 696
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4a3f385481182175c645e1923337b602/b4a6ad46",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/3c42e7b71aeb31f5c13b0658d2f3f434/9111d983/freddymamani.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 129,
+      "nombre": "Freddy Mamani"
+    },
+    {
       "airtableId": "recdABzeBoiKOSu1W",
       "autoridades": [
         "rec7s9R6JgKqZyXMr"
@@ -8055,6 +8166,41 @@
       "nombre": "Katherine Calderón Valle"
     },
     {
+      "airtableId": "recfXwljENCLDFEN0",
+      "autoridades": [
+        "recBpYsDbhG6TogXc"
+      ],
+      "fotos": [
+        {
+          "filename": "oscar ferrufino.jpg",
+          "id": "attqZKQkJoDqzLusu",
+          "size": 107797,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/729787c36a797b19c2737063d0eb39b0/e9ca101b",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6ae0c5b8a96dcb039e87947b9fb5b6a3/72e80042",
+              "width": 646
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/30cda974a5e7a2f57b1343cb675628ef/a8c97b65",
+              "width": 45
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a7a6d8256030dfdbaf538b238a7a28f8/d582960e/oscarferrufino.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 128,
+      "nombre": "Oscar Ferrufino Morro"
+    },
+    {
       "airtableId": "recfoAp2YUsP5Ht9v",
       "autoridades": [
         "rec7MYTm8hs8ujVOV"
@@ -8348,6 +8494,42 @@
       "genero": "Mujer",
       "id": 52,
       "nombre": "María Renée Castro"
+    },
+    {
+      "airtableId": "recjhz8gyMJwGqHL5",
+      "autoridades": [
+        "recITBLC8q6GRemce"
+      ],
+      "fotos": [
+        {
+          "filename": "jorge richter.jpg",
+          "id": "att5OYYOMDbinZrEz",
+          "size": 178436,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7f2dbe12c1ac11fec0f1d2ad0a232ec3/eb690182",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/232a2f3770dadafccad8c38ace91dcf4/26a48525",
+              "width": 719
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9f215b0dff6bd71ff4c4a7ec2fac9896/8c0f0770",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/35f1f306c1cd6155b75ecab3dcde0055/cb013d0c/jorgerichter.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 130,
+      "nombre": "Jorge Richter Ramirez",
+      "twitter": "https://twitter.com/jorgerichter"
     },
     {
       "airtableId": "recjrPQIPxxUGApeK",
