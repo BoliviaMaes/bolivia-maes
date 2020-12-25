@@ -76,6 +76,21 @@
       ]
     },
     {
+      "airtableId": "rec2gtGWhfCCYAhA9",
+      "cargo": "Director General Ejecutivo de la OTN-PB (Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo)",
+      "desde": "2020-12-21",
+      "entidad": [
+        "recqBOHncYTeIBoLG"
+      ],
+      "fuente": [
+        "recskPMoAWhpjMJKb"
+      ],
+      "id": 142,
+      "persona": [
+        "rechzmKSc5eBEcH1n"
+      ]
+    },
+    {
       "airtableId": "rec3FEK8CFNtKW5oO",
       "cargo": "Directora General Ejecutiva de la Lotería Nacional de Beneficencia y Salubridad",
       "desde": "2020-11-27",
@@ -118,6 +133,21 @@
       "id": 37,
       "persona": [
         "recc2GMMuWkeggJne"
+      ]
+    },
+    {
+      "airtableId": "rec56DlAhd0OAmVVw",
+      "cargo": "Gerente General de SABSA (Servicios de Aeropuertos de Bolivia)",
+      "desde": "2020-12-14",
+      "entidad": [
+        "recHIPOn4UwiPkBOq"
+      ],
+      "fuente": [
+        "recwSkxayh8vTENCO"
+      ],
+      "id": 136,
+      "persona": [
+        "recvquQEEyTTqkg71"
       ]
     },
     {
@@ -343,6 +373,21 @@
       "id": 119,
       "persona": [
         "recGyLW0h8TbwXVIW"
+      ]
+    },
+    {
+      "airtableId": "recBEDJhqtGCnKoPo",
+      "cargo": "Viceministra de Deportes",
+      "desde": "2020-12-17",
+      "entidad": [
+        "recrodKMMCT6YIO8j"
+      ],
+      "fuente": [
+        "rec5ytJzCwmTeI9Qc"
+      ],
+      "id": 139,
+      "persona": [
+        "recdk4ZF19kdBlZeK"
       ]
     },
     {
@@ -667,6 +712,9 @@
       "entidad": [
         "recEJuQ08Sx4oc78J"
       ],
+      "fuente": [
+        "recedRCixmzZldMYF"
+      ],
       "id": 135,
       "persona": [
         "recjhz8gyMJwGqHL5"
@@ -733,6 +781,21 @@
       ]
     },
     {
+      "airtableId": "recMUSBgn2xEhfAry",
+      "cargo": "Director General de la CEASS (Central de Abastecimiento de Suministros de Salud)",
+      "desde": "2020-12-22",
+      "entidad": [
+        "recbhjxvEsvLie5PK"
+      ],
+      "fuente": [
+        "rec9mlgesKJaGlhv7"
+      ],
+      "id": 145,
+      "persona": [
+        "recbkj48y6kQGz0VH"
+      ]
+    },
+    {
       "airtableId": "recMzFkbm1hX0Sdw9",
       "cargo": "Ministra de Culturas, Descolonización y Despatriarcalización",
       "desde": "2020-11-20",
@@ -778,6 +841,36 @@
       ]
     },
     {
+      "airtableId": "recNvSvKxHu2ptELM",
+      "cargo": "Viceministro de Empleo, Servicio Civil y Cooperativas",
+      "desde": "2020-12-18",
+      "entidad": [
+        "recvwe1p0YjcQtjkz"
+      ],
+      "fuente": [
+        "recyQ0KAKlLwkdEi1"
+      ],
+      "id": 140,
+      "persona": [
+        "recs3VKQLO2dpHMxb"
+      ]
+    },
+    {
+      "airtableId": "recOHTGaroips2zuH",
+      "cargo": "Nuevo Director Ejecutivo del Senarecom (Servicio Nacional de Registro y Control de la Comercialización de Minerales y Metales)",
+      "desde": "2020-12-22",
+      "entidad": [
+        "recFOLfLWOglx0Wku"
+      ],
+      "fuente": [
+        "rec24LxKW3rUTaSBY"
+      ],
+      "id": 143,
+      "persona": [
+        "recpwYyGQ3jTN1Bc1"
+      ]
+    },
+    {
       "airtableId": "recP4SZbcqHbkOgzo",
       "cargo": "Viceministra de Comunicación",
       "desde": "2020-11-13",
@@ -820,6 +913,21 @@
       "id": 107,
       "persona": [
         "recPP6miNdGaSVVic"
+      ]
+    },
+    {
+      "airtableId": "recPMwmzPpBJtBoJ0",
+      "cargo": "Director General Ejecutivo de la AISEM (Agencia de Infraestructura en Salud y Equipamiento)",
+      "desde": "2020-12-24",
+      "entidad": [
+        "recv1X4n3aSHHBxNo"
+      ],
+      "fuente": [
+        "recK4dWvCu1FvBN6u"
+      ],
+      "id": 148,
+      "persona": [
+        "recVoHL1U4tCQRYtJ"
       ]
     },
     {
@@ -1048,6 +1156,21 @@
       ]
     },
     {
+      "airtableId": "recWNA58iSPBG1afp",
+      "cargo": "Directora General Ejecutiva de la ABEN (Agencia Boliviana de Energía Nuclear)",
+      "desde": "2020-12-21",
+      "entidad": [
+        "recxi28iX7F8xahXa"
+      ],
+      "fuente": [
+        "recZN3d3pG6fEhO3Q"
+      ],
+      "id": 141,
+      "persona": [
+        "recz0KyW7fVLgQNnE"
+      ]
+    },
+    {
       "airtableId": "recX06mvBnhnpOGdO",
       "cargo": "Viceministro de Cooperativas Mineras",
       "desde": "2020-11-21",
@@ -1075,6 +1198,21 @@
       "id": 110,
       "persona": [
         "recFd6JKeUlBTUDsL"
+      ]
+    },
+    {
+      "airtableId": "recXYgpK3JhNTX4rq",
+      "cargo": "Director General Ejecutivo de la EGPP (Escuela de Gestión Pública Plurinacional)",
+      "desde": "2020-12-22",
+      "entidad": [
+        "recHOpur0tnuiUgwV"
+      ],
+      "fuente": [
+        "rec9XcTxkDqEVzOxY"
+      ],
+      "id": 144,
+      "persona": [
+        "recKT1hKor0Vmguaq"
       ]
     },
     {
@@ -1213,6 +1351,21 @@
       ]
     },
     {
+      "airtableId": "recbtkDR7mpsbHaw3",
+      "cargo": "Directora General Ejecutiva de la ASUSS (Autoridad de Supervision de la Seguridad Social de Corto Plazo)",
+      "desde": "2020-12-22",
+      "entidad": [
+        "recSqqbtO2UPeHLYm"
+      ],
+      "fuente": [
+        "rec9zfeKGepRNSK0o"
+      ],
+      "id": 146,
+      "persona": [
+        "recfMS3hIAyGmERWZ"
+      ]
+    },
+    {
       "airtableId": "reccETXTaUInlMowz",
       "cargo": "Director Ejecutivo de la AEMP (Autoridad de Fiscalización de Empresas)",
       "desde": "2020-12-04",
@@ -1303,6 +1456,21 @@
       ]
     },
     {
+      "airtableId": "rece1Mf8u7gPlDr59",
+      "cargo": "Director General Ejecutivo de Vías Bolivia, Recaudadora de Rodaje y Pesaje",
+      "desde": "2020-12-22",
+      "entidad": [
+        "rece6rwqxzu8TN6Oo"
+      ],
+      "fuente": [
+        "rec1ZnvZ6uCq5XRNg"
+      ],
+      "id": 147,
+      "persona": [
+        "recjRdtDyufcv3lrX"
+      ]
+    },
+    {
       "airtableId": "rece90HbPaOkyYSyg",
       "cargo": "Viceministro de Política Tributaria",
       "desde": "2020-11-13",
@@ -1360,6 +1528,21 @@
       "id": 113,
       "persona": [
         "recgw6e41IBycdu8I"
+      ]
+    },
+    {
+      "airtableId": "recgCmVpYbcaNdY3W",
+      "cargo": "Gerente General de DELAPAZ (Distribuidora de Electricidad La Paz S.A.)",
+      "desde": "2020-12-14",
+      "entidad": [
+        "recQmAslYfi2uvwvZ"
+      ],
+      "fuente": [
+        "recNuwb43va9ZIb0t"
+      ],
+      "id": 137,
+      "persona": [
+        "reczJhjPahIaWlo6e"
       ]
     },
     {
@@ -1483,6 +1666,21 @@
       ]
     },
     {
+      "airtableId": "reckbIhAa5OUDtAQQ",
+      "cargo": "Director General del Fonadin (Fondo Nacional de Desarrollo Integral)",
+      "desde": "2020-12-24",
+      "entidad": [
+        "recRguDgEmLtlL1Sc"
+      ],
+      "fuente": [
+        "recyA3uNNjrdlhWvg"
+      ],
+      "id": 150,
+      "persona": [
+        "recgSHock3lGxvJUS"
+      ]
+    },
+    {
       "airtableId": "reclNBmhSGRUmOgQ2",
       "cargo": "Ministro de Relaciones Exteriores",
       "desde": "2020-11-09",
@@ -1510,6 +1708,21 @@
       "id": 67,
       "persona": [
         "reczQmXFbWFxxep2b"
+      ]
+    },
+    {
+      "airtableId": "recmcUEFmO5osT56H",
+      "cargo": "Director General Ejecutivo del INIAF (Instituto Nacional de Innovación Agropecuaria y Forestal)",
+      "desde": "2020-12-24",
+      "entidad": [
+        "reczzGBh5rfP7ad3c"
+      ],
+      "fuente": [
+        "recDlPjFyPIndO8XT"
+      ],
+      "id": 149,
+      "persona": [
+        "recelLtv9bJg4Ae75"
       ]
     },
     {
@@ -1597,6 +1810,9 @@
       "desde": "2020-12-04",
       "entidad": [
         "recM2dLFNUaRgVPmO"
+      ],
+      "fuente": [
+        "recE1CFbPKSsEB00j"
       ],
       "id": 134,
       "persona": [
@@ -1890,6 +2106,21 @@
       "id": 79,
       "persona": [
         "recYIkrlMB3oR5I7J"
+      ]
+    },
+    {
+      "airtableId": "recx1arPJ3gpOvBp6",
+      "cargo": "Director General Ejecutivo de AASANA (Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea)",
+      "desde": "2020-12-16",
+      "entidad": [
+        "recIysVnliGTwljf1"
+      ],
+      "fuente": [
+        "receezeQtm3YjmAmR"
+      ],
+      "id": 138,
+      "persona": [
+        "recrMkdSiitCWddr8"
       ]
     },
     {
@@ -2243,6 +2474,9 @@
       "autoridades": [
         "recITBLC8q6GRemce"
       ],
+      "dependencia": [
+        "recDPejejWlgRG7Vc"
+      ],
       "desde": "2020-12-11",
       "id": 138,
       "nombre": "Vocería Presidencial",
@@ -2261,6 +2495,9 @@
     },
     {
       "airtableId": "recFOLfLWOglx0Wku",
+      "autoridades": [
+        "recOHTGaroips2zuH"
+      ],
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
@@ -2319,6 +2556,9 @@
     },
     {
       "airtableId": "recHIPOn4UwiPkBOq",
+      "autoridades": [
+        "rec56DlAhd0OAmVVw"
+      ],
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -2326,6 +2566,19 @@
       "nombre": "Servicios de Aeropuertos Bolivianos SA",
       "sigla": "SABSA",
       "twitter": "@BoliviaSabsa"
+    },
+    {
+      "airtableId": "recHOpur0tnuiUgwV",
+      "autoridades": [
+        "recXYgpK3JhNTX4rq"
+      ],
+      "dependencia": [
+        "recsuCxQwrF93G855"
+      ],
+      "id": 144,
+      "nombre": "Escuela de Gestión Pública Plurinacional",
+      "sigla": "EGPP",
+      "twitter": "@egppbol"
     },
     {
       "airtableId": "recHi2gYNUwRbBTai",
@@ -2359,6 +2612,16 @@
       ],
       "id": 71,
       "nombre": "Viceministerio de Agua Potable y Saneamiento Básico"
+    },
+    {
+      "airtableId": "recIysVnliGTwljf1",
+      "autoridades": [
+        "recx1arPJ3gpOvBp6"
+      ],
+      "id": 140,
+      "nombre": "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea",
+      "sigla": "AASANA",
+      "twitter": "@AASANABOLIVIA"
     },
     {
       "airtableId": "recJ4C785jhxaYWDJ",
@@ -2473,6 +2736,9 @@
       "airtableId": "recM2dLFNUaRgVPmO",
       "autoridades": [
         "recoQ6ATSbRsGWlpT"
+      ],
+      "dependencia": [
+        "recrEl2V8GSxaSshp"
       ],
       "id": 137,
       "nombre": "Viceministerio de Relaciones Exteriores",
@@ -2616,6 +2882,19 @@
       "nombre": "Viceministerio de Defensa y Cooperación al Desarrollo Integral"
     },
     {
+      "airtableId": "recQmAslYfi2uvwvZ",
+      "autoridades": [
+        "recgCmVpYbcaNdY3W"
+      ],
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "id": 139,
+      "nombre": "Distribuidora de Electricidad La Paz S.A.",
+      "sigla": "DELAPAZ",
+      "twitter": "@delapazbol"
+    },
+    {
       "airtableId": "recR357ni79Rf1g1l",
       "autoridades": [
         "rectCXUdlwoaJzMV3"
@@ -2626,6 +2905,19 @@
       "id": 94,
       "nombre": "Radio de los Pueblos Originarios",
       "sigla": "RPO"
+    },
+    {
+      "airtableId": "recRguDgEmLtlL1Sc",
+      "autoridades": [
+        "reckbIhAa5OUDtAQQ"
+      ],
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 149,
+      "nombre": "Fondo Nacional de Desarrollo Integral",
+      "sigla": "Fonadin",
+      "twitter": "@fonadin_bolivia"
     },
     {
       "airtableId": "recRiMRkZ9ral1hlk",
@@ -2675,6 +2967,19 @@
       "nombre": "Caja Nacional de Salud",
       "sigla": "CNS",
       "twitter": "@CNS_Bolivia"
+    },
+    {
+      "airtableId": "recSqqbtO2UPeHLYm",
+      "autoridades": [
+        "recbtkDR7mpsbHaw3"
+      ],
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 146,
+      "nombre": "Autoridad de Supervision de la Seguridad Social de Corto Plazo",
+      "sigla": "ASUSS",
+      "twitter": "@AsussBolivia"
     },
     {
       "airtableId": "recTK3JBtupWDRLSB",
@@ -2869,6 +3174,18 @@
       "twitter": "@VAgropecuario"
     },
     {
+      "airtableId": "recbhjxvEsvLie5PK",
+      "autoridades": [
+        "recMUSBgn2xEhfAry"
+      ],
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 145,
+      "nombre": "Central de Abastecimiento de Suministros de Salud",
+      "sigla": "CEASS"
+    },
+    {
       "airtableId": "recbyxfOHMNLhBsr9",
       "autoridades": [
         "recdTZnJr6vir76bu"
@@ -2980,8 +3297,21 @@
       ],
       "id": 68,
       "nombre": "Ministerio de Desarrollo Rural y Tierras",
-      "sigla": "MDRT",
+      "sigla": "MDRyT",
       "twitter": "@MDRyTOficial"
+    },
+    {
+      "airtableId": "rece6rwqxzu8TN6Oo",
+      "autoridades": [
+        "rece1Mf8u7gPlDr59"
+      ],
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 147,
+      "nombre": "Vías Bolivia, Recaudadora de Rodaje y Pesaje",
+      "sigla": "Vías Bolivia",
+      "twitter": "@ViasBoliviaONal"
     },
     {
       "airtableId": "recejG6jvgHc487Fh",
@@ -3242,9 +3572,13 @@
       "autoridades": [
         "recBpYsDbhG6TogXc"
       ],
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
       "id": 136,
       "nombre": "Autoridad de Fiscalización y Control de Pensiones y Seguros",
-      "sigla": "APS"
+      "sigla": "APS",
+      "twitter": "@Bolivia_APS"
     },
     {
       "airtableId": "recoAfPInKnlBD3JO",
@@ -3283,6 +3617,19 @@
       "id": 34,
       "nombre": "Viceministerio de Seguridad Ciudadana",
       "twitter": "@vmsc_bolivia"
+    },
+    {
+      "airtableId": "recqBOHncYTeIBoLG",
+      "autoridades": [
+        "rec2gtGWhfCCYAhA9"
+      ],
+      "dependencia": [
+        "recTV9hdUCYs4u19T"
+      ],
+      "id": 143,
+      "nombre": "Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo",
+      "sigla": "OTNPB",
+      "twitter": "@OTNcuencasPB"
     },
     {
       "airtableId": "recqIU5v7Y2mS9UOt",
@@ -3333,6 +3680,9 @@
     },
     {
       "airtableId": "recrodKMMCT6YIO8j",
+      "autoridades": [
+        "recBEDJhqtGCnKoPo"
+      ],
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
@@ -3436,7 +3786,7 @@
       "id": 78,
       "nombre": "Ministerio de Salud y Deportes",
       "sigla": "MSD",
-      "twitter": "@MinSaludBolivia"
+      "twitter": "@SaludDeportesBo"
     },
     {
       "airtableId": "recv0GqYie4W2RIRn",
@@ -3449,6 +3799,19 @@
       "id": 93,
       "nombre": "Autoridad de Fiscalización de Electricidad y Tecnología Nuclear",
       "sigla": "AETN"
+    },
+    {
+      "airtableId": "recv1X4n3aSHHBxNo",
+      "autoridades": [
+        "recPMwmzPpBJtBoJ0"
+      ],
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 148,
+      "nombre": "Agencia de Infraestructura en Salud y Equipamiento",
+      "sigla": "AISEM",
+      "twitter": "@AISEM_BOLIVIA"
     },
     {
       "airtableId": "recvRPUbhwOftqX7Z",
@@ -3476,6 +3839,18 @@
       "twitter": "@entelbo"
     },
     {
+      "airtableId": "recvwe1p0YjcQtjkz",
+      "autoridades": [
+        "recNvSvKxHu2ptELM"
+      ],
+      "dependencia": [
+        "recyMpkgqj37VCj7M"
+      ],
+      "id": 141,
+      "nombre": "Viceministerio de Empleo, Servicio Civil y Cooperativas",
+      "sigla": "VESCC"
+    },
+    {
       "airtableId": "recwqL9u3uLwcmRPz",
       "autoridades": [
         "reczFB7WODjnPoXWd"
@@ -3486,6 +3861,19 @@
       "id": 95,
       "nombre": "Periódico Bolivia",
       "twitter": "@Bolivia_bol"
+    },
+    {
+      "airtableId": "recxi28iX7F8xahXa",
+      "autoridades": [
+        "recWNA58iSPBG1afp"
+      ],
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "id": 142,
+      "nombre": "Agencia Boliviana de Energía Nuclear",
+      "sigla": "ABEN",
+      "twitter": "@ABENinforma"
     },
     {
       "airtableId": "recxzuGZwOGJr7TZT",
@@ -3591,6 +3979,9 @@
     },
     {
       "airtableId": "reczzGBh5rfP7ad3c",
+      "autoridades": [
+        "recmcUEFmO5osT56H"
+      ],
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
@@ -3611,6 +4002,15 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1333765392934850562"
     },
     {
+      "airtableId": "rec1ZnvZ6uCq5XRNg",
+      "autoridad": [
+        "rece1Mf8u7gPlDr59"
+      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1341535721660837895",
+      "id": 127,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341692683711098885"
+    },
+    {
       "airtableId": "rec1gcJchs0hCaV4D",
       "autoridad": [
         "recG8xE6KeTlikqsb"
@@ -3618,6 +4018,15 @@
       "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
       "id": 29,
       "tweet": "https://twitter.com/BoliviaMaes/status/1328732088783302658"
+    },
+    {
+      "airtableId": "rec24LxKW3rUTaSBY",
+      "autoridad": [
+        "recOHTGaroips2zuH"
+      ],
+      "fuente": "https://twitter.com/senarecom1/status/1341452365505974283",
+      "id": 123,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341456338942124032"
     },
     {
       "airtableId": "rec2NQ8Fmqks7t5uc",
@@ -3681,6 +4090,14 @@
       "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "id": 98,
       "tweet": "https://twitter.com/BoliviaMaes/status/1334914560617222147"
+    },
+    {
+      "airtableId": "rec5ytJzCwmTeI9Qc",
+      "autoridad": [
+        "recBEDJhqtGCnKoPo"
+      ],
+      "fuente": "https://erbol.com.bo/deporte/cielo-veizaga-una-futbolista-de-19-a%C3%B1os-es-la-viceministra-de-deportes-la-m%C3%A1s-joven",
+      "id": 119
     },
     {
       "airtableId": "rec6kQPaFkq26dnZp",
@@ -3752,6 +4169,33 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1333478247833722883"
     },
     {
+      "airtableId": "rec9XcTxkDqEVzOxY",
+      "autoridad": [
+        "recXYgpK3JhNTX4rq"
+      ],
+      "fuente": "https://twitter.com/minedubol/status/1341507306291421186",
+      "id": 124,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341677350564618241"
+    },
+    {
+      "airtableId": "rec9mlgesKJaGlhv7",
+      "autoridad": [
+        "recMUSBgn2xEhfAry"
+      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1341515203054342157",
+      "id": 125,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341689639090970625"
+    },
+    {
+      "airtableId": "rec9zfeKGepRNSK0o",
+      "autoridad": [
+        "recbtkDR7mpsbHaw3"
+      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1341514883570003969",
+      "id": 126,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341691035953606656"
+    },
+    {
       "airtableId": "recAHtiS3ZxitIa4u",
       "autoridad": [
         "recfzOdMwLqm9SFs2"
@@ -3815,6 +4259,15 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1332615212789346305"
     },
     {
+      "airtableId": "recDlPjFyPIndO8XT",
+      "autoridad": [
+        "recmcUEFmO5osT56H"
+      ],
+      "fuente": "https://www1.abi.bo/abi_/?i=461501",
+      "id": 129,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1342585276460363776"
+    },
+    {
       "airtableId": "recDwFpL4nlNe0ktI",
       "autoridad": [
         "recio0kFx9eRUaPRg"
@@ -3822,6 +4275,15 @@
       "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
       "id": 38,
       "tweet": "https://twitter.com/BoliviaMaes/status/1329706323890622469"
+    },
+    {
+      "airtableId": "recE1CFbPKSsEB00j",
+      "autoridad": [
+        "recoQ6ATSbRsGWlpT"
+      ],
+      "fuente": "https://www.periodicobolivia.com.bo/posesionan-a-freddy-mamani-como-viceministro-de-relaciones-exteriores/",
+      "id": 114,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337865247877713920"
     },
     {
       "airtableId": "recEmcTjsDU1ISh5d",
@@ -3894,6 +4356,15 @@
       "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "id": 9,
       "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327093489939714049"
+    },
+    {
+      "airtableId": "recK4dWvCu1FvBN6u",
+      "autoridad": [
+        "recPMwmzPpBJtBoJ0"
+      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1342134740745392129",
+      "id": 128,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1342176944293605377"
     },
     {
       "airtableId": "recKASThi6oG1cnIb",
@@ -3984,6 +4455,15 @@
       "fuente": "https://www.paginasiete.bo/nacional/2020/12/1/arce-destituye-wilson-caceres-posesiona-nuevo-ministro-de-desarrollo-rural-276686.html",
       "id": 85,
       "tweet": "https://twitter.com/BoliviaMaes/status/1333875982474895366"
+    },
+    {
+      "airtableId": "recNuwb43va9ZIb0t",
+      "autoridad": [
+        "recgCmVpYbcaNdY3W"
+      ],
+      "fuente": "https://www.delapaz.bo/noticias?n=viceministro-de-electricidad-y-energias-alternativas-posesiona-al-ing.-julio-aruquipa-como-nuevo-gerente-general-de-delapaz",
+      "id": 117,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1338762489790607360"
     },
     {
       "airtableId": "recOPBsbtXrrlAx80",
@@ -4170,6 +4650,15 @@
       "id": 86
     },
     {
+      "airtableId": "recZN3d3pG6fEhO3Q",
+      "autoridad": [
+        "recWNA58iSPBG1afp"
+      ],
+      "fuente": "https://twitter.com/Bolivia_MHE/status/1340999339120967683",
+      "id": 121,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341039574613700614"
+    },
+    {
       "airtableId": "recZORKMhAmTYgF7s",
       "autoridad": [
         "recEGcFGKmfXEqav0"
@@ -4285,6 +4774,24 @@
       "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
       "id": 60,
       "tweet": "https://twitter.com/BoliviaMaes/status/1331357554098712576"
+    },
+    {
+      "airtableId": "recedRCixmzZldMYF",
+      "autoridad": [
+        "recITBLC8q6GRemce"
+      ],
+      "fuente": "https://www.la-razon.com/nacional/2020/12/11/el-gobierno-retoma-la-voceria-presidencial-y-designa-en-el-cargo-al-politologo-jorge-richter/",
+      "id": 115,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337871559478960128"
+    },
+    {
+      "airtableId": "receezeQtm3YjmAmR",
+      "autoridad": [
+        "recx1arPJ3gpOvBp6"
+      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1339320625802964994",
+      "id": 118,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1339336010438729730"
     },
     {
       "airtableId": "recfsuBPiG3W72Izf",
@@ -4494,6 +5001,15 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1331357450516226052"
     },
     {
+      "airtableId": "recskPMoAWhpjMJKb",
+      "autoridad": [
+        "rec2gtGWhfCCYAhA9"
+      ],
+      "fuente": "https://twitter.com/AmbienteyAgua/status/1341182683980980224",
+      "id": 122,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341301130253520896"
+    },
+    {
       "airtableId": "recskVrWoijTM1ZGC",
       "autoridad": [
         "reco0QZNlLa6zj6YJ"
@@ -4584,6 +5100,15 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1327370051951976449"
     },
     {
+      "airtableId": "recwSkxayh8vTENCO",
+      "autoridad": [
+        "rec56DlAhd0OAmVVw"
+      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1338606134731698184",
+      "id": 116,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1338760107237236743"
+    },
+    {
       "airtableId": "recx7fZLKkV4ISBC2",
       "autoridad": [
         "reccZAUFd6O8o260A"
@@ -4593,6 +5118,15 @@
       "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051769881505792"
     },
     {
+      "airtableId": "recyA3uNNjrdlhWvg",
+      "autoridad": [
+        "reckbIhAa5OUDtAQQ"
+      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1342158918827565066/photo/2",
+      "id": 130,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1342587152811618304"
+    },
+    {
       "airtableId": "recyNdwElibGOOveI",
       "autoridad": [
         "recdFyryO44KuY0Cg"
@@ -4600,6 +5134,14 @@
       "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
       "id": 50,
       "tweet": "https://twitter.com/BoliviaMaes/status/1330120207558438914"
+    },
+    {
+      "airtableId": "recyQ0KAKlLwkdEi1",
+      "autoridad": [
+        "recNvSvKxHu2ptELM"
+      ],
+      "fuente": "https://www.lostiempos.com/actualidad/pais/20201218/ministra-trabajo-posesiona-martin-bazurco-como-viceministro-empleo-servicio",
+      "id": 120
     },
     {
       "airtableId": "recyUXsh4gN7tFqKJ",
@@ -6505,6 +7047,42 @@
       "twitter": "@GermanJimenezT"
     },
     {
+      "airtableId": "recKT1hKor0Vmguaq",
+      "autoridades": [
+        "recXYgpK3JhNTX4rq"
+      ],
+      "fotos": [
+        {
+          "filename": "f_2017-08-15_10.jpeg",
+          "id": "attOU2sWgohKdTja8",
+          "size": 15656,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f193b3b1733ea7fb6d43bbb63ddea3a6/dd8525ea",
+              "width": 3000
+            },
+            "large": {
+              "height": 276,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8b450c2691450a028b023d287a894b33/b1148453",
+              "width": 236
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2809d4e0d68f491e901fcfa01adeb759/8d076f80",
+              "width": 31
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/86782eff5ee5fcb263f30074c11e2857/63b3d00c/f_2017-08-15_10.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 139,
+      "nombre": "Iván Iporre Salguero",
+      "twitter": "@IvanIporre"
+    },
+    {
       "airtableId": "recKhjcbT5tNK7m5R",
       "autoridades": [
         "recCFHGv3st69JOKh"
@@ -7223,6 +7801,41 @@
       "nombre": "Álvaro Hernán Arnez Prado"
     },
     {
+      "airtableId": "recVoHL1U4tCQRYtJ",
+      "autoridades": [
+        "recPMwmzPpBJtBoJ0"
+      ],
+      "fotos": [
+        {
+          "filename": "EqA4YIcXEAIXC_R.jpeg",
+          "id": "atttbPu9OQQvP9sWJ",
+          "size": 108728,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5e30f634dcbd0364a331b767e32f5f7f/370127e2",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/726a3de7d5bafb862af4ac806f6b07bf/76dc2037",
+              "width": 601
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/757177ae3dde80547570b015e9dc4d9f/0f31fd0a",
+              "width": 42
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/17dccb20c431b78deb034cd25f40b781/93e58136/EqA4YIcXEAIXC_R.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 143,
+      "nombre": "Miguel Freddy Saravia Aguilar"
+    },
+    {
       "airtableId": "recW09p3bjHSztaIU",
       "autoridades": [
         "recC1WNuQGcqhIVRe"
@@ -7468,8 +8081,7 @@
       ],
       "genero": "Mujer",
       "id": 88,
-      "nombre": "María  Nela Prada Tejada",
-      "twitter": "@MariaNelaPradaT"
+      "nombre": "María  Nela Prada Tejada"
     },
     {
       "airtableId": "recYiUOiAx8yWHwK4",
@@ -7648,6 +8260,41 @@
       "nombre": "Jaime Alberto Zabala Saldías"
     },
     {
+      "airtableId": "recbkj48y6kQGz0VH",
+      "autoridades": [
+        "recMUSBgn2xEhfAry"
+      ],
+      "fotos": [
+        {
+          "filename": "Ep4E9qVWMAIDXJ0.jpeg",
+          "id": "attds1IcbTrRSGSYe",
+          "size": 109577,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c8b0ad9b89c516670ef2a0162d9f6b96/b2add5ba",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e7fa7d10ce9ef6022fab78ecd35b8edc/2894aaba",
+              "width": 783
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e2aa1e8ddf659ebf0fe6b46e48e6fb6f/02983fcf",
+              "width": 55
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/bb66a1b85d2d3ddd216f4b2ad387d99c/f438da43/Ep4E9qVWMAIDXJ0.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 140,
+      "nombre": "Víctor Hugo Aguilar Frías"
+    },
+    {
       "airtableId": "recc2GMMuWkeggJne",
       "autoridades": [
         "rec4q4g6EjkxFSb2E"
@@ -7716,7 +8363,7 @@
       "genero": "Hombre",
       "id": 94,
       "nombre": "Edgar Montaño Rojas",
-      "twitter": "@EdgarMo33322015"
+      "twitter": "@EMontanoRojas"
     },
     {
       "airtableId": "reccjForRsIZpYsjy",
@@ -7751,7 +8398,7 @@
       ],
       "genero": "Hombre",
       "id": 129,
-      "nombre": "Freddy Mamani"
+      "nombre": "Freddy Mamani Machaca"
     },
     {
       "airtableId": "recdABzeBoiKOSu1W",
@@ -7881,6 +8528,77 @@
       "genero": "Hombre",
       "id": 69,
       "nombre": "Roque Roy Méndez Soleto"
+    },
+    {
+      "airtableId": "recdk4ZF19kdBlZeK",
+      "autoridades": [
+        "recBEDJhqtGCnKoPo"
+      ],
+      "fotos": [
+        {
+          "filename": "VICEMINISTRA-JOVEN.jpeg",
+          "id": "attDgJGf2SQbArxmq",
+          "size": 47162,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1c355e93d55b64af2ec1c403488d09c1/e0a2f2ed",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/49b34cd4393b1a1c459882a3faa1f596/dfd47e3e",
+              "width": 732
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3184a4f4c335c7873b734685e55723cd/766afd4f",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/dc0841bf94fe74858db17b7e73bbb184/4262f125/VICEMINISTRA-JOVEN.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 134,
+      "nombre": "Cielo Jazmín Veizaga Arteaga",
+      "twitter": "@VeizagaCielo"
+    },
+    {
+      "airtableId": "recelLtv9bJg4Ae75",
+      "autoridades": [
+        "recmcUEFmO5osT56H"
+      ],
+      "fotos": [
+        {
+          "filename": "EqBNjWAW4AIAfZw.jpeg",
+          "id": "attZyLntwMViqDos5",
+          "size": 141598,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5155d66741394df199a9bb5a053686a8/92b2a6a0",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2e7e3fd66fcc6242a0d78c3672b2c0c7/be330754",
+              "width": 728
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c5010cd3c4d29e27a6db86e8e0756f9c/0228f794",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/6c6a60ee360131d7ead379fb1f7d65dd/e0a7919f/EqBNjWAW4AIAfZw.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 144,
+      "nombre": "Hugo Chambilla Silva"
     },
     {
       "airtableId": "recepEdtJeBf6Gvjs",
@@ -8070,6 +8788,42 @@
       "genero": "Hombre",
       "id": 120,
       "nombre": "German Taboada"
+    },
+    {
+      "airtableId": "recfMS3hIAyGmERWZ",
+      "autoridades": [
+        "recbtkDR7mpsbHaw3"
+      ],
+      "fotos": [
+        {
+          "filename": "Ep4Eq4_XcAsWIgZ.jpeg",
+          "id": "attfOFDmo1jobIpD8",
+          "size": 253551,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0a031a33cb3a5a1c92618d7b05cabb63/9830d75f",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2b075531dacfd986ef1a6ef8dfbf863e/536a1ea1",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ae72b959cb6b8110ac3f6fe248230cb1/869b83ea",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/22e52ad1a410a292c0091460bb0c270f/071edbf5/Ep4Eq4_XcAsWIgZ.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 141,
+      "nombre": "Silvia Marisol Paz Zambrana",
+      "twitter": "@SilviaMarisolP3"
     },
     {
       "airtableId": "recfQXjHzf1oR8OMK",
@@ -8272,6 +9026,41 @@
       "nombre": "César Moisés Vallejos Rocha"
     },
     {
+      "airtableId": "recgSHock3lGxvJUS",
+      "autoridades": [
+        "reckbIhAa5OUDtAQQ"
+      ],
+      "fotos": [
+        {
+          "filename": "EqBNjWAW4AIAfZw.jpeg",
+          "id": "attCPhMecv7SEtmX9",
+          "size": 141598,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/755231a698ebc43e82e677450fd24904/9e86e995",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c7a2f395b2fe866911ccbc1f2e707eb9/6b298a34",
+              "width": 728
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a74b90915e007937f8a11860ae2759ca/67d8d296",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/03f508153470579297da3960795b918c/7a9b62da/EqBNjWAW4AIAfZw.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 145,
+      "nombre": "Omar Ortíz"
+    },
+    {
       "airtableId": "recgw6e41IBycdu8I",
       "autoridades": [
         "recg8r2ZOYyEJqA7m"
@@ -8376,6 +9165,42 @@
       "id": 15,
       "nombre": "Wilfredo Franz David Chávez Serrano",
       "twitter": "@wichaser"
+    },
+    {
+      "airtableId": "rechzmKSc5eBEcH1n",
+      "autoridades": [
+        "rec2gtGWhfCCYAhA9"
+      ],
+      "fotos": [
+        {
+          "filename": "EpzWiERXYAEj2as.jpeg",
+          "id": "attc4O1EfM85UoVJI",
+          "size": 31856,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/314a4d799293f88baaa6bdd0498f2a5d/ed235ffc",
+              "width": 3000
+            },
+            "large": {
+              "height": 372,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/35871ce7dbc030fe06757074a0f5a76f/d4ecc6ec",
+              "width": 263
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/683192402aa491e1f994152793ccba6c/e26ae2fc",
+              "width": 25
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e211ea89e6036059eb97618ad410af9e/30b70274/EpzWiERXYAEj2as.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 137,
+      "nombre": "Rommel Uño Martinez",
+      "twitter": "@RommelUno"
     },
     {
       "airtableId": "recicwAiTbRm2lLHI",
@@ -8496,6 +9321,41 @@
       "nombre": "María Renée Castro"
     },
     {
+      "airtableId": "recjRdtDyufcv3lrX",
+      "autoridades": [
+        "rece1Mf8u7gPlDr59"
+      ],
+      "fotos": [
+        {
+          "filename": "Ep4pm_uXUAcZnXK.jpeg",
+          "id": "attnkZphADUAhxdYu",
+          "size": 41560,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/018919fa1060ff7d786f06168f7dfd42/b4c35cab",
+              "width": 3000
+            },
+            "large": {
+              "height": 467,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4a86da8ad66e532ad8e2c8267498a60a/646e252c",
+              "width": 331
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/78390c201caf09c58c71eee44c5af598/e87a5a44",
+              "width": 26
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/74abda25d90730adafd9605d2160e356/611b15a5/Ep4pm_uXUAcZnXK.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 142,
+      "nombre": "Emilio Zurita Escobar"
+    },
+    {
       "airtableId": "recjhz8gyMJwGqHL5",
       "autoridades": [
         "recITBLC8q6GRemce"
@@ -8529,7 +9389,7 @@
       "genero": "Hombre",
       "id": 130,
       "nombre": "Jorge Richter Ramirez",
-      "twitter": "https://twitter.com/jorgerichter"
+      "twitter": "@jorgerichter"
     },
     {
       "airtableId": "recjrPQIPxxUGApeK",
@@ -9035,7 +9895,8 @@
       ],
       "genero": "Mujer",
       "id": 99,
-      "nombre": "Verónica Patricia Navia Tejada"
+      "nombre": "Verónica Patricia Navia Tejada",
+      "twitter": "@NaviaTejerina"
     },
     {
       "airtableId": "recpnx6iZZHO0HSxl",
@@ -9071,6 +9932,41 @@
       "genero": "Hombre",
       "id": 30,
       "nombre": "Víctor Quispe Ticona"
+    },
+    {
+      "airtableId": "recpwYyGQ3jTN1Bc1",
+      "autoridades": [
+        "recOHTGaroips2zuH"
+      ],
+      "fotos": [
+        {
+          "filename": "d2b16920-eeee-4775-b5f6-55c7c10a97c1.jpeg",
+          "id": "attILrpCssaR8oXhj",
+          "size": 46914,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fb8225d9297bf5b7a63d0fd82f35c8eb/94f34231",
+              "width": 3000
+            },
+            "large": {
+              "height": 473,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/11997720036b2a287a3f6bd0431c4a59/b503db47",
+              "width": 980
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4b1048e1de2c1298187e0011f28b3bb6/225cbd90",
+              "width": 75
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/2ccacbabb15a42630ed1fb18597cfef0/f07b9e0d/d2b16920-eeee-4775-b5f6-55c7c10a97c1.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 138,
+      "nombre": "Mauricio Mamani Coro"
     },
     {
       "airtableId": "recq0CQlnMeyvyncQ",
@@ -9143,6 +10039,41 @@
       "nombre": "Néstor Huanca Chura"
     },
     {
+      "airtableId": "recrMkdSiitCWddr8",
+      "autoridades": [
+        "recx1arPJ3gpOvBp6"
+      ],
+      "fotos": [
+        {
+          "filename": "EpY3m_pW8Acg-dF.jpeg",
+          "id": "attP1Y14BRFsyOtrx",
+          "size": 59886,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/61f03a64325907462c9fb1e92e40dc80/dcf60333",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/91e1ea0334025b5252c3dbc8287b9de5/d0d34afa",
+              "width": 728
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/644f02e7ba26a52d711cb6398e7639dc/e5165058",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b0c7233e71632443b0bf9dbeaef974f6/1e289f0a/EpY3m_pW8Acg-dF.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 133,
+      "nombre": "Ronny Alexander Balderrama Virreira"
+    },
+    {
       "airtableId": "recrQ9kTL2NMZqkOl",
       "autoridades": [
         "recjexOdVpN5o2MtL"
@@ -9213,6 +10144,42 @@
       "nombre": "Eva Gloria Chuquimia"
     },
     {
+      "airtableId": "recs3VKQLO2dpHMxb",
+      "autoridades": [
+        "recNvSvKxHu2ptELM"
+      ],
+      "fotos": [
+        {
+          "filename": "f_2016-05-22_44.jpeg",
+          "id": "attNGuvUNSye2SJpk",
+          "size": 38657,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e49373efd8e01e93203a50d539292ccc/68451447",
+              "width": 3000
+            },
+            "large": {
+              "height": 474,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cee0d72f212bd68cb18773a5a5ce168e/98799ae9",
+              "width": 600
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/23c7b871b57f7c4718a2e986fc7663da/4dc797c9",
+              "width": 46
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e328782891a742c2e5dee9eab215af09/8b75190c/f_2016-05-22_44.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 135,
+      "nombre": "Martín Bazurco Ozorio",
+      "twitter": "@MartinBazurco"
+    },
+    {
       "airtableId": "recsBoMotEFjXWPmm",
       "autoridades": [
         "reckZMgID1FCmyh1M"
@@ -9281,6 +10248,41 @@
       "genero": "Hombre",
       "id": 84,
       "nombre": "Sergio Daniel Altamirano Álvarez"
+    },
+    {
+      "airtableId": "recvquQEEyTTqkg71",
+      "autoridades": [
+        "rec56DlAhd0OAmVVw"
+      ],
+      "fotos": [
+        {
+          "filename": "EpOvLLcXYAIC6x6.jpeg",
+          "id": "attFmFe2ojBN1BIE6",
+          "size": 144824,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8b873fab43d8d5569f30207cc42af969/d94cd0b9",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/84e0416108018eefed76a8df3b36666b/9df15319",
+              "width": 601
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ea9be6c1770599c10508cdbbeb5da608/0743e787",
+              "width": 42
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/5482128c5ba17739e55a84456e284b36/cf7369ba/EpOvLLcXYAIC6x6.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 131,
+      "nombre": "Elmer Pozo Oliva"
     },
     {
       "airtableId": "recwIpxivedCYkbB8",
@@ -9482,6 +10484,41 @@
       "nombre": "Juan Villca"
     },
     {
+      "airtableId": "recz0KyW7fVLgQNnE",
+      "autoridades": [
+        "recWNA58iSPBG1afp"
+      ],
+      "fotos": [
+        {
+          "filename": "83ac0bdfd4f74de1bfd4d8f1ca89e72f.jpeg",
+          "id": "attsKFAUFyvlBAaIV",
+          "size": 54559,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1fe95b5db975ae65e2d51b6a71d4ebcd/18e073b3",
+              "width": 3000
+            },
+            "large": {
+              "height": 450,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/90847604b6649ab215fba3659685449d/07452947",
+              "width": 650
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/53003799def124db318f45e201f0d1d5/8e2d0a5a",
+              "width": 52
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c5b6594efa76ff1dfd942f8fb976cf97/8cc513af/83ac0bdfd4f74de1bfd4d8f1ca89e72f.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 136,
+      "nombre": "Hortensia Jiménez Rivera"
+    },
+    {
       "airtableId": "recz5rdtg5eAjBHtR",
       "autoridades": [
         "recFGHiTt4wWIqdJq"
@@ -9515,6 +10552,65 @@
       "genero": "Hombre",
       "id": 127,
       "nombre": "Harley Rodríguez Tellez"
+    },
+    {
+      "airtableId": "reczJhjPahIaWlo6e",
+      "autoridades": [
+        "recgCmVpYbcaNdY3W"
+      ],
+      "fotos": [
+        {
+          "filename": "Capture d’écran de 2020-12-15 09-20-26.png",
+          "id": "att9kKtlISPYbvams",
+          "size": 109514,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/eccd482c9f256f54ad368651f6b3670b/fef08ddc",
+              "width": 3000
+            },
+            "large": {
+              "height": 396,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fa103006eea7e2df0fc76af3a5e0e712/4e02bd11",
+              "width": 378
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/14050fb6f941856402112b04d95be884/9d6c4506",
+              "width": 34
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/e265b12ce60ae8225114c7ef0a9f9f6f/860f33f1/Capturedcrande2020-12-1509-20-26.png"
+        },
+        {
+          "filename": "1f25c7_Gerente2.jpeg",
+          "id": "attLmVSYL7oFYmu5m",
+          "size": 58018,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c68521e930945d94fdc5e09c08cc3d0a/1ff54a78",
+              "width": 3000
+            },
+            "large": {
+              "height": 563,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/84c5cbf7e63d02a464d52cd47e9a5d88/1898ad62",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9f9308d1932fa01bd5318feb7a34d218/fbf9f479",
+              "width": 33
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/d7ac17762bc82f197755a1e4346dca13/c668b0fb/1f25c7_Gerente2.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 132,
+      "nombre": "Julio Aruquipa Mamani"
     },
     {
       "airtableId": "reczQmXFbWFxxep2b",
