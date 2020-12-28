@@ -2194,7 +2194,8 @@
         "recsuCxQwrF93G855"
       ],
       "id": 58,
-      "nombre": "Viceministerio de Educación Alternativa y Especial"
+      "nombre": "Viceministerio de Educación Alternativa y Especial",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "rec0zU8PBRvwKzU27",
@@ -2205,7 +2206,8 @@
         "recTV9hdUCYs4u19T"
       ],
       "id": 45,
-      "nombre": "Viceministerio de Medio Ambiente, Biodiversidad, Cambios Climáticos y de Gestión y Desarrollo Forestal"
+      "nombre": "Viceministerio de Medio Ambiente, Biodiversidad, Cambios Climáticos y de Gestión y Desarrollo Forestal",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "rec24Y6z7nWHIqB60",
@@ -2217,6 +2219,7 @@
       ],
       "id": 60,
       "nombre": "Viceministerio de Autonomías",
+      "tipo": "Viceministerio",
       "twitter": "@AutonomiasBol"
     },
     {
@@ -2229,6 +2232,7 @@
       ],
       "id": 8,
       "nombre": "Viceministerio de Transparencia Institucional y Lucha contra la Corrupción",
+      "tipo": "Viceministerio",
       "twitter": "@V_Transparencia"
     },
     {
@@ -2241,6 +2245,7 @@
       ],
       "id": 100,
       "nombre": "Empresa Pública Editorial del Estado Plurinacional de Bolivia",
+      "tipo": "Empresa",
       "twitter": "@EditorialEstado"
     },
     {
@@ -2252,7 +2257,8 @@
         "recsuCxQwrF93G855"
       ],
       "id": 56,
-      "nombre": "Viceministerio de Educación Regular"
+      "nombre": "Viceministerio de Educación Regular",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "rec5KqYsgenWBo8ln",
@@ -2265,6 +2271,7 @@
       "id": 102,
       "nombre": "Viceministerio de Comercio Exterior e Integración",
       "sigla": "VCEI",
+      "tipo": "Viceministerio",
       "twitter": "@VCEIBolivia"
     },
     {
@@ -2278,6 +2285,7 @@
       "id": 44,
       "nombre": "Fondo Nacional de Desarrollo Forestal",
       "sigla": "Fonabosque",
+      "tipo": "Fondo",
       "twitter": "@fonabosque"
     },
     {
@@ -2290,7 +2298,8 @@
       ],
       "id": 107,
       "nombre": "Autoridad de Fiscalización y Control de Cooperativas",
-      "sigla": "AFCOOP"
+      "sigla": "AFCOOP",
+      "tipo": "Autoridad de fiscalización"
     },
     {
       "airtableId": "rec695Y70CzqJdhzF",
@@ -2303,6 +2312,7 @@
       "id": 105,
       "nombre": "Autoridad de Supervisión del Sistema Financiero",
       "sigla": "ASFI",
+      "tipo": "Autoridad de fiscalización",
       "twitter": "@asfibolivia"
     },
     {
@@ -2316,6 +2326,7 @@
       "id": 90,
       "nombre": "Ministerio de Desarrollo Productivo y Economía Plural",
       "sigla": "MDPyEP",
+      "tipo": "Ministerio",
       "twitter": "@MDPyEPBolivia"
     },
     {
@@ -2329,6 +2340,7 @@
       "id": 76,
       "nombre": "Ministerio de Planificación del Desarrollo",
       "sigla": "MPD",
+      "tipo": "Ministerio",
       "twitter": "@minplanifica"
     },
     {
@@ -2340,7 +2352,8 @@
         "reccX4xvpiziL6dV9"
       ],
       "id": 16,
-      "nombre": "Viceministerio de Coordinación y Gestión Gubernamental"
+      "nombre": "Viceministerio de Coordinación y Gestión Gubernamental",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "rec7TIcIskE2O4CQr",
@@ -2351,7 +2364,8 @@
         "recnjo1nbKW3JKsVr"
       ],
       "id": 51,
-      "nombre": "Viceministerio de Cooperativas Mineras"
+      "nombre": "Viceministerio de Cooperativas Mineras",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "rec8iOFKCfnKPhudZ",
@@ -2363,6 +2377,7 @@
       ],
       "id": 47,
       "nombre": "Viceministerio de la Coca y Desarrollo Integral",
+      "tipo": "Viceministerio",
       "twitter": "@cocavcdi"
     },
     {
@@ -2376,6 +2391,7 @@
       "id": 81,
       "nombre": "Fondo Productivo Social",
       "sigla": "FPS",
+      "tipo": "Fondo",
       "twitter": "@FPS_Bolivia"
     },
     {
@@ -2387,7 +2403,8 @@
         "reccX4xvpiziL6dV9"
       ],
       "id": 1,
-      "nombre": "Viceministerio de Coordinación con Movimientos Sociales"
+      "nombre": "Viceministerio de Coordinación con Movimientos Sociales",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recAmAK3GEie38r1Y",
@@ -2397,6 +2414,7 @@
       "id": 122,
       "nombre": "Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria",
       "sigla": "Senasag",
+      "tipo": "Otro",
       "twitter": "@SenasagBolivia"
     },
     {
@@ -2409,7 +2427,8 @@
       ],
       "id": 97,
       "nombre": "Viceministerio de Recursos Hídricos y Riego",
-      "sigla": "VRHR"
+      "sigla": "VRHR",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recD6sRObwSGTeSRx",
@@ -2421,7 +2440,8 @@
       ],
       "id": 18,
       "nombre": "Administradora Boliviana de Carreteras",
-      "sigla": "ABC"
+      "sigla": "ABC",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recDAydiNGHaq0Y9b",
@@ -2433,6 +2453,7 @@
       ],
       "id": 21,
       "nombre": "Ejercito",
+      "tipo": "Otro",
       "twitter": "@BoliviaEjercito"
     },
     {
@@ -2446,6 +2467,7 @@
       "id": 63,
       "nombre": "Ministerio de Economía y Finanzas Públicas",
       "sigla": "MEFP",
+      "tipo": "Ministerio",
       "twitter": "@EconomiaBo"
     },
     {
@@ -2459,6 +2481,7 @@
       "id": 31,
       "nombre": "Agencia de Gobierno Electrónico y Tecnologías de la Información y Comunicación",
       "sigla": "AGETIC",
+      "tipo": "Otro",
       "twitter": "@AgeticOficial"
     },
     {
@@ -2467,7 +2490,8 @@
         "rec5SqbarqKG4LH5x"
       ],
       "id": 65,
-      "nombre": "Presidencia del Estado"
+      "nombre": "Presidencia del Estado",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recEJuQ08Sx4oc78J",
@@ -2480,7 +2504,8 @@
       "desde": "2020-12-11",
       "id": 138,
       "nombre": "Vocería Presidencial",
-      "sigla": "VP"
+      "sigla": "VP",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recEWlcToVdJVS77R",
@@ -2491,7 +2516,8 @@
         "recuomBcP9OFzwKQi"
       ],
       "id": 53,
-      "nombre": "Viceministerio de Gestión del Sistema Sanitario"
+      "nombre": "Viceministerio de Gestión del Sistema Sanitario",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recFOLfLWOglx0Wku",
@@ -2504,6 +2530,7 @@
       "id": 132,
       "nombre": "Servicio Nacional de Registro y Control de la Comercialización de Minerales y Metales",
       "sigla": "Senarecom",
+      "tipo": "Otro",
       "twitter": "@senarecom1"
     },
     {
@@ -2517,6 +2544,7 @@
       "id": 92,
       "nombre": "Empresa Nacional de Electricidad",
       "sigla": "ENDE",
+      "tipo": "Empresa",
       "twitter": "@ENDECORPORACION"
     },
     {
@@ -2527,6 +2555,7 @@
       "id": 131,
       "nombre": "Corporación Minera de Bolivia",
       "sigla": "Comibol",
+      "tipo": "Otro",
       "twitter": "@BocaminaCOMIBOL"
     },
     {
@@ -2540,6 +2569,7 @@
       "id": 111,
       "nombre": "Agencia Boliviana Espacial",
       "sigla": "ABE",
+      "tipo": "Otro",
       "twitter": "@ABEBOLIVIA"
     },
     {
@@ -2552,7 +2582,8 @@
       ],
       "id": 108,
       "nombre": "Viceministerio de Vivienda y Urbanismo",
-      "sigla": "VVU"
+      "sigla": "VVU",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recHIPOn4UwiPkBOq",
@@ -2565,6 +2596,7 @@
       "id": 124,
       "nombre": "Servicios de Aeropuertos Bolivianos SA",
       "sigla": "SABSA",
+      "tipo": "Otro",
       "twitter": "@BoliviaSabsa"
     },
     {
@@ -2578,6 +2610,7 @@
       "id": 144,
       "nombre": "Escuela de Gestión Pública Plurinacional",
       "sigla": "EGPP",
+      "tipo": "Otro",
       "twitter": "@egppbol"
     },
     {
@@ -2588,6 +2621,7 @@
       "id": 70,
       "nombre": "Vicepresidencia del Estado",
       "sigla": "VPEP",
+      "tipo": "Otro",
       "twitter": "@VPEP_Bol"
     },
     {
@@ -2600,7 +2634,8 @@
       ],
       "id": 39,
       "nombre": "Unidad de Proyectos Especiales",
-      "sigla": "UPRE"
+      "sigla": "UPRE",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recINHhColXLVHKEP",
@@ -2611,7 +2646,8 @@
         "recTV9hdUCYs4u19T"
       ],
       "id": 71,
-      "nombre": "Viceministerio de Agua Potable y Saneamiento Básico"
+      "nombre": "Viceministerio de Agua Potable y Saneamiento Básico",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recIysVnliGTwljf1",
@@ -2621,6 +2657,7 @@
       "id": 140,
       "nombre": "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea",
       "sigla": "AASANA",
+      "tipo": "Otro",
       "twitter": "@AASANABOLIVIA"
     },
     {
@@ -2634,6 +2671,7 @@
       "id": 43,
       "nombre": "Servicio Nacional de Áreas Protegidas",
       "sigla": "SERNAP",
+      "tipo": "Otro",
       "twitter": "@BoliviaSernap"
     },
     {
@@ -2647,6 +2685,7 @@
       "id": 27,
       "nombre": "Agencia para el Desarrollo de la Sociedad de la Información en Bolivia",
       "sigla": "ADSIB",
+      "tipo": "Otro",
       "twitter": "@AdsibBolivia"
     },
     {
@@ -2660,6 +2699,7 @@
       "id": 127,
       "nombre": "Empresa Nacional de Ferrocarriles",
       "sigla": "ENFE",
+      "tipo": "Empresa",
       "twitter": "@ENFE_BOLIVIA"
     },
     {
@@ -2671,7 +2711,8 @@
         "recDI8RDjX6z76J0n"
       ],
       "id": 10,
-      "nombre": "Viceministerio de Tesoro y Crédito Público"
+      "nombre": "Viceministerio de Tesoro y Crédito Público",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recKWcMsaKwr1hrAj",
@@ -2682,7 +2723,8 @@
         "recdkuR3fetrWHrQf"
       ],
       "id": 48,
-      "nombre": "Dirección General de la Hoja de Coca e Industrialización"
+      "nombre": "Dirección General de la Hoja de Coca e Industrialización",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recKXt5RcXpXXrIyO",
@@ -2695,6 +2737,7 @@
       "id": 67,
       "nombre": "Ministerio de Obras Públicas, Servicios y Vivienda",
       "sigla": "MOPSV",
+      "tipo": "Ministerio",
       "twitter": "@mopsv_Bolivia"
     },
     {
@@ -2707,7 +2750,8 @@
       ],
       "id": 106,
       "nombre": "Unidad Ejecutora del Fondo Nacional de Solidaridad y Equidad",
-      "sigla": "FNSE"
+      "sigla": "FNSE",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recLfbyCE51KThALH",
@@ -2719,6 +2763,7 @@
       ],
       "id": 32,
       "nombre": "Misión de Bolivia ante la ONU",
+      "tipo": "Otro",
       "twitter": "@BoliviaUNNY"
     },
     {
@@ -2730,7 +2775,8 @@
         "recuomBcP9OFzwKQi"
       ],
       "id": 54,
-      "nombre": "Viceministerio de Seguros de Salud y Gestión del Sistema Único de Salud"
+      "nombre": "Viceministerio de Seguros de Salud y Gestión del Sistema Único de Salud",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recM2dLFNUaRgVPmO",
@@ -2742,7 +2788,8 @@
       ],
       "id": 137,
       "nombre": "Viceministerio de Relaciones Exteriores",
-      "sigla": "VRE"
+      "sigla": "VRE",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recMG6vay1qsi6aUd",
@@ -2755,6 +2802,7 @@
       "id": 66,
       "nombre": "Ministerio de Defensa",
       "sigla": "MD",
+      "tipo": "Ministerio",
       "twitter": "@mindefbolivia"
     },
     {
@@ -2768,6 +2816,7 @@
       "id": 36,
       "nombre": "Agencia Nacional de Hidrocarburos",
       "sigla": "ANH",
+      "tipo": "Otro",
       "twitter": "@AnhBolivia"
     },
     {
@@ -2781,6 +2830,7 @@
       "id": 35,
       "nombre": "Yacimientos Petrolíferos Fiscales Bolivianos",
       "sigla": "YPFB",
+      "tipo": "Otro",
       "twitter": "@YPFB_corp"
     },
     {
@@ -2794,6 +2844,7 @@
       "id": 86,
       "nombre": "Lotería Nacional de Beneficencia y Salubridad",
       "sigla": "Lonabol",
+      "tipo": "Otro",
       "twitter": "@lonaboloficial"
     },
     {
@@ -2805,7 +2856,8 @@
         "recVFpQI3U7A124Tu"
       ],
       "id": 28,
-      "nombre": "Viceministerio  de Lucha Contra el Contrabando"
+      "nombre": "Viceministerio  de Lucha Contra el Contrabando",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recNoyhn78ytiC349",
@@ -2817,7 +2869,8 @@
       ],
       "id": 109,
       "nombre": "Viceministerio de Telecomunicaciones",
-      "sigla": "VMTel"
+      "sigla": "VMTel",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recO5UDDe54Jsw4lq",
@@ -2830,6 +2883,7 @@
       "id": 120,
       "nombre": "Autoridad de Fiscalización de Empresas",
       "sigla": "AEMP",
+      "tipo": "Autoridad de fiscalización",
       "twitter": "@AEMP_Bolivia"
     },
     {
@@ -2843,6 +2897,7 @@
       "id": 96,
       "nombre": "Agencia Boliviana de Información",
       "sigla": "ABI",
+      "tipo": "Otro",
       "twitter": "@abi_bolivia"
     },
     {
@@ -2855,7 +2910,8 @@
       ],
       "id": 135,
       "nombre": "Viceministerio de Inversión Pública y Financiamiento Externo",
-      "sigla": "VIPFE"
+      "sigla": "VIPFE",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recOzOvTBjCC3G68D",
@@ -2868,6 +2924,7 @@
       "id": 2,
       "nombre": "Impuestos Nacionales",
       "sigla": "SIN",
+      "tipo": "Otro",
       "twitter": "@sinbolivia"
     },
     {
@@ -2879,7 +2936,8 @@
         "recMG6vay1qsi6aUd"
       ],
       "id": 29,
-      "nombre": "Viceministerio de Defensa y Cooperación al Desarrollo Integral"
+      "nombre": "Viceministerio de Defensa y Cooperación al Desarrollo Integral",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recQmAslYfi2uvwvZ",
@@ -2892,6 +2950,7 @@
       "id": 139,
       "nombre": "Distribuidora de Electricidad La Paz S.A.",
       "sigla": "DELAPAZ",
+      "tipo": "Otro",
       "twitter": "@delapazbol"
     },
     {
@@ -2904,7 +2963,8 @@
       ],
       "id": 94,
       "nombre": "Radio de los Pueblos Originarios",
-      "sigla": "RPO"
+      "sigla": "RPO",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recRguDgEmLtlL1Sc",
@@ -2917,6 +2977,7 @@
       "id": 149,
       "nombre": "Fondo Nacional de Desarrollo Integral",
       "sigla": "Fonadin",
+      "tipo": "Fondo",
       "twitter": "@fonadin_bolivia"
     },
     {
@@ -2930,6 +2991,7 @@
       "id": 64,
       "nombre": "Ministerio de Justicia y Transparencia Institucional",
       "sigla": "MJ",
+      "tipo": "Ministerio",
       "twitter": "@MinJusticiaBol"
     },
     {
@@ -2942,6 +3004,7 @@
       ],
       "id": 24,
       "nombre": "Policía Boliviana",
+      "tipo": "Otro",
       "twitter": "@Pol_Boliviana"
     },
     {
@@ -2953,7 +3016,8 @@
         "recDI8RDjX6z76J0n"
       ],
       "id": 12,
-      "nombre": "Viceministerio de Presupuesto y Contabilidad Fiscal"
+      "nombre": "Viceministerio de Presupuesto y Contabilidad Fiscal",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recSpPxv2UEzUcBZ9",
@@ -2966,6 +3030,7 @@
       "id": 129,
       "nombre": "Caja Nacional de Salud",
       "sigla": "CNS",
+      "tipo": "Otro",
       "twitter": "@CNS_Bolivia"
     },
     {
@@ -2979,6 +3044,7 @@
       "id": 146,
       "nombre": "Autoridad de Supervision de la Seguridad Social de Corto Plazo",
       "sigla": "ASUSS",
+      "tipo": "Autoridad de fiscalización",
       "twitter": "@AsussBolivia"
     },
     {
@@ -2991,7 +3057,8 @@
       ],
       "id": 101,
       "nombre": "Viceministerio de Gestión Institucional Consular",
-      "sigla": "VGIC"
+      "sigla": "VGIC",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recTV9hdUCYs4u19T",
@@ -3004,6 +3071,7 @@
       "id": 75,
       "nombre": "Ministerio de Medio Ambiente y Agua",
       "sigla": "MMAyA",
+      "tipo": "Ministerio",
       "twitter": "@AmbienteyAgua"
     },
     {
@@ -3015,7 +3083,8 @@
         "recRiMRkZ9ral1hlk"
       ],
       "id": 5,
-      "nombre": "Viceministerio de Justicia y Derechos Fundamentales"
+      "nombre": "Viceministerio de Justicia y Derechos Fundamentales",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recVFpQI3U7A124Tu",
@@ -3028,6 +3097,7 @@
       "id": 69,
       "nombre": "Ministerio de Gobierno",
       "sigla": "MG",
+      "tipo": "Ministerio",
       "twitter": "@MindeGobierno"
     },
     {
@@ -3041,6 +3111,7 @@
       "id": 74,
       "nombre": "Ministerio de Hidrocarburos y Energías",
       "sigla": "MHE",
+      "tipo": "Ministerio",
       "twitter": "@Bolivia_MHE"
     },
     {
@@ -3054,7 +3125,8 @@
       "desde": "2020-11-20",
       "id": 40,
       "nombre": "Ministerio de Culturas, Descolonización y Despatriarcalización",
-      "sigla": "MCDD"
+      "sigla": "MCDD",
+      "tipo": "Ministerio"
     },
     {
       "airtableId": "recWxLpGq2Ax5d6RV",
@@ -3065,7 +3137,8 @@
         "recVFpQI3U7A124Tu"
       ],
       "id": 33,
-      "nombre": "Viceministerio de Régimen Interior y Policía"
+      "nombre": "Viceministerio de Régimen Interior y Policía",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recWy6BW7DbkBy9RX",
@@ -3078,6 +3151,7 @@
       "id": 118,
       "nombre": "Insumos Bolivia",
       "sigla": "Inbol",
+      "tipo": "Otro",
       "twitter": "@inbol_bo"
     },
     {
@@ -3091,6 +3165,7 @@
       "id": 119,
       "nombre": "Servicio Nacional Textil",
       "sigla": "Senatex",
+      "tipo": "Otro",
       "twitter": "@SenatexBolivia"
     },
     {
@@ -3101,6 +3176,7 @@
       "id": 133,
       "nombre": "Empresa de Envases de Vidrio de Bolivia",
       "sigla": "Envibol",
+      "tipo": "Empresa",
       "twitter": "@envibol"
     },
     {
@@ -3113,6 +3189,7 @@
       ],
       "id": 3,
       "nombre": "Viceministerio de Comunicación",
+      "tipo": "Viceministerio",
       "twitter": "@vicemincom"
     },
     {
@@ -3124,7 +3201,8 @@
         "recDI8RDjX6z76J0n"
       ],
       "id": 13,
-      "nombre": "Viceministerio de Pensiones y Servicios Financieros"
+      "nombre": "Viceministerio de Pensiones y Servicios Financieros",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recZa6mi9G06MfjCI",
@@ -3135,7 +3213,8 @@
         "recsuCxQwrF93G855"
       ],
       "id": 57,
-      "nombre": "Viceministerio de Educación Superior y Formación Profesional"
+      "nombre": "Viceministerio de Educación Superior y Formación Profesional",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recZb1824aKt0GCKz",
@@ -3147,7 +3226,8 @@
       ],
       "desde": "2020-11-20",
       "id": 42,
-      "nombre": "Viceministerio de Interculturalidad"
+      "nombre": "Viceministerio de Interculturalidad",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recaFXnsCFPuurYwG",
@@ -3159,7 +3239,8 @@
       ],
       "id": 91,
       "nombre": "Viceministerio de Electricidad y Energías Alternativas",
-      "sigla": "VEEA"
+      "sigla": "VEEA",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recbZDq1W7CX2uEST",
@@ -3171,6 +3252,7 @@
       ],
       "id": 25,
       "nombre": "Viceministerio de Desarrollo Rural y Agropecuario",
+      "tipo": "Viceministerio",
       "twitter": "@VAgropecuario"
     },
     {
@@ -3183,7 +3265,8 @@
       ],
       "id": 145,
       "nombre": "Central de Abastecimiento de Suministros de Salud",
-      "sigla": "CEASS"
+      "sigla": "CEASS",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recbyxfOHMNLhBsr9",
@@ -3195,7 +3278,8 @@
       ],
       "id": 115,
       "nombre": "Viceministerio de Producción Industrial a Mediana y Gran Escala",
-      "sigla": "VPIMGE"
+      "sigla": "VPIMGE",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recc8qv7GXfPHsdUg",
@@ -3208,6 +3292,7 @@
       "id": 26,
       "nombre": "Servicio General de Identificación Personal",
       "sigla": "SEGIP",
+      "tipo": "Otro",
       "twitter": "@OficialSegip"
     },
     {
@@ -3220,7 +3305,8 @@
       ],
       "id": 88,
       "nombre": "Viceministerio de Exploración y Explotación de Hidrocarburos",
-      "sigla": "VEEH"
+      "sigla": "VEEH",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "reccAXEFxQLBasjW7",
@@ -3233,6 +3319,7 @@
       "id": 126,
       "nombre": "Servicio de Desarrollo de las Empresas Públicas Productivas",
       "sigla": "SEDEM",
+      "tipo": "Otro",
       "twitter": "@Sedem_Bolivia"
     },
     {
@@ -3245,6 +3332,7 @@
       ],
       "id": 19,
       "nombre": "Fuerzas Armadas",
+      "tipo": "Otro",
       "twitter": "@ComandoLas"
     },
     {
@@ -3258,6 +3346,7 @@
       "id": 62,
       "nombre": "Ministerio de la Presidencia",
       "sigla": "MP",
+      "tipo": "Ministerio",
       "twitter": "@MinPresidencia"
     },
     {
@@ -3271,6 +3360,7 @@
       "id": 112,
       "nombre": "Viceministerio de Comercio Interno",
       "sigla": "VCI",
+      "tipo": "Viceministerio",
       "twitter": "@vcie_bo"
     },
     {
@@ -3284,6 +3374,7 @@
       "id": 116,
       "nombre": "Empresa Boliviana de Alimentos y Derivados",
       "sigla": "EBA",
+      "tipo": "Empresa",
       "twitter": "@ebabolivia"
     },
     {
@@ -3298,6 +3389,7 @@
       "id": 68,
       "nombre": "Ministerio de Desarrollo Rural y Tierras",
       "sigla": "MDRyT",
+      "tipo": "Ministerio",
       "twitter": "@MDRyTOficial"
     },
     {
@@ -3311,6 +3403,7 @@
       "id": 147,
       "nombre": "Vías Bolivia, Recaudadora de Rodaje y Pesaje",
       "sigla": "Vías Bolivia",
+      "tipo": "Otro",
       "twitter": "@ViasBoliviaONal"
     },
     {
@@ -3324,6 +3417,7 @@
       "id": 37,
       "nombre": "Autoridad de Fiscalización y Control Social del Juego",
       "sigla": "AJ",
+      "tipo": "Autoridad de fiscalización",
       "twitter": "@ajcomunica"
     },
     {
@@ -3337,6 +3431,7 @@
       "id": 125,
       "nombre": "Dirección General de Migración",
       "sigla": "Digemig",
+      "tipo": "Otro",
       "twitter": "@MIGRACION_BOL"
     },
     {
@@ -3350,6 +3445,7 @@
       "desde": "2020-11-20",
       "id": 41,
       "nombre": "Viceministerio de Descolonización y Despatriarcalización",
+      "tipo": "Viceministerio",
       "twitter": "@VCMdesco"
     },
     {
@@ -3363,6 +3459,7 @@
       "id": 104,
       "nombre": "Empresa Pública Nacional Estratégica Boliviana de Aviación",
       "sigla": "BoA",
+      "tipo": "Empresa",
       "twitter": "@BoABolivia"
     },
     {
@@ -3376,6 +3473,7 @@
       "id": 46,
       "nombre": "Instituto Nacional de Estadísticas",
       "sigla": "INE",
+      "tipo": "Otro",
       "twitter": "@INE_Bolivia"
     },
     {
@@ -3389,6 +3487,7 @@
       "id": 59,
       "nombre": "Aduana Nacional de Bolivia",
       "sigla": "ANB",
+      "tipo": "Otro",
       "twitter": "@aduanabolivia"
     },
     {
@@ -3400,7 +3499,8 @@
         "reccOyt73GJKFfU2z"
       ],
       "id": 22,
-      "nombre": "Fuerza Aérea"
+      "nombre": "Fuerza Aérea",
+      "tipo": "Otro"
     },
     {
       "airtableId": "rechl1BJBLLwWUzcs",
@@ -3411,7 +3511,8 @@
         "recRiMRkZ9ral1hlk"
       ],
       "id": 6,
-      "nombre": "Viceministerio de Igualdad de Oportunidades"
+      "nombre": "Viceministerio de Igualdad de Oportunidades",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "rechnWAyDvFw6xdUn",
@@ -3424,6 +3525,7 @@
       "id": 103,
       "nombre": "Empresa Estatal de Transporte por Cable Mi Teleférico",
       "sigla": "Mi Teleférico",
+      "tipo": "Empresa",
       "twitter": "@miteleferico"
     },
     {
@@ -3436,7 +3538,8 @@
       ],
       "id": 134,
       "nombre": "Viceministerio de Planificación y Coordinación",
-      "sigla": "VPC"
+      "sigla": "VPC",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "reciPvyYzpk1CjOk9",
@@ -3446,6 +3549,7 @@
       "id": 130,
       "nombre": "Autoridad Juridiccional Administrativa Minera",
       "sigla": "AJAM",
+      "tipo": "Autoridad de fiscalización",
       "twitter": "@AJAMBolivia"
     },
     {
@@ -3459,6 +3563,7 @@
       "id": 15,
       "nombre": "Procuraduría General del Estado",
       "sigla": "PGE",
+      "tipo": "Otro",
       "twitter": "@PGE_Bolivia"
     },
     {
@@ -3472,6 +3577,7 @@
       "id": 4,
       "nombre": "Banco Central de Bolivia",
       "sigla": "BCB",
+      "tipo": "Otro",
       "twitter": "@BancoCentralBO"
     },
     {
@@ -3483,7 +3589,8 @@
         "recuomBcP9OFzwKQi"
       ],
       "id": 52,
-      "nombre": "Viceministerio de Promoción, Vigilancia Epidemiológica y Medicina Tradicional"
+      "nombre": "Viceministerio de Promoción, Vigilancia Epidemiológica y Medicina Tradicional",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recl6ms0B0Am4zVja",
@@ -3495,7 +3602,8 @@
       ],
       "id": 113,
       "nombre": "Viceministerio de Micro y Pequeña Empresa",
-      "sigla": "VMPE"
+      "sigla": "VMPE",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "reclMp9JJAxDwOMsQ",
@@ -3506,7 +3614,8 @@
         "recMG6vay1qsi6aUd"
       ],
       "id": 17,
-      "nombre": "Viceministerio de Defensa Social y Sustancias Controladas"
+      "nombre": "Viceministerio de Defensa Social y Sustancias Controladas",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recmScKS43bNNi2Dd",
@@ -3519,6 +3628,7 @@
       "id": 7,
       "nombre": "Viceministerio de Defensa de los Derechos del Usuario y Consumidor",
       "sigla": "VDDUC",
+      "tipo": "Viceministerio",
       "twitter": "@consumidorbo"
     },
     {
@@ -3530,7 +3640,8 @@
         "reccOyt73GJKFfU2z"
       ],
       "id": 20,
-      "nombre": "Estado Mayor de las Fuerzas Armadas"
+      "nombre": "Estado Mayor de las Fuerzas Armadas",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recnjo1nbKW3JKsVr",
@@ -3543,6 +3654,7 @@
       "id": 77,
       "nombre": "Ministerio de Minería y Metalurgia",
       "sigla": "MMM",
+      "tipo": "Ministerio",
       "twitter": "@minmineriabo"
     },
     {
@@ -3554,7 +3666,8 @@
         "recnjo1nbKW3JKsVr"
       ],
       "id": 50,
-      "nombre": "Viceministerio de Política Minera, Regulación y Fiscalización"
+      "nombre": "Viceministerio de Política Minera, Regulación y Fiscalización",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "reco2CxoG7bZXeObT",
@@ -3565,7 +3678,8 @@
         "recDI8RDjX6z76J0n"
       ],
       "id": 11,
-      "nombre": "Viceministerio de Política Tributaria"
+      "nombre": "Viceministerio de Política Tributaria",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "reco99O3A2HHOg4CP",
@@ -3578,6 +3692,7 @@
       "id": 136,
       "nombre": "Autoridad de Fiscalización y Control de Pensiones y Seguros",
       "sigla": "APS",
+      "tipo": "Autoridad de fiscalización",
       "twitter": "@Bolivia_APS"
     },
     {
@@ -3591,6 +3706,7 @@
       "id": 128,
       "nombre": "Dirección General de Aeronáutica Civil",
       "sigla": "DGAC",
+      "tipo": "Otro",
       "twitter": "@dgacbolivia"
     },
     {
@@ -3604,6 +3720,7 @@
       "id": 98,
       "nombre": "Empresa Estatal de Televisión “Bolivia Tv”",
       "sigla": "Bolivia Tv",
+      "tipo": "Empresa",
       "twitter": "@Canal_BoliviaTV"
     },
     {
@@ -3616,6 +3733,7 @@
       ],
       "id": 34,
       "nombre": "Viceministerio de Seguridad Ciudadana",
+      "tipo": "Viceministerio",
       "twitter": "@vmsc_bolivia"
     },
     {
@@ -3629,6 +3747,7 @@
       "id": 143,
       "nombre": "Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo",
       "sigla": "OTNPB",
+      "tipo": "Otro",
       "twitter": "@OTNcuencasPB"
     },
     {
@@ -3641,7 +3760,8 @@
       ],
       "id": 114,
       "nombre": "Viceministerio de Turismo",
-      "sigla": "VT"
+      "sigla": "VT",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recqopKr2f4iXn6AA",
@@ -3652,7 +3772,8 @@
         "recnjo1nbKW3JKsVr"
       ],
       "id": 49,
-      "nombre": "Viceministerio de Desarrollo Productivo Minero"
+      "nombre": "Viceministerio de Desarrollo Productivo Minero",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recrEl2V8GSxaSshp",
@@ -3665,6 +3786,7 @@
       "id": 73,
       "nombre": "Ministerio de Relaciones Exteriores",
       "sigla": "MRE",
+      "tipo": "Ministerio",
       "twitter": "@MRE_Bolivia"
     },
     {
@@ -3676,7 +3798,8 @@
         "recyMpkgqj37VCj7M"
       ],
       "id": 30,
-      "nombre": "Viceministerio de Trabajo y Previsión Social"
+      "nombre": "Viceministerio de Trabajo y Previsión Social",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recrodKMMCT6YIO8j",
@@ -3688,6 +3811,7 @@
       ],
       "id": 123,
       "nombre": "Viceministerio de Deportes",
+      "tipo": "Viceministerio",
       "twitter": "@vicedeportesbo"
     },
     {
@@ -3700,7 +3824,8 @@
       ],
       "id": 83,
       "nombre": "Unidad de Investigaciones Financieras",
-      "sigla": "UIF"
+      "sigla": "UIF",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recsG84XJ2a9Ix4xR",
@@ -3711,7 +3836,8 @@
         "recDI8RDjX6z76J0n"
       ],
       "id": 82,
-      "nombre": "Gestora Pública de la Seguridad Social de Largo Plazo"
+      "nombre": "Gestora Pública de la Seguridad Social de Largo Plazo",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recshCaSo6BwjqLuT",
@@ -3724,6 +3850,7 @@
       "id": 38,
       "nombre": "Servicio Nacional de Patrimonio del Estado",
       "sigla": "Senape",
+      "tipo": "Otro",
       "twitter": "@SenapeBolivia"
     },
     {
@@ -3737,6 +3864,7 @@
       "id": 79,
       "nombre": "Ministerio de Educación",
       "sigla": "ME",
+      "tipo": "Ministerio",
       "twitter": "@minedubol"
     },
     {
@@ -3748,7 +3876,8 @@
         "recMG6vay1qsi6aUd"
       ],
       "id": 14,
-      "nombre": "Viceministerio de Defensa Civil"
+      "nombre": "Viceministerio de Defensa Civil",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recuS9p6tAC2qIcSz",
@@ -3761,6 +3890,7 @@
       "id": 84,
       "nombre": "Servicio Plurinacional de la Mujer y la Despatriarcalización \"Ana María Romero\"",
       "sigla": "Sepmud",
+      "tipo": "Otro",
       "twitter": "@Sepmudbo"
     },
     {
@@ -3773,7 +3903,8 @@
       ],
       "id": 61,
       "nombre": "Servicio Estatal de Autonomías",
-      "sigla": "SEA"
+      "sigla": "SEA",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recuomBcP9OFzwKQi",
@@ -3786,6 +3917,7 @@
       "id": 78,
       "nombre": "Ministerio de Salud y Deportes",
       "sigla": "MSD",
+      "tipo": "Ministerio",
       "twitter": "@SaludDeportesBo"
     },
     {
@@ -3798,7 +3930,8 @@
       ],
       "id": 93,
       "nombre": "Autoridad de Fiscalización de Electricidad y Tecnología Nuclear",
-      "sigla": "AETN"
+      "sigla": "AETN",
+      "tipo": "Autoridad de fiscalización"
     },
     {
       "airtableId": "recv1X4n3aSHHBxNo",
@@ -3811,6 +3944,7 @@
       "id": 148,
       "nombre": "Agencia de Infraestructura en Salud y Equipamiento",
       "sigla": "AISEM",
+      "tipo": "Otro",
       "twitter": "@AISEM_BOLIVIA"
     },
     {
@@ -3823,6 +3957,7 @@
       ],
       "id": 99,
       "nombre": "Radio Illimani - Red Patria Nueva",
+      "tipo": "Otro",
       "twitter": "@RadioIllimani @PatriaNuevaBo"
     },
     {
@@ -3836,6 +3971,7 @@
       "id": 87,
       "nombre": "Empresa Nacional de Telecomunicaciones",
       "sigla": "Entel-Bolivia",
+      "tipo": "Empresa",
       "twitter": "@entelbo"
     },
     {
@@ -3848,7 +3984,8 @@
       ],
       "id": 141,
       "nombre": "Viceministerio de Empleo, Servicio Civil y Cooperativas",
-      "sigla": "VESCC"
+      "sigla": "VESCC",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recwqL9u3uLwcmRPz",
@@ -3860,6 +3997,7 @@
       ],
       "id": 95,
       "nombre": "Periódico Bolivia",
+      "tipo": "Otro",
       "twitter": "@Bolivia_bol"
     },
     {
@@ -3873,6 +4011,7 @@
       "id": 142,
       "nombre": "Agencia Boliviana de Energía Nuclear",
       "sigla": "ABEN",
+      "tipo": "Otro",
       "twitter": "@ABENinforma"
     },
     {
@@ -3886,6 +4025,7 @@
       "id": 110,
       "nombre": "Agencia Estatal de Vivienda",
       "sigla": "AEVivienda",
+      "tipo": "Otro",
       "twitter": "@AeviBolivia"
     },
     {
@@ -3899,6 +4039,7 @@
       "id": 117,
       "nombre": "Empresa Azucarera San Buenaventura",
       "sigla": "EASBA",
+      "tipo": "Empresa",
       "twitter": "@EASBA_Bolivia"
     },
     {
@@ -3912,6 +4053,7 @@
       "id": 72,
       "nombre": "Ministerio de Trabajo, Empleo y Previsión Social",
       "sigla": "MTEPS",
+      "tipo": "Ministerio",
       "twitter": "@MinTrabajoBol"
     },
     {
@@ -3927,7 +4069,8 @@
       "nombre": "Viceministerio de Descolonización",
       "sucesoras": [
         "recgGEx0KyYdUyTBv"
-      ]
+      ],
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recz3kfvLpJugF88g",
@@ -3938,7 +4081,8 @@
         "recVWx1zATfZJ6Z5x"
       ],
       "id": 55,
-      "nombre": "Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos"
+      "nombre": "Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "recz4ktM53IIcE4A4",
@@ -3950,6 +4094,7 @@
       ],
       "id": 23,
       "nombre": "Armada",
+      "tipo": "Otro",
       "twitter": "@ArmadaBoliviana"
     },
     {
@@ -3963,6 +4108,7 @@
       "id": 80,
       "nombre": "Fondo Nacional de Desarrollo Regional",
       "sigla": "FNDR",
+      "tipo": "Fondo",
       "twitter": "@FNDR_Bolivia"
     },
     {
@@ -3975,7 +4121,8 @@
       ],
       "id": 89,
       "nombre": "Viceministerio de Altas Tecnologías Energéticas",
-      "sigla": "VATE"
+      "sigla": "VATE",
+      "tipo": "Viceministerio"
     },
     {
       "airtableId": "reczzGBh5rfP7ad3c",
@@ -3988,6 +4135,7 @@
       "id": 121,
       "nombre": "Instituto Nacional de Innovación Agropecuaria y Forestal",
       "sigla": "INIAF",
+      "tipo": "Otro",
       "twitter": "@INIAFBolivia"
     }
   ],
