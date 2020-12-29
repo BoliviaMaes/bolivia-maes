@@ -1051,6 +1051,21 @@
       ]
     },
     {
+      "airtableId": "recSuKsCg3P672YTE",
+      "cargo": "Director General Ejecutivo a.i. del Senasag (Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria)",
+      "desde": "2020-12-28",
+      "entidad": [
+        "recAmAK3GEie38r1Y"
+      ],
+      "fuente": [
+        "recN04DRgzSgzgnmo"
+      ],
+      "id": 151,
+      "persona": [
+        "recyvcizzSDph6pni"
+      ]
+    },
+    {
       "airtableId": "recTYA9zPhIKqkTWR",
       "cargo": "Ministro de Desarrollo Productivo",
       "desde": "2020-11-09",
@@ -2408,6 +2423,9 @@
     },
     {
       "airtableId": "recAmAK3GEie38r1Y",
+      "autoridades": [
+        "recSuKsCg3P672YTE"
+      ],
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
@@ -4603,6 +4621,15 @@
       "fuente": "https://www.paginasiete.bo/nacional/2020/12/1/arce-destituye-wilson-caceres-posesiona-nuevo-ministro-de-desarrollo-rural-276686.html",
       "id": 85,
       "tweet": "https://twitter.com/BoliviaMaes/status/1333875982474895366"
+    },
+    {
+      "airtableId": "recN04DRgzSgzgnmo",
+      "autoridad": [
+        "recSuKsCg3P672YTE"
+      ],
+      "fuente": "https://correodelsur.com/politica/20201228_posesionan-a-placido-condori-como-director-general-del-senasag.html",
+      "id": 131,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1343746402007060481"
     },
     {
       "airtableId": "recNuwb43va9ZIb0t",
@@ -10630,6 +10657,41 @@
       "genero": "Hombre",
       "id": 1,
       "nombre": "Juan Villca"
+    },
+    {
+      "airtableId": "recyvcizzSDph6pni",
+      "autoridades": [
+        "recSuKsCg3P672YTE"
+      ],
+      "fotos": [
+        {
+          "filename": "280a72a4-b385-4436-b32c-efce39a1323c.jpeg",
+          "id": "attCCYrMckLZrzrOR",
+          "size": 51732,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c6fe848a4ccae90164e27c7ef55a83c6/87feef75",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/24e807a2d68755f8dfa1d0d505e22d9b/5cf757e9",
+              "width": 838
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/81457aba36cee06e7cc7a37672df8736/925ad7e4",
+              "width": 59
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/1ebb0aa7cd189ae28649bdb76ada865c/488123e1/280a72a4-b385-4436-b32c-efce39a1323c.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 146,
+      "nombre": "Plácido Condori Mamani"
     },
     {
       "airtableId": "recz0KyW7fVLgQNnE",
