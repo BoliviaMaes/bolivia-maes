@@ -796,6 +796,21 @@
       ]
     },
     {
+      "airtableId": "recMrJnpzXfz3HkE8",
+      "cargo": "Director General Ejecutivo de la IPDSA (Institución Pública Desconcentrada Soberanía Alimentaria)",
+      "desde": "2020-12-28",
+      "entidad": [
+        "rechtIYXjKbUxd5Ms"
+      ],
+      "fuente": [
+        "recPiMICbBR2JFj1u"
+      ],
+      "id": 154,
+      "persona": [
+        "recjgYIEqTxqCUWhd"
+      ]
+    },
+    {
       "airtableId": "recMzFkbm1hX0Sdw9",
       "cargo": "Ministra de Culturas, Descolonización y Despatriarcalización",
       "desde": "2020-11-20",
@@ -1078,6 +1093,36 @@
       "id": 99,
       "persona": [
         "recqt8FuN510swRgb"
+      ]
+    },
+    {
+      "airtableId": "recTtcv1MzEWH2LuS",
+      "cargo": "Director General Ejecutivo del INSA (Instituto del Seguro Agrario)",
+      "desde": "2020-12-28",
+      "entidad": [
+        "reclH4QYLNxRZxc86"
+      ],
+      "fuente": [
+        "recF1OcWrpSCUzNsX"
+      ],
+      "id": 152,
+      "persona": [
+        "recuTITBJS29xN8R6"
+      ]
+    },
+    {
+      "airtableId": "recUSllXbQygt0xi3",
+      "cargo": "Directora General Ejecutiva del FDI (Fondo de Desarrollo Indígena)",
+      "desde": "2020-12-28",
+      "entidad": [
+        "reca8bHe55RQeExgP"
+      ],
+      "fuente": [
+        "rec4ORZ9mgDBc40le"
+      ],
+      "id": 153,
+      "persona": [
+        "recBnZiCgT0xzcGEX"
       ]
     },
     {
@@ -3248,6 +3293,20 @@
       "tipo": "Viceministerio"
     },
     {
+      "airtableId": "reca8bHe55RQeExgP",
+      "autoridades": [
+        "recUSllXbQygt0xi3"
+      ],
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 151,
+      "nombre": "Fondo de Desarrollo Indígena",
+      "sigla": "FDI",
+      "tipo": "Fondo",
+      "twitter": "@FDIBolivia"
+    },
+    {
       "airtableId": "recaFXnsCFPuurYwG",
       "autoridades": [
         "recpW0H03ttgXGgVK"
@@ -3547,6 +3606,20 @@
       "twitter": "@miteleferico"
     },
     {
+      "airtableId": "rechtIYXjKbUxd5Ms",
+      "autoridades": [
+        "recMrJnpzXfz3HkE8"
+      ],
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 152,
+      "nombre": "Institución Pública Desconcentrada Soberanía Alimentaria",
+      "sigla": "IPDSA",
+      "tipo": "Otro",
+      "twitter": "@IPDSA_Bolivia"
+    },
+    {
       "airtableId": "reciJUoAjHQX0OOlY",
       "autoridades": [
         "recZDkPJe28GcfNpV"
@@ -3622,6 +3695,20 @@
       "nombre": "Viceministerio de Micro y Pequeña Empresa",
       "sigla": "VMPE",
       "tipo": "Viceministerio"
+    },
+    {
+      "airtableId": "reclH4QYLNxRZxc86",
+      "autoridades": [
+        "recTtcv1MzEWH2LuS"
+      ],
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 150,
+      "nombre": "Instituto del Seguro Agrario",
+      "sigla": "INSA",
+      "tipo": "Otro",
+      "twitter": "@insa_bolivia"
     },
     {
       "airtableId": "reclMp9JJAxDwOMsQ",
@@ -4231,6 +4318,15 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1332645202633297920/photo/1"
     },
     {
+      "airtableId": "rec4ORZ9mgDBc40le",
+      "autoridad": [
+        "recUSllXbQygt0xi3"
+      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
+      "id": 133,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344028127958343684"
+    },
+    {
       "airtableId": "rec4Oqgs1ue0tVdac",
       "autoridad": [
         "recJGLbmug7495IyK"
@@ -4461,6 +4557,15 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1327169942895128576"
     },
     {
+      "airtableId": "recF1OcWrpSCUzNsX",
+      "autoridad": [
+        "recTtcv1MzEWH2LuS"
+      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
+      "id": 132,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344026642914676736"
+    },
+    {
       "airtableId": "recF7rlOafMyGoMDe",
       "autoridad": [
         "reckZMgID1FCmyh1M"
@@ -4675,6 +4780,15 @@
       "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
       "id": 53,
       "tweet": "https://twitter.com/BoliviaMaes/status/1330914758715969542"
+    },
+    {
+      "airtableId": "recPiMICbBR2JFj1u",
+      "autoridad": [
+        "recMrJnpzXfz3HkE8"
+      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
+      "id": 134,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344029112990654464"
     },
     {
       "airtableId": "recPj6sQDrX9g37uc",
@@ -6303,6 +6417,41 @@
       "genero": "Hombre",
       "id": 21,
       "nombre": "Faud Genaro Ramos Espinoza"
+    },
+    {
+      "airtableId": "recBnZiCgT0xzcGEX",
+      "autoridades": [
+        "recUSllXbQygt0xi3"
+      ],
+      "fotos": [
+        {
+          "filename": "EqW3NARXYAIgGp_.jpeg",
+          "id": "attyybUCueluFGXfx",
+          "size": 199119,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1b2e14ae46ce960014386900b974ae70/34ecdef9",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0e8318fb9b1ba4a5476db74fc5fd1e59/3802f1d2",
+              "width": 910
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/82707b05acff0e186c317f413c55139b/2f0dfe99",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/60f5e7089bac97c6a38fbb90102a88b3/42269d3e/EqW3NARXYAIgGp_.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 148,
+      "nombre": "Delicia Rossio López Tolaba"
     },
     {
       "airtableId": "recBtrfFBqqt5Mo50",
@@ -9531,6 +9680,41 @@
       "nombre": "Emilio Zurita Escobar"
     },
     {
+      "airtableId": "recjgYIEqTxqCUWhd",
+      "autoridades": [
+        "recMrJnpzXfz3HkE8"
+      ],
+      "fotos": [
+        {
+          "filename": "EqW3NARXYAIgGp_.jpeg",
+          "id": "attVpR5RBe8u2lSqK",
+          "size": 199119,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d5b62e57fb1c214cfde88951530976ea/9d14cbac",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5fa45527b7012fc24109971d3b8438a8/87641dfe",
+              "width": 910
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1004fdcbc8bd2315dd0e731256510b12/3347c204",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/f0f0590d73cdc82f6fdd5891872544d4/3ef357a0/EqW3NARXYAIgGp_.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 149,
+      "nombre": "Jhonny Marcos Huanca Espejo"
+    },
+    {
       "airtableId": "recjhz8gyMJwGqHL5",
       "autoridades": [
         "recITBLC8q6GRemce"
@@ -10423,6 +10607,41 @@
       "genero": "Hombre",
       "id": 84,
       "nombre": "Sergio Daniel Altamirano Álvarez"
+    },
+    {
+      "airtableId": "recuTITBJS29xN8R6",
+      "autoridades": [
+        "recTtcv1MzEWH2LuS"
+      ],
+      "fotos": [
+        {
+          "filename": "EqW3NARXYAIgGp_.jpeg",
+          "id": "attzXL32AqyWsBN6k",
+          "size": 199119,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d8ce862d81fac56f4f317ad856d3f518/7d2659be",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c50f0ac2f6d1fc83d741452067b30686/521f98b9",
+              "width": 910
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cea4527e6c4a85ae9e43555af2169a41/b35db431",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7932dbe0dc34538c582a08e9aeba55e0/d8480d14/EqW3NARXYAIgGp_.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 147,
+      "nombre": "Agustín Cahuana Choque"
     },
     {
       "airtableId": "recvquQEEyTTqkg71",
