@@ -195,6 +195,9 @@
         "recYT1uDwhgleMZaU"
       ],
       "id": 90,
+      "partidos": [
+        "recpJFtMiHK5WjCRM"
+      ],
       "persona": [
         "recTqN5HabIGCRU4U"
       ]
@@ -874,6 +877,9 @@
         "rec7HkphTfoTkII8B"
       ],
       "id": 40,
+      "partidos": [
+        "rec0Vr0vtXiyMMKQD"
+      ],
       "persona": [
         "recUbhQRcEhEBgLRJ"
       ]
@@ -925,7 +931,7 @@
     },
     {
       "airtableId": "recOHTGaroips2zuH",
-      "cargo": "Nuevo Director Ejecutivo del Senarecom (Servicio Nacional de Registro y Control de la Comercialización de Minerales y Metales)",
+      "cargo": "Director Ejecutivo del Senarecom (Servicio Nacional de Registro y Control de la Comercialización de Minerales y Metales)",
       "desde": "2020-12-22",
       "entidad": [
         "recFOLfLWOglx0Wku"
@@ -1144,6 +1150,9 @@
         "recYT1uDwhgleMZaU"
       ],
       "id": 99,
+      "partidos 2": [
+        "recpJFtMiHK5WjCRM"
+      ],
       "persona": [
         "recqt8FuN510swRgb"
       ]
@@ -1204,6 +1213,9 @@
         "recYT1uDwhgleMZaU"
       ],
       "id": 98,
+      "partidos 2": [
+        "recJQv8if7Ai5KPdz"
+      ],
       "persona": [
         "reco5hMTHBxCTzZnU"
       ]
@@ -1264,6 +1276,9 @@
         "recYT1uDwhgleMZaU"
       ],
       "id": 89,
+      "partidos": [
+        "recJQv8if7Ai5KPdz"
+      ],
       "persona": [
         "recYNroBURLdOGuDM"
       ]
@@ -1405,7 +1420,7 @@
     },
     {
       "airtableId": "recZuN1xAmAroQf50",
-      "cargo": "Minstro de Minería",
+      "cargo": "Ministro de Minería y Metalurgia",
       "desde": "2020-11-09",
       "entidad": [
         "recnjo1nbKW3JKsVr"
@@ -1414,6 +1429,9 @@
         "recYT1uDwhgleMZaU"
       ],
       "id": 102,
+      "partidos 2": [
+        "rec0Vr0vtXiyMMKQD"
+      ],
       "persona": [
         "recERNQ8SGNgSqLWl"
       ]
@@ -1748,6 +1766,9 @@
         "recYT1uDwhgleMZaU"
       ],
       "id": 92,
+      "partidos 2": [
+        "recZBk2t4i2TCC2sg"
+      ],
       "persona": [
         "recDJluplBMoxlzIP"
       ]
@@ -1823,6 +1844,9 @@
         "recYT1uDwhgleMZaU"
       ],
       "id": 88,
+      "partidos": [
+        "recZBk2t4i2TCC2sg"
+      ],
       "persona": [
         "recE7wbq4f50JGBIg"
       ]
