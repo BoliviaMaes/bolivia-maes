@@ -705,6 +705,21 @@
       ]
     },
     {
+      "airtableId": "recGjZ4pHLW99leYG",
+      "cargo": "Director de la CPS (Caja Petrolera de Salud)",
+      "desde": "2021-01-06",
+      "entidad": [
+        "recIEMmzfEEwLBuLK"
+      ],
+      "fuente": [
+        "recZlWsiqdAplVFmP"
+      ],
+      "id": 161,
+      "persona": [
+        "reczPxAT1QSCht4R5"
+      ]
+    },
+    {
       "airtableId": "recHFb3zPcdwNDASK",
       "cargo": "Comandante General interino de la Policía Boliviana",
       "desde": "2020-11-17",
@@ -2846,6 +2861,20 @@
       "nombre": "Unidad de Proyectos Especiales",
       "sigla": "UPRE",
       "tipo": "Otro"
+    },
+    {
+      "airtableId": "recIEMmzfEEwLBuLK",
+      "autoridades": [
+        "recGjZ4pHLW99leYG"
+      ],
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 154,
+      "nombre": "Caja Petrolera de Salud",
+      "sigla": "CPS",
+      "tipo": "Caja de Salud",
+      "twitter": "@CajaPetroleraBO"
     },
     {
       "airtableId": "recINHhColXLVHKEP",
@@ -5126,6 +5155,15 @@
       "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/mario-cazon-retorna-la-presidencia-de-impuestos-nacionales-274698.html",
       "id": 2,
       "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327046912059580421"
+    },
+    {
+      "airtableId": "recZlWsiqdAplVFmP",
+      "autoridad": [
+        "recGjZ4pHLW99leYG"
+      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1346589886401409025",
+      "id": 141,
+      "tweet": "https://twitter.com/BoliviaMaes/status/1346602861837348870"
     },
     {
       "airtableId": "recaV5RVLnh7reEU3",
@@ -11489,6 +11527,41 @@
       "genero": "Hombre",
       "id": 132,
       "nombre": "Julio Aruquipa Mamani"
+    },
+    {
+      "airtableId": "reczPxAT1QSCht4R5",
+      "autoridades": [
+        "recGjZ4pHLW99leYG"
+      ],
+      "fotos": [
+        {
+          "filename": "ErARzOGXAAAk-tN.jpeg",
+          "id": "att0qyRW2mpqcA11C",
+          "size": 86058,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d08b91f22ba474f37b9c236a33d494ec/92faea81",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bf96c1d3e2c9e7a6d19776d97f9ad563/e77fc99d",
+              "width": 643
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3e4da0bccc9ec86efc3ed88968ddce55/9971f275",
+              "width": 45
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/3e09b8480b5bd3e7133503e97165379d/fd2baa73/ErARzOGXAAAk-tN.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 156,
+      "nombre": "David Silvestre Martinez Flores"
     },
     {
       "airtableId": "reczQmXFbWFxxep2b",
