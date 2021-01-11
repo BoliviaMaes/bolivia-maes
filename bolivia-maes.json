@@ -495,6 +495,13 @@
       ]
     },
     {
+      "airtableId": "recC5lmy3i6Gv3iZm",
+      "id": 162,
+      "persona": [
+        "rechvD0OeNIKBSMd2"
+      ]
+    },
+    {
       "airtableId": "recC68zb9RRnYHXUl",
       "cargo": "Director Ejecutivo de la Agencia Nacional de Hidrocarburos (ANH)",
       "desde": "2020-11-20",
@@ -9906,6 +9913,41 @@
       "id": 15,
       "nombre": "Wilfredo Franz David Chávez Serrano",
       "twitter": "@wichaser"
+    },
+    {
+      "airtableId": "rechvD0OeNIKBSMd2",
+      "autoridades": [
+        "recC5lmy3i6Gv3iZm"
+      ],
+      "fotos": [
+        {
+          "filename": "Erc8tFOXMAAPZST.jpeg",
+          "id": "att6wRtt7nVBojTx7",
+          "size": 416602,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3af21eef9adedc5c00dc5d8bdcecfd4c/0e183e99",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c3500005d97c2717d60f4b3fd4363a01/afafca06",
+              "width": 683
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/94e2985605d084f4d4ea38927c586325/27730dd3",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/1d005cc188ec3750a3e829a3b4bb9319/6de0e2c9/Erc8tFOXMAAPZST.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 157,
+      "nombre": "Marcelo Gabino Gonzales Saique"
     },
     {
       "airtableId": "rechzmKSc5eBEcH1n",
