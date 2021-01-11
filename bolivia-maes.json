@@ -496,6 +496,14 @@
     },
     {
       "airtableId": "recC5lmy3i6Gv3iZm",
+      "cargo": "Gerente Ejecutivo de Yacimientos de Litio Bolivianos",
+      "desde": "2021-01-11",
+      "entidad": [
+        "recUUjVxPVBMMPZnI"
+      ],
+      "fuente": [
+        "rec9QOEW7KeXBRjYY"
+      ],
       "id": 162,
       "persona": [
         "rechvD0OeNIKBSMd2"
@@ -3333,6 +3341,20 @@
       "tipo": "Viceministerio"
     },
     {
+      "airtableId": "recUUjVxPVBMMPZnI",
+      "autoridades": [
+        "recC5lmy3i6Gv3iZm"
+      ],
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "id": 155,
+      "nombre": "Empresa Pública Nacional Estratégica de Yacimientos de Litio Bolivianos",
+      "sigla": "YLB",
+      "tipo": "Empresa",
+      "twitter": "@litio_boliviano"
+    },
+    {
       "airtableId": "recVFpQI3U7A124Tu",
       "autoridades": [
         "rec5wRPq7uuQ80zwk"
@@ -4636,6 +4658,14 @@
       "fuente": "https://twitter.com/vicemincom/status/1333455634231144452",
       "id": 75,
       "tweet": "https://twitter.com/BoliviaMaes/status/1333478247833722883"
+    },
+    {
+      "airtableId": "rec9QOEW7KeXBRjYY",
+      "autoridad": [
+        "recC5lmy3i6Gv3iZm"
+      ],
+      "fuente": "https://twitter.com/Bolivia_MHE/status/1348613364990308358",
+      "id": 142
     },
     {
       "airtableId": "rec9XcTxkDqEVzOxY",
@@ -9943,6 +9973,30 @@
           },
           "type": "image/jpeg",
           "url": "https://dl.airtable.com/.attachments/1d005cc188ec3750a3e829a3b4bb9319/6de0e2c9/Erc8tFOXMAAPZST.jpeg"
+        },
+        {
+          "filename": "ErdLyaBXYAIrqVZ.jpeg",
+          "id": "attL5VNCEoyqFvsEZ",
+          "size": 69933,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/67fecde82ef32c0868ae4a903567b8e6/76f864ea",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bbc0761bca7b9cfd2c5c1c7bf7c39bf9/9ee23134",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5ac8cb8677fbe7ffb8c741558c4f8830/9b661b81",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7afdf08e4573c15df8d2bfb68815d01e/52aebd05/ErdLyaBXYAIrqVZ.jpeg"
         }
       ],
       "genero": "Hombre",
