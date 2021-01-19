@@ -7,13 +7,12 @@
       "entidad": [
         "recvRPUbhwOftqX7Z"
       ],
-      "fuente": [
-        "recRMJcMft85nfKQG"
-      ],
+      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1333515255721435145",
       "id": 81,
       "persona": [
         "rec1xDDfkk9Byw9m4"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333518755993964554"
     },
     {
       "airtableId": "rec161AO5afiDeIfg",
@@ -22,13 +21,12 @@
       "entidad": [
         "recbZDq1W7CX2uEST"
       ],
-      "fuente": [
-        "recmeGFUComeX4dRI"
-      ],
+      "fuente": "https://www.atb.com.bo/pol%C3%ADtica/%C3%A1lvaro-mollinedo-fue-posesionado-como-nuevo-viceministro-de-desarrollo-rural-y-agropecuario",
       "id": 25,
       "persona": [
         "rec9ID6uVNfZeCgAQ"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328687269214101504"
     },
     {
       "airtableId": "rec2VWDUcJm5gZYpW",
@@ -37,9 +35,7 @@
       "entidad": [
         "reccOyt73GJKFfU2z"
       ],
-      "fuente": [
-        "recn3BI0JXt1APt1o"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "hasta": "2020-12-29",
       "id": 19,
       "persona": [
@@ -47,7 +43,8 @@
       ],
       "sucesora": [
         "recZcuZkLhWpazk5q"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328377952434855938"
     },
     {
       "airtableId": "rec2WQKfqSqFqprTZ",
@@ -56,13 +53,12 @@
       "entidad": [
         "rec5KqYsgenWBo8ln"
       ],
-      "fuente": [
-        "recKASThi6oG1cnIb"
-      ],
+      "fuente": "https://twitter.com/RadioIllimani/status/1333755342380003328",
       "id": 84,
       "persona": [
         "recTFlT7EVPxbCL8Z"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333766159200555011"
     },
     {
       "airtableId": "rec2fOFUP0SaichhD",
@@ -71,13 +67,12 @@
       "entidad": [
         "recc8qv7GXfPHsdUg"
       ],
-      "fuente": [
-        "recnntK0meZ6C2MT5"
-      ],
+      "fuente": "https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/",
       "id": 26,
       "persona": [
         "recaRqbAFDSRTAPCd"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328725113118846979"
     },
     {
       "airtableId": "rec2gtGWhfCCYAhA9",
@@ -86,13 +81,12 @@
       "entidad": [
         "recqBOHncYTeIBoLG"
       ],
-      "fuente": [
-        "recskPMoAWhpjMJKb"
-      ],
+      "fuente": "https://twitter.com/AmbienteyAgua/status/1341182683980980224",
       "id": 142,
       "persona": [
         "rechzmKSc5eBEcH1n"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341301130253520896"
     },
     {
       "airtableId": "rec3FEK8CFNtKW5oO",
@@ -101,13 +95,12 @@
       "entidad": [
         "recNB343Y7zTT14nC"
       ],
-      "fuente": [
-        "recDReYqE3afKHqLC"
-      ],
+      "fuente": "https://noticiasporelmundo.com/bolivia/posesionan-a-nelida-acuna-como-directora-de-la-loteria-nacional-noticias-bolivia",
       "id": 69,
       "persona": [
         "recKBhFHNYlCUnp86"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332615212789346305"
     },
     {
       "airtableId": "rec4AYqMCCP4MFNDp",
@@ -116,13 +109,12 @@
       "entidad": [
         "reccAXEFxQLBasjW7"
       ],
-      "fuente": [
-        "recg3ZM9EeClmJdWm"
-      ],
+      "fuente": "https://eldeber.com.bo/pais/ministro-huanca-posesionan-a-gerente-de-sedem-e-instruye-acciones-legales-en-ecebol_211421",
       "id": 124,
       "persona": [
         "recGU1ozqANDRAt03"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1336227917882388480"
     },
     {
       "airtableId": "rec4q4g6EjkxFSb2E",
@@ -131,13 +123,12 @@
       "entidad": [
         "recejG6jvgHc487Fh"
       ],
-      "fuente": [
-        "recpyJlcbxrtZIGE6"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
       "id": 37,
       "persona": [
         "recc2GMMuWkeggJne"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329705521260220417"
     },
     {
       "airtableId": "rec56DlAhd0OAmVVw",
@@ -146,13 +137,12 @@
       "entidad": [
         "recHIPOn4UwiPkBOq"
       ],
-      "fuente": [
-        "recwSkxayh8vTENCO"
-      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1338606134731698184",
       "id": 136,
       "persona": [
         "recvquQEEyTTqkg71"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1338760107237236743"
     },
     {
       "airtableId": "rec5SqbarqKG4LH5x",
@@ -161,9 +151,7 @@
       "entidad": [
         "recDPejejWlgRG7Vc"
       ],
-      "fuente": [
-        "rec9DvDqKR7gUnc3r"
-      ],
+      "fuente": "https://www.pagina12.com.ar/304486-bolivia-luis-arce-asume-la-presidencia",
       "id": 103,
       "persona": [
         "recLmD0wBteClURcV"
@@ -176,13 +164,12 @@
       "entidad": [
         "recqIU5v7Y2mS9UOt"
       ],
-      "fuente": [
-        "rec5s0djNZPhTiS0a"
-      ],
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "id": 114,
       "persona": [
         "rec6EDL0I2sQIX2T9"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334914560617222147"
     },
     {
       "airtableId": "rec5wRPq7uuQ80zwk",
@@ -191,15 +178,15 @@
       "entidad": [
         "recVFpQI3U7A124Tu"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 90,
       "partidos": [
-        "recpJFtMiHK5WjCRM"
+        "recpJFtMiHK5WjCRM",
+        "recxqZ7rPza3WbLl8"
       ],
       "partidos 2": [
-        "recpJFtMiHK5WjCRM"
+        "recpJFtMiHK5WjCRM",
+        "recxqZ7rPza3WbLl8"
       ],
       "persona": [
         "recTqN5HabIGCRU4U"
@@ -212,13 +199,12 @@
       "entidad": [
         "recgGEx0KyYdUyTBv"
       ],
-      "fuente": [
-        "recrVHMTqPIuP8sAk"
-      ],
+      "fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
       "id": 41,
       "persona": [
         "recepEdtJeBf6Gvjs"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330021347007877122"
     },
     {
       "airtableId": "rec7MYTm8hs8ujVOV",
@@ -227,13 +213,12 @@
       "entidad": [
         "rechFAJzZePNTzRry"
       ],
-      "fuente": [
-        "recsUDYsFvz4O9qqn"
-      ],
+      "fuente": "https://erbol.com.bo/nacional/karina-serrudo-es-la-nueva-presidenta-de-la-aduana-nacional",
       "id": 59,
       "persona": [
         "recfoAp2YUsP5Ht9v"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331357450516226052"
     },
     {
       "airtableId": "rec7SvwCIPN1hz5si",
@@ -242,9 +227,7 @@
       "entidad": [
         "rechL7mPzMaGGP15V"
       ],
-      "fuente": [
-        "recs0aBIf3UXBpA4K"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "hasta": "2020-12-29",
       "id": 22,
       "persona": [
@@ -252,7 +235,8 @@
       ],
       "sucesora": [
         "recFoxJLEFqkA27Hl"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328379118531059712"
     },
     {
       "airtableId": "rec7elN1JC1HgKgra",
@@ -261,13 +245,12 @@
       "entidad": [
         "rech7XDeAzomF0c4N"
       ],
-      "fuente": [
-        "recsm0S7gQ8DAAL3C"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/humberto-arandia-claure-juro-como-director-del-ine_209479",
       "id": 46,
       "persona": [
         "recfQXjHzf1oR8OMK"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330106235450953733"
     },
     {
       "airtableId": "rec7s9R6JgKqZyXMr",
@@ -276,13 +259,12 @@
       "entidad": [
         "recuS9p6tAC2qIcSz"
       ],
-      "fuente": [
-        "recrrCoEN5J99zGK1"
-      ],
+      "fuente": "https://mobile.twitter.com/canela_cs/status/1332085062242799616",
       "id": 66,
       "persona": [
         "recdABzeBoiKOSu1W"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332236779076919298"
     },
     {
       "airtableId": "rec7spLwKOoRxEDzP",
@@ -291,13 +273,12 @@
       "entidad": [
         "rechl1BJBLLwWUzcs"
       ],
-      "fuente": [
-        "recsA4QCh2vNRu8bh"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "id": 6,
       "persona": [
         "recf41hcAroy82bUp"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051254019870721"
     },
     {
       "airtableId": "rec8LoiS0IljVf0MK",
@@ -306,13 +287,12 @@
       "entidad": [
         "recXU8Pykjp4MDDvB"
       ],
-      "fuente": [
-        "recoDSryLGUcZUJVY"
-      ],
+      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
       "id": 120,
       "persona": [
         "recxuANhXD8sWlnzN"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1335173794709856257"
     },
     {
       "airtableId": "rec8RYVMgbacWA81M",
@@ -321,13 +301,12 @@
       "entidad": [
         "recSpPxv2UEzUcBZ9"
       ],
-      "fuente": [
-        "recL32H6j7jPaeCdk"
-      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1336494175953498112",
       "id": 127,
       "persona": [
         "reczhJu1QRmDquDf5"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1336582385790558208"
     },
     {
       "airtableId": "rec9LiMgX5f8nF38a",
@@ -336,13 +315,12 @@
       "entidad": [
         "recDAydiNGHaq0Y9b"
       ],
-      "fuente": [
-        "recsma8eHMqtdCy3d"
-      ],
+      "fuente": "https://www1.abi.bo/abi_/?i=461694",
       "id": 157,
       "persona": [
         "recAMo8FGMbVRZziN"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344122044598906882"
     },
     {
       "airtableId": "rec9Obg5onwXOb3CD",
@@ -351,13 +329,12 @@
       "entidad": [
         "recjHN6ifkTCdrZfg"
       ],
-      "fuente": [
-        "recuWQlbVBDT81ye5"
-      ],
+      "fuente": "https://eldeber.com.bo/pais/wilfredo-chavez-asume-como-procurador-general-del-estado-y-arce-le-encomienda-tres-acciones_208428",
       "id": 15,
       "persona": [
         "rechqNMLe0wEpzBXd"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327170593410650115"
     },
     {
       "airtableId": "recA3AWfjN9MC1vXG",
@@ -366,13 +343,26 @@
       "entidad": [
         "recKWcMsaKwr1hrAj"
       ],
-      "fuente": [
-        "recVbf1lQ1gIWR0z8"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
       "id": 48,
       "persona": [
         "recIFcsV9q9tdp3ig"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330109333426855937"
+    },
+    {
+      "airtableId": "recACwcLeZ4GvtZ56",
+      "cargo": "Gerente General de EASBA (Empresa Azucarera San Buenaventura)",
+      "desde": "2021-01-11",
+      "entidad": [
+        "recyLf6XPjWlW7w1B"
+      ],
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1348805831584788481",
+      "id": 163,
+      "persona": [
+        "recJWxmAYm41RDyHy"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1348903102292905985"
     },
     {
       "airtableId": "recAIYfWUWaZOyrYW",
@@ -381,13 +371,12 @@
       "entidad": [
         "recKBA59LTxEdOnBz"
       ],
-      "fuente": [
-        "recVQDk2rahV8oWAo"
-      ],
+      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
       "id": 10,
       "persona": [
         "recIkALCKzaGpWZjw"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327094066505535488"
     },
     {
       "airtableId": "recAhUsC6Ci14FFAF",
@@ -396,13 +385,26 @@
       "entidad": [
         "recWy6BW7DbkBy9RX"
       ],
-      "fuente": [
-        "rec385uQwCBTYUXEJ"
-      ],
+      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
       "id": 119,
       "persona": [
         "recGyLW0h8TbwXVIW"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1335171868630904836"
+    },
+    {
+      "airtableId": "recB0QmQefnGRN4Bg",
+      "cargo": "Viceministro de Planificación Estratégica del Estado",
+      "desde": "2021-01-12",
+      "entidad": [
+        "rec0ExRIssMeY4DM0"
+      ],
+      "fuente": "https://www.periodicobolivia.com.bo/huascar-ajata-es-viceministro-de-planificacion/",
+      "id": 166,
+      "persona": [
+        "recF9syPcYhVd3NdN"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1349015919134126080"
     },
     {
       "airtableId": "recBEDJhqtGCnKoPo",
@@ -411,13 +413,12 @@
       "entidad": [
         "recrodKMMCT6YIO8j"
       ],
-      "fuente": [
-        "rec5ytJzCwmTeI9Qc"
-      ],
+      "fuente": "https://erbol.com.bo/deporte/cielo-veizaga-una-futbolista-de-19-a%C3%B1os-es-la-viceministra-de-deportes-la-m%C3%A1s-joven",
       "id": 139,
       "persona": [
         "recdk4ZF19kdBlZeK"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1339842688011689984"
     },
     {
       "airtableId": "recBLOHQvkte60G3R",
@@ -426,10 +427,14 @@
       "entidad": [
         "recyMpkgqj37VCj7M"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 100,
+      "partidos": [
+        "reclVPuAV2tETRf0C"
+      ],
+      "partidos 2": [
+        "reclVPuAV2tETRf0C"
+      ],
       "persona": [
         "recowTH44QeVjL2FS"
       ]
@@ -441,13 +446,12 @@
       "entidad": [
         "recLfbyCE51KThALH"
       ],
-      "fuente": [
-        "recWueNvkmL1OR9Kw"
-      ],
+      "fuente": "https://elpais.bo/nacional/20201119_pary-es-designado-como-embajador-ante-la-onu.html",
       "id": 32,
       "persona": [
         "recJYbe5DLEM5pctE"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329537630204256264"
     },
     {
       "airtableId": "recBpYsDbhG6TogXc",
@@ -456,13 +460,12 @@
       "entidad": [
         "reco99O3A2HHOg4CP"
       ],
-      "fuente": [
-        "recCls3RVxmRy5bOw"
-      ],
+      "fuente": "https://economy.com.bo/portada-economy/25-nosotros/5260-posesionan-a-%C3%B3scar-ferrufino-como-director-de-la-aps.html",
       "id": 132,
       "persona": [
         "recfXwljENCLDFEN0"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337864353241034755"
     },
     {
       "airtableId": "recBraO3XrkBmtoxh",
@@ -471,13 +474,12 @@
       "entidad": [
         "recLkMEgOoHgLJkaU"
       ],
-      "fuente": [
-        "recWzPT9uFrxGjT9J"
-      ],
+      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
       "id": 54,
       "persona": [
         "recJ3MkJN4kiXRWSR"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330915174413443079"
     },
     {
       "airtableId": "recC1WNuQGcqhIVRe",
@@ -486,13 +488,12 @@
       "entidad": [
         "recHCCAe3PMIFpZ9N"
       ],
-      "fuente": [
-        "rechmckpk8smsvqp6"
-      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334657921792270341",
       "id": 109,
       "persona": [
         "recW09p3bjHSztaIU"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334775339545923585"
     },
     {
       "airtableId": "recC5lmy3i6Gv3iZm",
@@ -501,13 +502,12 @@
       "entidad": [
         "recUUjVxPVBMMPZnI"
       ],
-      "fuente": [
-        "rec9QOEW7KeXBRjYY"
-      ],
+      "fuente": "https://twitter.com/Bolivia_MHE/status/1348613364990308358",
       "id": 162,
       "persona": [
         "rechvD0OeNIKBSMd2"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1348628133344387072"
     },
     {
       "airtableId": "recC68zb9RRnYHXUl",
@@ -516,13 +516,12 @@
       "entidad": [
         "recMZKpo0Oe2nXTxY"
       ],
-      "fuente": [
-        "recXeNEhG5YjixswN"
-      ],
+      "fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
       "id": 36,
       "persona": [
         "recKIK5RZuR4z5vfV"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329704235005599748"
     },
     {
       "airtableId": "recCFHGv3st69JOKh",
@@ -531,13 +530,12 @@
       "entidad": [
         "recMyjwIUpQLyZKnU"
       ],
-      "fuente": [
-        "recXNmLBAGA2tzjmJ"
-      ],
+      "fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
       "id": 35,
       "persona": [
         "recKhjcbT5tNK7m5R"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329702895441354752"
     },
     {
       "airtableId": "recCP41O85kXRWCsy",
@@ -546,13 +544,12 @@
       "entidad": [
         "rec3fjmNTzBZ0RW3B"
       ],
-      "fuente": [
-        "rec8rn6iwcvOfsPmW"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201130_dominga-machicado-jura-como-gerente-de-la-editorial-del-estado.html",
       "id": 82,
       "persona": [
         "rechmOHlgBvVrqfje"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333691504632721408"
     },
     {
       "airtableId": "recDKEWD88MNsFpPj",
@@ -561,13 +558,26 @@
       "entidad": [
         "recNDgMQZ59sRVlsW"
       ],
-      "fuente": [
-        "recYSj1JFmTJMvUrL"
-      ],
+      "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
       "id": 28,
       "persona": [
         "recLmgsjYLMu33XaT"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328731538125623297"
+    },
+    {
+      "airtableId": "recDrZhjvRtAwLmFZ",
+      "cargo": "Presidente Ejecutivo Interino de la ESM (Empresa Siderúrgica del Mutún)",
+      "desde": "2021-01-18",
+      "entidad": [
+        "rec6FJGQ0g3aA923f"
+      ],
+      "fuente": "https://twitter.com/abi_bolivia/status/1351267620125876227",
+      "id": 173,
+      "persona": [
+        "rec6MGwblxLUNjP9b"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1351441179796271105"
     },
     {
       "airtableId": "recE8GWYIkUeS5QXA",
@@ -576,13 +586,12 @@
       "entidad": [
         "recl6ms0B0Am4zVja"
       ],
-      "fuente": [
-        "recsqYAE63QlSv25n"
-      ],
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "id": 115,
       "persona": [
         "recDJ2t4RNXoKDDdl"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334913925968748545"
     },
     {
       "airtableId": "recEG0R9MK8FKDzyj",
@@ -591,13 +600,12 @@
       "entidad": [
         "recdYVjnj6i7aL8ON"
       ],
-      "fuente": [
-        "recKxeH4WuytftwVO"
-      ],
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
       "id": 117,
       "persona": [
         "rec2xOQRjAKwXQzWE"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334916756926832649"
     },
     {
       "airtableId": "recEGcFGKmfXEqav0",
@@ -606,13 +614,12 @@
       "entidad": [
         "recOzOvTBjCC3G68D"
       ],
-      "fuente": [
-        "recZORKMhAmTYgF7s"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/mario-cazon-retorna-la-presidencia-de-impuestos-nacionales-274698.html",
       "id": 2,
       "persona": [
         "recMiObmAZfEfOIQA"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327046912059580421"
     },
     {
       "airtableId": "recEvkGKDvnnyXfef",
@@ -621,13 +628,31 @@
       "entidad": [
         "recRiMRkZ9ral1hlk"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 94,
+      "partidos": [
+        "reccCxR3JMr18dzeQ"
+      ],
+      "partidos 2": [
+        "reccCxR3JMr18dzeQ"
+      ],
       "persona": [
         "rec9ADasnZ2LNlSJz"
       ]
+    },
+    {
+      "airtableId": "recF6nOGkmqDYgr56",
+      "cargo": "Director Ejecutivo del Sergeomin (Servicio Geológico Minero)",
+      "desde": "2021-01-13",
+      "entidad": [
+        "recXR83Mb7KtDFrMp"
+      ],
+      "fuente": "https://www.lostiempos.com/actualidad/economia/20210113/posesionan-directores-ajam-sergeomin",
+      "id": 170,
+      "persona": [
+        "recCEWpnu199dQ5Fc"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1349640201514196992\n"
     },
     {
       "airtableId": "recFGHiTt4wWIqdJq",
@@ -636,13 +661,12 @@
       "entidad": [
         "recOxXon3IRtty2bn"
       ],
-      "fuente": [
-        "reckIOZF27IOjiDQX"
-      ],
+      "fuente": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
       "id": 129,
       "persona": [
         "recz5rdtg5eAjBHtR"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337150847822815233"
     },
     {
       "airtableId": "recFZWnVB8Jnq4Cyw",
@@ -651,10 +675,14 @@
       "entidad": [
         "recKXt5RcXpXXrIyO"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 95,
+      "partidos": [
+        "recmB762VarzJdtdV"
+      ],
+      "partidos 2": [
+        "recmB762VarzJdtdV"
+      ],
       "persona": [
         "reccW6AA1yan9bbtj"
       ]
@@ -666,13 +694,12 @@
       "entidad": [
         "rechL7mPzMaGGP15V"
       ],
-      "fuente": [
-        "recxjFapiR5PiR0uE"
-      ],
+      "fuente": "https://www1.abi.bo/abi_/?i=461694",
       "id": 158,
       "persona": [
         "recolFl9v0FWCTpYQ"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344122630471872512"
     },
     {
       "airtableId": "recG8xE6KeTlikqsb",
@@ -681,13 +708,12 @@
       "entidad": [
         "recQ19ujBbg0HAm5O"
       ],
-      "fuente": [
-        "rec1gcJchs0hCaV4D"
-      ],
+      "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
       "id": 29,
       "persona": [
         "recOK9aMART2TIYNL"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328732088783302658"
     },
     {
       "airtableId": "recGD7aJZg8lxBbuX",
@@ -696,13 +722,16 @@
       "entidad": [
         "recyLf6XPjWlW7w1B"
       ],
-      "fuente": [
-        "recaV5RVLnh7reEU3"
-      ],
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
+      "hasta": "2021-01-11",
       "id": 118,
       "persona": [
         "rec2kimQffAxR1PhS"
-      ]
+      ],
+      "sucesora": [
+        "recACwcLeZ4GvtZ56"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334917762637066240"
     },
     {
       "airtableId": "recGWUtviBlCaE5Sb",
@@ -711,13 +740,12 @@
       "entidad": [
         "recxzuGZwOGJr7TZT"
       ],
-      "fuente": [
-        "recvxXnO1iX1WbtBG"
-      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334659108088262656",
       "id": 111,
       "persona": [
         "rec1TJYIP3FlMam3m"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334780247569539072"
     },
     {
       "airtableId": "recGjZ4pHLW99leYG",
@@ -726,13 +754,12 @@
       "entidad": [
         "recIEMmzfEEwLBuLK"
       ],
-      "fuente": [
-        "recZlWsiqdAplVFmP"
-      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1346589886401409025",
       "id": 161,
       "persona": [
         "reczPxAT1QSCht4R5"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1346602861837348870"
     },
     {
       "airtableId": "recHFb3zPcdwNDASK",
@@ -741,13 +768,12 @@
       "entidad": [
         "recRyNTMG9AbcTwvn"
       ],
-      "fuente": [
-        "rec2NQ8Fmqks7t5uc"
-      ],
+      "fuente": "https://eldeber.com.bo/pais/arce-pide-institucionalizar-la-policia-que-no-vaya-contra-un-gobierno-democratico-y-que-recupere-la-_208944",
       "id": 24,
       "persona": [
         "recPhNzfFPddo18dk"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328623491487293440"
     },
     {
       "airtableId": "recHhEmWb7S0S5ySb",
@@ -756,9 +782,7 @@
       "entidad": [
         "recHi2gYNUwRbBTai"
       ],
-      "fuente": [
-        "rec6kQPaFkq26dnZp"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201108_vice-anuncia-un-nuevo-tiempo-y-pide-ya-no-mas-judicializacion-de-la-politica.html",
       "id": 104,
       "persona": [
         "recCLkoIa5pVC3Nxn"
@@ -771,13 +795,12 @@
       "entidad": [
         "reczz5xCwbq6m6S26"
       ],
-      "fuente": [
-        "rec3l4QUvbtMNTDay"
-      ],
+      "fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
       "id": 72,
       "persona": [
         "recVAwe4aCOFqbkjr"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332645202633297920/photo/1"
     },
     {
       "airtableId": "recITBLC8q6GRemce",
@@ -786,13 +809,12 @@
       "entidad": [
         "recEJuQ08Sx4oc78J"
       ],
-      "fuente": [
-        "recedRCixmzZldMYF"
-      ],
+      "fuente": "https://www.la-razon.com/nacional/2020/12/11/el-gobierno-retoma-la-voceria-presidencial-y-designa-en-el-cargo-al-politologo-jorge-richter/",
       "id": 135,
       "persona": [
         "recjhz8gyMJwGqHL5"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337871559478960128"
     },
     {
       "airtableId": "recIWafKRWQR1vjFM",
@@ -801,13 +823,12 @@
       "entidad": [
         "recSPM5XITdwqLfip"
       ],
-      "fuente": [
-        "rec34PkQoaXNllOhe"
-      ],
+      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
       "id": 12,
       "persona": [
         "recQyMLqHzQyCTR0m"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327095981566009344"
     },
     {
       "airtableId": "recJGLbmug7495IyK",
@@ -816,13 +837,26 @@
       "entidad": [
         "recTzn1zlduJylEbn"
       ],
-      "fuente": [
-        "rec4Oqgs1ue0tVdac"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "id": 5,
       "persona": [
         "recRinH2kT7LKtgTk"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327050453197189120"
+    },
+    {
+      "airtableId": "recJf32eqxJfnW6xE",
+      "cargo": "Gerente General Interino de EBIH (Empresa Boliviana de Industrialización de Hidrocarburos)",
+      "desde": "2021-01-13",
+      "entidad": [
+        "recdnVjoXndt4rrGz"
+      ],
+      "fuente": "https://www.hidrocarburos.gob.bo/index.php/comunicaci%C3%B3n/prensa/4906-gallardo-asume-la-gerencia-de-la-empresa-boliviana-de-industrializaci%C3%B3n-de-hidrocarburos-ebih.html",
+      "id": 167,
+      "persona": [
+        "recNhL1whY1bDIPT3"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1349632613020028928"
     },
     {
       "airtableId": "recKJSf4XRbNjuhu2",
@@ -831,13 +865,26 @@
       "entidad": [
         "recnFUdooZ3Qy5RLU"
       ],
-      "fuente": [
-        "rechRrNNjQGssnGN5"
-      ],
+      "fuente": "https://www1.abi.bo/abi_/?i=461694",
       "id": 156,
       "persona": [
         "rec0JMrZTrqpb6J5v"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344120538457845762"
+    },
+    {
+      "airtableId": "recKucP4cqTXfuGlK",
+      "cargo": "Director General Ejecutivo de la Caja de Salud de Caminos",
+      "desde": "2021-01-13",
+      "entidad": [
+        "recxSR68zsNXyFFrH"
+      ],
+      "fuente": "https://www.tierraplus.com.bo/Bolivia/Politica1/Gobierno-posesiona-al-exministro-de-Salud-Rodolfo-Rocabado-como-director-de-la-Caja-de-Salud-de-Caminos",
+      "id": 168,
+      "persona": [
+        "recKxCLyCGc40Qnyu"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1349635699134373888"
     },
     {
       "airtableId": "recLKMNtltqIdauK9",
@@ -846,13 +893,12 @@
       "entidad": [
         "recv0GqYie4W2RIRn"
       ],
-      "fuente": [
-        "recuJRnFZa9BqIFdr"
-      ],
+      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474304349130753",
       "id": 75,
       "persona": [
         "recL3JA7DfgfUGheq"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333476812651962370"
     },
     {
       "airtableId": "recME9ztz5dSGXaei",
@@ -861,13 +907,12 @@
       "entidad": [
         "recWxLpGq2Ax5d6RV"
       ],
-      "fuente": [
-        "rec7MOEz6jkO0NFQK"
-      ],
+      "fuente": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
       "id": 33,
       "persona": [
         "recUgL59pIdzhlIzS"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329581820015472641"
     },
     {
       "airtableId": "recMUSBgn2xEhfAry",
@@ -876,13 +921,12 @@
       "entidad": [
         "recbhjxvEsvLie5PK"
       ],
-      "fuente": [
-        "rec9mlgesKJaGlhv7"
-      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1341515203054342157",
       "id": 145,
       "persona": [
         "recbkj48y6kQGz0VH"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341689639090970625"
     },
     {
       "airtableId": "recMrJnpzXfz3HkE8",
@@ -891,13 +935,12 @@
       "entidad": [
         "rechtIYXjKbUxd5Ms"
       ],
-      "fuente": [
-        "recPiMICbBR2JFj1u"
-      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
       "id": 154,
       "persona": [
         "recjgYIEqTxqCUWhd"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344029112990654464"
     },
     {
       "airtableId": "recMzFkbm1hX0Sdw9",
@@ -906,19 +949,19 @@
       "entidad": [
         "recWshaodYECp899M"
       ],
-      "fuente": [
-        "rec7HkphTfoTkII8B"
-      ],
+      "fuente": "https://www.facebook.com/LuchoXBolivia/videos/393791228497070",
       "id": 40,
       "partidos": [
-        "rec0Vr0vtXiyMMKQD"
+        "rec0Vr0vtXiyMMKQD",
+        "recxqZ7rPza3WbLl8"
       ],
       "partidos 2": [
         "rec0Vr0vtXiyMMKQD"
       ],
       "persona": [
         "recUbhQRcEhEBgLRJ"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329877215971074056"
     },
     {
       "airtableId": "recNmMipQmGpSqWC6",
@@ -927,13 +970,26 @@
       "entidad": [
         "recTK3JBtupWDRLSB"
       ],
-      "fuente": [
-        "rec0XD6rM4tjStXiA"
-      ],
+      "fuente": "https://twitter.com/RadioIllimani/status/1333755342380003328",
       "id": 83,
       "persona": [
         "recrUcTXdd84vWSKt"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333765392934850562"
+    },
+    {
+      "airtableId": "recNsj89xBrqIj1BJ",
+      "cargo": "Director General Ejecutivo del Senasag (Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria)",
+      "desde": "2021-01-16",
+      "entidad": [
+        "recAmAK3GEie38r1Y"
+      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1350542146416336897",
+      "id": 172,
+      "persona": [
+        "recb0LCo4Myc56EfB"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1350554853362315265"
     },
     {
       "airtableId": "recNswUXJakBAQZWz",
@@ -942,13 +998,12 @@
       "entidad": [
         "recJmLGJ8lygyRBSj"
       ],
-      "fuente": [
-        "recaWXrbCFoDLoZTk"
-      ],
+      "fuente": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
       "id": 125,
       "persona": [
         "recB8czn0012QcC6r"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1336229157383114753"
     },
     {
       "airtableId": "recNvSvKxHu2ptELM",
@@ -957,13 +1012,12 @@
       "entidad": [
         "recvwe1p0YjcQtjkz"
       ],
-      "fuente": [
-        "recyQ0KAKlLwkdEi1"
-      ],
+      "fuente": "https://www.lostiempos.com/actualidad/pais/20201218/ministra-trabajo-posesiona-martin-bazurco-como-viceministro-empleo-servicio",
       "id": 140,
       "persona": [
         "recs3VKQLO2dpHMxb"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1340056464065503233"
     },
     {
       "airtableId": "recOHTGaroips2zuH",
@@ -972,13 +1026,12 @@
       "entidad": [
         "recFOLfLWOglx0Wku"
       ],
-      "fuente": [
-        "rec24LxKW3rUTaSBY"
-      ],
+      "fuente": "https://twitter.com/senarecom1/status/1341452365505974283",
       "id": 143,
       "persona": [
         "recpwYyGQ3jTN1Bc1"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341456338942124032"
     },
     {
       "airtableId": "recP4SZbcqHbkOgzo",
@@ -987,13 +1040,12 @@
       "entidad": [
         "recZXuPo3n4QJ4cc1"
       ],
-      "fuente": [
-        "recacx4hJEO7EELbQ"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/gabriela-alcon-es-nombrada-viceministra-de-comunicacion-274688.html",
       "id": 3,
       "persona": [
         "recXGuvR23HSVcOUY"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327047625577820164"
     },
     {
       "airtableId": "recP52OuCZ2RCl8hd",
@@ -1002,13 +1054,12 @@
       "entidad": [
         "recZYEEHtWpw1B4UQ"
       ],
-      "fuente": [
-        "recadHTA9d9NWbDTF"
-      ],
+      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
       "id": 13,
       "persona": [
         "recXHEkasC2ydJGCN"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327096732317085696"
     },
     {
       "airtableId": "recPEATEMOSO55oHs",
@@ -1017,13 +1068,12 @@
       "entidad": [
         "recLL6oSqrudYT1U2"
       ],
-      "fuente": [
-        "recFQVK7Ku7avUq11"
-      ],
+      "fuente": "https://comunicacion.gob.bo/?q=20201203/31381",
       "id": 107,
       "persona": [
         "recPP6miNdGaSVVic"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334548951635255300"
     },
     {
       "airtableId": "recPMwmzPpBJtBoJ0",
@@ -1032,13 +1082,12 @@
       "entidad": [
         "recv1X4n3aSHHBxNo"
       ],
-      "fuente": [
-        "recK4dWvCu1FvBN6u"
-      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1342134740745392129",
       "id": 148,
       "persona": [
         "recVoHL1U4tCQRYtJ"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1342176944293605377"
     },
     {
       "airtableId": "recPhuw5iJDrnZnZ5",
@@ -1047,13 +1096,12 @@
       "entidad": [
         "recZa6mi9G06MfjCI"
       ],
-      "fuente": [
-        "recap9BbPXKnHPSBx"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
       "id": 57,
       "persona": [
         "recXT62L8mD8YnVkF"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331070387543805953"
     },
     {
       "airtableId": "recPipiPddnOBqG7W",
@@ -1062,13 +1110,12 @@
       "entidad": [
         "recZb1824aKt0GCKz"
       ],
-      "fuente": [
-        "recaq4nVKruKVgbJo"
-      ],
+      "fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
       "id": 42,
       "persona": [
         "recXU1Ov3QnvcOesw"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330023229583396864"
     },
     {
       "airtableId": "recQGiiCKU8RljYpu",
@@ -1077,13 +1124,12 @@
       "entidad": [
         "rec0zU8PBRvwKzU27"
       ],
-      "fuente": [
-        "recbOXnIh8fNF9t1W"
-      ],
+      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
       "id": 45,
       "persona": [
         "recYiUOiAx8yWHwK4"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330028460597776385"
     },
     {
       "airtableId": "recQJyD13H5dbGlxn",
@@ -1092,13 +1138,12 @@
       "entidad": [
         "rec0CateUEsSAWha0"
       ],
-      "fuente": [
-        "recbRdI7AVc9vwQ9P"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
       "id": 58,
       "persona": [
         "recYla9HTk5UM4TSX"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331071560111837188"
     },
     {
       "airtableId": "recQebcFZCzM7C4WA",
@@ -1107,13 +1152,12 @@
       "entidad": [
         "recGUD7Z0Yutsw0Qp"
       ],
-      "fuente": [
-        "recrVR18oGprt2fBC"
-      ],
+      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474215861899266",
       "id": 74,
       "persona": [
         "recTWwcUtbReD81Jr"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333476047350861831"
     },
     {
       "airtableId": "recR1NSGyn44FG6iq",
@@ -1122,13 +1166,12 @@
       "entidad": [
         "reczDRfj7RzcIwK3w"
       ],
-      "fuente": [
-        "recbM8iBqEtKSgyS1"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
       "id": 62,
       "persona": [
         "recdKXhJtgZdP5nzL"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331629481132429312"
     },
     {
       "airtableId": "recSbmgmgqz2jaFtn",
@@ -1137,13 +1180,12 @@
       "entidad": [
         "rec24Y6z7nWHIqB60"
       ],
-      "fuente": [
-        "recdj1lsNEGYD0a5P"
-      ],
+      "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
       "id": 60,
       "persona": [
         "rec0NYM263zJUydOX"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331357554098712576"
     },
     {
       "airtableId": "recStcTu0QSUbytnH",
@@ -1152,13 +1194,12 @@
       "entidad": [
         "rec2mOJHRNfzAOp0k"
       ],
-      "fuente": [
-        "recdBRYAx4ZQvoYZ9"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "id": 8,
       "persona": [
         "rec05OpaQtSBMW1Ih"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327092510678769666"
     },
     {
       "airtableId": "recSuKsCg3P672YTE",
@@ -1167,13 +1208,16 @@
       "entidad": [
         "recAmAK3GEie38r1Y"
       ],
-      "fuente": [
-        "recN04DRgzSgzgnmo"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201228_posesionan-a-placido-condori-como-director-general-del-senasag.html",
+      "hasta": "2021-01-16",
       "id": 151,
       "persona": [
         "recyvcizzSDph6pni"
-      ]
+      ],
+      "sucesora": [
+        "recNsj89xBrqIj1BJ"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1343746402007060481"
     },
     {
       "airtableId": "recTYA9zPhIKqkTWR",
@@ -1182,9 +1226,7 @@
       "entidad": [
         "rec6hLDHJ33gjulLJ"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 99,
       "partidos": [
         "recpJFtMiHK5WjCRM"
@@ -1200,13 +1242,12 @@
       "entidad": [
         "reclH4QYLNxRZxc86"
       ],
-      "fuente": [
-        "recF1OcWrpSCUzNsX"
-      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
       "id": 152,
       "persona": [
         "recuTITBJS29xN8R6"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344026642914676736"
     },
     {
       "airtableId": "recUSllXbQygt0xi3",
@@ -1215,13 +1256,12 @@
       "entidad": [
         "reca8bHe55RQeExgP"
       ],
-      "fuente": [
-        "rec4ORZ9mgDBc40le"
-      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
       "id": 153,
       "persona": [
         "recBnZiCgT0xzcGEX"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344028127958343684"
     },
     {
       "airtableId": "recUa7fkGRDqRyGXz",
@@ -1230,13 +1270,12 @@
       "entidad": [
         "recpdpz1bWV3Zr83H"
       ],
-      "fuente": [
-        "recKRzVFWyN05cy4v"
-      ],
+      "fuente": "http://www.boliviatv.bo/principal/noticia.php?noticia=657b52bf6610edfc096abf0cc079da8f&lang=es",
       "id": 80,
       "persona": [
         "reckqcdfvWwB8AOgT"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333517116792770563"
     },
     {
       "airtableId": "recV7qz9LRPvqOQtz",
@@ -1245,9 +1284,7 @@
       "entidad": [
         "recVWx1zATfZJ6Z5x"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 98,
       "partidos": [
         "recJQv8if7Ai5KPdz"
@@ -1263,13 +1300,12 @@
       "entidad": [
         "rec5MiDjk0fdAT6ZB"
       ],
-      "fuente": [
-        "recg1lSc0hZuvtFYq"
-      ],
+      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
       "id": 44,
       "persona": [
         "rec3vijMjGSfM1IHy"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330027410599923714"
     },
     {
       "airtableId": "recVY8njuYBvWuto0",
@@ -1278,13 +1314,12 @@
       "entidad": [
         "recfmzNBkcUNYl59U"
       ],
-      "fuente": [
-        "rec88ugM9sCswTbRA"
-      ],
+      "fuente": "https://mobile.twitter.com/MIGRACION_BOL/status/1330909496126951425",
       "id": 123,
       "persona": [
         "recfU0rLEmQ7mxUGg"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1335522973470617606"
     },
     {
       "airtableId": "recVahsQwKvQ9tI3i",
@@ -1293,13 +1328,12 @@
       "entidad": [
         "rec53Ti3nHSvyJEGV"
       ],
-      "fuente": [
-        "recgiWxW3YCMtjdFK"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
       "id": 56,
       "persona": [
         "rec3MTYwmnvxKRgoS"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331069507033567236"
     },
     {
       "airtableId": "recVqHwXSsW7njFGk",
@@ -1308,19 +1342,33 @@
       "entidad": [
         "reccX4xvpiziL6dV9"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 89,
       "partidos": [
-        "recJQv8if7Ai5KPdz"
+        "recJQv8if7Ai5KPdz",
+        "rectoT37hwymvZwRB"
       ],
       "partidos 2": [
-        "recJQv8if7Ai5KPdz"
+        "recJQv8if7Ai5KPdz",
+        "rectoT37hwymvZwRB"
       ],
       "persona": [
         "recYNroBURLdOGuDM"
       ]
+    },
+    {
+      "airtableId": "recVy6qaqPBhY2yLs",
+      "cargo": "MInistro de Salud y Deportes",
+      "desde": "2021-01-16",
+      "entidad": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "fuente": "https://www.lostiempos.com/actualidad/pais/20210116/posesionan-jeyson-marcos-auza-como-nuevo-ministro-salud",
+      "id": 171,
+      "persona": [
+        "recbwbpjWBawiPSWo"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1350454799364448262"
     },
     {
       "airtableId": "recWNA58iSPBG1afp",
@@ -1329,13 +1377,12 @@
       "entidad": [
         "recxi28iX7F8xahXa"
       ],
-      "fuente": [
-        "recZN3d3pG6fEhO3Q"
-      ],
+      "fuente": "https://twitter.com/Bolivia_MHE/status/1340999339120967683",
       "id": 141,
       "persona": [
         "recz0KyW7fVLgQNnE"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341039574613700614"
     },
     {
       "airtableId": "recX06mvBnhnpOGdO",
@@ -1344,13 +1391,12 @@
       "entidad": [
         "rec7TIcIskE2O4CQr"
       ],
-      "fuente": [
-        "reci8LrB8BojJEbPg"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
       "id": 51,
       "persona": [
         "rec5CISbr0h40ceyo"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330120688598982658"
     },
     {
       "airtableId": "recX1WE8IK22fWJtq",
@@ -1359,13 +1405,12 @@
       "entidad": [
         "recNoyhn78ytiC349"
       ],
-      "fuente": [
-        "recFaTuVvce1RFktO"
-      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334657921792270341",
       "id": 110,
       "persona": [
         "recFd6JKeUlBTUDsL"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334779178680512514"
     },
     {
       "airtableId": "recXYgpK3JhNTX4rq",
@@ -1374,13 +1419,12 @@
       "entidad": [
         "recHOpur0tnuiUgwV"
       ],
-      "fuente": [
-        "rec9XcTxkDqEVzOxY"
-      ],
+      "fuente": "https://twitter.com/minedubol/status/1341507306291421186",
       "id": 144,
       "persona": [
         "recKT1hKor0Vmguaq"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341677350564618241"
     },
     {
       "airtableId": "recXaG8XCk3UZg5gj",
@@ -1389,13 +1433,12 @@
       "entidad": [
         "rec73iYathqzow1TW"
       ],
-      "fuente": [
-        "reciild39yaQj6ASL"
-      ],
+      "fuente": "https://twitter.com/LaRazon_Bolivia/status/1327322323377119232",
       "id": 16,
       "persona": [
         "rec5MiEDsX3BAEDBT"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327332161565896704"
     },
     {
       "airtableId": "recXeCB6m4Dyzo1HW",
@@ -1404,13 +1447,12 @@
       "entidad": [
         "recAJ7vOCTHDlNjuv"
       ],
-      "fuente": [
-        "recIPWKtOvEglfvnt"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
       "id": 63,
       "persona": [
         "recmTwyqtN2KRfkCD"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331629723793944576"
     },
     {
       "airtableId": "recYpcPxLi05q1yAm",
@@ -1419,13 +1461,12 @@
       "entidad": [
         "rec8iOFKCfnKPhudZ"
       ],
-      "fuente": [
-        "recjxRUDiw71KR3cO"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
       "id": 47,
       "persona": [
         "rec61OldBV0M1p6VW"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330108072006721538"
     },
     {
       "airtableId": "recZDkPJe28GcfNpV",
@@ -1434,13 +1475,26 @@
       "entidad": [
         "reciJUoAjHQX0OOlY"
       ],
-      "fuente": [
-        "rec7bW1c3TCHz1Kt1"
-      ],
+      "fuente": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
       "id": 128,
       "persona": [
         "rec3pFWIssZW0RNT5"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337149550025449484"
+    },
+    {
+      "airtableId": "recZXvyClhE8ZyTnR",
+      "cargo": "Directora Ejecutiva Nacional de la AJAM (Autoridad Jurisdiccional Administrativa Minera)",
+      "desde": "2021-01-13",
+      "entidad": [
+        "reciPvyYzpk1CjOk9"
+      ],
+      "fuente": "https://www.lostiempos.com/actualidad/economia/20210113/posesionan-directores-ajam-sergeomin",
+      "id": 169,
+      "persona": [
+        "recGa8GHz4FOamVkO"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1349637186728189952"
     },
     {
       "airtableId": "recZcuZkLhWpazk5q",
@@ -1449,13 +1503,12 @@
       "entidad": [
         "reccOyt73GJKFfU2z"
       ],
-      "fuente": [
-        "recj102AgOVIOHi1m"
-      ],
+      "fuente": "https://www1.abi.bo/abi_/?i=461694",
       "id": 155,
       "persona": [
         "recNhlyr9d3lIDwxo"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344116906899484672"
     },
     {
       "airtableId": "recZuN1xAmAroQf50",
@@ -1464,9 +1517,7 @@
       "entidad": [
         "recnjo1nbKW3JKsVr"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 102,
       "partidos": [
         "rec0Vr0vtXiyMMKQD"
@@ -1482,13 +1533,12 @@
       "entidad": [
         "recktwUPUvekQd9ZL"
       ],
-      "fuente": [
-        "recvIz9IAMYBLNIYA"
-      ],
+      "fuente": "http://erbol.com.bo/nacional/edwin-rojas-ulo-jura-como-nuevo-presidente-del-banco-central-de-bolivia",
       "id": 4,
       "persona": [
         "recicwAiTbRm2lLHI"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327048145554051083"
     },
     {
       "airtableId": "recaFJupkRz2W8WY3",
@@ -1497,13 +1547,12 @@
       "entidad": [
         "reckylkCbOWHloSBG"
       ],
-      "fuente": [
-        "recvNozvR5GYgYrAv"
-      ],
+      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
       "id": 52,
       "persona": [
         "recihl05auzJxwujD"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330914210197499904"
     },
     {
       "airtableId": "recagbaP23mAGkKvs",
@@ -1512,13 +1561,12 @@
       "entidad": [
         "rec695Y70CzqJdhzF"
       ],
-      "fuente": [
-        "recAqNvBIy7DNo4Jb"
-      ],
+      "fuente": "https://eldeber.com.bo/pais/posesionan-a-reynaldo-yujra-como-director-ejecutivo-de-la-asfi_210727",
       "id": 106,
       "persona": [
         "recTmCwA63n22m692"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334252230157938696"
     },
     {
       "airtableId": "recbTNjwSDaY7yQPd",
@@ -1527,13 +1575,12 @@
       "entidad": [
         "reclMp9JJAxDwOMsQ"
       ],
-      "fuente": [
-        "recw1soCpRhUrolrF"
-      ],
+      "fuente": "https://www.paginasiete.bo/seguridad/2020/11/13/jaime-mamani-es-viceministro-de-defensa-social-sustancias-controladas-274813.html",
       "id": 17,
       "persona": [
         "recjvpPcIgaFIWoaN"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327370051951976449"
     },
     {
       "airtableId": "recbtkDR7mpsbHaw3",
@@ -1542,13 +1589,12 @@
       "entidad": [
         "recSqqbtO2UPeHLYm"
       ],
-      "fuente": [
-        "rec9zfeKGepRNSK0o"
-      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1341514883570003969",
       "id": 146,
       "persona": [
         "recfMS3hIAyGmERWZ"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341691035953606656"
     },
     {
       "airtableId": "reccETXTaUInlMowz",
@@ -1557,13 +1603,12 @@
       "entidad": [
         "recO5UDDe54Jsw4lq"
       ],
-      "fuente": [
-        "recFnvSxtWXIMCmM8"
-      ],
+      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
       "id": 121,
       "persona": [
         "recfKktImAY2Cuau1"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1335175318622048256"
     },
     {
       "airtableId": "reccI0LvPKY6rqhUE",
@@ -1572,13 +1617,12 @@
       "entidad": [
         "recoAfPInKnlBD3JO"
       ],
-      "fuente": [
-        "rec59NDbzpNYyxMNA"
-      ],
+      "fuente": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
       "id": 126,
       "persona": [
         "recGhJoEuhZb4Ea6Z"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1336230559526301696"
     },
     {
       "airtableId": "reccZAUFd6O8o260A",
@@ -1587,13 +1631,12 @@
       "entidad": [
         "recmScKS43bNNi2Dd"
       ],
-      "fuente": [
-        "recx7fZLKkV4ISBC2"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "id": 7,
       "persona": [
         "reckBcql3JOPZqEla"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051769881505792"
     },
     {
       "airtableId": "recdFyryO44KuY0Cg",
@@ -1602,13 +1645,12 @@
       "entidad": [
         "recnyahLF1rpTeWfT"
       ],
-      "fuente": [
-        "recyNdwElibGOOveI"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
       "id": 50,
       "persona": [
         "reclhaXeEH4r5myXQ"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330120207558438914"
     },
     {
       "airtableId": "recdMinbx2Gb9PV8h",
@@ -1617,9 +1659,7 @@
       "entidad": [
         "recnFUdooZ3Qy5RLU"
       ],
-      "fuente": [
-        "recyUXsh4gN7tFqKJ"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "hasta": "2020-12-29",
       "id": 20,
       "persona": [
@@ -1627,7 +1667,8 @@
       ],
       "sucesora": [
         "recKJSf4XRbNjuhu2"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328378396544561152"
     },
     {
       "airtableId": "recdTZnJr6vir76bu",
@@ -1636,13 +1677,12 @@
       "entidad": [
         "recbyxfOHMNLhBsr9"
       ],
-      "fuente": [
-        "reczAftGj7JV0Q46O"
-      ],
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "id": 116,
       "persona": [
         "recGJwc95Wnzng6nv"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334915214555443208"
     },
     {
       "airtableId": "rece1Mf8u7gPlDr59",
@@ -1651,13 +1691,12 @@
       "entidad": [
         "rece6rwqxzu8TN6Oo"
       ],
-      "fuente": [
-        "rec1ZnvZ6uCq5XRNg"
-      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1341535721660837895",
       "id": 147,
       "persona": [
         "recjRdtDyufcv3lrX"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1341692683711098885"
     },
     {
       "airtableId": "rece90HbPaOkyYSyg",
@@ -1666,13 +1705,12 @@
       "entidad": [
         "reco2CxoG7bZXeObT"
       ],
-      "fuente": [
-        "reczhFMhmoVgSOnaI"
-      ],
+      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
       "id": 11,
       "persona": [
         "recmLCdRFNO19mqTQ"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327095255221612545"
     },
     {
       "airtableId": "receVQlmY61UqxdDG",
@@ -1681,13 +1719,12 @@
       "entidad": [
         "recGiUlqM9f9ntcIC"
       ],
-      "fuente": [
-        "recKFM9Tk0LHIddQp"
-      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334659108088262656",
       "id": 112,
       "persona": [
         "rec01y95TStImfHac"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334781183830450178"
     },
     {
       "airtableId": "recfzOdMwLqm9SFs2",
@@ -1696,13 +1733,12 @@
       "entidad": [
         "recpsq3ZnIN1y8B5F"
       ],
-      "fuente": [
-        "recAHtiS3ZxitIa4u"
-      ],
+      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1329567594328842241",
       "id": 34,
       "persona": [
         "recnbqJsmoq3KgdNC"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329582969800040448"
     },
     {
       "airtableId": "recg8r2ZOYyEJqA7m",
@@ -1711,13 +1747,12 @@
       "entidad": [
         "reccvJTxdkFEZNV3r"
       ],
-      "fuente": [
-        "recb8rkvacYKjWPo8"
-      ],
+      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "id": 113,
       "persona": [
         "recgw6e41IBycdu8I"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334912626623733765"
     },
     {
       "airtableId": "recgCmVpYbcaNdY3W",
@@ -1726,13 +1761,12 @@
       "entidad": [
         "recQmAslYfi2uvwvZ"
       ],
-      "fuente": [
-        "recNuwb43va9ZIb0t"
-      ],
+      "fuente": "https://www.delapaz.bo/noticias?n=viceministro-de-electricidad-y-energias-alternativas-posesiona-al-ing.-julio-aruquipa-como-nuevo-gerente-general-de-delapaz",
       "id": 137,
       "persona": [
         "reczJhjPahIaWlo6e"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1338762489790607360"
     },
     {
       "airtableId": "recgREvm07I2eKKov",
@@ -1741,10 +1775,11 @@
       "entidad": [
         "recDI8RDjX6z76J0n"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 93,
+      "partidos": [
+        "recaI04Gy5AjHN4NN"
+      ],
       "persona": [
         "rec1b1jrq7UxaoKxS"
       ]
@@ -1756,13 +1791,12 @@
       "entidad": [
         "recqopKr2f4iXn6AA"
       ],
-      "fuente": [
-        "recBDsZkIwOzSXFzp"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
       "id": 49,
       "persona": [
         "reco7pqU1VHk9vIix"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330119773137620995"
     },
     {
       "airtableId": "rechLVAC9mH7pjkcL",
@@ -1771,13 +1805,12 @@
       "entidad": [
         "recrExqP0j4MOzgPo"
       ],
-      "fuente": [
-        "recCTAFIGAO3J9POd"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201117_victor-quispe-es-el-nuevo-viceministro-de-trabajo-y-prevision-social.html",
       "id": 30,
       "persona": [
         "recpnx6iZZHO0HSxl"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328782274796675074"
     },
     {
       "airtableId": "recio0kFx9eRUaPRg",
@@ -1786,13 +1819,12 @@
       "entidad": [
         "recshCaSo6BwjqLuT"
       ],
-      "fuente": [
-        "recDwFpL4nlNe0ktI"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
       "id": 38,
       "persona": [
         "recq0CQlnMeyvyncQ"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329706323890622469"
     },
     {
       "airtableId": "recj3qYSizNc1KvQH",
@@ -1801,9 +1833,7 @@
       "entidad": [
         "rec6hOG1aBXYJnXYZ"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 92,
       "partidos": [
         "recZBk2t4i2TCC2sg"
@@ -1819,13 +1849,12 @@
       "entidad": [
         "rect79EqMmaKNiI6o"
       ],
-      "fuente": [
-        "recEmcTjsDU1ISh5d"
-      ],
+      "fuente": "https://www.la-razon.com/nacional/2020/11/12/el-exministro-juan-carlos-calvimontes-nuevo-viceministro-de-defensa-civil/",
       "id": 14,
       "persona": [
         "recrQ9kTL2NMZqkOl"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327169942895128576"
     },
     {
       "airtableId": "recjubB7hLPwRvcsA",
@@ -1834,10 +1863,11 @@
       "entidad": [
         "recTV9hdUCYs4u19T"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 101,
+      "partidos": [
+        "reclVPuAV2tETRf0C"
+      ],
       "persona": [
         "rec5IShn5IUHgzUnf"
       ]
@@ -1849,13 +1879,12 @@
       "entidad": [
         "recuSo6VuY2hLOdEp"
       ],
-      "fuente": [
-        "recF7rlOafMyGoMDe"
-      ],
+      "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
       "id": 61,
       "persona": [
         "recsBoMotEFjXWPmm"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331358805590937600"
     },
     {
       "airtableId": "reckbIhAa5OUDtAQQ",
@@ -1864,13 +1893,12 @@
       "entidad": [
         "recRguDgEmLtlL1Sc"
       ],
-      "fuente": [
-        "recyA3uNNjrdlhWvg"
-      ],
+      "fuente": "https://twitter.com/MDRyTOficial/status/1342158918827565066/photo/2",
       "id": 150,
       "persona": [
         "recgSHock3lGxvJUS"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1342587152811618304"
     },
     {
       "airtableId": "reclNBmhSGRUmOgQ2",
@@ -1879,12 +1907,11 @@
       "entidad": [
         "recrEl2V8GSxaSshp"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 88,
       "partidos": [
-        "recZBk2t4i2TCC2sg"
+        "recZBk2t4i2TCC2sg",
+        "rectoT37hwymvZwRB"
       ],
       "partidos 2": [
         "recZBk2t4i2TCC2sg"
@@ -1900,13 +1927,12 @@
       "entidad": [
         "recINHhColXLVHKEP"
       ],
-      "fuente": [
-        "recU7jDzpM1ensCB1"
-      ],
+      "fuente": "https://correodelsur.com/local/20201127_carmelo-valda-a-la-cabeza-del-viceministerio-de-agua.html",
       "id": 67,
       "persona": [
         "reczQmXFbWFxxep2b"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332293970752380929"
     },
     {
       "airtableId": "recmcUEFmO5osT56H",
@@ -1915,13 +1941,12 @@
       "entidad": [
         "reczzGBh5rfP7ad3c"
       ],
-      "fuente": [
-        "recDlPjFyPIndO8XT"
-      ],
+      "fuente": "https://www1.abi.bo/abi_/?i=461501",
       "id": 149,
       "persona": [
         "recelLtv9bJg4Ae75"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1342585276460363776"
     },
     {
       "airtableId": "recmeF4D2kXJP51Vq",
@@ -1930,12 +1955,17 @@
       "entidad": [
         "recuomBcP9OFzwKQi"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "hasta": "2021-01-16",
       "id": 96,
+      "partidos": [
+        "reccCxR3JMr18dzeQ"
+      ],
       "persona": [
         "recfIzz7Vk4BIPaSy"
+      ],
+      "sucesora": [
+        "recVy6qaqPBhY2yLs"
       ]
     },
     {
@@ -1945,13 +1975,12 @@
       "entidad": [
         "rechnWAyDvFw6xdUn"
       ],
-      "fuente": [
-        "recCfWeU6cl6sOgvh"
-      ],
+      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1333823932638633985",
       "id": 85,
       "persona": [
         "recuOkcYJnUxty3mv"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333830566614102016"
     },
     {
       "airtableId": "reco0QZNlLa6zj6YJ",
@@ -1960,13 +1989,12 @@
       "entidad": [
         "rec60LAr5uanVLhQh"
       ],
-      "fuente": [
-        "recskVrWoijTM1ZGC"
-      ],
+      "fuente": "https://twitter.com/abi_bolivia/status/1334525577378861059",
       "id": 108,
       "persona": [
         "recjrPQIPxxUGApeK"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334550777306689536"
     },
     {
       "airtableId": "reco6N1CFBdVnWDgy",
@@ -1975,9 +2003,7 @@
       "entidad": [
         "recyZpRPwyAAMczTb"
       ],
-      "fuente": [
-        "recJes6IcPkRHM8S0"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "hasta": "2020-11-20",
       "id": 9,
       "persona": [
@@ -1985,7 +2011,8 @@
       ],
       "sucesora": [
         "rec6N2HNTBByviXYS"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327093489939714049"
     },
     {
       "airtableId": "recoH7VxyxXA1mRYv",
@@ -1994,13 +2021,12 @@
       "entidad": [
         "recORizjtTew7imV6"
       ],
-      "fuente": [
-        "recGBvIYeW5T8aKN3"
-      ],
+      "fuente": "https://twitter.com/vicemincom/status/1333462794990137347",
       "id": 78,
       "persona": [
         "rec4o81Lwn2iV6HIo"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333479622848245774"
     },
     {
       "airtableId": "recoQ6ATSbRsGWlpT",
@@ -2009,13 +2035,12 @@
       "entidad": [
         "recM2dLFNUaRgVPmO"
       ],
-      "fuente": [
-        "recE1CFbPKSsEB00j"
-      ],
+      "fuente": "https://www.periodicobolivia.com.bo/posesionan-a-freddy-mamani-como-viceministro-de-relaciones-exteriores/",
       "id": 134,
       "persona": [
         "reccjForRsIZpYsjy"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1337865247877713920"
     },
     {
       "airtableId": "recoTcA6Jf19g7xAj",
@@ -2024,10 +2049,14 @@
       "entidad": [
         "recsuCxQwrF93G855"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 97,
+      "partidos": [
+        "recaI04Gy5AjHN4NN"
+      ],
+      "partidos 2": [
+        "recaI04Gy5AjHN4NN"
+      ],
       "persona": [
         "recRBg10aSpKl8ve9"
       ]
@@ -2039,13 +2068,12 @@
       "entidad": [
         "recaFXnsCFPuurYwG"
       ],
-      "fuente": [
-        "recfsuBPiG3W72Izf"
-      ],
+      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474029911609344",
       "id": 73,
       "persona": [
         "recOfGVxD53qMvYOP"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333475096711847937"
     },
     {
       "airtableId": "recpaIpiUsmPRpcvD",
@@ -2054,13 +2082,12 @@
       "entidad": [
         "recz3kfvLpJugF88g"
       ],
-      "fuente": [
-        "recKinuorGtLbfH75"
-      ],
+      "fuente": "https://twitter.com/vicemincom/status/1330888016215351300",
       "id": 55,
       "persona": [
         "recxMkVYK5mwsNKQd"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330915947645898754"
     },
     {
       "airtableId": "recpbIDze6l3No8Xr",
@@ -2069,9 +2096,7 @@
       "entidad": [
         "recz4ktM53IIcE4A4"
       ],
-      "fuente": [
-        "recKjnIFLksZ7eDzT"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "hasta": "2020-12-29",
       "id": 23,
       "persona": [
@@ -2079,7 +2104,8 @@
       ],
       "sucesora": [
         "rectGUYoEjTV9iSat"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328379383762055168"
     },
     {
       "airtableId": "recplry7wQgzs40Pp",
@@ -2088,13 +2114,12 @@
       "entidad": [
         "recvV6W1W8KsG5eJw"
       ],
-      "fuente": [
-        "recvkcBjR6sHcOH5E"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201127_roy-mendez-retorna-a-la-gerencia-de-entel.html",
       "id": 70,
       "persona": [
         "recdWV1XwyBsqt7is"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332616878020288512"
     },
     {
       "airtableId": "recq4zRxdRCg1FaKp",
@@ -2103,13 +2128,12 @@
       "entidad": [
         "recAXbHK4OZVqV6n2"
       ],
-      "fuente": [
-        "recLceWDK5JclvFmR"
-      ],
+      "fuente": "https://www.lostiempos.com/actualidad/pais/20201112/gabriela-alcon-es-nueva-viceministra-comunicacion-juan-villca-coordinacion ",
       "id": 1,
       "persona": [
         "recyGbnd3uCXC3I5Z"
-      ]
+      ],
+      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1326993065945526272"
     },
     {
       "airtableId": "recqRdFZXznk5dCyt",
@@ -2118,13 +2142,12 @@
       "entidad": [
         "recrwF4xEjfVleKFU"
       ],
-      "fuente": [
-        "rechIaZ7EqntT1Mm7"
-      ],
+      "fuente": "https://correodelsur.com/politica/20201126_ana-maria-morales-asume-como-nueva-directora-de-la-uif.html",
       "id": 65,
       "persona": [
         "rec4uyYbo1rrxikqd"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332235424824233984"
     },
     {
       "airtableId": "recqW1xocpPZdWieY",
@@ -2133,13 +2156,12 @@
       "entidad": [
         "recgdNaRmqEisAps9"
       ],
-      "fuente": [
-        "recPj6sQDrX9g37uc"
-      ],
+      "fuente": "https://www.opinion.com.bo/articulo/pais/ronald-caso-vuelve-ser-gerente-boa/20201202145131798208.html",
       "id": 105,
       "persona": [
         "recJgECOthSwzpO5r"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1334217316100399109"
     },
     {
       "airtableId": "recrJYbjvZmSRCnEg",
@@ -2148,13 +2170,12 @@
       "entidad": [
         "recsG84XJ2a9Ix4xR"
       ],
-      "fuente": [
-        "recpHUg0tg3f5oret"
-      ],
+      "fuente": "https://eldeber.com.bo/economia/exejecutivo-de-la-afp-prevision-bbva-es-designado-gerente-general-de-la-gestora-publica_210081",
       "id": 64,
       "persona": [
         "rec27Tcxm6ZnVzSdh"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1331876258519642112"
     },
     {
       "airtableId": "rectCXUdlwoaJzMV3",
@@ -2163,13 +2184,12 @@
       "entidad": [
         "recR357ni79Rf1g1l"
       ],
-      "fuente": [
-        "rec9PajsSiuFJaRWe"
-      ],
+      "fuente": "https://twitter.com/vicemincom/status/1333455634231144452",
       "id": 76,
       "persona": [
         "recGpbDrz8y29Tcci"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333478247833722883"
     },
     {
       "airtableId": "rectGUYoEjTV9iSat",
@@ -2178,13 +2198,12 @@
       "entidad": [
         "recz4ktM53IIcE4A4"
       ],
-      "fuente": [
-        "recjYqzUZYAvq69Kn"
-      ],
+      "fuente": "https://www1.abi.bo/abi_/?i=461694",
       "id": 159,
       "persona": [
         "reclOca8D9b1W0Byu"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344137832202432512"
     },
     {
       "airtableId": "rectHWn5WJkv1K2wy",
@@ -2193,9 +2212,7 @@
       "entidad": [
         "recDAydiNGHaq0Y9b"
       ],
-      "fuente": [
-        "recOPBsbtXrrlAx80"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "hasta": "2020-12-29",
       "id": 21,
       "persona": [
@@ -2203,7 +2220,8 @@
       ],
       "sucesora": [
         "rec9LiMgX5f8nF38a"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328378779840942081"
     },
     {
       "airtableId": "rectRPJZLNqMuoQKq",
@@ -2212,13 +2230,12 @@
       "entidad": [
         "recDKrzcCKNrTEMn3"
       ],
-      "fuente": [
-        "recOZuO5i1xIOelmS"
-      ],
+      "fuente": "https://twitter.com/AgeticOficial/status/1328795211288424449",
       "id": 31,
       "persona": [
         "recBtrfFBqqt5Mo50"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328798468333318145"
     },
     {
       "airtableId": "rectdQ1Bkzv1uYWeU",
@@ -2227,13 +2244,12 @@
       "entidad": [
         "recD6sRObwSGTeSRx"
       ],
-      "fuente": [
-        "recOlv6HRNCXOOrQm"
-      ],
+      "fuente": "https://twitter.com/noticiasfides/status/1327386120871620608",
       "id": 18,
       "persona": [
         "recBPsxhacvI5muzu"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1327390470503346176"
     },
     {
       "airtableId": "recu3JmGxYQ4wCbue",
@@ -2242,13 +2258,12 @@
       "entidad": [
         "recEWlcToVdJVS77R"
       ],
-      "fuente": [
-        "recPborM4cX0QsG6G"
-      ],
+      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
       "id": 53,
       "persona": [
         "recCFlSmnBQL70JPO"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330914758715969542"
     },
     {
       "airtableId": "recuCDoC9kxbG3N4J",
@@ -2257,13 +2272,12 @@
       "entidad": [
         "recc9MsgaFNLedbUg"
       ],
-      "fuente": [
-        "recWu67B9BJP5CjDU"
-      ],
+      "fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
       "id": 71,
       "persona": [
         "recHssgP4xO5U0AX6"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1332644544677076992/photo/1"
     },
     {
       "airtableId": "recvIwUlY2hrATL5k",
@@ -2272,13 +2286,15 @@
       "entidad": [
         "recdkuR3fetrWHrQf"
       ],
-      "fuente": [
-        "recMEQea8YnJ8AUQV"
-      ],
+      "fuente": "https://www.paginasiete.bo/nacional/2020/12/1/arce-destituye-wilson-caceres-posesiona-nuevo-ministro-de-desarrollo-rural-276686.html",
       "id": 86,
+      "partidos": [
+        "reclVPuAV2tETRf0C"
+      ],
       "persona": [
         "recaJh7mY8lPsaWrO"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333875982474895366"
     },
     {
       "airtableId": "recvbGZlJy5MH2abK",
@@ -2287,9 +2303,7 @@
       "entidad": [
         "recdkuR3fetrWHrQf"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "hasta": "2020-12-01",
       "id": 87,
       "persona": [
@@ -2306,13 +2320,12 @@
       "entidad": [
         "reccKLC2SvklfdT7B"
       ],
-      "fuente": [
-        "rec19T7JCcZZ03GDI"
-      ],
+      "fuente": "https://twitter.com/ABTBolivia/status/1344100496387284992",
       "id": 160,
       "persona": [
         "reccVW2wD55cFT51G"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1344223028385886208"
     },
     {
       "airtableId": "recwI4QmEZKVvQjqF",
@@ -2321,10 +2334,11 @@
       "entidad": [
         "recMG6vay1qsi6aUd"
       ],
-      "fuente": [
-        "recYT1uDwhgleMZaU"
-      ],
+      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 91,
+      "partidos": [
+        "recmB762VarzJdtdV"
+      ],
       "persona": [
         "recndKTbOhzqLCQig"
       ]
@@ -2336,13 +2350,12 @@
       "entidad": [
         "recCRRYiYn2874TKD"
       ],
-      "fuente": [
-        "recLZLMghunD2SaD6"
-      ],
+      "fuente": "https://twitter.com/AmbienteyAgua/status/1332099545765974016",
       "id": 79,
       "persona": [
         "recYIkrlMB3oR5I7J"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333482090705412099"
     },
     {
       "airtableId": "recx1arPJ3gpOvBp6",
@@ -2351,13 +2364,12 @@
       "entidad": [
         "recIysVnliGTwljf1"
       ],
-      "fuente": [
-        "receezeQtm3YjmAmR"
-      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1339320625802964994",
       "id": 138,
       "persona": [
         "recrMkdSiitCWddr8"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1339336010438729730"
     },
     {
       "airtableId": "recygYart4WLzcsLO",
@@ -2366,13 +2378,12 @@
       "entidad": [
         "recI9A0Ek1jqYsoor"
       ],
-      "fuente": [
-        "recToDfx0i3HT2Xng"
-      ],
+      "fuente": "https://twitter.com/REV0LUCI0N_2006/status/1329844860111687683",
       "id": 39,
       "persona": [
         "recGSAG7jHWsaA06o"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1329859533506752512"
     },
     {
       "airtableId": "reczFB7WODjnPoXWd",
@@ -2381,13 +2392,12 @@
       "entidad": [
         "recwqL9u3uLwcmRPz"
       ],
-      "fuente": [
-        "reclhdguGr7rEWcOH"
-      ],
+      "fuente": "https://twitter.com/vicemincom/status/1333457671350050819",
       "id": 77,
       "persona": [
         "recldMdA2XUqRrpG4"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1333478933220757511"
     },
     {
       "airtableId": "reczQcJ5egUokq9mv",
@@ -2396,13 +2406,11 @@
       "entidad": [
         "recJJOzi5dh3JG5Z8"
       ],
-      "fuente": [
-        "recUYRObLu1kEgEYX"
-      ],
       "id": 27,
       "persona": [
         "recHsOfL4TU5VOHH5"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1328728947476017154"
     },
     {
       "airtableId": "reczb0hVemUSLI006",
@@ -2411,13 +2419,12 @@
       "entidad": [
         "recJ4C785jhxaYWDJ"
       ],
-      "fuente": [
-        "recUjFm1LA1O5yvCy"
-      ],
+      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
       "id": 43,
       "persona": [
         "recHNCNB4ZUzm6ylG"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1330024810269827072"
     }
   ],
   "entidades": [
@@ -2431,6 +2438,19 @@
       ],
       "id": 58,
       "nombre": "Viceministerio de Educación Alternativa y Especial",
+      "tipo": "Viceministerio"
+    },
+    {
+      "airtableId": "rec0ExRIssMeY4DM0",
+      "autoridades": [
+        "recB0QmQefnGRN4Bg"
+      ],
+      "dependencia": [
+        "rec6hOG1aBXYJnXYZ"
+      ],
+      "id": 156,
+      "nombre": "Viceministerio de Planificación Estratégica del Estado",
+      "sigla": "VPEE",
       "tipo": "Viceministerio"
     },
     {
@@ -2552,6 +2572,21 @@
       "twitter": "@asfibolivia"
     },
     {
+      "airtableId": "rec6FJGQ0g3aA923f",
+      "autoridades": [
+        "recDrZhjvRtAwLmFZ"
+      ],
+      "dependencia": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "id": 160,
+      "nombre": "Empresa Siderúrgica del Mutún",
+      "sigla": "ESM",
+      "tipo": "Empresa",
+      "twitter": "@esmbolivia",
+      "webpage": "http://www.esm.gob.bo/"
+    },
+    {
       "airtableId": "rec6hLDHJ33gjulLJ",
       "autoridades": [
         "recTYA9zPhIKqkTWR"
@@ -2645,7 +2680,8 @@
     {
       "airtableId": "recAmAK3GEie38r1Y",
       "autoridades": [
-        "recSuKsCg3P672YTE"
+        "recSuKsCg3P672YTE",
+        "recNsj89xBrqIj1BJ"
       ],
       "dependencia": [
         "recdkuR3fetrWHrQf"
@@ -2771,7 +2807,8 @@
       "nombre": "Servicio Nacional de Registro y Control de la Comercialización de Minerales y Metales",
       "sigla": "Senarecom",
       "tipo": "Otro",
-      "twitter": "@senarecom1"
+      "twitter": "@senarecom1",
+      "webpage": "http://www.senarecom.gob.bo/"
     },
     {
       "airtableId": "recGUD7Z0Yutsw0Qp",
@@ -3423,6 +3460,21 @@
       "twitter": "@inbol_bo"
     },
     {
+      "airtableId": "recXR83Mb7KtDFrMp",
+      "autoridades": [
+        "recF6nOGkmqDYgr56"
+      ],
+      "dependencia": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "id": 159,
+      "nombre": "Servicio Geológico Minero",
+      "sigla": "Sergeomin",
+      "tipo": "Otro",
+      "twitter": "@sergeomin",
+      "webpage": "https://www.sergeomin.gob.bo/"
+    },
+    {
       "airtableId": "recXU8Pykjp4MDDvB",
       "autoridades": [
         "rec8LoiS0IljVf0MK"
@@ -3687,6 +3739,21 @@
       "twitter": "@MDRyTOficial"
     },
     {
+      "airtableId": "recdnVjoXndt4rrGz",
+      "autoridades": [
+        "recJf32eqxJfnW6xE"
+      ],
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "id": 157,
+      "nombre": "Empresa Boliviana de Industrialización de Hidrocarburos",
+      "sigla": "EBIH",
+      "tipo": "Empresa",
+      "twitter": "@BoliviaEbih",
+      "webpage": "http://ebih.gob.bo/"
+    },
+    {
       "airtableId": "rece6rwqxzu8TN6Oo",
       "autoridades": [
         "rece1Mf8u7gPlDr59"
@@ -3852,6 +3919,9 @@
     },
     {
       "airtableId": "reciPvyYzpk1CjOk9",
+      "autoridades": [
+        "recZXvyClhE8ZyTnR"
+      ],
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
@@ -3859,7 +3929,8 @@
       "nombre": "Autoridad Juridiccional Administrativa Minera",
       "sigla": "AJAM",
       "tipo": "Autoridad de fiscalización",
-      "twitter": "@AJAMBolivia"
+      "twitter": "@AJAMBolivia",
+      "webpage": "https://www.autoridadminera.gob.bo/"
     },
     {
       "airtableId": "recjHN6ifkTCdrZfg",
@@ -4233,7 +4304,8 @@
     {
       "airtableId": "recuomBcP9OFzwKQi",
       "autoridades": [
-        "recmeF4D2kXJP51Vq"
+        "recmeF4D2kXJP51Vq",
+        "recVy6qaqPBhY2yLs"
       ],
       "dependencia": [
         "recDPejejWlgRG7Vc"
@@ -4325,6 +4397,21 @@
       "twitter": "@Bolivia_bol"
     },
     {
+      "airtableId": "recxSR68zsNXyFFrH",
+      "autoridades": [
+        "recKucP4cqTXfuGlK"
+      ],
+      "dependencia": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "id": 158,
+      "nombre": "Caja de Salud de Caminos y Ramas Anexas",
+      "sigla": "CSCRA",
+      "tipo": "Caja de Salud",
+      "twitter": "@CajadeCaminos",
+      "webpage": "http://www.cajasaludcaminos.gob.bo/"
+    },
+    {
       "airtableId": "recxi28iX7F8xahXa",
       "autoridades": [
         "recWNA58iSPBG1afp"
@@ -4355,7 +4442,8 @@
     {
       "airtableId": "recyLf6XPjWlW7w1B",
       "autoridades": [
-        "recGD7aJZg8lxBbuX"
+        "recGD7aJZg8lxBbuX",
+        "recACwcLeZ4GvtZ56"
       ],
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
@@ -4464,1289 +4552,147 @@
       "twitter": "@INIAFBolivia"
     }
   ],
-  "fuentes": [
-    {
-      "airtableId": "rec0XD6rM4tjStXiA",
-      "autoridad": [
-        "recNmMipQmGpSqWC6"
-      ],
-      "fuente": "https://twitter.com/RadioIllimani/status/1333755342380003328",
-      "id": 82,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333765392934850562"
-    },
-    {
-      "airtableId": "rec19T7JCcZZ03GDI",
-      "autoridad": [
-        "recw9CVZix3ME6CUm"
-      ],
-      "fuente": "https://twitter.com/ABTBolivia/status/1344100496387284992",
-      "id": 140,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344223028385886208"
-    },
-    {
-      "airtableId": "rec1ZnvZ6uCq5XRNg",
-      "autoridad": [
-        "rece1Mf8u7gPlDr59"
-      ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1341535721660837895",
-      "id": 127,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341692683711098885"
-    },
-    {
-      "airtableId": "rec1gcJchs0hCaV4D",
-      "autoridad": [
-        "recG8xE6KeTlikqsb"
-      ],
-      "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
-      "id": 29,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328732088783302658"
-    },
-    {
-      "airtableId": "rec24LxKW3rUTaSBY",
-      "autoridad": [
-        "recOHTGaroips2zuH"
-      ],
-      "fuente": "https://twitter.com/senarecom1/status/1341452365505974283",
-      "id": 123,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341456338942124032"
-    },
-    {
-      "airtableId": "rec2NQ8Fmqks7t5uc",
-      "autoridad": [
-        "recHFb3zPcdwNDASK"
-      ],
-      "fuente": "https://eldeber.com.bo/pais/arce-pide-institucionalizar-la-policia-que-no-vaya-contra-un-gobierno-democratico-y-que-recupere-la-_208944",
-      "id": 24,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328623491487293440"
-    },
-    {
-      "airtableId": "rec34PkQoaXNllOhe",
-      "autoridad": [
-        "recIWafKRWQR1vjFM"
-      ],
-      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
-      "id": 12,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327095981566009344"
-    },
-    {
-      "airtableId": "rec385uQwCBTYUXEJ",
-      "autoridad": [
-        "recAhUsC6Ci14FFAF"
-      ],
-      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
-      "id": 103,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1335171868630904836"
-    },
-    {
-      "airtableId": "rec3l4QUvbtMNTDay",
-      "autoridad": [
-        "recHxfSAKalYuhilJ"
-      ],
-      "fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
-      "id": 71,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332645202633297920/photo/1"
-    },
-    {
-      "airtableId": "rec4ORZ9mgDBc40le",
-      "autoridad": [
-        "recUSllXbQygt0xi3"
-      ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
-      "id": 133,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344028127958343684"
-    },
-    {
-      "airtableId": "rec4Oqgs1ue0tVdac",
-      "autoridad": [
-        "recJGLbmug7495IyK"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "id": 5,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327050453197189120"
-    },
-    {
-      "airtableId": "rec59NDbzpNYyxMNA",
-      "autoridad": [
-        "reccI0LvPKY6rqhUE"
-      ],
-      "fuente": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
-      "id": 109,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1336230559526301696"
-    },
-    {
-      "airtableId": "rec5s0djNZPhTiS0a",
-      "autoridad": [
-        "rec5W3zsQlaXg7uWG"
-      ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
-      "id": 98,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334914560617222147"
-    },
-    {
-      "airtableId": "rec5ytJzCwmTeI9Qc",
-      "autoridad": [
-        "recBEDJhqtGCnKoPo"
-      ],
-      "fuente": "https://erbol.com.bo/deporte/cielo-veizaga-una-futbolista-de-19-a%C3%B1os-es-la-viceministra-de-deportes-la-m%C3%A1s-joven",
-      "id": 119
-    },
-    {
-      "airtableId": "rec6kQPaFkq26dnZp",
-      "autoridad": [
-        "recHhEmWb7S0S5ySb"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201108_vice-anuncia-un-nuevo-tiempo-y-pide-ya-no-mas-judicializacion-de-la-politica.html",
-      "id": 88
-    },
-    {
-      "airtableId": "rec7HkphTfoTkII8B",
-      "autoridad": [
-        "recMzFkbm1hX0Sdw9"
-      ],
-      "fuente": "https://www.facebook.com/LuchoXBolivia/videos/393791228497070",
-      "id": 40,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329877215971074056"
-    },
-    {
-      "airtableId": "rec7MOEz6jkO0NFQK",
-      "autoridad": [
-        "recME9ztz5dSGXaei"
-      ],
-      "fuente": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
-      "id": 33,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329581820015472641"
-    },
-    {
-      "airtableId": "rec7bW1c3TCHz1Kt1",
-      "autoridad": [
-        "recZDkPJe28GcfNpV"
-      ],
-      "fuente": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
-      "id": 111,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337149550025449484"
-    },
-    {
-      "airtableId": "rec88ugM9sCswTbRA",
-      "autoridad": [
-        "recVY8njuYBvWuto0"
-      ],
-      "fuente": "https://mobile.twitter.com/MIGRACION_BOL/status/1330909496126951425",
-      "id": 106
-    },
-    {
-      "airtableId": "rec8rn6iwcvOfsPmW",
-      "autoridad": [
-        "recCP41O85kXRWCsy"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201130_dominga-machicado-jura-como-gerente-de-la-editorial-del-estado.html",
-      "id": 81,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333691504632721408"
-    },
-    {
-      "airtableId": "rec9DvDqKR7gUnc3r",
-      "autoridad": [
-        "rec5SqbarqKG4LH5x"
-      ],
-      "fuente": "https://www.pagina12.com.ar/304486-bolivia-luis-arce-asume-la-presidencia",
-      "id": 87
-    },
-    {
-      "airtableId": "rec9PajsSiuFJaRWe",
-      "autoridad": [
-        "rectCXUdlwoaJzMV3"
-      ],
-      "fuente": "https://twitter.com/vicemincom/status/1333455634231144452",
-      "id": 75,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333478247833722883"
-    },
-    {
-      "airtableId": "rec9QOEW7KeXBRjYY",
-      "autoridad": [
-        "recC5lmy3i6Gv3iZm"
-      ],
-      "fuente": "https://twitter.com/Bolivia_MHE/status/1348613364990308358",
-      "id": 142
-    },
-    {
-      "airtableId": "rec9XcTxkDqEVzOxY",
-      "autoridad": [
-        "recXYgpK3JhNTX4rq"
-      ],
-      "fuente": "https://twitter.com/minedubol/status/1341507306291421186",
-      "id": 124,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341677350564618241"
-    },
-    {
-      "airtableId": "rec9mlgesKJaGlhv7",
-      "autoridad": [
-        "recMUSBgn2xEhfAry"
-      ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1341515203054342157",
-      "id": 125,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341689639090970625"
-    },
-    {
-      "airtableId": "rec9zfeKGepRNSK0o",
-      "autoridad": [
-        "recbtkDR7mpsbHaw3"
-      ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1341514883570003969",
-      "id": 126,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341691035953606656"
-    },
-    {
-      "airtableId": "recAHtiS3ZxitIa4u",
-      "autoridad": [
-        "recfzOdMwLqm9SFs2"
-      ],
-      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1329567594328842241",
-      "id": 34,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329582969800040448"
-    },
-    {
-      "airtableId": "recAqNvBIy7DNo4Jb",
-      "autoridad": [
-        "recagbaP23mAGkKvs"
-      ],
-      "fuente": "https://eldeber.com.bo/pais/posesionan-a-reynaldo-yujra-como-director-ejecutivo-de-la-asfi_210727",
-      "id": 90,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334252230157938696"
-    },
-    {
-      "airtableId": "recBDsZkIwOzSXFzp",
-      "autoridad": [
-        "recgvNUebiHDy7aXX"
-      ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
-      "id": 49,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330119773137620995"
-    },
-    {
-      "airtableId": "recCTAFIGAO3J9POd",
-      "autoridad": [
-        "rechLVAC9mH7pjkcL"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201117_victor-quispe-es-el-nuevo-viceministro-de-trabajo-y-prevision-social.html",
-      "id": 30,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328782274796675074"
-    },
-    {
-      "airtableId": "recCfWeU6cl6sOgvh",
-      "autoridad": [
-        "recnuHQrPgPMmRhZg"
-      ],
-      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1333823932638633985",
-      "id": 84,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333830566614102016"
-    },
-    {
-      "airtableId": "recCls3RVxmRy5bOw",
-      "autoridad": [
-        "recBpYsDbhG6TogXc"
-      ],
-      "fuente": "https://economy.com.bo/portada-economy/25-nosotros/5260-posesionan-a-%C3%B3scar-ferrufino-como-director-de-la-aps.html",
-      "id": 113,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337864353241034755"
-    },
-    {
-      "airtableId": "recDReYqE3afKHqLC",
-      "autoridad": [
-        "rec3FEK8CFNtKW5oO"
-      ],
-      "fuente": "https://noticiasporelmundo.com/bolivia/posesionan-a-nelida-acuna-como-directora-de-la-loteria-nacional-noticias-bolivia",
-      "id": 68,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332615212789346305"
-    },
-    {
-      "airtableId": "recDlPjFyPIndO8XT",
-      "autoridad": [
-        "recmcUEFmO5osT56H"
-      ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461501",
-      "id": 129,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1342585276460363776"
-    },
-    {
-      "airtableId": "recDwFpL4nlNe0ktI",
-      "autoridad": [
-        "recio0kFx9eRUaPRg"
-      ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
-      "id": 38,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329706323890622469"
-    },
-    {
-      "airtableId": "recE1CFbPKSsEB00j",
-      "autoridad": [
-        "recoQ6ATSbRsGWlpT"
-      ],
-      "fuente": "https://www.periodicobolivia.com.bo/posesionan-a-freddy-mamani-como-viceministro-de-relaciones-exteriores/",
-      "id": 114,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337865247877713920"
-    },
-    {
-      "airtableId": "recEmcTjsDU1ISh5d",
-      "autoridad": [
-        "recjexOdVpN5o2MtL"
-      ],
-      "fuente": "https://www.la-razon.com/nacional/2020/11/12/el-exministro-juan-carlos-calvimontes-nuevo-viceministro-de-defensa-civil/",
-      "id": 14,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327169942895128576"
-    },
-    {
-      "airtableId": "recF1OcWrpSCUzNsX",
-      "autoridad": [
-        "recTtcv1MzEWH2LuS"
-      ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
-      "id": 132,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344026642914676736"
-    },
-    {
-      "airtableId": "recF7rlOafMyGoMDe",
-      "autoridad": [
-        "reckZMgID1FCmyh1M"
-      ],
-      "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
-      "id": 61,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331358805590937600"
-    },
-    {
-      "airtableId": "recFQVK7Ku7avUq11",
-      "autoridad": [
-        "recPEATEMOSO55oHs"
-      ],
-      "fuente": "https://comunicacion.gob.bo/?q=20201203/31381",
-      "id": 91,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334548951635255300"
-    },
-    {
-      "airtableId": "recFaTuVvce1RFktO",
-      "autoridad": [
-        "recX1WE8IK22fWJtq"
-      ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334657921792270341",
-      "id": 94,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334779178680512514"
-    },
-    {
-      "airtableId": "recFnvSxtWXIMCmM8",
-      "autoridad": [
-        "reccETXTaUInlMowz"
-      ],
-      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
-      "id": 105,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1335175318622048256"
-    },
-    {
-      "airtableId": "recGBvIYeW5T8aKN3",
-      "autoridad": [
-        "recoH7VxyxXA1mRYv"
-      ],
-      "fuente": "https://twitter.com/vicemincom/status/1333462794990137347",
-      "id": 77,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333479622848245774"
-    },
-    {
-      "airtableId": "recIPWKtOvEglfvnt",
-      "autoridad": [
-        "recXeCB6m4Dyzo1HW"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
-      "id": 63,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331629723793944576"
-    },
-    {
-      "airtableId": "recJes6IcPkRHM8S0",
-      "autoridad": [
-        "reco6N1CFBdVnWDgy"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "id": 9,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327093489939714049"
-    },
-    {
-      "airtableId": "recK4dWvCu1FvBN6u",
-      "autoridad": [
-        "recPMwmzPpBJtBoJ0"
-      ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1342134740745392129",
-      "id": 128,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1342176944293605377"
-    },
-    {
-      "airtableId": "recKASThi6oG1cnIb",
-      "autoridad": [
-        "rec2WQKfqSqFqprTZ"
-      ],
-      "fuente": "https://twitter.com/RadioIllimani/status/1333755342380003328",
-      "id": 83,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333766159200555011"
-    },
-    {
-      "airtableId": "recKFM9Tk0LHIddQp",
-      "autoridad": [
-        "receVQlmY61UqxdDG"
-      ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334659108088262656",
-      "id": 96,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334781183830450178"
-    },
-    {
-      "airtableId": "recKRzVFWyN05cy4v",
-      "autoridad": [
-        "recUa7fkGRDqRyGXz"
-      ],
-      "fuente": "http://www.boliviatv.bo/principal/noticia.php?noticia=657b52bf6610edfc096abf0cc079da8f&lang=es",
-      "id": 79,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333517116792770563"
-    },
-    {
-      "airtableId": "recKinuorGtLbfH75",
-      "autoridad": [
-        "recpaIpiUsmPRpcvD"
-      ],
-      "fuente": "https://twitter.com/vicemincom/status/1330888016215351300",
-      "id": 55,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330915947645898754"
-    },
-    {
-      "airtableId": "recKjnIFLksZ7eDzT",
-      "autoridad": [
-        "recpbIDze6l3No8Xr"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "id": 23,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328379383762055168"
-    },
-    {
-      "airtableId": "recKxeH4WuytftwVO",
-      "autoridad": [
-        "recEG0R9MK8FKDzyj"
-      ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
-      "id": 101,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334916756926832649"
-    },
-    {
-      "airtableId": "recL32H6j7jPaeCdk",
-      "autoridad": [
-        "rec8RYVMgbacWA81M"
-      ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1336494175953498112",
-      "id": 110,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1336582385790558208"
-    },
-    {
-      "airtableId": "recLZLMghunD2SaD6",
-      "autoridad": [
-        "recwU6eDpMvEYhyyh"
-      ],
-      "fuente": "https://twitter.com/AmbienteyAgua/status/1332099545765974016",
-      "id": 78,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333482090705412099"
-    },
-    {
-      "airtableId": "recLceWDK5JclvFmR",
-      "autoridad": [
-        "recq4zRxdRCg1FaKp"
-      ],
-      "fuente": "https://www.lostiempos.com/actualidad/pais/20201112/gabriela-alcon-es-nueva-viceministra-comunicacion-juan-villca-coordinacion ",
-      "id": 1,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1326993065945526272"
-    },
-    {
-      "airtableId": "recMEQea8YnJ8AUQV",
-      "autoridad": [
-        "recvIwUlY2hrATL5k"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/12/1/arce-destituye-wilson-caceres-posesiona-nuevo-ministro-de-desarrollo-rural-276686.html",
-      "id": 85,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333875982474895366"
-    },
-    {
-      "airtableId": "recN04DRgzSgzgnmo",
-      "autoridad": [
-        "recSuKsCg3P672YTE"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201228_posesionan-a-placido-condori-como-director-general-del-senasag.html",
-      "id": 131,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1343746402007060481"
-    },
-    {
-      "airtableId": "recNuwb43va9ZIb0t",
-      "autoridad": [
-        "recgCmVpYbcaNdY3W"
-      ],
-      "fuente": "https://www.delapaz.bo/noticias?n=viceministro-de-electricidad-y-energias-alternativas-posesiona-al-ing.-julio-aruquipa-como-nuevo-gerente-general-de-delapaz",
-      "id": 117,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1338762489790607360"
-    },
-    {
-      "airtableId": "recOPBsbtXrrlAx80",
-      "autoridad": [
-        "rectHWn5WJkv1K2wy"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "id": 21,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328378779840942081"
-    },
-    {
-      "airtableId": "recOZuO5i1xIOelmS",
-      "autoridad": [
-        "rectRPJZLNqMuoQKq"
-      ],
-      "fuente": "https://twitter.com/AgeticOficial/status/1328795211288424449",
-      "id": 31,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328798468333318145"
-    },
-    {
-      "airtableId": "recOlv6HRNCXOOrQm",
-      "autoridad": [
-        "rectdQ1Bkzv1uYWeU"
-      ],
-      "fuente": "https://twitter.com/noticiasfides/status/1327386120871620608",
-      "id": 18,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327390470503346176"
-    },
-    {
-      "airtableId": "recPborM4cX0QsG6G",
-      "autoridad": [
-        "recu3JmGxYQ4wCbue"
-      ],
-      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
-      "id": 53,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330914758715969542"
-    },
-    {
-      "airtableId": "recPiMICbBR2JFj1u",
-      "autoridad": [
-        "recMrJnpzXfz3HkE8"
-      ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
-      "id": 134,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344029112990654464"
-    },
-    {
-      "airtableId": "recPj6sQDrX9g37uc",
-      "autoridad": [
-        "recqW1xocpPZdWieY"
-      ],
-      "fuente": "https://www.opinion.com.bo/articulo/pais/ronald-caso-vuelve-ser-gerente-boa/20201202145131798208.html",
-      "id": 89,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334217316100399109"
-    },
-    {
-      "airtableId": "recRMJcMft85nfKQG",
-      "autoridad": [
-        "rec0CQh9oVK9ol8x4"
-      ],
-      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1333515255721435145",
-      "id": 80,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333518755993964554"
-    },
-    {
-      "airtableId": "recToDfx0i3HT2Xng",
-      "autoridad": [
-        "recygYart4WLzcsLO"
-      ],
-      "fuente": "https://twitter.com/REV0LUCI0N_2006/status/1329844860111687683",
-      "id": 39,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329859533506752512"
-    },
-    {
-      "airtableId": "recU7jDzpM1ensCB1",
-      "autoridad": [
-        "recmFfU2YPNzG2m1T"
-      ],
-      "fuente": "https://correodelsur.com/local/20201127_carmelo-valda-a-la-cabeza-del-viceministerio-de-agua.html",
-      "id": 67,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332293970752380929"
-    },
-    {
-      "airtableId": "recUYRObLu1kEgEYX",
-      "autoridad": [
-        "reczQcJ5egUokq9mv"
-      ],
-      "id": 27,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328728947476017154"
-    },
-    {
-      "airtableId": "recUjFm1LA1O5yvCy",
-      "autoridad": [
-        "reczb0hVemUSLI006"
-      ],
-      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
-      "id": 43,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330024810269827072"
-    },
-    {
-      "airtableId": "recVQDk2rahV8oWAo",
-      "autoridad": [
-        "recAIYfWUWaZOyrYW"
-      ],
-      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
-      "id": 10,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327094066505535488"
-    },
-    {
-      "airtableId": "recVbf1lQ1gIWR0z8",
-      "autoridad": [
-        "recA3AWfjN9MC1vXG"
-      ],
-      "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
-      "id": 48,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330109333426855937"
-    },
-    {
-      "airtableId": "recWu67B9BJP5CjDU",
-      "autoridad": [
-        "recuCDoC9kxbG3N4J"
-      ],
-      "fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
-      "id": 70,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332644544677076992/photo/1"
-    },
-    {
-      "airtableId": "recWueNvkmL1OR9Kw",
-      "autoridad": [
-        "recBmzIpN8E5u1E84"
-      ],
-      "fuente": "https://elpais.bo/nacional/20201119_pary-es-designado-como-embajador-ante-la-onu.html",
-      "id": 32,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329537630204256264"
-    },
-    {
-      "airtableId": "recWzPT9uFrxGjT9J",
-      "autoridad": [
-        "recBraO3XrkBmtoxh"
-      ],
-      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
-      "id": 54,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330915174413443079"
-    },
-    {
-      "airtableId": "recXNmLBAGA2tzjmJ",
-      "autoridad": [
-        "recCFHGv3st69JOKh"
-      ],
-      "fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
-      "id": 35,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329702895441354752"
-    },
-    {
-      "airtableId": "recXeNEhG5YjixswN",
-      "autoridad": [
-        "recC68zb9RRnYHXUl"
-      ],
-      "fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
-      "id": 36,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329704235005599748"
-    },
-    {
-      "airtableId": "recYSj1JFmTJMvUrL",
-      "autoridad": [
-        "recDKEWD88MNsFpPj"
-      ],
-      "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
-      "id": 28,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328731538125623297"
-    },
-    {
-      "airtableId": "recYT1uDwhgleMZaU",
-      "autoridad": [
-        "recvbGZlJy5MH2abK",
-        "reclNBmhSGRUmOgQ2",
-        "recVqHwXSsW7njFGk",
-        "rec5wRPq7uuQ80zwk",
-        "recwI4QmEZKVvQjqF",
-        "recj3qYSizNc1KvQH",
-        "recgREvm07I2eKKov",
-        "recEvkGKDvnnyXfef",
-        "recFZWnVB8Jnq4Cyw",
-        "recmeF4D2kXJP51Vq",
-        "recoTcA6Jf19g7xAj",
-        "recV7qz9LRPvqOQtz",
-        "recTYA9zPhIKqkTWR",
-        "recBLOHQvkte60G3R",
-        "recjubB7hLPwRvcsA",
+  "partidos": [
+    {
+      "airtableId": "rec0Vr0vtXiyMMKQD",
+      "autoridades": [
+        "recMzFkbm1hX0Sdw9",
         "recZuN1xAmAroQf50"
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
-      "id": 86
-    },
-    {
-      "airtableId": "recZN3d3pG6fEhO3Q",
-      "autoridad": [
-        "recWNA58iSPBG1afp"
-      ],
-      "fuente": "https://twitter.com/Bolivia_MHE/status/1340999339120967683",
-      "id": 121,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341039574613700614"
-    },
-    {
-      "airtableId": "recZORKMhAmTYgF7s",
-      "autoridad": [
-        "recEGcFGKmfXEqav0"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/mario-cazon-retorna-la-presidencia-de-impuestos-nacionales-274698.html",
-      "id": 2,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327046912059580421"
-    },
-    {
-      "airtableId": "recZlWsiqdAplVFmP",
-      "autoridad": [
-        "recGjZ4pHLW99leYG"
-      ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1346589886401409025",
-      "id": 141,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1346602861837348870"
-    },
-    {
-      "airtableId": "recaV5RVLnh7reEU3",
-      "autoridad": [
-        "recGD7aJZg8lxBbuX"
-      ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
-      "id": 102,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334917762637066240"
-    },
-    {
-      "airtableId": "recaWXrbCFoDLoZTk",
-      "autoridad": [
-        "recNswUXJakBAQZWz"
-      ],
-      "fuente": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
-      "id": 108,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1336229157383114753"
-    },
-    {
-      "airtableId": "recacx4hJEO7EELbQ",
-      "autoridad": [
-        "recP4SZbcqHbkOgzo"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/gabriela-alcon-es-nombrada-viceministra-de-comunicacion-274688.html",
-      "id": 3,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327047625577820164"
-    },
-    {
-      "airtableId": "recadHTA9d9NWbDTF",
-      "autoridad": [
-        "recP52OuCZ2RCl8hd"
-      ],
-      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
-      "id": 13,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327096732317085696"
-    },
-    {
-      "airtableId": "recap9BbPXKnHPSBx",
-      "autoridad": [
-        "recPhuw5iJDrnZnZ5"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
-      "id": 57,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331070387543805953"
-    },
-    {
-      "airtableId": "recaq4nVKruKVgbJo",
-      "autoridad": [
-        "recPipiPddnOBqG7W"
-      ],
-      "fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
-      "id": 42,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330023229583396864"
-    },
-    {
-      "airtableId": "recb8rkvacYKjWPo8",
-      "autoridad": [
-        "recg8r2ZOYyEJqA7m"
-      ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
-      "id": 97,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334912626623733765"
-    },
-    {
-      "airtableId": "recbM8iBqEtKSgyS1",
-      "autoridad": [
-        "recR1NSGyn44FG6iq"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
-      "id": 62,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331629481132429312"
-    },
-    {
-      "airtableId": "recbOXnIh8fNF9t1W",
-      "autoridad": [
-        "recQGiiCKU8RljYpu"
-      ],
-      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
-      "id": 45,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330028460597776385"
-    },
-    {
-      "airtableId": "recbRdI7AVc9vwQ9P",
-      "autoridad": [
-        "recQJyD13H5dbGlxn"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
-      "id": 58,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331071560111837188"
-    },
-    {
-      "airtableId": "recdBRYAx4ZQvoYZ9",
-      "autoridad": [
-        "recStcTu0QSUbytnH"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "id": 8,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327092510678769666"
-    },
-    {
-      "airtableId": "recdj1lsNEGYD0a5P",
-      "autoridad": [
-        "recSbmgmgqz2jaFtn"
-      ],
-      "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
-      "id": 60,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331357554098712576"
-    },
-    {
-      "airtableId": "recedRCixmzZldMYF",
-      "autoridad": [
-        "recITBLC8q6GRemce"
-      ],
-      "fuente": "https://www.la-razon.com/nacional/2020/12/11/el-gobierno-retoma-la-voceria-presidencial-y-designa-en-el-cargo-al-politologo-jorge-richter/",
-      "id": 115,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337871559478960128"
-    },
-    {
-      "airtableId": "receezeQtm3YjmAmR",
-      "autoridad": [
-        "recx1arPJ3gpOvBp6"
-      ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1339320625802964994",
-      "id": 118,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1339336010438729730"
-    },
-    {
-      "airtableId": "recfsuBPiG3W72Izf",
-      "autoridad": [
-        "recpW0H03ttgXGgVK"
-      ],
-      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474029911609344",
-      "id": 72,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333475096711847937"
-    },
-    {
-      "airtableId": "recg1lSc0hZuvtFYq",
-      "autoridad": [
-        "recVTGN6t3SybDamY"
-      ],
-      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
-      "id": 44,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330027410599923714"
-    },
-    {
-      "airtableId": "recg3ZM9EeClmJdWm",
-      "autoridad": [
-        "rec4AYqMCCP4MFNDp"
-      ],
-      "fuente": "https://eldeber.com.bo/pais/ministro-huanca-posesionan-a-gerente-de-sedem-e-instruye-acciones-legales-en-ecebol_211421",
-      "id": 107,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1336227917882388480"
-    },
-    {
-      "airtableId": "recgiWxW3YCMtjdFK",
-      "autoridad": [
-        "recVahsQwKvQ9tI3i"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
-      "id": 56,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331069507033567236"
-    },
-    {
-      "airtableId": "rechIaZ7EqntT1Mm7",
-      "autoridad": [
-        "recqRdFZXznk5dCyt"
-      ],
-      "fuente": "https://correodelsur.com/politica/20201126_ana-maria-morales-asume-como-nueva-directora-de-la-uif.html",
-      "id": 65,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332235424824233984"
-    },
-    {
-      "airtableId": "rechRrNNjQGssnGN5",
-      "autoridad": [
-        "recKJSf4XRbNjuhu2"
-      ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
-      "id": 136,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344120538457845762"
-    },
-    {
-      "airtableId": "rechmckpk8smsvqp6",
-      "autoridad": [
-        "recC1WNuQGcqhIVRe"
-      ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334657921792270341",
-      "id": 93,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334775339545923585"
-    },
-    {
-      "airtableId": "reci8LrB8BojJEbPg",
-      "autoridad": [
-        "recX06mvBnhnpOGdO"
-      ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
-      "id": 51,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330120688598982658"
-    },
-    {
-      "airtableId": "reciild39yaQj6ASL",
-      "autoridad": [
-        "recXaG8XCk3UZg5gj"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1345776464713707521",
+      "fecha": "2021-01-03",
+      "ganadora": [
+        "recMzFkbm1hX0Sdw9"
       ],
-      "fuente": "https://twitter.com/LaRazon_Bolivia/status/1327322323377119232",
-      "id": 16,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327332161565896704"
+      "porcentaje": 0.73,
+      "votos": 37
     },
     {
-      "airtableId": "recj102AgOVIOHi1m",
-      "autoridad": [
-        "recZcuZkLhWpazk5q"
+      "airtableId": "recJQv8if7Ai5KPdz",
+      "autoridades": [
+        "recVqHwXSsW7njFGk",
+        "recV7qz9LRPvqOQtz"
       ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
-      "id": 135,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344116906899484672"
-    },
-    {
-      "airtableId": "recjYqzUZYAvq69Kn",
-      "autoridad": [
-        "rectGUYoEjTV9iSat"
-      ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
-      "id": 139
-    },
-    {
-      "airtableId": "recjxRUDiw71KR3cO",
-      "autoridad": [
-        "recYpcPxLi05q1yAm"
-      ],
-      "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
-      "id": 47,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330108072006721538"
-    },
-    {
-      "airtableId": "reckIOZF27IOjiDQX",
-      "autoridad": [
-        "recFGHiTt4wWIqdJq"
-      ],
-      "fuente": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
-      "id": 112,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337150847822815233"
-    },
-    {
-      "airtableId": "reclhdguGr7rEWcOH",
-      "autoridad": [
-        "reczFB7WODjnPoXWd"
-      ],
-      "fuente": "https://twitter.com/vicemincom/status/1333457671350050819",
-      "id": 76,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333478933220757511"
-    },
-    {
-      "airtableId": "recmeGFUComeX4dRI",
-      "autoridad": [
-        "rec161AO5afiDeIfg"
-      ],
-      "fuente": "https://www.atb.com.bo/pol%C3%ADtica/%C3%A1lvaro-mollinedo-fue-posesionado-como-nuevo-viceministro-de-desarrollo-rural-y-agropecuario",
-      "id": 25,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328687269214101504"
-    },
-    {
-      "airtableId": "recn3BI0JXt1APt1o",
-      "autoridad": [
-        "rec2VWDUcJm5gZYpW"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "id": 19,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328377952434855938"
-    },
-    {
-      "airtableId": "recnntK0meZ6C2MT5",
-      "autoridad": [
-        "rec2fOFUP0SaichhD"
-      ],
-      "fuente": "https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/",
-      "id": 26,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328725113118846979"
-    },
-    {
-      "airtableId": "recoDSryLGUcZUJVY",
-      "autoridad": [
-        "rec8LoiS0IljVf0MK"
-      ],
-      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
-      "id": 104,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1335173794709856257"
-    },
-    {
-      "airtableId": "recpHUg0tg3f5oret",
-      "autoridad": [
-        "recrJYbjvZmSRCnEg"
-      ],
-      "fuente": "https://eldeber.com.bo/economia/exejecutivo-de-la-afp-prevision-bbva-es-designado-gerente-general-de-la-gestora-publica_210081",
-      "id": 64,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331876258519642112"
-    },
-    {
-      "airtableId": "recpyJlcbxrtZIGE6",
-      "autoridad": [
-        "rec4q4g6EjkxFSb2E"
-      ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
-      "id": 37,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329705521260220417"
-    },
-    {
-      "airtableId": "recrVHMTqPIuP8sAk",
-      "autoridad": [
-        "rec6N2HNTBByviXYS"
-      ],
-      "fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
-      "id": 41,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330021347007877122"
-    },
-    {
-      "airtableId": "recrVR18oGprt2fBC",
-      "autoridad": [
-        "recQebcFZCzM7C4WA"
-      ],
-      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474215861899266",
-      "id": 73,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333476047350861831"
-    },
-    {
-      "airtableId": "recrrCoEN5J99zGK1",
-      "autoridad": [
-        "rec7s9R6JgKqZyXMr"
-      ],
-      "fuente": "https://mobile.twitter.com/canela_cs/status/1332085062242799616",
-      "id": 66,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332236779076919298"
-    },
-    {
-      "airtableId": "recs0aBIf3UXBpA4K",
-      "autoridad": [
-        "rec7SvwCIPN1hz5si"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "id": 22,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328379118531059712"
-    },
-    {
-      "airtableId": "recsA4QCh2vNRu8bh",
-      "autoridad": [
-        "rec7spLwKOoRxEDzP"
-      ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "id": 6,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051254019870721"
-    },
-    {
-      "airtableId": "recsUDYsFvz4O9qqn",
-      "autoridad": [
-        "rec7MYTm8hs8ujVOV"
-      ],
-      "fuente": "https://erbol.com.bo/nacional/karina-serrudo-es-la-nueva-presidenta-de-la-aduana-nacional",
-      "id": 59,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331357450516226052"
-    },
-    {
-      "airtableId": "recskPMoAWhpjMJKb",
-      "autoridad": [
-        "rec2gtGWhfCCYAhA9"
-      ],
-      "fuente": "https://twitter.com/AmbienteyAgua/status/1341182683980980224",
-      "id": 122,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341301130253520896"
-    },
-    {
-      "airtableId": "recskVrWoijTM1ZGC",
-      "autoridad": [
-        "reco0QZNlLa6zj6YJ"
-      ],
-      "fuente": "https://twitter.com/abi_bolivia/status/1334525577378861059",
-      "id": 92,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334550777306689536"
-    },
-    {
-      "airtableId": "recsm0S7gQ8DAAL3C",
-      "autoridad": [
-        "rec7elN1JC1HgKgra"
-      ],
-      "fuente": "https://eldeber.com.bo/economia/humberto-arandia-claure-juro-como-director-del-ine_209479",
-      "id": 46,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330106235450953733"
-    },
-    {
-      "airtableId": "recsma8eHMqtdCy3d",
-      "autoridad": [
-        "rec9LiMgX5f8nF38a"
-      ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
-      "id": 137,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344122044598906882"
-    },
-    {
-      "airtableId": "recsqYAE63QlSv25n",
-      "autoridad": [
-        "recE8GWYIkUeS5QXA"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1345776454768996355",
+      "fecha": "2021-01-03",
+      "ganadora": [
+        "recVqHwXSsW7njFGk"
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
-      "id": 99,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334913925968748545"
+      "porcentaje": 0.784,
+      "votos": 51
     },
     {
-      "airtableId": "recuJRnFZa9BqIFdr",
-      "autoridad": [
-        "recLKMNtltqIdauK9"
+      "airtableId": "recZBk2t4i2TCC2sg",
+      "autoridades": [
+        "reclNBmhSGRUmOgQ2",
+        "recj3qYSizNc1KvQH"
       ],
-      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474304349130753",
-      "id": 74,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333476812651962370"
-    },
-    {
-      "airtableId": "recuWQlbVBDT81ye5",
-      "autoridad": [
-        "rec9Obg5onwXOb3CD"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1345776457797271553",
+      "fecha": "2021-01-03",
+      "ganadora": [
+        "reclNBmhSGRUmOgQ2"
       ],
-      "fuente": "https://eldeber.com.bo/pais/wilfredo-chavez-asume-como-procurador-general-del-estado-y-arce-le-encomienda-tres-acciones_208428",
-      "id": 15,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327170593410650115"
+      "porcentaje": 0.745,
+      "votos": 47
     },
     {
-      "airtableId": "recvIz9IAMYBLNIYA",
-      "autoridad": [
-        "recaAU4C3yRFrXdm8"
+      "airtableId": "recaI04Gy5AjHN4NN",
+      "autoridades": [
+        "recgREvm07I2eKKov",
+        "recoTcA6Jf19g7xAj"
       ],
-      "fuente": "http://erbol.com.bo/nacional/edwin-rojas-ulo-jura-como-nuevo-presidente-del-banco-central-de-bolivia",
-      "id": 4,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327048145554051083"
-    },
-    {
-      "airtableId": "recvNozvR5GYgYrAv",
-      "autoridad": [
-        "recaFJupkRz2W8WY3"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1347146346231427072",
+      "fecha": "2021-01-07",
+      "ganadora": [
+        "recoTcA6Jf19g7xAj"
       ],
-      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
-      "id": 52,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330914210197499904"
+      "porcentaje": 0.672,
+      "votos": 61
     },
     {
-      "airtableId": "recvkcBjR6sHcOH5E",
-      "autoridad": [
-        "recplry7wQgzs40Pp"
+      "airtableId": "reccCxR3JMr18dzeQ",
+      "autoridades": [
+        "recEvkGKDvnnyXfef",
+        "recmeF4D2kXJP51Vq"
       ],
-      "fuente": "https://correodelsur.com/politica/20201127_roy-mendez-retorna-a-la-gerencia-de-entel.html",
-      "id": 69,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332616878020288512"
-    },
-    {
-      "airtableId": "recvxXnO1iX1WbtBG",
-      "autoridad": [
-        "recGWUtviBlCaE5Sb"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1347146353030402049",
+      "fecha": "2021-01-07",
+      "ganadora": [
+        "recEvkGKDvnnyXfef"
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334659108088262656",
-      "id": 95,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334780247569539072"
+      "porcentaje": 0.706,
+      "votos": 34
     },
     {
-      "airtableId": "recw1soCpRhUrolrF",
-      "autoridad": [
-        "recbTNjwSDaY7yQPd"
+      "airtableId": "reclVPuAV2tETRf0C",
+      "autoridades": [
+        "recBLOHQvkte60G3R",
+        "recjubB7hLPwRvcsA",
+        "recvIwUlY2hrATL5k"
       ],
-      "fuente": "https://www.paginasiete.bo/seguridad/2020/11/13/jaime-mamani-es-viceministro-de-defensa-social-sustancias-controladas-274813.html",
-      "id": 17,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327370051951976449"
-    },
-    {
-      "airtableId": "recwSkxayh8vTENCO",
-      "autoridad": [
-        "rec56DlAhd0OAmVVw"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1347146356444557312",
+      "fecha": "2021-01-07",
+      "ganadora": [
+        "recBLOHQvkte60G3R"
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1338606134731698184",
-      "id": 116,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1338760107237236743"
+      "porcentaje": 0.647,
+      "votos": 34
     },
     {
-      "airtableId": "recx7fZLKkV4ISBC2",
-      "autoridad": [
-        "reccZAUFd6O8o260A"
+      "airtableId": "recmB762VarzJdtdV",
+      "autoridades": [
+        "recFZWnVB8Jnq4Cyw",
+        "recwI4QmEZKVvQjqF"
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
-      "id": 7,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051769881505792"
-    },
-    {
-      "airtableId": "recxjFapiR5PiR0uE",
-      "autoridad": [
-        "recFoxJLEFqkA27Hl"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1347146349624647681",
+      "fecha": "2021-01-07",
+      "ganadora": [
+        "recFZWnVB8Jnq4Cyw"
       ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
-      "id": 138
+      "porcentaje": 0.7809999999999999,
+      "votos": 32
     },
     {
-      "airtableId": "recyA3uNNjrdlhWvg",
-      "autoridad": [
-        "reckbIhAa5OUDtAQQ"
+      "airtableId": "recpJFtMiHK5WjCRM",
+      "autoridades": [
+        "rec5wRPq7uuQ80zwk",
+        "recTYA9zPhIKqkTWR"
       ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1342158918827565066/photo/2",
-      "id": 130,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1342587152811618304"
-    },
-    {
-      "airtableId": "recyNdwElibGOOveI",
-      "autoridad": [
-        "recdFyryO44KuY0Cg"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1345776461270159361",
+      "fecha": "2021-01-03",
+      "ganadora": [
+        "rec5wRPq7uuQ80zwk"
       ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
-      "id": 50,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330120207558438914"
+      "porcentaje": 0.788,
+      "votos": 85
     },
     {
-      "airtableId": "recyQ0KAKlLwkdEi1",
-      "autoridad": [
-        "recNvSvKxHu2ptELM"
+      "airtableId": "rectoT37hwymvZwRB",
+      "autoridades": [
+        "recVqHwXSsW7njFGk",
+        "reclNBmhSGRUmOgQ2"
       ],
-      "fuente": "https://www.lostiempos.com/actualidad/pais/20201218/ministra-trabajo-posesiona-martin-bazurco-como-viceministro-empleo-servicio",
-      "id": 120
-    },
-    {
-      "airtableId": "recyUXsh4gN7tFqKJ",
-      "autoridad": [
-        "recdMinbx2Gb9PV8h"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1349675110710583300",
+      "fecha": "2021-01-14",
+      "ganadora": [
+        "recVqHwXSsW7njFGk"
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
-      "id": 20,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328378396544561152"
+      "porcentaje": 0.75,
+      "votos": 40
     },
     {
-      "airtableId": "reczAftGj7JV0Q46O",
-      "autoridad": [
-        "recdTZnJr6vir76bu"
+      "airtableId": "recxqZ7rPza3WbLl8",
+      "autoridades": [
+        "rec5wRPq7uuQ80zwk",
+        "recMzFkbm1hX0Sdw9"
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
-      "id": 100,
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334915214555443208"
-    },
-    {
-      "airtableId": "reczhFMhmoVgSOnaI",
-      "autoridad": [
-        "rece90HbPaOkyYSyg"
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1349675114061836288",
+      "fecha": "2021-01-14",
+      "ganadora": [
+        "rec5wRPq7uuQ80zwk"
       ],
-      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
-      "id": 11,
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327095255221612545"
+      "porcentaje": 0.774,
+      "votos": 53
     }
   ],
   "personas": [
@@ -6543,6 +5489,41 @@
       "nombre": "Eliana Ampuero"
     },
     {
+      "airtableId": "rec6MGwblxLUNjP9b",
+      "autoridades": [
+        "recDrZhjvRtAwLmFZ"
+      ],
+      "fotos": [
+        {
+          "filename": "EsCp-yRXIAIlEdf.jpeg",
+          "id": "attD9FM5eejAOXvi1",
+          "size": 138219,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/26eceb36653e1b687fb92769f855df9e/57c2c83d",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/37d0c6a139168ade1a33621e4bc66837/9f032fca",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/03779547d7eeec04e811fa12c8fb4a9f/7139716d",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e7deab98b43178fcc0907044b979d765/481c1b93/EsCp-yRXIAIlEdf.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 166,
+      "nombre": "Gustavo Choque Velasquez"
+    },
+    {
       "airtableId": "rec9ADasnZ2LNlSJz",
       "autoridades": [
         "recEvkGKDvnnyXfef"
@@ -6872,6 +5853,15 @@
       "nombre": "Vladimir Terán Gutiérrez"
     },
     {
+      "airtableId": "recCEWpnu199dQ5Fc",
+      "autoridades": [
+        "recF6nOGkmqDYgr56"
+      ],
+      "genero": "Hombre",
+      "id": 163,
+      "nombre": "René Quelali Sullca"
+    },
+    {
       "airtableId": "recCFlSmnBQL70JPO",
       "autoridades": [
         "recu3JmGxYQ4wCbue"
@@ -7108,6 +6098,25 @@
       "nombre": "Ramiro Félix Villavicencio Nina Guzmán"
     },
     {
+      "airtableId": "recF9syPcYhVd3NdN",
+      "autoridades": [
+        "recB0QmQefnGRN4Bg"
+      ],
+      "fotos": [
+        {
+          "filename": "ErepUQ7XAAI-WQ4.png",
+          "id": "attCX1GejqYa5XrEY",
+          "size": 419278,
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/57a5c9e90533bad3d4bcdf4d3a0617cb/528a3e44/ErepUQ7XAAI-WQ4.png"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 159,
+      "nombre": "Huáscar Ajata Guerrero",
+      "twitter": "@HuascarAjata"
+    },
+    {
       "airtableId": "recFd6JKeUlBTUDsL",
       "autoridades": [
         "recX1WE8IK22fWJtq"
@@ -7270,6 +6279,41 @@
       "genero": "Mujer",
       "id": 122,
       "nombre": "Fátima Pacheco Domínguez"
+    },
+    {
+      "airtableId": "recGa8GHz4FOamVkO",
+      "autoridades": [
+        "recZXvyClhE8ZyTnR"
+      ],
+      "fotos": [
+        {
+          "filename": "whatsapp_image_2021-01-13_at_20.23.59.jpg",
+          "id": "attJgLzlhVgdz33C9",
+          "size": 53617,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8744bec935ce992e3d476b0a7f413377/fa42383c",
+              "width": 3000
+            },
+            "large": {
+              "height": 430,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e6facba62d9ef4e4650af40dbb02172e/ee9dbc3f",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6792c48525c6f08dfb1fb9ef6dc1ed85/d2b17e3b",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/26a4e359f98a855bf4f76b21055aa5df/afd4e9df/whatsapp_image_2021-01-13_at_20.23.59.jpg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 162,
+      "nombre": "Brenda Lafuente Fernández"
     },
     {
       "airtableId": "recGhJoEuhZb4Ea6Z",
@@ -7587,6 +6631,42 @@
       "nombre": "Álvaro Terrazas Pelaez"
     },
     {
+      "airtableId": "recJWxmAYm41RDyHy",
+      "autoridades": [
+        "recACwcLeZ4GvtZ56"
+      ],
+      "fotos": [
+        {
+          "filename": "lizondo.jpg",
+          "id": "attD3GdIB9rAFJf59",
+          "size": 40108,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/606d251a30651d1c54179ffe69874213/bedd1625",
+              "width": 3000
+            },
+            "large": {
+              "height": 424,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3eeefe2d570ba2386ed0e6aa641a3420/5ed5ecf2",
+              "width": 640
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/afcd61e158091f5fa081519b80a62216/ae0f5057",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e845ea0e2bcca94be14301416102bd64/673feda4/lizondo.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 158,
+      "nombre": "Ramiro Lizondo Díaz",
+      "twitter": "@lizondo_diaz"
+    },
+    {
       "airtableId": "recJYbe5DLEM5pctE",
       "autoridades": [
         "recBmzIpN8E5u1E84"
@@ -7801,6 +6881,42 @@
       "nombre": "Wilson Felipe Zelaya Prudencio"
     },
     {
+      "airtableId": "recKxCLyCGc40Qnyu",
+      "autoridades": [
+        "recKucP4cqTXfuGlK"
+      ],
+      "fotos": [
+        {
+          "filename": "Ministro_Rodolfo_Rocabado_en_2018.png",
+          "id": "attI9BqQZhrfeZeOJ",
+          "size": 1183356,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/afc356d571f6ab21f5784210340d053b/d5fb13a9",
+              "width": 3000
+            },
+            "large": {
+              "height": 527,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/91c62ef03286a4aaf78dd8ca3506700a/9484b53d",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/34865b4e04f5891073c854e62f5724c4/729f4bc0",
+              "width": 35
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/17cd3651f960941d0c6eedfe6efb06c6/91dbd192/Ministro_Rodolfo_Rocabado_en_2018.png"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 161,
+      "nombre": "Rodolfo Edmundo Rocabado Benavides",
+      "twitter": "@RocabadoRodolfo"
+    },
+    {
       "airtableId": "recL3JA7DfgfUGheq",
       "autoridades": [
         "recLKMNtltqIdauK9"
@@ -7940,6 +7056,41 @@
       "genero": "Hombre",
       "id": 2,
       "nombre": "Mario Cazón Morales"
+    },
+    {
+      "airtableId": "recNhL1whY1bDIPT3",
+      "autoridades": [
+        "recJf32eqxJfnW6xE"
+      ],
+      "fotos": [
+        {
+          "filename": "nota_13-01-2021.jpeg",
+          "id": "attPTxYqV395sdzcS",
+          "size": 180542,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3ce1702fd13f5b95e4dad3f5316a4dec/8e1abfdf",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/41c9d20158fa8d7858ea9bf20c4ddc52/73002bf7",
+              "width": 1067
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/89d72a3e014752ef3d08a4a2d87a9999/d37aedfc",
+              "width": 75
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/4101c9eee333bcf41b631731eaf07a2d/088d320d/nota_13-01-2021.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 160,
+      "nombre": "Alejandro Gallardo Baldiviezo"
     },
     {
       "airtableId": "recNhlyr9d3lIDwxo",
@@ -8978,6 +8129,41 @@
       "nombre": "Jaime Alberto Zabala Saldías"
     },
     {
+      "airtableId": "recb0LCo4Myc56EfB",
+      "autoridades": [
+        "recNsj89xBrqIj1BJ"
+      ],
+      "fotos": [
+        {
+          "filename": "Er4W18pXEAUEnvC.jpeg",
+          "id": "attzmYMpUiRvlW3Vx",
+          "size": 93296,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/def9b96040f4794e3016a32c774413a9/742108bb",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bbcaba02aea597e7cd9f109c3bd44b93/df94346c",
+              "width": 994
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f3c0f92b4a25ae11acfc51b6bf3305d9/55e89314",
+              "width": 70
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7fcbce9c7d37e23e311b29305879a4b2/4555eca2/Er4W18pXEAUEnvC.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 165,
+      "nombre": "Juan Miguel Quiroz Ugarte"
+    },
+    {
       "airtableId": "recbkj48y6kQGz0VH",
       "autoridades": [
         "recMUSBgn2xEhfAry"
@@ -9011,6 +8197,42 @@
       "genero": "Hombre",
       "id": 140,
       "nombre": "Víctor Hugo Aguilar Frías"
+    },
+    {
+      "airtableId": "recbwbpjWBawiPSWo",
+      "autoridades": [
+        "recVy6qaqPBhY2yLs"
+      ],
+      "fotos": [
+        {
+          "filename": "Er3He3MXYAIc_5S.jpeg",
+          "id": "attw36dgAgSfNWzrJ",
+          "size": 16576,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/73255f46e0bae409ff924727fcf4275d/a2ac88e3",
+              "width": 3000
+            },
+            "large": {
+              "height": 430,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ead92b577435b1f024faf7ee30a2d970/dad5eb79",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/387f6bdad93c734d19e5cfa01cf7ff64/d91cdaee",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/739deefac1aa114b75c1d97b215c881f/a7076a67/Er3He3MXYAIc_5S.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 164,
+      "nombre": "Jeyson Marcos Auza Pinto",
+      "twitter": "@JeysonAuza"
     },
     {
       "airtableId": "recc2GMMuWkeggJne",
@@ -10978,7 +10200,8 @@
       ],
       "genero": "Hombre",
       "id": 98,
-      "nombre": "Néstor Huanca Chura"
+      "nombre": "Néstor Huanca Chura",
+      "twitter": "@Nestor_HuancaCh"
     },
     {
       "airtableId": "recrMkdSiitCWddr8",
