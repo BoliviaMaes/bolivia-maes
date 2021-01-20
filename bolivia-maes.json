@@ -1817,6 +1817,20 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1328782274796675074"
     },
     {
+      "airtableId": "recinShBhg8QirJVY",
+      "cargo": "Viceministro de Ciencia y Tecnología",
+      "desde": "2021-01-20",
+      "entidad": [
+        "recfvSAN61eccC1M4"
+      ],
+      "fuente": "https://www.minedu.gob.bo/index.php?option=com_content&view=article&id=4787&catid=182&Itemid=854",
+      "id": 174,
+      "persona": [
+        "rechYcrp3RgkUuuTk"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1351947057653805057"
+    },
+    {
       "airtableId": "recio0kFx9eRUaPRg",
       "cargo": "Director General Ejecutivo del Senape (Servicio Nacional de Patrimonio del Estado)",
       "desde": "2020-11-20",
@@ -3800,6 +3814,20 @@
       "sigla": "Digemig",
       "tipo": "Otro",
       "twitter": "@MIGRACION_BOL"
+    },
+    {
+      "airtableId": "recfvSAN61eccC1M4",
+      "autoridades": [
+        "recinShBhg8QirJVY"
+      ],
+      "dependencia": [
+        "recsuCxQwrF93G855"
+      ],
+      "id": 161,
+      "nombre": "Viceministerio de Ciencia y Tecnología",
+      "sigla": "VCyT",
+      "tipo": "Viceministerio",
+      "webpage": "https://www.minedu.gob.bo/index.php?option=com_djmediatools&id=61&Itemid=949"
     },
     {
       "airtableId": "recgGEx0KyYdUyTBv",
@@ -9128,6 +9156,41 @@
       "genero": "Hombre",
       "id": 112,
       "nombre": "Grover Lacoa"
+    },
+    {
+      "airtableId": "rechYcrp3RgkUuuTk",
+      "autoridades": [
+        "recinShBhg8QirJVY"
+      ],
+      "fotos": [
+        {
+          "filename": "POSESION_VICE_2.jpg",
+          "id": "att1Mb31S3kX4yYGk",
+          "size": 205656,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/497b6d8f2755e43bba85d23971edf8db/21791fa0",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2b66cb4971a890b9b8dec39fe5b7b540/c42d0906",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e486167a3323acc17530982e3c34f9ca/ad714987",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/30edf85ccb24f51763944a814c0e3a5e/23865a6e/POSESION_VICE_2.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 167,
+      "nombre": "Julio Gómez Chambilla"
     },
     {
       "airtableId": "rechmOHlgBvVrqfje",
