@@ -430,10 +430,12 @@
       "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 100,
       "partidos": [
-        "reclVPuAV2tETRf0C"
+        "reclVPuAV2tETRf0C",
+        "rec5AqNtKpgxTZDWY"
       ],
       "partidos 2": [
-        "reclVPuAV2tETRf0C"
+        "reclVPuAV2tETRf0C",
+        "rec5AqNtKpgxTZDWY"
       ],
       "persona": [
         "recowTH44QeVjL2FS"
@@ -631,7 +633,8 @@
       "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 94,
       "partidos": [
-        "reccCxR3JMr18dzeQ"
+        "reccCxR3JMr18dzeQ",
+        "rec5AqNtKpgxTZDWY"
       ],
       "partidos 2": [
         "reccCxR3JMr18dzeQ"
@@ -678,7 +681,8 @@
       "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 95,
       "partidos": [
-        "recmB762VarzJdtdV"
+        "recmB762VarzJdtdV",
+        "recLLV6mgIwvCXaqc"
       ],
       "partidos 2": [
         "recmB762VarzJdtdV"
@@ -2052,10 +2056,12 @@
       "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "id": 97,
       "partidos": [
-        "recaI04Gy5AjHN4NN"
+        "recaI04Gy5AjHN4NN",
+        "recLLV6mgIwvCXaqc"
       ],
       "partidos 2": [
-        "recaI04Gy5AjHN4NN"
+        "recaI04Gy5AjHN4NN",
+        "recLLV6mgIwvCXaqc"
       ],
       "persona": [
         "recRBg10aSpKl8ve9"
@@ -4568,6 +4574,20 @@
       "votos": 37
     },
     {
+      "airtableId": "rec5AqNtKpgxTZDWY",
+      "autoridades": [
+        "recEvkGKDvnnyXfef",
+        "recBLOHQvkte60G3R"
+      ],
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1351135044266549252",
+      "fecha": "2021-01-18",
+      "ganadora": [
+        "recBLOHQvkte60G3R"
+      ],
+      "porcentaje": 0.743,
+      "votos": 70
+    },
+    {
       "airtableId": "recJQv8if7Ai5KPdz",
       "autoridades": [
         "recVqHwXSsW7njFGk",
@@ -4580,6 +4600,20 @@
       ],
       "porcentaje": 0.784,
       "votos": 51
+    },
+    {
+      "airtableId": "recLLV6mgIwvCXaqc",
+      "autoridades": [
+        "recoTcA6Jf19g7xAj",
+        "recFZWnVB8Jnq4Cyw"
+      ],
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1351135040521043974",
+      "fecha": "2021-01-18",
+      "ganadora": [
+        "recoTcA6Jf19g7xAj"
+      ],
+      "porcentaje": 0.68,
+      "votos": 50
     },
     {
       "airtableId": "recZBk2t4i2TCC2sg",
