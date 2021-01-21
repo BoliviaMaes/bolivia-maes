@@ -753,7 +753,7 @@
     },
     {
       "airtableId": "recGjZ4pHLW99leYG",
-      "cargo": "Director de la CPS (Caja Petrolera de Salud)",
+      "cargo": "Director General Ejecutivo de la CPS (Caja Petrolera de Salud)",
       "desde": "2021-01-06",
       "entidad": [
         "recIEMmzfEEwLBuLK"
@@ -1252,6 +1252,20 @@
         "recuTITBJS29xN8R6"
       ],
       "tweet": "https://twitter.com/BoliviaMaes/status/1344026642914676736"
+    },
+    {
+      "airtableId": "recU4ALC4x9hJsnIW",
+      "cargo": "Presidenta del Directorio de la CPS (Caja Petrolera de Salud)",
+      "desde": "2021-01-20",
+      "entidad": [
+        "recIEMmzfEEwLBuLK"
+      ],
+      "fuente": "https://twitter.com/SaludDeportesBo/status/1351995939398049811",
+      "id": 175,
+      "persona": [
+        "recnSuGeQDBkQMPMv"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1352171591602491393"
     },
     {
       "airtableId": "recUSllXbQygt0xi3",
@@ -2937,7 +2951,8 @@
     {
       "airtableId": "recIEMmzfEEwLBuLK",
       "autoridades": [
-        "recGjZ4pHLW99leYG"
+        "recGjZ4pHLW99leYG",
+        "recU4ALC4x9hJsnIW"
       ],
       "dependencia": [
         "recuomBcP9OFzwKQi"
@@ -2946,7 +2961,8 @@
       "nombre": "Caja Petrolera de Salud",
       "sigla": "CPS",
       "tipo": "Caja de Salud",
-      "twitter": "@CajaPetroleraBO"
+      "twitter": "@CajaPetroleraBO",
+      "webpage": "https://www.cps.org.bo/"
     },
     {
       "airtableId": "recINHhColXLVHKEP",
@@ -9946,6 +9962,41 @@
       "genero": "Mujer",
       "id": 63,
       "nombre": "Rodney Cristina Pérez Choque"
+    },
+    {
+      "airtableId": "recnSuGeQDBkQMPMv",
+      "autoridades": [
+        "recU4ALC4x9hJsnIW"
+      ],
+      "fotos": [
+        {
+          "filename": "342007.jpg",
+          "id": "attI9NQNCyw2fNkCv",
+          "size": 303980,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f881780eb0fa75044ae93333303c5612/ad5c4e47",
+              "width": 3000
+            },
+            "large": {
+              "height": 684,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a71091c1a26e0bba6867f12b2e266d35/f75b6331",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dc9f7018f7a4842c8f81efba79fa15e4/daf4641f",
+              "width": 27
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/51c6a8fd97fb8fd56a7325f475c7cc69/97ab06d5/342007.jpg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 168,
+      "nombre": "Nila Heredia Miranda"
     },
     {
       "airtableId": "recnbqJsmoq3KgdNC",
