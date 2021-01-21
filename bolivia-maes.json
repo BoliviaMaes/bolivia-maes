@@ -442,6 +442,20 @@
       ]
     },
     {
+      "airtableId": "recBll6L1jkC5F2tA",
+      "cargo": "Director a.i. del Banco Central de Bolivia",
+      "desde": "2021-01-21",
+      "entidad": [
+        "recktwUPUvekQd9ZL"
+      ],
+      "fuente": "https://twitter.com/BancoCentralBO/status/1352357665863774214",
+      "id": 176,
+      "persona": [
+        "recaIrNbCpXJvWawL"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1352362748961816584"
+    },
+    {
       "airtableId": "recBmzIpN8E5u1E84",
       "cargo": "Embajador Extraordinario y Plenipotenciario de Bolivia ante la ONU",
       "desde": "2020-11-19",
@@ -1552,9 +1566,13 @@
         "recktwUPUvekQd9ZL"
       ],
       "fuente": "http://erbol.com.bo/nacional/edwin-rojas-ulo-jura-como-nuevo-presidente-del-banco-central-de-bolivia",
+      "hasta": "2021-01-21",
       "id": 4,
       "persona": [
         "recicwAiTbRm2lLHI"
+      ],
+      "sucesora": [
+        "recBll6L1jkC5F2tA"
       ],
       "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327048145554051083"
     },
@@ -2459,6 +2477,20 @@
         "recHNCNB4ZUzm6ylG"
       ],
       "tweet": "https://twitter.com/BoliviaMaes/status/1330024810269827072"
+    },
+    {
+      "airtableId": "reczrg1dR9q43vvUw",
+      "cargo": "Director General Ejecutivo de la Adecine (Agencia del Desarrollo del Cine y Audiovisual Bolivianos)",
+      "desde": "2021-01-21",
+      "entidad": [
+        "recLAw2UDIMgvko2j"
+      ],
+      "fuente": "https://www.opinion.com.bo/articulo/cultura/german-monje-asume-direccion-adecine/20210121152450804738.html",
+      "id": 177,
+      "persona": [
+        "recfES3RW9RcokTet"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1352368384432885761"
     }
   ],
   "entidades": [
@@ -3066,6 +3098,21 @@
       "sigla": "MOPSV",
       "tipo": "Ministerio",
       "twitter": "@mopsv_Bolivia"
+    },
+    {
+      "airtableId": "recLAw2UDIMgvko2j",
+      "autoridades": [
+        "reczrg1dR9q43vvUw"
+      ],
+      "dependencia": [
+        "recWshaodYECp899M"
+      ],
+      "id": 163,
+      "nombre": "Agencia del Desarrollo del Cine y Audiovisual Bolivianos",
+      "sigla": "Adecine",
+      "tipo": "Otro",
+      "twitter": "@adecinebolivia",
+      "webpage": "http://adecine.com"
     },
     {
       "airtableId": "recLL6oSqrudYT1U2",
@@ -3999,7 +4046,8 @@
     {
       "airtableId": "recktwUPUvekQd9ZL",
       "autoridades": [
-        "recaAU4C3yRFrXdm8"
+        "recaAU4C3yRFrXdm8",
+        "recBll6L1jkC5F2tA"
       ],
       "dependencia": [
         "recDI8RDjX6z76J0n"
@@ -4008,7 +4056,8 @@
       "nombre": "Banco Central de Bolivia",
       "sigla": "BCB",
       "tipo": "Otro",
-      "twitter": "@BancoCentralBO"
+      "twitter": "@BancoCentralBO",
+      "webpage": "https://www.bcb.gob.bo/"
     },
     {
       "airtableId": "reckylkCbOWHloSBG",
@@ -8101,6 +8150,41 @@
       "nombre": "Sandra Cruz Nina"
     },
     {
+      "airtableId": "recaIrNbCpXJvWawL",
+      "autoridades": [
+        "recBll6L1jkC5F2tA"
+      ],
+      "fotos": [
+        {
+          "filename": "gabriel-herbas.jpg",
+          "id": "attdZD8eJvlO1dx9d",
+          "size": 60669,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4d0fe7b82a8eb7f5abdaf19e46077260/064c3c70",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3a8135942ecbb774e03a664e3040f820/1578e2b1",
+              "width": 803
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7a3cefa56213b28d268d1eea0c07583e/54a13838",
+              "width": 56
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/099447ca6c0df27860792674feb05926/f129f385/gabriel-herbas.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 169,
+      "nombre": "Gabriel Herbas Camacho"
+    },
+    {
       "airtableId": "recaJh7mY8lPsaWrO",
       "autoridades": [
         "recvIwUlY2hrATL5k"
@@ -8795,6 +8879,41 @@
       "genero": "Mujer",
       "id": 6,
       "nombre": "Miriam Julieta Huacani Zapana"
+    },
+    {
+      "airtableId": "recfES3RW9RcokTet",
+      "autoridades": [
+        "reczrg1dR9q43vvUw"
+      ],
+      "fotos": [
+        {
+          "filename": "Screenshot_2021-01-21 2021012115240515975 jpg (Image JPEG, 1280 × 720 pixels).png",
+          "id": "attqAwYh8MZfbPog5",
+          "size": 896165,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/77fd6597321b11ea912aefc89ac6fcd6/f71228f5",
+              "width": 3000
+            },
+            "large": {
+              "height": 587,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4da1adc80ca171cde393e6662207a39a/615117d7",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2b5e60024a97816eda2b64ab32ad459d/f45b0805",
+              "width": 31
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/959a9da12b71ae6f1e1cd29d6523dae6/ccc8bb7d/Screenshot_2021-01-212021012115240515975jpgImageJPEG1280720pixels.png"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 170,
+      "nombre": "Germán Hormando Monje Portugal"
     },
     {
       "airtableId": "recfIzz7Vk4BIPaSy",
