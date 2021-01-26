@@ -1,6 +1,20 @@
 {
   "autoridades": [
     {
+      "airtableId": "rec05KWuI1tyGzBcv",
+      "cargo": "Director Nacional Ejecutivo del Senari (Servicio Nacional de Riego)",
+      "desde": "2021-01-26",
+      "entidad": [
+        "recnxKblV4w9SGINS"
+      ],
+      "fuente": "https://twitter.com/AmbienteyAgua/status/1354116086611013632",
+      "id": 178,
+      "persona": [
+        "recfRyBBnFI0GEGrc"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1354134351362068490"
+    },
+    {
       "airtableId": "rec0CQh9oVK9ol8x4",
       "cargo": "Responsable Interino de Radio Illimani - Red Patria Nueva",
       "desde": "2020-11-30",
@@ -4146,6 +4160,21 @@
       "sigla": "MMM",
       "tipo": "Ministerio",
       "twitter": "@minmineriabo"
+    },
+    {
+      "airtableId": "recnxKblV4w9SGINS",
+      "autoridades": [
+        "rec05KWuI1tyGzBcv"
+      ],
+      "dependencia": [
+        "recTV9hdUCYs4u19T"
+      ],
+      "id": 164,
+      "nombre": "Servicio Nacional de Riego",
+      "sigla": "Senari",
+      "tipo": "Otro",
+      "twitter": "@senaribolivia",
+      "webpage": "http://www.senari.gob.bo/"
     },
     {
       "airtableId": "recnyahLF1rpTeWfT",
@@ -9052,6 +9081,42 @@
       "genero": "Hombre",
       "id": 46,
       "nombre": "Humberto Arandia Claure"
+    },
+    {
+      "airtableId": "recfRyBBnFI0GEGrc",
+      "autoridades": [
+        "rec05KWuI1tyGzBcv"
+      ],
+      "fotos": [
+        {
+          "filename": "EsrJZ3fXEAAKDXw.jpeg",
+          "id": "attgIVmtJRje8tffT",
+          "size": 167215,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1407874447a4168db2363fb768eb17a0/ed684323",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/26465aac2703685ab1d23e31ef2add44/37ac6561",
+              "width": 774
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e128ce7bda5b53c2e75732c98274892c/76308f73",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a04eaf6b88b1c4535f8c0f847e0dec21/66b70615/EsrJZ3fXEAAKDXw.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 171,
+      "nombre": "Rodo Condori Benavidez",
+      "twitter": "@BenavidezRodo"
     },
     {
       "airtableId": "recfU0rLEmQ7mxUGg",
