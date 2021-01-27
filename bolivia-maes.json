@@ -2434,6 +2434,20 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1339336010438729730"
     },
     {
+      "airtableId": "recyN9Zyzuo8Kdt7D",
+      "cargo": "Gerente Ejecutivo de la ASP-B (Administración de Servicios Portuarios – Bolivia)",
+      "desde": "2021-01-27",
+      "entidad": [
+        "recwHnEZ1S127zw8X"
+      ],
+      "fuente": "https://twitter.com/ASPBolivia/status/1354519477203980289",
+      "id": 179,
+      "persona": [
+        "rec8BCq9dPjAMoYFG"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1354543164099588107"
+    },
+    {
       "airtableId": "recygYart4WLzcsLO",
       "cargo": "Director Ejecutivo de la UPRE (Unidad de Proyectos Especiales)",
       "desde": "2020-11-20",
@@ -4508,6 +4522,21 @@
       "tipo": "Viceministerio"
     },
     {
+      "airtableId": "recwHnEZ1S127zw8X",
+      "autoridades": [
+        "recyN9Zyzuo8Kdt7D"
+      ],
+      "dependencia": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "id": 165,
+      "nombre": "Administración de Servicios Portuarios – Bolivia",
+      "sigla": "ASP-B",
+      "tipo": "Otro",
+      "twitter": "@ASPBolivia",
+      "webpage": "https://www.aspb.gob.bo/"
+    },
+    {
       "airtableId": "recwqL9u3uLwcmRPz",
       "autoridades": [
         "reczFB7WODjnPoXWd"
@@ -5674,6 +5703,42 @@
       "genero": "Hombre",
       "id": 166,
       "nombre": "Gustavo Choque Velasquez"
+    },
+    {
+      "airtableId": "rec8BCq9dPjAMoYFG",
+      "autoridades": [
+        "recyN9Zyzuo8Kdt7D"
+      ],
+      "fotos": [
+        {
+          "filename": "Esw3nkOXAAIxAjE.jpeg",
+          "id": "att7jG53KU3T5usrG",
+          "size": 376251,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f3781bac1f5eaf92d76b126f0cdf0f1a/46a437b2",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ce46bff461cdc3d77404784ed8ecad6a/21c89ab9",
+              "width": 731
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/417c7685e1ab2c0d85236e165722af73/5b061ec3",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e0604b6b219dff30babc409f74d4c79c/52ac8f8e/Esw3nkOXAAIxAjE.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 172,
+      "nombre": "Dante Fedor Justiniano Segales",
+      "twitter": "@DanteJuSegales"
     },
     {
       "airtableId": "rec9ADasnZ2LNlSJz",
