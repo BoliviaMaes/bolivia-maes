@@ -1431,6 +1431,20 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1341039574613700614"
     },
     {
+      "airtableId": "recWNRaCrJjhDkBXc",
+      "cargo": "Viceministro de Transporte",
+      "desde": "2021-01-29",
+      "entidad": [
+        "recr3vmAdQXEDEoeq"
+      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1355266119028903938",
+      "id": 180,
+      "persona": [
+        "recv7yWjQR16il13X"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1355276101707300866"
+    },
+    {
       "airtableId": "recX06mvBnhnpOGdO",
       "cargo": "Viceministro de Cooperativas Mineras",
       "desde": "2020-11-21",
@@ -4307,6 +4321,20 @@
       "id": 49,
       "nombre": "Viceministerio de Desarrollo Productivo Minero",
       "tipo": "Viceministerio"
+    },
+    {
+      "airtableId": "recr3vmAdQXEDEoeq",
+      "autoridades": [
+        "recWNRaCrJjhDkBXc"
+      ],
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 166,
+      "nombre": "Viceministerio de Transporte",
+      "sigla": "VT",
+      "tipo": "Viceministerio",
+      "webpage": "https://www.oopp.gob.bo/category/transporte/"
     },
     {
       "airtableId": "recrEl2V8GSxaSshp",
@@ -10841,6 +10869,65 @@
       "genero": "Hombre",
       "id": 147,
       "nombre": "Agustín Cahuana Choque"
+    },
+    {
+      "airtableId": "recv7yWjQR16il13X",
+      "autoridades": [
+        "recWNRaCrJjhDkBXc"
+      ],
+      "fotos": [
+        {
+          "filename": "Es7gIEsXAAkmLpO.jpeg",
+          "id": "attv1wqJK1nhIKTFC",
+          "size": 85564,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6a1be53736d609f7efbf96f8748f16c4/c1179c84",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6555a2f9fe39d48df66ad594c44f0f2c/35fc810a",
+              "width": 706
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/186ef7cc0c8055320a4860313ba7523b/723db7e8",
+              "width": 50
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b21eff5a9c62016a022e297b5a2b3eef/49deffe9/Es7gIEsXAAkmLpO.jpeg"
+        },
+        {
+          "filename": "herbas.jpg",
+          "id": "attmz42LC7VTzArw3",
+          "size": 10040,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e2252f36876f071d411b093e6024b423/c2fd747b",
+              "width": 3000
+            },
+            "large": {
+              "height": 316,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2ff0c804ad36f13ea0ec6088310ce96e/08eb0e9c",
+              "width": 330
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3bd6262c1b76319306ba7dfdb87deca1/b03cb201",
+              "width": 38
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/8aa1d96a183ed481d371f2448cd0525b/2a1ee3fc/herbas.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 173,
+      "nombre": "Nino Saúl Herbas Pérez"
     },
     {
       "airtableId": "recvquQEEyTTqkg71",
