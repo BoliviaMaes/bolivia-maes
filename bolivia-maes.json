@@ -196,11 +196,13 @@
       "id": 90,
       "partidos": [
         "recpJFtMiHK5WjCRM",
-        "recxqZ7rPza3WbLl8"
+        "recxqZ7rPza3WbLl8",
+        "recD6gsGHuplnOE6T"
       ],
       "partidos 2": [
         "recpJFtMiHK5WjCRM",
-        "recxqZ7rPza3WbLl8"
+        "recxqZ7rPza3WbLl8",
+        "recD6gsGHuplnOE6T"
       ],
       "persona": [
         "recTqN5HabIGCRU4U"
@@ -445,11 +447,13 @@
       "id": 100,
       "partidos": [
         "reclVPuAV2tETRf0C",
-        "rec5AqNtKpgxTZDWY"
+        "rec5AqNtKpgxTZDWY",
+        "rec0qJACw7JIEkVWS"
       ],
       "partidos 2": [
         "reclVPuAV2tETRf0C",
-        "rec5AqNtKpgxTZDWY"
+        "rec5AqNtKpgxTZDWY",
+        "rec0qJACw7JIEkVWS"
       ],
       "persona": [
         "recowTH44QeVjL2FS"
@@ -1392,7 +1396,8 @@
       "id": 89,
       "partidos": [
         "recJQv8if7Ai5KPdz",
-        "rectoT37hwymvZwRB"
+        "rectoT37hwymvZwRB",
+        "recD6gsGHuplnOE6T"
       ],
       "partidos 2": [
         "recJQv8if7Ai5KPdz",
@@ -2127,7 +2132,8 @@
       "id": 97,
       "partidos": [
         "recaI04Gy5AjHN4NN",
-        "recLLV6mgIwvCXaqc"
+        "recLLV6mgIwvCXaqc",
+        "rec0qJACw7JIEkVWS"
       ],
       "partidos 2": [
         "recaI04Gy5AjHN4NN",
@@ -4749,6 +4755,20 @@
       "votos": 37
     },
     {
+      "airtableId": "rec0qJACw7JIEkVWS",
+      "autoridades": [
+        "recoTcA6Jf19g7xAj",
+        "recBLOHQvkte60G3R"
+      ],
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1355122097828327426",
+      "fecha": "2021-01-29",
+      "ganadora": [
+        "recBLOHQvkte60G3R"
+      ],
+      "porcentaje": 0.6759999999999999,
+      "votos": 74
+    },
+    {
       "airtableId": "rec5AqNtKpgxTZDWY",
       "autoridades": [
         "recEvkGKDvnnyXfef",
@@ -4761,6 +4781,20 @@
       ],
       "porcentaje": 0.743,
       "votos": 70
+    },
+    {
+      "airtableId": "recD6gsGHuplnOE6T",
+      "autoridades": [
+        "recVqHwXSsW7njFGk",
+        "rec5wRPq7uuQ80zwk"
+      ],
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1355122094468640770",
+      "fecha": "2021-01-29",
+      "ganadora": [
+        "rec5wRPq7uuQ80zwk"
+      ],
+      "porcentaje": 0.809,
+      "votos": 115
     },
     {
       "airtableId": "recJQv8if7Ai5KPdz",
