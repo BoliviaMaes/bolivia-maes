@@ -600,6 +600,20 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1328731538125623297"
     },
     {
+      "airtableId": "recDKRgFdOwircwH0",
+      "cargo": "Presidente Ejecutivo Interino de la Comibol (Corporación Minera de Bolivia)",
+      "desde": "2021-02-01",
+      "entidad": [
+        "recGd2bkKqbHilBs8"
+      ],
+      "fuente": "https://twitter.com/BocaminaCOMIBOL/status/1356365865936150532",
+      "id": 182,
+      "persona": [
+        "recSouprA8gofGOYN"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1356609179033759745"
+    },
+    {
       "airtableId": "recDrZhjvRtAwLmFZ",
       "cargo": "Presidente Ejecutivo Interino de la ESM (Empresa Siderúrgica del Mutún)",
       "desde": "2021-01-18",
@@ -2936,6 +2950,9 @@
     },
     {
       "airtableId": "recGd2bkKqbHilBs8",
+      "autoridades": [
+        "recDKRgFdOwircwH0"
+      ],
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
@@ -7699,6 +7716,65 @@
       "genero": "Hombre",
       "id": 5,
       "nombre": "César Adalid Siles Bazán"
+    },
+    {
+      "airtableId": "recSouprA8gofGOYN",
+      "autoridades": [
+        "recDKRgFdOwircwH0"
+      ],
+      "fotos": [
+        {
+          "filename": "EtLIIQHXUAEHSJA.jpeg",
+          "id": "attK7qMujpwQcWxIt",
+          "size": 154018,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1e02650c9bba65162713418e1ecb42a1/e85b500d",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e009ebb1ebbe1e7a94505c91c6db0aed/92a79f19",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0c20721e89aaf97cc6f220b987ce35e1/eb4feeb0",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/81322c1042e9e1a02bcef5da801b7c95/c730c5d4/EtLIIQHXUAEHSJA.jpeg"
+        },
+        {
+          "filename": "484972.jpg",
+          "id": "attEPUlnv734LgXBg",
+          "size": 21456,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0a38c38e6d576c542998137bc776f040/dab44e6d",
+              "width": 3000
+            },
+            "large": {
+              "height": 327,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c51f331f7027bc85fce01af1ddc34cbd/175ba39b",
+              "width": 226
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9b28b7bf31699060e3624dbe051a09fc/0c853b15",
+              "width": 25
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/37d11653509ee0c8a7f231ba5646f31e/6189c505/484972.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 174,
+      "nombre": "Eugenio Mendoza Tapia"
     },
     {
       "airtableId": "recTFlT7EVPxbCL8Z",
