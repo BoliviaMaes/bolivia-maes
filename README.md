@@ -6,7 +6,8 @@ El archivo JSON [bolivia-maes.json](./bolivia-maes.json) contiene los datos publ
 
 ## Usan los datos de @BoliviaMaes
 
-El proyecto siguiente utiliza los datos de @BoliviaMaes:
+Los proyectos siguientes, por [Mau Foronda](https://twitter.com/mauforonda), utilizan los datos de @BoliviaMaes:
 
-- "Designaciones por género y fecha, y una tabla con todos los datos", por [Mau Foronda](https://twitter.com/mauforonda): [proyecto](https://gist.github.com/mauforonda/c7064e7ddbb54b680545a0bc40a737c7), [tweet](https://twitter.com/mauforonda/status/1335110043105161218)
-
+- "Designaciones por género y fecha, y una tabla con todos los datos": [proyecto](https://gist.github.com/mauforonda/c7064e7ddbb54b680545a0bc40a737c7), [tweet](https://twitter.com/mauforonda/status/1335110043105161218)
+- Lista Twitter de cuentas de autoridades: https://twitter.com/i/lists/1342655206727815168
+- Lista Twitter de cuentas de entidades: https://twitter.com/i/lists/1342655444289019904
