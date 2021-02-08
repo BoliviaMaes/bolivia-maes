@@ -1070,6 +1070,19 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1340056464065503233"
     },
     {
+      "airtableId": "recOEV6eN7aVW3Ncg",
+      "cargo": "Director Nacional Interino del INRA (Instituto Nacional de Reforma Agraria)",
+      "desde": "2021-02-08",
+      "entidad": [
+        "recnMVBZ5qClj0H5c"
+      ],
+      "fuente": "https://www.abi.bo/#/noticia/1257",
+      "id": 184,
+      "persona": [
+        "recX7OAdbzGL72G5o"
+      ]
+    },
+    {
       "airtableId": "recOHTGaroips2zuH",
       "cargo": "Director Ejecutivo del Senarecom (Servicio Nacional de Registro y Control de la Comercialización de Minerales y Metales)",
       "desde": "2020-12-22",
@@ -4197,6 +4210,21 @@
       "id": 20,
       "nombre": "Estado Mayor de las Fuerzas Armadas",
       "tipo": "Otro"
+    },
+    {
+      "airtableId": "recnMVBZ5qClj0H5c",
+      "autoridades": [
+        "recOEV6eN7aVW3Ncg"
+      ],
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "id": 167,
+      "nombre": "Instituto Nacional de Reforma Agraria",
+      "sigla": "INRA",
+      "tipo": "Otro",
+      "twitter": "@INRA_Nacional",
+      "webpage": "http://www.inra.gob.bo"
     },
     {
       "airtableId": "recnjo1nbKW3JKsVr",
@@ -8094,6 +8122,15 @@
       "id": 108,
       "nombre": "Roger Cruz Pinedo",
       "twitter": "@rogercruzpined1"
+    },
+    {
+      "airtableId": "recX7OAdbzGL72G5o",
+      "autoridades": [
+        "recOEV6eN7aVW3Ncg"
+      ],
+      "genero": "Hombre",
+      "id": 175,
+      "nombre": "Elogio Núñez Aramayo"
     },
     {
       "airtableId": "recXGuvR23HSVcOUY",
