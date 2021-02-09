@@ -197,12 +197,14 @@
       "partidos": [
         "recpJFtMiHK5WjCRM",
         "recxqZ7rPza3WbLl8",
-        "recD6gsGHuplnOE6T"
+        "recD6gsGHuplnOE6T",
+        "rec3PFLxuiqGYf5vo"
       ],
       "partidos 2": [
         "recpJFtMiHK5WjCRM",
         "recxqZ7rPza3WbLl8",
-        "recD6gsGHuplnOE6T"
+        "recD6gsGHuplnOE6T",
+        "rec3PFLxuiqGYf5vo"
       ],
       "persona": [
         "recTqN5HabIGCRU4U"
@@ -448,7 +450,8 @@
       "partidos": [
         "reclVPuAV2tETRf0C",
         "rec5AqNtKpgxTZDWY",
-        "rec0qJACw7JIEkVWS"
+        "rec0qJACw7JIEkVWS",
+        "rec3PFLxuiqGYf5vo"
       ],
       "partidos 2": [
         "reclVPuAV2tETRf0C",
@@ -4813,6 +4816,20 @@
       ],
       "porcentaje": 0.6759999999999999,
       "votos": 74
+    },
+    {
+      "airtableId": "rec3PFLxuiqGYf5vo",
+      "autoridades": [
+        "rec5wRPq7uuQ80zwk",
+        "recBLOHQvkte60G3R"
+      ],
+      "encuesta": "https://twitter.com/BoliviaMaes/status/1358431514233606146",
+      "fecha": "2021-02-07",
+      "ganadora": [
+        "rec5wRPq7uuQ80zwk"
+      ],
+      "porcentaje": 0.5710000000000001,
+      "votos": 1486
     },
     {
       "airtableId": "rec5AqNtKpgxTZDWY",
