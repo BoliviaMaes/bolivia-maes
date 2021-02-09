@@ -2277,6 +2277,20 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1334217316100399109"
     },
     {
+      "airtableId": "recqdAJXC3pUDevXt",
+      "cargo": "Director General Ejecutivo de la Agencia Boliviana de Correos",
+      "desde": "2021-02-09",
+      "entidad": [
+        "recRCAJdtvWF1CclO"
+      ],
+      "fuente": "https://twitter.com/mopsv_Bolivia/status/1359242473999118338",
+      "id": 185,
+      "persona": [
+        "recnE1HZmt64VzhuO"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1359244277394649091"
+    },
+    {
       "airtableId": "recrJYbjvZmSRCnEg",
       "cargo": "Gerente General de la Gestora Pública de la Seguridad Social de Largo Plazo",
       "desde": "2020-11-25",
@@ -3417,6 +3431,21 @@
       "nombre": "Radio de los Pueblos Originarios",
       "sigla": "RPO",
       "tipo": "Otro"
+    },
+    {
+      "airtableId": "recRCAJdtvWF1CclO",
+      "autoridades": [
+        "recqdAJXC3pUDevXt"
+      ],
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 168,
+      "nombre": "Agencia Boliviana de Correos",
+      "sigla": "Correos",
+      "tipo": "Otro",
+      "twitter": "@AGBCorreos",
+      "webpage": "https://www.correos.gob.bo/"
     },
     {
       "airtableId": "recRguDgEmLtlL1Sc",
@@ -10401,6 +10430,66 @@
       "genero": "Mujer",
       "id": 63,
       "nombre": "Rodney Cristina Pérez Choque"
+    },
+    {
+      "airtableId": "recnE1HZmt64VzhuO",
+      "autoridades": [
+        "recqdAJXC3pUDevXt"
+      ],
+      "fotos": [
+        {
+          "filename": "index.jpeg",
+          "id": "attUuJi0JiBQQKG9Y",
+          "size": 4994,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/706ba029cfb7bd2d7371bc2ba3a1608b/0d6ae6c4",
+              "width": 3000
+            },
+            "large": {
+              "height": 225,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b782cefbdafd0dfcd5e1d0100fafe67e/81bc9233",
+              "width": 225
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0310fc0336a9e578d4e1640a39842037/de62b755",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/d4a0690323ff93efafa19e8fd464d495/e7691f8e/index.jpeg"
+        },
+        {
+          "filename": "Etz_bzsXIAgrfax.jpeg",
+          "id": "att1Gg6sFuQvloKME",
+          "size": 210633,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/292447103e59ac2107220eddf8ed7b07/4dcab6f6",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0555123b3d6af63f94a90ec5a8170671/c0ed47f8",
+              "width": 616
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/edf7e1772878679ea680570dc30e1826/7695e94c",
+              "width": 43
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c1026bf8ba15cab24803275478293295/05fba922/Etz_bzsXIAgrfax.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 176,
+      "nombre": "Williams Zalles Quisbert",
+      "twitter": "@ZallesQuisbert"
     },
     {
       "airtableId": "recnSuGeQDBkQMPMv",
