@@ -969,14 +969,17 @@
     },
     {
       "airtableId": "recMSSscvbLnhBJ6v",
-      "cargo": "director general ejecutivo de la entidad Ejecutora de Medio Ambiente y Agua – (EMAGUA)",
+      "cargo": "Director General Ejecutivo de EMAGUA (Entidad Ejecutora de Medio Ambiente y Agua)",
+      "desde": "2021-02-17",
       "entidad": [
         "recxLhoo1ncSZlfjw"
       ],
+      "fuente": "https://twitter.com/AmbienteyAgua/status/1362150627909005312",
       "id": 187,
       "persona": [
         "rechjl6bGS3RYHFrs"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1362352540814176262"
     },
     {
       "airtableId": "recMUSBgn2xEhfAry",
