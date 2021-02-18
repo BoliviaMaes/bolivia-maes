@@ -968,6 +968,17 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1329581820015472641"
     },
     {
+      "airtableId": "recMSSscvbLnhBJ6v",
+      "cargo": "director general ejecutivo de la entidad Ejecutora de Medio Ambiente y Agua – (EMAGUA)",
+      "entidad": [
+        "recxLhoo1ncSZlfjw"
+      ],
+      "id": 187,
+      "persona": [
+        "rechjl6bGS3RYHFrs"
+      ]
+    },
+    {
       "airtableId": "recMUSBgn2xEhfAry",
       "cargo": "Director General de la CEASS (Central de Abastecimiento de Suministros de Salud)",
       "desde": "2020-12-22",
@@ -4660,6 +4671,21 @@
       "nombre": "Periódico Bolivia",
       "tipo": "Otro",
       "twitter": "@Bolivia_bol"
+    },
+    {
+      "airtableId": "recxLhoo1ncSZlfjw",
+      "autoridades": [
+        "recMSSscvbLnhBJ6v"
+      ],
+      "dependencia": [
+        "recTV9hdUCYs4u19T"
+      ],
+      "id": 169,
+      "nombre": "Entidad Ejecutora de Medio Ambiente y Agua",
+      "sigla": "EMAGUA",
+      "tipo": "Otro",
+      "twitter": "@EmaguaBo",
+      "webpage": "http://www.emagua.gob.bo/"
     },
     {
       "airtableId": "recxSR68zsNXyFFrH",
@@ -9675,6 +9701,65 @@
       "genero": "Hombre",
       "id": 167,
       "nombre": "Julio Gómez Chambilla"
+    },
+    {
+      "airtableId": "rechjl6bGS3RYHFrs",
+      "autoridades": [
+        "recMSSscvbLnhBJ6v"
+      ],
+      "fotos": [
+        {
+          "filename": "EudUuizXIAc-c_l.jpeg",
+          "id": "attyIX4H2wo0AdyE0",
+          "size": 118259,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fc8abfa6d025221cb816f5b032d8e561/8e68a5e7",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dbb308425c1a2a165d8dd33250bea63e/ef85e570",
+              "width": 774
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9fcfe3abd62ccfaa182161a1e9ce2b83/fab8aa7f",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/65fb340fd33279ad1f03a7433b5c98b9/eb4c202f/EudUuizXIAc-c_l.jpeg"
+        },
+        {
+          "filename": "EudUuizXIAc-c_l.jpeg",
+          "id": "attuYtoZHhg9mSaIr",
+          "size": 18223,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d4b791e2f95db70c3ea121ed420454f3/ab063a6f",
+              "width": 3000
+            },
+            "large": {
+              "height": 369,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6ad47ae9fb3fd2779e665b5fcccca9df/5d309c01",
+              "width": 297
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3b872a73f9d6678261aecf171e471a43/c9fcae5e",
+              "width": 29
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c88d50946851000d37e6219847af6b8c/aee7e7d9/EudUuizXIAc-c_l.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 177,
+      "nombre": "Hugo Luis Soliz Flores"
     },
     {
       "airtableId": "rechmOHlgBvVrqfje",
