@@ -3119,6 +3119,9 @@
       "autoridades": [
         "recx1arPJ3gpOvBp6"
       ],
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
       "id": 140,
       "nombre": "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea",
       "sigla": "AASANA",
@@ -3503,6 +3506,18 @@
       "twitter": "@Pol_Boliviana"
     },
     {
+      "airtableId": "recSET9RDkDwWBCuM",
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 171,
+      "nombre": "Empresa Boliviana de la Construcción",
+      "sigla": "EBC",
+      "tipo": "Empresa",
+      "twitter": "@ebc_bolivia",
+      "webpage": "https://ebc.gob.bo/"
+    },
+    {
       "airtableId": "recSPM5XITdwqLfip",
       "autoridades": [
         "recIWafKRWQR1vjFM"
@@ -3865,6 +3880,9 @@
       "autoridades": [
         "recw9CVZix3ME6CUm"
       ],
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
       "id": 153,
       "nombre": "Autoridad de Fiscalización y Control Social de Bosques y Tierra",
       "sigla": "ABT",
@@ -4081,6 +4099,18 @@
       "id": 22,
       "nombre": "Fuerza Aérea",
       "tipo": "Otro"
+    },
+    {
+      "airtableId": "rechNCDLrBEgjniot",
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "id": 170,
+      "nombre": "Autoridad de Fiscalización y Regulación de Telecomunicaciones y Transportes",
+      "sigla": "ATT",
+      "tipo": "Autoridad de fiscalización",
+      "twitter": "@ATTBolivia",
+      "webpage": "https://att.gob.bo/"
     },
     {
       "airtableId": "rechl1BJBLLwWUzcs",
