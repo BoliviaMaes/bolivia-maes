@@ -9393,6 +9393,64 @@
       ]
     },
     {
+      "airtableId": "recr6QutNh34jHTk5",
+      "cargo": "Director Ejecutivo Interino de la ATT (Autoridad de Fiscalización y Regulación de Telecomunicaciones y Transportes)",
+      "dependencia (from entidad)": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "desde": "2021-03-04",
+      "entidad": [
+        "rechNCDLrBEgjniot"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "alopez.jpg",
+          "id": "attxeEIK5zRm9AK9a",
+          "size": 284811,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/02d6c2fbdfda222611498a726143822d/a3e7b260",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b746e1ceec79a1a6631d02ff9f5ac749/baa65a40",
+              "width": 547
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/22f50ea8d886a1bce572e22d4877e980/6aaa745c",
+              "width": 38
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e909737da2ba7a9f7fea808f0140e751/8bac3571/alopez.jpg"
+        }
+      ],
+      "fuente": "https://www.att.gob.bo/content/n%C3%B3mina-de-autoridades",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 188,
+      "nombre (from entidad)": [
+        "Autoridad de Fiscalización y Regulación de Telecomunicaciones y Transportes"
+      ],
+      "nombre (from persona)": [
+        "Arturo Miguel López Casas"
+      ],
+      "persona": [
+        "rec3bvwgR5hAePaLt"
+      ],
+      "sigla (from entidad)": [
+        "ATT"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1367520336804249602",
+      "twitter (from entidad)": [
+        "@ATTBolivia"
+      ]
+    },
+    {
       "airtableId": "recrJYbjvZmSRCnEg",
       "cargo": "Gerente General de la Gestora Pública de la Seguridad Social de Largo Plazo",
       "dependencia (from entidad)": [
@@ -12139,6 +12197,9 @@
     },
     {
       "airtableId": "rechNCDLrBEgjniot",
+      "autoridades": [
+        "recr6QutNh34jHTk5"
+      ],
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -13595,6 +13656,41 @@
       "genero": "Hombre",
       "id": 56,
       "nombre": "Bartolomé Puma"
+    },
+    {
+      "airtableId": "rec3bvwgR5hAePaLt",
+      "autoridades": [
+        "recr6QutNh34jHTk5"
+      ],
+      "fotos": [
+        {
+          "filename": "alopez.jpg",
+          "id": "attxeEIK5zRm9AK9a",
+          "size": 284811,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/02d6c2fbdfda222611498a726143822d/a3e7b260",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b746e1ceec79a1a6631d02ff9f5ac749/baa65a40",
+              "width": 547
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/22f50ea8d886a1bce572e22d4877e980/6aaa745c",
+              "width": 38
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e909737da2ba7a9f7fea808f0140e751/8bac3571/alopez.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 178,
+      "nombre": "Arturo Miguel López Casas"
     },
     {
       "airtableId": "rec3pFWIssZW0RNT5",
