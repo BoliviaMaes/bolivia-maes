@@ -4264,6 +4264,64 @@
       "tweet": "https://twitter.com/BoliviaMaes/status/1333765392934850562"
     },
     {
+      "airtableId": "recNqgkWoTl4ENV3T",
+      "cargo": "Director Ejecutivo del OPCE (Observatorio Plurinacional de la Calidad Educativa)",
+      "dependencia (from entidad)": [
+        "recsuCxQwrF93G855"
+      ],
+      "desde": "2021-03-08",
+      "entidad": [
+        "recvvwhLnfnl4LuXk"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "Ev-u-oCWYAY201q.png",
+          "id": "attC44dnCWdA1HNOY",
+          "size": 429354,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/26afaea3a3a1c9994d48fbb74b19498d/b299c3db",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ce99f9807330e5b91a8415624280800a/4c3841a6",
+              "width": 520
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9998b92b779390b9cd81b73137ff80c6/7e8d65ac",
+              "width": 37
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/60facc25f43f3b2dc39c7c06ada714d8/2e6d97d7/Ev-u-oCWYAY201q.png"
+        }
+      ],
+      "fuente": "https://twitter.com/minedubol/status/1369005226347405315",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 189,
+      "nombre (from entidad)": [
+        "Observatorio Plurinacional de la Calidad Educativa"
+      ],
+      "nombre (from persona)": [
+        "Roberto Mamani Magne"
+      ],
+      "persona": [
+        "recBGP5DFi9Njg2vL"
+      ],
+      "sigla (from entidad)": [
+        "OPCE"
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1369023030098337793",
+      "twitter (from entidad)": [
+        "@o_p_c_e"
+      ]
+    },
+    {
       "airtableId": "recNsj89xBrqIj1BJ",
       "cargo": "Director General Ejecutivo del Senasag (Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria)",
       "dependencia (from entidad)": [
@@ -12763,6 +12821,20 @@
       "twitter": "@entelbo"
     },
     {
+      "airtableId": "recvvwhLnfnl4LuXk",
+      "autoridades": [
+        "recNqgkWoTl4ENV3T"
+      ],
+      "dependencia": [
+        "recsuCxQwrF93G855"
+      ],
+      "id": 173,
+      "nombre": "Observatorio Plurinacional de la Calidad Educativa",
+      "sigla": "OPCE",
+      "tipo": "Otro",
+      "twitter": "@o_p_c_e"
+    },
+    {
       "airtableId": "recvwe1p0YjcQtjkz",
       "autoridades": [
         "recNvSvKxHu2ptELM"
@@ -14250,6 +14322,41 @@
       "genero": "Hombre",
       "id": 123,
       "nombre": "Beymar Escalier"
+    },
+    {
+      "airtableId": "recBGP5DFi9Njg2vL",
+      "autoridades": [
+        "recNqgkWoTl4ENV3T"
+      ],
+      "fotos": [
+        {
+          "filename": "Ev-u-oCWYAY201q.png",
+          "id": "attC44dnCWdA1HNOY",
+          "size": 429354,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/26afaea3a3a1c9994d48fbb74b19498d/b299c3db",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ce99f9807330e5b91a8415624280800a/4c3841a6",
+              "width": 520
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9998b92b779390b9cd81b73137ff80c6/7e8d65ac",
+              "width": 37
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/60facc25f43f3b2dc39c7c06ada714d8/2e6d97d7/Ev-u-oCWYAY201q.png"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 179,
+      "nombre": "Roberto Mamani Magne"
     },
     {
       "airtableId": "recBPsxhacvI5muzu",
