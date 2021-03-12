@@ -1579,10 +1579,11 @@
     },
     {
       "airtableId": "recAIGKuN0liWizPw",
-      "cargo": "Director General Ejecutivo del Fondo de Financiamiento para la Minería)",
+      "cargo": "Director General Ejecutivo del Fofim (Fondo de Financiamiento para la Minería)",
       "dependencia (from entidad)": [
         "recnjo1nbKW3JKsVr"
       ],
+      "desde": "2021-03-11",
       "entidad": [
         "rec9US0G3o7zcHQ9Q"
       ],
@@ -1612,6 +1613,7 @@
           "url": "https://dl.airtable.com/.attachments/99c54b1157f742183d343e0ce44e61d3/87abc087/eco-5-fofim-foto-Min-Mineria.jpg"
         }
       ],
+      "fuente": "https://twitter.com/minmineriabo/status/1370136588735369218",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1627,7 +1629,8 @@
       ],
       "sigla (from entidad)": [
         "Fofim"
-      ]
+      ],
+      "tweet": "https://twitter.com/BoliviaMaes/status/1370370320276860931"
     },
     {
       "airtableId": "recAIYfWUWaZOyrYW",
