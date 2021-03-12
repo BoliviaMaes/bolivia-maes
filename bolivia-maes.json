@@ -1578,6 +1578,58 @@
       ]
     },
     {
+      "airtableId": "recAIGKuN0liWizPw",
+      "cargo": "Director General Ejecutivo del Fondo de Financiamiento para la Minería)",
+      "dependencia (from entidad)": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "entidad": [
+        "rec9US0G3o7zcHQ9Q"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "eco-5-fofim-foto-Min-Mineria.jpg",
+          "id": "attIXveiNZ7xKZdFA",
+          "size": 84191,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/70161a8e347f7c232beecafcc4e7f86b/b3e17219",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/217470762e9a63eeaeea3eb0013abfa4/967a5a4b",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/89b70998a503831449d45d1219949248/2d2f32f9",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/99c54b1157f742183d343e0ce44e61d3/87abc087/eco-5-fofim-foto-Min-Mineria.jpg"
+        }
+      ],
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 190,
+      "nombre (from entidad)": [
+        "Fondo de Financiamiento para la Minería"
+      ],
+      "nombre (from persona)": [
+        "Juan José Palacios"
+      ],
+      "persona": [
+        "rec7DXuwlB4XTYPnS"
+      ],
+      "sigla (from entidad)": [
+        "Fofim"
+      ]
+    },
+    {
       "airtableId": "recAIYfWUWaZOyrYW",
       "cargo": "Viceministro de Tesoro y Crédito Público",
       "dependencia (from entidad)": [
@@ -10974,6 +11026,19 @@
       "twitter": "@cocavcdi"
     },
     {
+      "airtableId": "rec9US0G3o7zcHQ9Q",
+      "autoridades": [
+        "recAIGKuN0liWizPw"
+      ],
+      "dependencia": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "id": 174,
+      "nombre": "Fondo de Financiamiento para la Minería",
+      "sigla": "Fofim",
+      "tipo": "Fondo"
+    },
+    {
       "airtableId": "recAJ7vOCTHDlNjuv",
       "autoridades": [
         "recXeCB6m4Dyzo1HW"
@@ -14121,6 +14186,41 @@
       "genero": "Hombre",
       "id": 166,
       "nombre": "Gustavo Choque Velasquez"
+    },
+    {
+      "airtableId": "rec7DXuwlB4XTYPnS",
+      "autoridades": [
+        "recAIGKuN0liWizPw"
+      ],
+      "fotos": [
+        {
+          "filename": "eco-5-fofim-foto-Min-Mineria.jpg",
+          "id": "attIXveiNZ7xKZdFA",
+          "size": 84191,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/70161a8e347f7c232beecafcc4e7f86b/b3e17219",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/217470762e9a63eeaeea3eb0013abfa4/967a5a4b",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/89b70998a503831449d45d1219949248/2d2f32f9",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/99c54b1157f742183d343e0ce44e61d3/87abc087/eco-5-fofim-foto-Min-Mineria.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 180,
+      "nombre": "Juan José Palacios"
     },
     {
       "airtableId": "rec8BCq9dPjAMoYFG",
