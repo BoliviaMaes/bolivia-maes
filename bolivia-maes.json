@@ -36,7 +36,7 @@
           "url": "https://dl.airtable.com/.attachments/a04eaf6b88b1c4535f8c0f847e0dec21/66b70615/EsrJZ3fXEAAKDXw.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/AmbienteyAgua/status/1354142759020605445",
+      "fuente_inicio": "https://twitter.com/AmbienteyAgua/status/1354142759020605445",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -53,7 +53,7 @@
       "sigla (from entidad)": [
         "Senari"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1354134351362068490",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1354134351362068490",
       "twitter (from entidad)": [
         "@senaribolivia"
       ],
@@ -121,7 +121,7 @@
           "url": "https://dl.airtable.com/.attachments/1acb6a132c391f6728f9cc7d113cfe6d/b378651d/EoGh4Z4XMAg1s7f.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1333515255721435145",
+      "fuente_inicio": "https://twitter.com/Canal_BoliviaTV/status/1333515255721435145",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -135,7 +135,7 @@
       "persona": [
         "rec1xDDfkk9Byw9m4"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333518755993964554",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333518755993964554",
       "twitter (from entidad)": [
         "@RadioIllimani @PatriaNuevaBo"
       ]
@@ -176,7 +176,7 @@
           "url": "https://dl.airtable.com/.attachments/45e8ca2d643d8b76682925711373bdfc/29dde68d/EnBx_wuXEAAhK-P.png"
         }
       ],
-      "fuente": "https://www.atb.com.bo/pol%C3%ADtica/%C3%A1lvaro-mollinedo-fue-posesionado-como-nuevo-viceministro-de-desarrollo-rural-y-agropecuario",
+      "fuente_inicio": "https://www.atb.com.bo/pol%C3%ADtica/%C3%A1lvaro-mollinedo-fue-posesionado-como-nuevo-viceministro-de-desarrollo-rural-y-agropecuario",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -190,7 +190,7 @@
       "persona": [
         "rec9ID6uVNfZeCgAQ"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328687269214101504",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328687269214101504",
       "twitter (from entidad)": [
         "@VAgropecuario"
       ]
@@ -231,7 +231,7 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -249,7 +249,7 @@
       "sucesora": [
         "recZcuZkLhWpazk5q"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328377952434855938",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328377952434855938",
       "twitter (from entidad)": [
         "@ComandoLas"
       ]
@@ -290,7 +290,7 @@
           "url": "https://dl.airtable.com/.attachments/a660bf29517ed0449045e206bc755320/67bd6b07/Benjamin.blanco.aladi.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/RadioIllimani/status/1333755342380003328",
+      "fuente_inicio": "https://twitter.com/RadioIllimani/status/1333755342380003328",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -307,7 +307,7 @@
       "sigla (from entidad)": [
         "VCEI"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333766159200555011",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333766159200555011",
       "twitter (from entidad)": [
         "@VCEIBolivia"
       ]
@@ -348,7 +348,7 @@
           "url": "https://dl.airtable.com/.attachments/b2a049f99efe743a344100fb7225f9ae/aaecdb1a/la-nueva-autoridad-i-apg._728988730_1140x520.jpeg"
         }
       ],
-      "fuente": "https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/",
+      "fuente_inicio": "https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/https://www.la-razon.com/nacional/2020/11/17/hermosa-es-directora-del-segip-y-se-plantea-eliminar-las-filas/",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -365,7 +365,7 @@
       "sigla (from entidad)": [
         "SEGIP"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328725113118846979",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328725113118846979",
       "twitter (from entidad)": [
         "@OficialSegip"
       ],
@@ -409,7 +409,7 @@
           "url": "https://dl.airtable.com/.attachments/e211ea89e6036059eb97618ad410af9e/30b70274/EpzWiERXYAEj2as.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/AmbienteyAgua/status/1341182683980980224",
+      "fuente_inicio": "https://twitter.com/AmbienteyAgua/status/1341182683980980224",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -426,7 +426,7 @@
       "sigla (from entidad)": [
         "OTNPB"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341301130253520896",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341301130253520896",
       "twitter (from entidad)": [
         "@OTNcuencasPB"
       ],
@@ -470,7 +470,7 @@
           "url": "https://dl.airtable.com/.attachments/d3b656f0e0f33948e067cbd354b55c00/b40b815a/nlida-acua-es-la-nueva-directora-de-la-lotera-nacional._159132661_760x520.jpeg"
         }
       ],
-      "fuente": "https://noticiasporelmundo.com/bolivia/posesionan-a-nelida-acuna-como-directora-de-la-loteria-nacional-noticias-bolivia",
+      "fuente_inicio": "https://noticiasporelmundo.com/bolivia/posesionan-a-nelida-acuna-como-directora-de-la-loteria-nacional-noticias-bolivia",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -487,7 +487,7 @@
       "sigla (from entidad)": [
         "Lonabol"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332615212789346305",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332615212789346305",
       "twitter (from entidad)": [
         "@lonaboloficial"
       ]
@@ -528,7 +528,7 @@
           "url": "https://dl.airtable.com/.attachments/0a976030bbd29119eaf44c1fd35dbba5/f9720f2b/senasag2.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/pais/ministro-huanca-posesionan-a-gerente-de-sedem-e-instruye-acciones-legales-en-ecebol_211421",
+      "fuente_inicio": "https://eldeber.com.bo/pais/ministro-huanca-posesionan-a-gerente-de-sedem-e-instruye-acciones-legales-en-ecebol_211421",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -545,7 +545,7 @@
       "sigla (from entidad)": [
         "SEDEM"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1336227917882388480",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1336227917882388480",
       "twitter (from entidad)": [
         "@Sedem_Bolivia"
       ]
@@ -586,7 +586,7 @@
           "url": "https://dl.airtable.com/.attachments/fb873cc3a7cf2524ecf91dc09bcb85a4/141782c6/1605830897737575-1-1.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
+      "fuente_inicio": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -603,7 +603,7 @@
       "sigla (from entidad)": [
         "AJ"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329705521260220417",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329705521260220417",
       "twitter (from entidad)": [
         "@ajcomunica"
       ]
@@ -644,7 +644,7 @@
           "url": "https://dl.airtable.com/.attachments/5482128c5ba17739e55a84456e284b36/cf7369ba/EpOvLLcXYAIC6x6.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1338606134731698184",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1338606134731698184",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -661,7 +661,7 @@
       "sigla (from entidad)": [
         "SABSA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1338760107237236743",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1338760107237236743",
       "twitter (from entidad)": [
         "@BoliviaSabsa"
       ]
@@ -699,7 +699,7 @@
           "url": "https://dl.airtable.com/.attachments/e2616c730d671c8b1c45b79ab1d39276/11417b45/_dsc2560_0.jpeg"
         }
       ],
-      "fuente": "https://www.pagina12.com.ar/304486-bolivia-luis-arce-asume-la-presidencia",
+      "fuente_inicio": "https://www.pagina12.com.ar/304486-bolivia-luis-arce-asume-la-presidencia",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -753,7 +753,7 @@
           "url": "https://dl.airtable.com/.attachments/0a6fce40a4bca1c556d0dbd538a9da63/627b47ad/EoZw7kGW8AMOEJh.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
+      "fuente_inicio": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -770,7 +770,7 @@
       "sigla (from entidad)": [
         "VT"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334914560617222147"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334914560617222147"
     },
     {
       "airtableId": "rec5wRPq7uuQ80zwk",
@@ -808,7 +808,7 @@
           "url": "https://dl.airtable.com/.attachments/f3e388f46790a554acc4ab51b0a2c4fc/0b37682a/eduardo-del-castillo_1398594651_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -880,7 +880,7 @@
           "url": "https://dl.airtable.com/.attachments/c04b0738d7781733d938f51b73234be0/fb928ffc/ed153ea0-dc23-48d1-b27d-bc9457f39262.jpeg"
         }
       ],
-      "fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
+      "fuente_inicio": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -894,7 +894,7 @@
       "persona": [
         "recepEdtJeBf6Gvjs"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330021347007877122",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330021347007877122",
       "twitter (from entidad)": [
         "@VCMdesco"
       ]
@@ -935,7 +935,7 @@
           "url": "https://dl.airtable.com/.attachments/2b7960db5dc4faf6bd893a9af2f60179/f5ed4ebe/karina-serrudo-2411.png"
         }
       ],
-      "fuente": "https://erbol.com.bo/nacional/karina-serrudo-es-la-nueva-presidenta-de-la-aduana-nacional",
+      "fuente_inicio": "https://erbol.com.bo/nacional/karina-serrudo-es-la-nueva-presidenta-de-la-aduana-nacional",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -952,7 +952,7 @@
       "sigla (from entidad)": [
         "ANB"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331357450516226052",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331357450516226052",
       "twitter (from entidad)": [
         "@aduanabolivia"
       ],
@@ -996,7 +996,7 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1014,7 +1014,7 @@
       "sucesora": [
         "recFoxJLEFqkA27Hl"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328379118531059712"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328379118531059712"
     },
     {
       "airtableId": "rec7elN1JC1HgKgra",
@@ -1052,7 +1052,7 @@
           "url": "https://dl.airtable.com/.attachments/2fcacfeca1dcf4b2d8ac9d5d032c402e/d59d34d3/EnV8kiHXYAgSSoR.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/humberto-arandia-claure-juro-como-director-del-ine_209479",
+      "fuente_inicio": "https://eldeber.com.bo/economia/humberto-arandia-claure-juro-como-director-del-ine_209479",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1069,7 +1069,7 @@
       "sigla (from entidad)": [
         "INE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330106235450953733",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330106235450953733",
       "twitter (from entidad)": [
         "@INE_Bolivia"
       ]
@@ -1110,7 +1110,7 @@
           "url": "https://dl.airtable.com/.attachments/4b4e287353d70d719d1951fbe6d8a1c6/04af66dc/EnyETLTWEAYwDsp.jpeg"
         }
       ],
-      "fuente": "https://mobile.twitter.com/canela_cs/status/1332085062242799616",
+      "fuente_inicio": "https://mobile.twitter.com/canela_cs/status/1332085062242799616",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -1127,7 +1127,7 @@
       "sigla (from entidad)": [
         "Sepmud"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332236779076919298",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332236779076919298",
       "twitter (from entidad)": [
         "@Sepmudbo"
       ]
@@ -1216,7 +1216,7 @@
           "url": "https://dl.airtable.com/.attachments/7298cca0ee6c857e3355951f3fe810e1/f9a4a3e1/viomiriamhuacani.png"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -1230,7 +1230,7 @@
       "persona": [
         "recf41hcAroy82bUp"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051254019870721"
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327051254019870721"
     },
     {
       "airtableId": "rec8LoiS0IljVf0MK",
@@ -1268,7 +1268,7 @@
           "url": "https://dl.airtable.com/.attachments/bea4a8d375b1acc52b1c18dd5500626d/22247b21/EocQcKGXIAAlnAV.jpeg"
         }
       ],
-      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
+      "fuente_inicio": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1285,7 +1285,7 @@
       "sigla (from entidad)": [
         "Senatex"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1335173794709856257",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1335173794709856257",
       "twitter (from entidad)": [
         "@SenatexBolivia"
       ]
@@ -1326,7 +1326,7 @@
           "url": "https://dl.airtable.com/.attachments/920be62a8f6edde323259ea3ced3425a/1513e2bb/EowuOqgWEAAT6Bl.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1336494175953498112",
+      "fuente_inicio": "https://twitter.com/SaludDeportesBo/status/1336494175953498112",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -1343,7 +1343,7 @@
       "sigla (from entidad)": [
         "CNS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1336582385790558208",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1336582385790558208",
       "twitter (from entidad)": [
         "@CNS_Bolivia"
       ]
@@ -1384,7 +1384,7 @@
           "url": "https://dl.airtable.com/.attachments/bbfe61745b52130d149b76a5612ed9e7/8a5dfd4b/EqdH4CpXcAIcAlO.jpeg"
         }
       ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
+      "fuente_inicio": "https://www1.abi.bo/abi_/?i=461694",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1398,7 +1398,7 @@
       "persona": [
         "recAMo8FGMbVRZziN"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344122044598906882",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344122044598906882",
       "twitter (from entidad)": [
         "@BoliviaEjercito"
       ]
@@ -1439,7 +1439,7 @@
           "url": "https://dl.airtable.com/.attachments/8083695b9e5b366aa738105aa3bc1147/d4444a51/chavez-posesion-apg.jpg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/pais/wilfredo-chavez-asume-como-procurador-general-del-estado-y-arce-le-encomienda-tres-acciones_208428",
+      "fuente_inicio": "https://eldeber.com.bo/pais/wilfredo-chavez-asume-como-procurador-general-del-estado-y-arce-le-encomienda-tres-acciones_208428",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1456,7 +1456,7 @@
       "sigla (from entidad)": [
         "PGE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327170593410650115",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1327170593410650115",
       "twitter (from entidad)": [
         "@PGE_Bolivia"
       ],
@@ -1500,7 +1500,7 @@
           "url": "https://dl.airtable.com/.attachments/3b698d5d697e1fe8afb67a96442e9880/6c7ef0d4/viceministros-de-coca_435187480_1140x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
+      "fuente_inicio": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1514,7 +1514,7 @@
       "persona": [
         "recIFcsV9q9tdp3ig"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330109333426855937"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330109333426855937"
     },
     {
       "airtableId": "recACwcLeZ4GvtZ56",
@@ -1552,7 +1552,7 @@
           "url": "https://dl.airtable.com/.attachments/e845ea0e2bcca94be14301416102bd64/673feda4/lizondo.jpg"
         }
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1348805831584788481",
+      "fuente_inicio": "https://twitter.com/MDPyEPBolivia/status/1348805831584788481",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1569,7 +1569,7 @@
       "sigla (from entidad)": [
         "EASBA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1348903102292905985",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1348903102292905985",
       "twitter (from entidad)": [
         "@EASBA_Bolivia"
       ],
@@ -1613,7 +1613,7 @@
           "url": "https://dl.airtable.com/.attachments/99c54b1157f742183d343e0ce44e61d3/87abc087/eco-5-fofim-foto-Min-Mineria.jpg"
         }
       ],
-      "fuente": "https://twitter.com/minmineriabo/status/1370136588735369218",
+      "fuente_inicio": "https://twitter.com/minmineriabo/status/1370136588735369218",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1630,7 +1630,7 @@
       "sigla (from entidad)": [
         "Fofim"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1370370320276860931"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1370370320276860931"
     },
     {
       "airtableId": "recAIYfWUWaZOyrYW",
@@ -1668,7 +1668,7 @@
           "url": "https://dl.airtable.com/.attachments/28f67e74015fc73031d1caca90b0a083/599e753b/EmrI_73XMAEHjGi.png"
         }
       ],
-      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
+      "fuente_inicio": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1682,7 +1682,7 @@
       "persona": [
         "recIkALCKzaGpWZjw"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327094066505535488"
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327094066505535488"
     },
     {
       "airtableId": "recAhUsC6Ci14FFAF",
@@ -1720,7 +1720,7 @@
           "url": "https://dl.airtable.com/.attachments/58efbec0d8482ba4b24c9af732238665/22f81129/EocQcKGXIAAlnAV.jpeg"
         }
       ],
-      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
+      "fuente_inicio": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1737,7 +1737,7 @@
       "sigla (from entidad)": [
         "Inbol"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1335171868630904836",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1335171868630904836",
       "twitter (from entidad)": [
         "@inbol_bo"
       ]
@@ -1761,7 +1761,7 @@
           "url": "https://dl.airtable.com/.attachments/57a5c9e90533bad3d4bcdf4d3a0617cb/528a3e44/ErepUQ7XAAI-WQ4.png"
         }
       ],
-      "fuente": "https://www.periodicobolivia.com.bo/huascar-ajata-es-viceministro-de-planificacion/",
+      "fuente_inicio": "https://www.periodicobolivia.com.bo/huascar-ajata-es-viceministro-de-planificacion/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1778,7 +1778,7 @@
       "sigla (from entidad)": [
         "VPEE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1349015919134126080",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1349015919134126080",
       "twitter (from persona)": [
         "@HuascarAjata"
       ]
@@ -1819,7 +1819,7 @@
           "url": "https://dl.airtable.com/.attachments/dc0841bf94fe74858db17b7e73bbb184/4262f125/VICEMINISTRA-JOVEN.jpeg"
         }
       ],
-      "fuente": "https://erbol.com.bo/deporte/cielo-veizaga-una-futbolista-de-19-a%C3%B1os-es-la-viceministra-de-deportes-la-m%C3%A1s-joven",
+      "fuente_inicio": "https://erbol.com.bo/deporte/cielo-veizaga-una-futbolista-de-19-a%C3%B1os-es-la-viceministra-de-deportes-la-m%C3%A1s-joven",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -1833,7 +1833,7 @@
       "persona": [
         "recdk4ZF19kdBlZeK"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1339842688011689984",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1339842688011689984",
       "twitter (from entidad)": [
         "@vicedeportesbo"
       ],
@@ -1877,7 +1877,7 @@
           "url": "https://dl.airtable.com/.attachments/72c467592ad9d7230009b5c4d7ffdc5a/7331be07/vernica-patricia-navia_1391967308_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -1948,7 +1948,7 @@
           "url": "https://dl.airtable.com/.attachments/099447ca6c0df27860792674feb05926/f129f385/gabriel-herbas.jpg"
         }
       ],
-      "fuente": "https://twitter.com/BancoCentralBO/status/1352357665863774214",
+      "fuente_inicio": "https://twitter.com/BancoCentralBO/status/1352357665863774214",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -1965,7 +1965,7 @@
       "sigla (from entidad)": [
         "BCB"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1352362748961816584",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1352362748961816584",
       "twitter (from entidad)": [
         "@BancoCentralBO"
       ]
@@ -2006,7 +2006,7 @@
           "url": "https://dl.airtable.com/.attachments/454eb1a10877178ef0fee5a2b1d88612/72595795/EnN3bajW4AAjKgV.jpeg"
         }
       ],
-      "fuente": "https://elpais.bo/nacional/20201119_pary-es-designado-como-embajador-ante-la-onu.html",
+      "fuente_inicio": "https://elpais.bo/nacional/20201119_pary-es-designado-como-embajador-ante-la-onu.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2020,7 +2020,7 @@
       "persona": [
         "recJYbe5DLEM5pctE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329537630204256264",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329537630204256264",
       "twitter (from entidad)": [
         "@BoliviaUNNY"
       ],
@@ -2064,7 +2064,7 @@
           "url": "https://dl.airtable.com/.attachments/a7a6d8256030dfdbaf538b238a7a28f8/d582960e/oscarferrufino.jpg"
         }
       ],
-      "fuente": "https://economy.com.bo/portada-economy/25-nosotros/5260-posesionan-a-%C3%B3scar-ferrufino-como-director-de-la-aps.html",
+      "fuente_inicio": "https://economy.com.bo/portada-economy/25-nosotros/5260-posesionan-a-%C3%B3scar-ferrufino-como-director-de-la-aps.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2081,7 +2081,7 @@
       "sigla (from entidad)": [
         "APS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337864353241034755",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337864353241034755",
       "twitter (from entidad)": [
         "@Bolivia_APS"
       ]
@@ -2122,7 +2122,7 @@
           "url": "https://dl.airtable.com/.attachments/c44ba5f4953829ce13f4afaabc392e93/51b7dcca/Eng-vIrXEAIJgA8.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
+      "fuente_inicio": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2136,7 +2136,7 @@
       "persona": [
         "recJ3MkJN4kiXRWSR"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330915174413443079"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330915174413443079"
     },
     {
       "airtableId": "recC1WNuQGcqhIVRe",
@@ -2174,7 +2174,7 @@
           "url": "https://dl.airtable.com/.attachments/157c12779bd384d026b768435ac570ce/e342b3da/9cbc7605-2a95-4dd3-977c-095987671d27.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334657921792270341",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1334657921792270341",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2191,7 +2191,7 @@
       "sigla (from entidad)": [
         "VVU"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334775339545923585",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334775339545923585",
       "twitter (from persona)": [
         "@rogercruzpined1"
       ]
@@ -2256,7 +2256,7 @@
           "url": "https://dl.airtable.com/.attachments/7afdf08e4573c15df8d2bfb68815d01e/52aebd05/ErdLyaBXYAIrqVZ.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/Bolivia_MHE/status/1348613364990308358",
+      "fuente_inicio": "https://twitter.com/Bolivia_MHE/status/1348613364990308358",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2273,7 +2273,7 @@
       "sigla (from entidad)": [
         "YLB"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1348628133344387072",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1348628133344387072",
       "twitter (from entidad)": [
         "@litio_boliviano"
       ]
@@ -2314,7 +2314,7 @@
           "url": "https://dl.airtable.com/.attachments/48baa39c22a748f00a8af63744bde630/718abe47/incendio-1024x632.jpeg"
         }
       ],
-      "fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
+      "fuente_inicio": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2331,7 +2331,7 @@
       "sigla (from entidad)": [
         "ANH"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329704235005599748",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329704235005599748",
       "twitter (from entidad)": [
         "@AnhBolivia"
       ],
@@ -2375,7 +2375,7 @@
           "url": "https://dl.airtable.com/.attachments/9a2e2812872782de29ba7a97aab5baff/68726ec5/ingeniero-.webp"
         }
       ],
-      "fuente": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
+      "fuente_inicio": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2392,7 +2392,7 @@
       "sigla (from entidad)": [
         "YPFB"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329702895441354752",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329702895441354752",
       "twitter (from entidad)": [
         "@YPFB_corp"
       ]
@@ -2433,7 +2433,7 @@
           "url": "https://dl.airtable.com/.attachments/75cd46ba2504188a8c03d35713e30695/96d87f91/3f786c1a-3a4a-449b-b841-563d81b2e957.jpeg"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201130_dominga-machicado-jura-como-gerente-de-la-editorial-del-estado.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201130_dominga-machicado-jura-como-gerente-de-la-editorial-del-estado.html",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -2447,7 +2447,7 @@
       "persona": [
         "rechmOHlgBvVrqfje"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333691504632721408",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333691504632721408",
       "twitter (from entidad)": [
         "@EditorialEstado"
       ]
@@ -2488,7 +2488,7 @@
           "url": "https://dl.airtable.com/.attachments/7654306a505c0d2a9bf6912f1788ed3b/03d876b1/index.jpeg"
         }
       ],
-      "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
+      "fuente_inicio": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2502,7 +2502,7 @@
       "persona": [
         "recLmgsjYLMu33XaT"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328731538125623297"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328731538125623297"
     },
     {
       "airtableId": "recDKRgFdOwircwH0",
@@ -2564,7 +2564,7 @@
           "url": "https://dl.airtable.com/.attachments/37d11653509ee0c8a7f231ba5646f31e/6189c505/484972.jpg"
         }
       ],
-      "fuente": "https://twitter.com/BocaminaCOMIBOL/status/1356365865936150532",
+      "fuente_inicio": "https://twitter.com/BocaminaCOMIBOL/status/1356365865936150532",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2581,7 +2581,7 @@
       "sigla (from entidad)": [
         "Comibol"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1356609179033759745",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1356609179033759745",
       "twitter (from entidad)": [
         "@BocaminaCOMIBOL"
       ]
@@ -2622,7 +2622,7 @@
           "url": "https://dl.airtable.com/.attachments/e7deab98b43178fcc0907044b979d765/481c1b93/EsCp-yRXIAIlEdf.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/abi_bolivia/status/1351267620125876227",
+      "fuente_inicio": "https://twitter.com/abi_bolivia/status/1351267620125876227",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2639,7 +2639,7 @@
       "sigla (from entidad)": [
         "ESM"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1351441179796271105",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1351441179796271105",
       "twitter (from entidad)": [
         "@esmbolivia"
       ]
@@ -2680,7 +2680,7 @@
           "url": "https://dl.airtable.com/.attachments/9a981eea98d82c8bf4ced2c49640c752/ba5693f5/EoZw7kGW8AMOEJh.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
+      "fuente_inicio": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2697,7 +2697,7 @@
       "sigla (from entidad)": [
         "VMPE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334913925968748545"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334913925968748545"
     },
     {
       "airtableId": "recEG0R9MK8FKDzyj",
@@ -2735,7 +2735,7 @@
           "url": "https://dl.airtable.com/.attachments/bc535d6f7dd8f5cf7a29da231acdf341/fee8f3e4/freyrenota.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
+      "fuente_inicio": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2752,7 +2752,7 @@
       "sigla (from entidad)": [
         "EBA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334916756926832649",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334916756926832649",
       "twitter (from entidad)": [
         "@ebabolivia"
       ],
@@ -2796,7 +2796,7 @@
           "url": "https://dl.airtable.com/.attachments/461cbb9284ffd3804f4a5c75aaa2ba8c/d4825ac7/Emqd9-CW4AECqRV.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/mario-cazon-retorna-la-presidencia-de-impuestos-nacionales-274698.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/12/mario-cazon-retorna-la-presidencia-de-impuestos-nacionales-274698.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2813,7 +2813,7 @@
       "sigla (from entidad)": [
         "SIN"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327046912059580421",
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327046912059580421",
       "twitter (from entidad)": [
         "@sinbolivia"
       ]
@@ -2878,7 +2878,7 @@
           "url": "https://dl.airtable.com/.attachments/d4035f3362f139362ca0aec0b9552b96/11eddbbe/mae.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2919,7 +2919,7 @@
       "entidad": [
         "recXR83Mb7KtDFrMp"
       ],
-      "fuente": "https://www.lostiempos.com/actualidad/economia/20210113/posesionan-directores-ajam-sergeomin",
+      "fuente_inicio": "https://www.lostiempos.com/actualidad/economia/20210113/posesionan-directores-ajam-sergeomin",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2936,7 +2936,7 @@
       "sigla (from entidad)": [
         "Sergeomin"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1349640201514196992\n",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1349640201514196992\n",
       "twitter (from entidad)": [
         "@sergeomin"
       ]
@@ -2977,7 +2977,7 @@
           "url": "https://dl.airtable.com/.attachments/bdb18e6b9c432db9871f67c1509e4ef9/b82f9db1/Prensa_0.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
+      "fuente_inicio": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -2994,7 +2994,7 @@
       "sigla (from entidad)": [
         "VIPFE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337150847822815233"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337150847822815233"
     },
     {
       "airtableId": "recFZWnVB8Jnq4Cyw",
@@ -3032,7 +3032,7 @@
           "url": "https://dl.airtable.com/.attachments/0519aff83236ad54716827edbc09cc10/0cc6eeeb/edgar-montao_1394538261_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3099,7 +3099,7 @@
           "url": "https://dl.airtable.com/.attachments/4091ae7fe5829c7d37ad088a408b6e3b/05fb48d8/EqdGgZ3XcAMcXnY.jpeg"
         }
       ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
+      "fuente_inicio": "https://www1.abi.bo/abi_/?i=461694",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3113,7 +3113,7 @@
       "persona": [
         "recolFl9v0FWCTpYQ"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344122630471872512"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344122630471872512"
     },
     {
       "airtableId": "recG8xE6KeTlikqsb",
@@ -3151,7 +3151,7 @@
           "url": "https://dl.airtable.com/.attachments/bb5766b7baa67d27042347cfe455fb40/dd21365c/ceba6219-f16d-4d56-965e-2a3b7160f326.jpg"
         }
       ],
-      "fuente": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
+      "fuente_inicio": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3165,7 +3165,7 @@
       "persona": [
         "recOK9aMART2TIYNL"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328732088783302658"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328732088783302658"
     },
     {
       "airtableId": "recGD7aJZg8lxBbuX",
@@ -3203,7 +3203,7 @@
           "url": "https://dl.airtable.com/.attachments/7eae62a0930c3ea7e1d43ac97bc60dd7/ec762952/EoaEyeCWEAIt2Dv.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
+      "fuente_inicio": "https://twitter.com/MDPyEPBolivia/status/1334986799853211656",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3224,7 +3224,7 @@
       "sucesora": [
         "recACwcLeZ4GvtZ56"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334917762637066240",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334917762637066240",
       "twitter (from entidad)": [
         "@EASBA_Bolivia"
       ]
@@ -3265,7 +3265,7 @@
           "url": "https://dl.airtable.com/.attachments/678fd0adf72ef648e080cdb3da702d39/b564569d/EoWpXeWW8AEHoX7.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334659108088262656",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1334659108088262656",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3282,7 +3282,7 @@
       "sigla (from entidad)": [
         "AEVivienda"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334780247569539072",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334780247569539072",
       "twitter (from entidad)": [
         "@AeviBolivia"
       ]
@@ -3323,7 +3323,7 @@
           "url": "https://dl.airtable.com/.attachments/3e09b8480b5bd3e7133503e97165379d/fd2baa73/ErARzOGXAAAk-tN.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1346589886401409025",
+      "fuente_inicio": "https://twitter.com/SaludDeportesBo/status/1346589886401409025",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3340,7 +3340,7 @@
       "sigla (from entidad)": [
         "CPS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1346602861837348870",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1346602861837348870",
       "twitter (from entidad)": [
         "@CajaPetroleraBO"
       ]
@@ -3405,7 +3405,7 @@
           "url": "https://dl.airtable.com/.attachments/ec63cb93ab4f3c6e5e06887e88e85a15/6d3eaff3/aguilera.jpg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/pais/arce-pide-institucionalizar-la-policia-que-no-vaya-contra-un-gobierno-democratico-y-que-recupere-la-_208944",
+      "fuente_inicio": "https://eldeber.com.bo/pais/arce-pide-institucionalizar-la-policia-que-no-vaya-contra-un-gobierno-democratico-y-que-recupere-la-_208944",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3419,7 +3419,7 @@
       "persona": [
         "recPhNzfFPddo18dk"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328623491487293440",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328623491487293440",
       "twitter (from entidad)": [
         "@Pol_Boliviana"
       ]
@@ -3457,7 +3457,7 @@
           "url": "https://dl.airtable.com/.attachments/06ab4ccfb24c58d1c96615a5cede694f/99223b00/DAVID-CHOQUEHUANCA-1024x576.jpeg"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201108_vice-anuncia-un-nuevo-tiempo-y-pide-ya-no-mas-judicializacion-de-la-politica.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201108_vice-anuncia-un-nuevo-tiempo-y-pide-ya-no-mas-judicializacion-de-la-politica.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3517,7 +3517,7 @@
           "url": "https://dl.airtable.com/.attachments/8b24ca5620279f1d87bdd12234c5d2eb/4ae2ff9e/En6BtBlXYAAgGw5.png"
         }
       ],
-      "fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
+      "fuente_inicio": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3534,7 +3534,7 @@
       "sigla (from entidad)": [
         "VATE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332645202633297920/photo/1"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332645202633297920/photo/1"
     },
     {
       "airtableId": "recITBLC8q6GRemce",
@@ -3572,7 +3572,7 @@
           "url": "https://dl.airtable.com/.attachments/35f1f306c1cd6155b75ecab3dcde0055/cb013d0c/jorgerichter.jpg"
         }
       ],
-      "fuente": "https://www.la-razon.com/nacional/2020/12/11/el-gobierno-retoma-la-voceria-presidencial-y-designa-en-el-cargo-al-politologo-jorge-richter/",
+      "fuente_inicio": "https://www.la-razon.com/nacional/2020/12/11/el-gobierno-retoma-la-voceria-presidencial-y-designa-en-el-cargo-al-politologo-jorge-richter/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3589,7 +3589,7 @@
       "sigla (from entidad)": [
         "VP"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337871559478960128",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337871559478960128",
       "twitter (from persona)": [
         "@jorgerichter"
       ]
@@ -3630,7 +3630,7 @@
           "url": "https://dl.airtable.com/.attachments/d650a37a2e5c1233ab304e1cbf18d702/1f974410/EmrKtm2XYAA6wy1.jpeg"
         }
       ],
-      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
+      "fuente_inicio": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3644,7 +3644,7 @@
       "persona": [
         "recQyMLqHzQyCTR0m"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327095981566009344"
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327095981566009344"
     },
     {
       "airtableId": "recJGLbmug7495IyK",
@@ -3706,7 +3706,7 @@
           "url": "https://dl.airtable.com/.attachments/bc04b7e2a48036834eb0054b26a6e03f/924c286c/VJDFCesarAdalidSilesBazan.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3720,7 +3720,7 @@
       "persona": [
         "recRinH2kT7LKtgTk"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327050453197189120"
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327050453197189120"
     },
     {
       "airtableId": "recJf32eqxJfnW6xE",
@@ -3758,7 +3758,7 @@
           "url": "https://dl.airtable.com/.attachments/4101c9eee333bcf41b631731eaf07a2d/088d320d/nota_13-01-2021.jpeg"
         }
       ],
-      "fuente": "https://www.hidrocarburos.gob.bo/index.php/comunicaci%C3%B3n/prensa/4906-gallardo-asume-la-gerencia-de-la-empresa-boliviana-de-industrializaci%C3%B3n-de-hidrocarburos-ebih.html",
+      "fuente_inicio": "https://www.hidrocarburos.gob.bo/index.php/comunicaci%C3%B3n/prensa/4906-gallardo-asume-la-gerencia-de-la-empresa-boliviana-de-industrializaci%C3%B3n-de-hidrocarburos-ebih.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3775,7 +3775,7 @@
       "sigla (from entidad)": [
         "EBIH"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1349632613020028928",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1349632613020028928",
       "twitter (from entidad)": [
         "@BoliviaEbih"
       ]
@@ -3816,7 +3816,7 @@
           "url": "https://dl.airtable.com/.attachments/95aab9c6ab4f0ef17f349443103bcff9/dd4d5d62/EqdGgZ3XcAMcXnY.jpeg"
         }
       ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
+      "fuente_inicio": "https://www1.abi.bo/abi_/?i=461694",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3830,7 +3830,7 @@
       "persona": [
         "rec0JMrZTrqpb6J5v"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344120538457845762"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344120538457845762"
     },
     {
       "airtableId": "recKucP4cqTXfuGlK",
@@ -3868,7 +3868,7 @@
           "url": "https://dl.airtable.com/.attachments/17cd3651f960941d0c6eedfe6efb06c6/91dbd192/Ministro_Rodolfo_Rocabado_en_2018.png"
         }
       ],
-      "fuente": "https://www.tierraplus.com.bo/Bolivia/Politica1/Gobierno-posesiona-al-exministro-de-Salud-Rodolfo-Rocabado-como-director-de-la-Caja-de-Salud-de-Caminos",
+      "fuente_inicio": "https://www.tierraplus.com.bo/Bolivia/Politica1/Gobierno-posesiona-al-exministro-de-Salud-Rodolfo-Rocabado-como-director-de-la-Caja-de-Salud-de-Caminos",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3885,7 +3885,7 @@
       "sigla (from entidad)": [
         "CSCRA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1349635699134373888",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1349635699134373888",
       "twitter (from entidad)": [
         "@CajadeCaminos"
       ],
@@ -3929,7 +3929,7 @@
           "url": "https://dl.airtable.com/.attachments/59412f607cd409e4aa09ca2fb9224acd/0882c059/EoFzzN0W8AAqi-P.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474304349130753",
+      "fuente_inicio": "https://twitter.com/BOLIVIA_MH/status/1333474304349130753",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3946,7 +3946,7 @@
       "sigla (from entidad)": [
         "AETN"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333476812651962370"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333476812651962370"
     },
     {
       "airtableId": "recME9ztz5dSGXaei",
@@ -3984,7 +3984,7 @@
           "url": "https://dl.airtable.com/.attachments/363c40a8a446899b539dc8f2c6d2c1cf/eaaf6573/EnOfngdXIAA-BQJ.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
+      "fuente_inicio": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -3998,7 +3998,7 @@
       "persona": [
         "recUgL59pIdzhlIzS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329581820015472641",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329581820015472641",
       "twitter (from persona)": [
         "@RodasEmilio"
       ]
@@ -4063,7 +4063,7 @@
           "url": "https://dl.airtable.com/.attachments/c88d50946851000d37e6219847af6b8c/aee7e7d9/EudUuizXIAc-c_l.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/AmbienteyAgua/status/1362150627909005312",
+      "fuente_inicio": "https://twitter.com/AmbienteyAgua/status/1362150627909005312",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4080,7 +4080,7 @@
       "sigla (from entidad)": [
         "EMAGUA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1362352540814176262",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1362352540814176262",
       "twitter (from entidad)": [
         "@EmaguaBo"
       ]
@@ -4121,7 +4121,7 @@
           "url": "https://dl.airtable.com/.attachments/bb66a1b85d2d3ddd216f4b2ad387d99c/f438da43/Ep4E9qVWMAIDXJ0.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1341515203054342157",
+      "fuente_inicio": "https://twitter.com/SaludDeportesBo/status/1341515203054342157",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4138,7 +4138,7 @@
       "sigla (from entidad)": [
         "CEASS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341689639090970625"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341689639090970625"
     },
     {
       "airtableId": "recMrJnpzXfz3HkE8",
@@ -4176,7 +4176,7 @@
           "url": "https://dl.airtable.com/.attachments/f0f0590d73cdc82f6fdd5891872544d4/3ef357a0/EqW3NARXYAIgGp_.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
+      "fuente_inicio": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4193,7 +4193,7 @@
       "sigla (from entidad)": [
         "IPDSA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344029112990654464",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344029112990654464",
       "twitter (from entidad)": [
         "@IPDSA_Bolivia"
       ]
@@ -4234,7 +4234,7 @@
           "url": "https://dl.airtable.com/.attachments/657e1c85338b4e055874c3491e77aa7b/6a8c5f6d/EnSsQCiXMAEODA5.png"
         }
       ],
-      "fuente": "https://www.facebook.com/LuchoXBolivia/videos/393791228497070",
+      "fuente_inicio": "https://www.facebook.com/LuchoXBolivia/videos/393791228497070",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -4258,7 +4258,7 @@
       "sigla (from entidad)": [
         "MCDD"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329877215971074056",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329877215971074056",
       "twitter (from persona)": [
         "@sabinaore70"
       ]
@@ -4299,7 +4299,7 @@
           "url": "https://dl.airtable.com/.attachments/07bd9182b79721f670f0cdc516cf3ee1/b87f8054/bergamo_pref_margiacchi_con_ambasciatore_bolivia_vedia.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/RadioIllimani/status/1333755342380003328",
+      "fuente_inicio": "https://twitter.com/RadioIllimani/status/1333755342380003328",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -4316,7 +4316,7 @@
       "sigla (from entidad)": [
         "VGIC"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333765392934850562"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333765392934850562"
     },
     {
       "airtableId": "recNqgkWoTl4ENV3T",
@@ -4354,7 +4354,7 @@
           "url": "https://dl.airtable.com/.attachments/60facc25f43f3b2dc39c7c06ada714d8/2e6d97d7/Ev-u-oCWYAY201q.png"
         }
       ],
-      "fuente": "https://twitter.com/minedubol/status/1369005226347405315",
+      "fuente_inicio": "https://twitter.com/minedubol/status/1369005226347405315",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4371,7 +4371,7 @@
       "sigla (from entidad)": [
         "OPCE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1369023030098337793",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1369023030098337793",
       "twitter (from entidad)": [
         "@o_p_c_e"
       ]
@@ -4412,7 +4412,7 @@
           "url": "https://dl.airtable.com/.attachments/7fcbce9c7d37e23e311b29305879a4b2/4555eca2/Er4W18pXEAUEnvC.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1350542146416336897",
+      "fuente_inicio": "https://twitter.com/MDRyTOficial/status/1350542146416336897",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4429,7 +4429,7 @@
       "sigla (from entidad)": [
         "Senasag"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1350554853362315265",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1350554853362315265",
       "twitter (from entidad)": [
         "@SenasagBolivia"
       ]
@@ -4470,7 +4470,7 @@
           "url": "https://dl.airtable.com/.attachments/b8b8ea6dda37c180624c397ac2095da0/bee5be96/EoqsHFeW4AQkA3Z.jpeg"
         }
       ],
-      "fuente": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
+      "fuente_inicio": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4487,7 +4487,7 @@
       "sigla (from entidad)": [
         "ENFE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1336229157383114753",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1336229157383114753",
       "twitter (from entidad)": [
         "@ENFE_BOLIVIA"
       ]
@@ -4528,7 +4528,7 @@
           "url": "https://dl.airtable.com/.attachments/e328782891a742c2e5dee9eab215af09/8b75190c/f_2016-05-22_44.jpeg"
         }
       ],
-      "fuente": "https://www.lostiempos.com/actualidad/pais/20201218/ministra-trabajo-posesiona-martin-bazurco-como-viceministro-empleo-servicio",
+      "fuente_inicio": "https://www.lostiempos.com/actualidad/pais/20201218/ministra-trabajo-posesiona-martin-bazurco-como-viceministro-empleo-servicio",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4545,7 +4545,7 @@
       "sigla (from entidad)": [
         "VESCC"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1340056464065503233",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1340056464065503233",
       "twitter (from persona)": [
         "@MartinBazurco"
       ]
@@ -4560,7 +4560,7 @@
       "entidad": [
         "recnMVBZ5qClj0H5c"
       ],
-      "fuente": "https://www.abi.bo/#/noticia/1257",
+      "fuente_inicio": "https://www.abi.bo/#/noticia/1257",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4577,7 +4577,7 @@
       "sigla (from entidad)": [
         "INRA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1358773635599769603",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1358773635599769603",
       "twitter (from entidad)": [
         "@INRA_Nacional"
       ]
@@ -4618,7 +4618,7 @@
           "url": "https://dl.airtable.com/.attachments/2ccacbabb15a42630ed1fb18597cfef0/f07b9e0d/d2b16920-eeee-4775-b5f6-55c7c10a97c1.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/senarecom1/status/1341452365505974283",
+      "fuente_inicio": "https://twitter.com/senarecom1/status/1341452365505974283",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4635,7 +4635,7 @@
       "sigla (from entidad)": [
         "Senarecom"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341456338942124032",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341456338942124032",
       "twitter (from entidad)": [
         "@senarecom1"
       ]
@@ -4676,7 +4676,7 @@
           "url": "https://dl.airtable.com/.attachments/9b1b8c77541be5de03a1353d870bb0fb/aa4d22e2/EmqesUUW4AYMgWp.png"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/gabriela-alcon-es-nombrada-viceministra-de-comunicacion-274688.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/12/gabriela-alcon-es-nombrada-viceministra-de-comunicacion-274688.html",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -4690,7 +4690,7 @@
       "persona": [
         "recXGuvR23HSVcOUY"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327047625577820164",
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327047625577820164",
       "twitter (from entidad)": [
         "@vicemincom"
       ],
@@ -4734,7 +4734,7 @@
           "url": "https://dl.airtable.com/.attachments/34835c4d1763df9fb6c92b7ebd776fbe/8fac6779/EmrLaYTWEAEXOOx.png"
         }
       ],
-      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
+      "fuente_inicio": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -4748,7 +4748,7 @@
       "persona": [
         "recXHEkasC2ydJGCN"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327096732317085696"
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327096732317085696"
     },
     {
       "airtableId": "recPEATEMOSO55oHs",
@@ -4786,7 +4786,7 @@
           "url": "https://dl.airtable.com/.attachments/dea8f5712fef7547dfca49320eb72cf9/9dd85ad2/202012030202.jpeg"
         }
       ],
-      "fuente": "https://comunicacion.gob.bo/?q=20201203/31381",
+      "fuente_inicio": "https://comunicacion.gob.bo/?q=20201203/31381",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4803,7 +4803,7 @@
       "sigla (from entidad)": [
         "FNSE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334548951635255300"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334548951635255300"
     },
     {
       "airtableId": "recPMwmzPpBJtBoJ0",
@@ -4841,7 +4841,7 @@
           "url": "https://dl.airtable.com/.attachments/17dccb20c431b78deb034cd25f40b781/93e58136/EqA4YIcXEAIXC_R.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1342134740745392129",
+      "fuente_inicio": "https://twitter.com/SaludDeportesBo/status/1342134740745392129",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -4858,7 +4858,7 @@
       "sigla (from entidad)": [
         "AISEM"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1342176944293605377",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1342176944293605377",
       "twitter (from entidad)": [
         "@AISEM_BOLIVIA"
       ]
@@ -4899,7 +4899,7 @@
           "url": "https://dl.airtable.com/.attachments/4b732160726f7c21f76dac425500662a/2d65d69d/urea.png"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -4913,7 +4913,7 @@
       "persona": [
         "recXT62L8mD8YnVkF"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331070387543805953",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331070387543805953",
       "twitter (from persona)": [
         "@AUREABALDERRAMA"
       ]
@@ -4954,10 +4954,12 @@
           "url": "https://dl.airtable.com/.attachments/9f093064cb700d2617401c533da67b4a/49009876/cergio-prudencio-1024x683.jpeg"
         }
       ],
-      "fuente": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
+      "fuente_fin": "https://eldeber.com.bo/tendencias/cergio-prudencio-renuncia-al-viceministerio-de-interculturalidad-por-falta-de-criterios-de-gestion_224087",
+      "fuente_inicio": "https://www.la-razon.com/nacional/2020/11/20/sabina-orellana-fue-posesionada-como-ministra-de-culturas-llama-a-acabar-con-el-racismo/",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-03-12",
       "id": 42,
       "nombre (from entidad)": [
         "Viceministerio de Interculturalidad"
@@ -4968,7 +4970,8 @@
       "persona": [
         "recXU1Ov3QnvcOesw"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330023229583396864"
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1370676235421028353",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330023229583396864"
     },
     {
       "airtableId": "recQGiiCKU8RljYpu",
@@ -5006,7 +5009,7 @@
           "url": "https://dl.airtable.com/.attachments/8b9380e6561d6cecd1831f0ef169fa44/bf7295c7/309720_1_18.jpeg"
         }
       ],
-      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
+      "fuente_inicio": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5020,7 +5023,7 @@
       "persona": [
         "recYiUOiAx8yWHwK4"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330028460597776385"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330028460597776385"
     },
     {
       "airtableId": "recQJyD13H5dbGlxn",
@@ -5058,7 +5061,7 @@
           "url": "https://dl.airtable.com/.attachments/289d46fb2abf39b09e7d3a58f2d62d84/e581eb65/sandracruz.png"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -5072,7 +5075,7 @@
       "persona": [
         "recYla9HTk5UM4TSX"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331071560111837188"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331071560111837188"
     },
     {
       "airtableId": "recQebcFZCzM7C4WA",
@@ -5110,7 +5113,7 @@
           "url": "https://dl.airtable.com/.attachments/2fe515cff6faba52170c31bf43687ca8/fbcbf2c4/EoFzpd3WEAYwZX4.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474215861899266",
+      "fuente_inicio": "https://twitter.com/BOLIVIA_MH/status/1333474215861899266",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5127,7 +5130,7 @@
       "sigla (from entidad)": [
         "ENDE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333476047350861831",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333476047350861831",
       "twitter (from entidad)": [
         "@ENDECORPORACION"
       ]
@@ -5192,7 +5195,7 @@
           "url": "https://dl.airtable.com/.attachments/5302584332e80a5705b902affb58edb3/e6bc3f34/EnndK64XEAIMQbj.jpeg"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5209,7 +5212,7 @@
       "sigla (from entidad)": [
         "FNDR"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331629481132429312",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331629481132429312",
       "twitter (from entidad)": [
         "@FNDR_Bolivia"
       ]
@@ -5250,7 +5253,7 @@
           "url": "https://dl.airtable.com/.attachments/2735e6ce503425dfb9e38cb85c4b91d1/e565ba05/EnnrF3zW4AAlIRU.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
+      "fuente_inicio": "https://twitter.com/pagina_siete/status/1331356280489906178",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5264,7 +5267,7 @@
       "persona": [
         "rec0NYM263zJUydOX"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331357554098712576",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331357554098712576",
       "twitter (from entidad)": [
         "@AutonomiasBol"
       ]
@@ -5329,7 +5332,7 @@
           "url": "https://dl.airtable.com/.attachments/7b0ad5640d4d5dcf533d537295c3ff51/844af89c/VTILCCJuliaSusanaRios.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -5343,7 +5346,7 @@
       "persona": [
         "rec05OpaQtSBMW1Ih"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327092510678769666",
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327092510678769666",
       "twitter (from entidad)": [
         "@V_Transparencia"
       ]
@@ -5384,7 +5387,7 @@
           "url": "https://dl.airtable.com/.attachments/1ebb0aa7cd189ae28649bdb76ada865c/488123e1/280a72a4-b385-4436-b32c-efce39a1323c.jpeg"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201228_posesionan-a-placido-condori-como-director-general-del-senasag.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201228_posesionan-a-placido-condori-como-director-general-del-senasag.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5405,7 +5408,7 @@
       "sucesora": [
         "recNsj89xBrqIj1BJ"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1343746402007060481",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1343746402007060481",
       "twitter (from entidad)": [
         "@SenasagBolivia"
       ]
@@ -5446,7 +5449,7 @@
           "url": "https://dl.airtable.com/.attachments/a0e69f59d9acf7c3f5cf22d55b22b649/989fe727/ramiro-villavicencio_1392348480_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5509,7 +5512,7 @@
           "url": "https://dl.airtable.com/.attachments/7932dbe0dc34538c582a08e9aeba55e0/d8480d14/EqW3NARXYAIgGp_.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
+      "fuente_inicio": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5526,7 +5529,7 @@
       "sigla (from entidad)": [
         "INSA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344026642914676736",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344026642914676736",
       "twitter (from entidad)": [
         "@insa_bolivia"
       ]
@@ -5567,7 +5570,7 @@
           "url": "https://dl.airtable.com/.attachments/51c6a8fd97fb8fd56a7325f475c7cc69/97ab06d5/342007.jpg"
         }
       ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1351995939398049811",
+      "fuente_inicio": "https://twitter.com/SaludDeportesBo/status/1351995939398049811",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -5584,7 +5587,7 @@
       "sigla (from entidad)": [
         "CPS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1352171591602491393",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1352171591602491393",
       "twitter (from entidad)": [
         "@CajaPetroleraBO"
       ]
@@ -5625,7 +5628,7 @@
           "url": "https://dl.airtable.com/.attachments/60f5e7089bac97c6a38fbb90102a88b3/42269d3e/EqW3NARXYAIgGp_.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
+      "fuente_inicio": "https://twitter.com/MDRyTOficial/status/1343681574815064067",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -5642,7 +5645,7 @@
       "sigla (from entidad)": [
         "FDI"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344028127958343684",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344028127958343684",
       "twitter (from entidad)": [
         "@FDIBolivia"
       ]
@@ -5683,7 +5686,7 @@
           "url": "https://dl.airtable.com/.attachments/0d341fd95075acd2ca6edce051b6d3f4/dc58ac66/EoGLAilXYAcZgpq.png"
         }
       ],
-      "fuente": "http://www.boliviatv.bo/principal/noticia.php?noticia=657b52bf6610edfc096abf0cc079da8f&lang=es",
+      "fuente_inicio": "http://www.boliviatv.bo/principal/noticia.php?noticia=657b52bf6610edfc096abf0cc079da8f&lang=es",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5700,7 +5703,7 @@
       "sigla (from entidad)": [
         "Bolivia Tv"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333517116792770563",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333517116792770563",
       "twitter (from entidad)": [
         "@Canal_BoliviaTV"
       ]
@@ -5741,7 +5744,7 @@
           "url": "https://dl.airtable.com/.attachments/5ba86936579db15462b2589bde4212b3/61558a73/nstor-huanca_1392869495_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5801,7 +5804,7 @@
           "url": "https://dl.airtable.com/.attachments/2dbb6c371266a73859143d8f6098a15f/dd1b97b2/EnTiXPeXEAIPiKu.jpeg"
         }
       ],
-      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
+      "fuente_inicio": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5818,7 +5821,7 @@
       "sigla (from entidad)": [
         "Fonabosque"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330027410599923714",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330027410599923714",
       "twitter (from entidad)": [
         "@fonabosque"
       ]
@@ -5883,7 +5886,7 @@
           "url": "https://dl.airtable.com/.attachments/a3e9105c463ddf6628cb2e8e54ae558e/6de6088b/EnhAj0DXIAANRq5.jpeg"
         }
       ],
-      "fuente": "https://mobile.twitter.com/MIGRACION_BOL/status/1330909496126951425",
+      "fuente_inicio": "https://mobile.twitter.com/MIGRACION_BOL/status/1330909496126951425",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -5900,7 +5903,7 @@
       "sigla (from entidad)": [
         "Digemig"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1335522973470617606",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1335522973470617606",
       "twitter (from entidad)": [
         "@MIGRACION_BOL"
       ]
@@ -5941,7 +5944,7 @@
           "url": "https://dl.airtable.com/.attachments/8e5c0dbf5bc87b452c2e1baf911a933d/a8504331/bartolome.png"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201123_adrian-quelca-juramento-a-tres-viceministros-de-educacion.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -5955,7 +5958,7 @@
       "persona": [
         "rec3MTYwmnvxKRgoS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331069507033567236"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331069507033567236"
     },
     {
       "airtableId": "recVqHwXSsW7njFGk",
@@ -5993,7 +5996,7 @@
           "url": "https://dl.airtable.com/.attachments/e4488776dcb3f4aa27e364ec7297c7dd/b9bb54c0/marianela-prada_1399103276_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -6025,7 +6028,7 @@
     },
     {
       "airtableId": "recVy6qaqPBhY2yLs",
-      "cargo": "MInistro de Salud y Deportes",
+      "cargo": "Ministro de Salud y Deportes",
       "dependencia (from entidad)": [
         "recDPejejWlgRG7Vc"
       ],
@@ -6059,7 +6062,7 @@
           "url": "https://dl.airtable.com/.attachments/739deefac1aa114b75c1d97b215c881f/a7076a67/Er3He3MXYAIc_5S.jpeg"
         }
       ],
-      "fuente": "https://www.lostiempos.com/actualidad/pais/20210116/posesionan-jeyson-marcos-auza-como-nuevo-ministro-salud",
+      "fuente_inicio": "https://www.lostiempos.com/actualidad/pais/20210116/posesionan-jeyson-marcos-auza-como-nuevo-ministro-salud",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6076,7 +6079,7 @@
       "sigla (from entidad)": [
         "MSD"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1350454799364448262",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1350454799364448262",
       "twitter (from entidad)": [
         "@SaludDeportesBo"
       ],
@@ -6120,7 +6123,7 @@
           "url": "https://dl.airtable.com/.attachments/c5b6594efa76ff1dfd942f8fb976cf97/8cc513af/83ac0bdfd4f74de1bfd4d8f1ca89e72f.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/Bolivia_MHE/status/1340999339120967683",
+      "fuente_inicio": "https://twitter.com/Bolivia_MHE/status/1340999339120967683",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -6137,7 +6140,7 @@
       "sigla (from entidad)": [
         "ABEN"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341039574613700614",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341039574613700614",
       "twitter (from entidad)": [
         "@ABENinforma"
       ]
@@ -6202,7 +6205,7 @@
           "url": "https://dl.airtable.com/.attachments/8aa1d96a183ed481d371f2448cd0525b/2a1ee3fc/herbas.jpg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1355266119028903938",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1355266119028903938",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6219,7 +6222,7 @@
       "sigla (from entidad)": [
         "VT"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1355276101707300866"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1355276101707300866"
     },
     {
       "airtableId": "recX06mvBnhnpOGdO",
@@ -6240,7 +6243,7 @@
           "url": "https://dl.airtable.com/.attachments/dc05cb2c86d241b617d5954b39c31fe4/35ba2b1a/EnWJt4_XMAQfonY.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
+      "fuente_inicio": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6254,7 +6257,7 @@
       "persona": [
         "rec5CISbr0h40ceyo"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330120688598982658"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330120688598982658"
     },
     {
       "airtableId": "recX1WE8IK22fWJtq",
@@ -6292,7 +6295,7 @@
           "url": "https://dl.airtable.com/.attachments/9a80fd1a23ce6782d7dc79bd3fa640b0/4be29b1b/EoWoM2aXMAAqeTL.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334657921792270341",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1334657921792270341",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6309,7 +6312,7 @@
       "sigla (from entidad)": [
         "VMTel"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334779178680512514"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334779178680512514"
     },
     {
       "airtableId": "recXYgpK3JhNTX4rq",
@@ -6347,7 +6350,7 @@
           "url": "https://dl.airtable.com/.attachments/86782eff5ee5fcb263f30074c11e2857/63b3d00c/f_2017-08-15_10.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/minedubol/status/1341507306291421186",
+      "fuente_inicio": "https://twitter.com/minedubol/status/1341507306291421186",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6364,7 +6367,7 @@
       "sigla (from entidad)": [
         "EGPP"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341677350564618241",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341677350564618241",
       "twitter (from entidad)": [
         "@egppbol"
       ],
@@ -6408,7 +6411,7 @@
           "url": "https://dl.airtable.com/.attachments/a416823eec67efa4688e1e472e6d39e5/cb4291aa/freddybobaryn.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/LaRazon_Bolivia/status/1327322323377119232",
+      "fuente_inicio": "https://twitter.com/LaRazon_Bolivia/status/1327322323377119232",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6422,7 +6425,7 @@
       "persona": [
         "rec5MiEDsX3BAEDBT"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327332161565896704",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1327332161565896704",
       "twitter (from persona)": [
         "@fbobaryn"
       ]
@@ -6470,7 +6473,7 @@
           "url": "https://dl.airtable.com/.attachments/5978a3d332253f76c1374510b5d71fc9/75e17c50/EnndK64XMAIV1j5.jpeg"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201124_posesionan-a-los-nuevos-directores-del-fndr-y-fps.html",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -6487,7 +6490,7 @@
       "sigla (from entidad)": [
         "FPS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331629723793944576",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331629723793944576",
       "twitter (from entidad)": [
         "@FPS_Bolivia"
       ]
@@ -6528,7 +6531,7 @@
           "url": "https://dl.airtable.com/.attachments/16f2c3355cb6bff489a569bedb55bec2/c61945a1/EnV-PeaXEAA69ql.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
+      "fuente_inicio": "https://eldeber.com.bo/economia/posesionan-a-viceministro-de-coca-y-al-director-de-la-hoja-de-coca_209471",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6542,7 +6545,7 @@
       "persona": [
         "rec61OldBV0M1p6VW"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330108072006721538",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330108072006721538",
       "twitter (from entidad)": [
         "@cocavcdi"
       ]
@@ -6607,7 +6610,7 @@
           "url": "https://dl.airtable.com/.attachments/f50ba2e106534d40c08c81c1452f6eb6/d06a0a49/Eo5259qXcAATjf-.png"
         }
       ],
-      "fuente": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
+      "fuente_inicio": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6624,7 +6627,7 @@
       "sigla (from entidad)": [
         "VPC"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337149550025449484"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337149550025449484"
     },
     {
       "airtableId": "recZXvyClhE8ZyTnR",
@@ -6662,7 +6665,7 @@
           "url": "https://dl.airtable.com/.attachments/26a4e359f98a855bf4f76b21055aa5df/afd4e9df/whatsapp_image_2021-01-13_at_20.23.59.jpg"
         }
       ],
-      "fuente": "https://www.lostiempos.com/actualidad/economia/20210113/posesionan-directores-ajam-sergeomin",
+      "fuente_inicio": "https://www.lostiempos.com/actualidad/economia/20210113/posesionan-directores-ajam-sergeomin",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -6679,7 +6682,7 @@
       "sigla (from entidad)": [
         "AJAM"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1349637186728189952",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1349637186728189952",
       "twitter (from entidad)": [
         "@AJAMBolivia"
       ]
@@ -6720,7 +6723,7 @@
           "url": "https://dl.airtable.com/.attachments/cf4d5e24f72909dafe58238c585bc108/2a623725/EqdDNBKWMAABLzN.jpeg"
         }
       ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
+      "fuente_inicio": "https://www1.abi.bo/abi_/?i=461694",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6734,7 +6737,7 @@
       "persona": [
         "recNhlyr9d3lIDwxo"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344116906899484672",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344116906899484672",
       "twitter (from entidad)": [
         "@ComandoLas"
       ]
@@ -6775,7 +6778,7 @@
           "url": "https://dl.airtable.com/.attachments/72cc0cfbaa052a3a583f684166156237/f809c8ff/ramiro-villavicencio_1391196167_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6835,7 +6838,7 @@
           "url": "https://dl.airtable.com/.attachments/ce08768136e8d7d83f5017344ca1271f/6d86d6c8/EmqfOK1WEAA4W5r.jpeg"
         }
       ],
-      "fuente": "http://erbol.com.bo/nacional/edwin-rojas-ulo-jura-como-nuevo-presidente-del-banco-central-de-bolivia",
+      "fuente_inicio": "http://erbol.com.bo/nacional/edwin-rojas-ulo-jura-como-nuevo-presidente-del-banco-central-de-bolivia",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -6852,7 +6855,7 @@
       "sigla (from entidad)": [
         "BCB"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327048145554051083",
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327048145554051083",
       "twitter (from entidad)": [
         "@BancoCentralBO"
       ]
@@ -6941,7 +6944,7 @@
           "url": "https://dl.airtable.com/.attachments/1dcaa78f4b56293c53109cc87109a7c8/0e28c114/EnhAy6IXEAAmA8P.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
+      "fuente_inicio": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -6955,7 +6958,7 @@
       "persona": [
         "recihl05auzJxwujD"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330914210197499904"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330914210197499904"
     },
     {
       "airtableId": "recagbaP23mAGkKvs",
@@ -6993,7 +6996,7 @@
           "url": "https://dl.airtable.com/.attachments/caae6e560bed766b0622862dfbba3024/6f82acd7/yujra-asume-como-nuevo-director-ejecutivo-de-la-asfi.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/pais/posesionan-a-reynaldo-yujra-como-director-ejecutivo-de-la-asfi_210727",
+      "fuente_inicio": "https://eldeber.com.bo/pais/posesionan-a-reynaldo-yujra-como-director-ejecutivo-de-la-asfi_210727",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7010,7 +7013,7 @@
       "sigla (from entidad)": [
         "ASFI"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334252230157938696",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334252230157938696",
       "twitter (from entidad)": [
         "@asfibolivia"
       ]
@@ -7051,7 +7054,7 @@
           "url": "https://dl.airtable.com/.attachments/d01344e47b8e6a9f91dc18e7b7fbb084/959678ca/EmvEBvsXcAULiQF.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/seguridad/2020/11/13/jaime-mamani-es-viceministro-de-defensa-social-sustancias-controladas-274813.html",
+      "fuente_inicio": "https://www.paginasiete.bo/seguridad/2020/11/13/jaime-mamani-es-viceministro-de-defensa-social-sustancias-controladas-274813.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7065,7 +7068,7 @@
       "persona": [
         "recjvpPcIgaFIWoaN"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327370051951976449"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1327370051951976449"
     },
     {
       "airtableId": "recbtkDR7mpsbHaw3",
@@ -7103,7 +7106,7 @@
           "url": "https://dl.airtable.com/.attachments/22e52ad1a410a292c0091460bb0c270f/071edbf5/Ep4Eq4_XcAsWIgZ.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/SaludDeportesBo/status/1341514883570003969",
+      "fuente_inicio": "https://twitter.com/SaludDeportesBo/status/1341514883570003969",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -7120,7 +7123,7 @@
       "sigla (from entidad)": [
         "ASUSS"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341691035953606656",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341691035953606656",
       "twitter (from entidad)": [
         "@AsussBolivia"
       ],
@@ -7164,7 +7167,7 @@
           "url": "https://dl.airtable.com/.attachments/d31eedcb1778226620d23feb520f476f/358b89d1/EocQcKGXIAAlnAV.jpeg"
         }
       ],
-      "fuente": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
+      "fuente_inicio": "https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/https://produccion.gob.bo/2020/12/desarrollo-productivo-posesiona-a-directores-de-insumos-bolivia-senatex-y-aemp/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7181,7 +7184,7 @@
       "sigla (from entidad)": [
         "AEMP"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1335175318622048256",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1335175318622048256",
       "twitter (from entidad)": [
         "@AEMP_Bolivia"
       ]
@@ -7222,7 +7225,7 @@
           "url": "https://dl.airtable.com/.attachments/7b65386da5b413b9bb7a81694fce5a39/b2640521/IMG-20201207-WA0039.jpeg"
         }
       ],
-      "fuente": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
+      "fuente_inicio": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7239,7 +7242,7 @@
       "sigla (from entidad)": [
         "DGAC"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1336230559526301696",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1336230559526301696",
       "twitter (from entidad)": [
         "@dgacbolivia"
       ]
@@ -7304,7 +7307,7 @@
           "url": "https://dl.airtable.com/.attachments/bf27a5d2582fcc44a634ddcd69bcd407/8246bf03/VDDUCFelipeJorgeSilvaTrujillo.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7321,7 +7324,7 @@
       "sigla (from entidad)": [
         "VDDUC"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327051769881505792",
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327051769881505792",
       "twitter (from entidad)": [
         "@consumidorbo"
       ],
@@ -7348,7 +7351,7 @@
           "url": "https://dl.airtable.com/.attachments/dc05cb2c86d241b617d5954b39c31fe4/35ba2b1a/EnWJt4_XMAQfonY.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
+      "fuente_inicio": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7362,7 +7365,7 @@
       "persona": [
         "reclhaXeEH4r5myXQ"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330120207558438914"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330120207558438914"
     },
     {
       "airtableId": "recdMinbx2Gb9PV8h",
@@ -7400,7 +7403,7 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7418,7 +7421,7 @@
       "sucesora": [
         "recKJSf4XRbNjuhu2"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328378396544561152"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328378396544561152"
     },
     {
       "airtableId": "recdTZnJr6vir76bu",
@@ -7456,7 +7459,7 @@
           "url": "https://dl.airtable.com/.attachments/d86db29268416a140033d4eec301ac7f/8459890d/EoZw7kGW8AMOEJh.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
+      "fuente_inicio": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7473,7 +7476,7 @@
       "sigla (from entidad)": [
         "VPIMGE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334915214555443208"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334915214555443208"
     },
     {
       "airtableId": "rece1Mf8u7gPlDr59",
@@ -7511,7 +7514,7 @@
           "url": "https://dl.airtable.com/.attachments/74abda25d90730adafd9605d2160e356/611b15a5/Ep4pm_uXUAcZnXK.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1341535721660837895",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1341535721660837895",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7528,7 +7531,7 @@
       "sigla (from entidad)": [
         "Vías Bolivia"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1341692683711098885",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341692683711098885",
       "twitter (from entidad)": [
         "@ViasBoliviaONal"
       ]
@@ -7569,7 +7572,7 @@
           "url": "https://dl.airtable.com/.attachments/fd4a56ebc3bc41ac12f730777b7b63a3/c909b5f4/EmrKEaLXcAE9srN.png"
         }
       ],
-      "fuente": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
+      "fuente_inicio": "http://erbol.com.bo/nacional/acuden-exfuncionarios-para-ocupar-cargos-de-viceministros-en-econom%C3%ADa",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7583,7 +7586,7 @@
       "persona": [
         "recmLCdRFNO19mqTQ"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327095255221612545"
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327095255221612545"
     },
     {
       "airtableId": "receVQlmY61UqxdDG",
@@ -7621,7 +7624,7 @@
           "url": "https://dl.airtable.com/.attachments/a9a0005cceb3d021cb80fe3549437f42/8fc30e26/big-IvanZambranaABE.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1334659108088262656",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1334659108088262656",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7638,7 +7641,7 @@
       "sigla (from entidad)": [
         "ABE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334781183830450178",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334781183830450178",
       "twitter (from entidad)": [
         "@ABEBOLIVIA"
       ]
@@ -7679,7 +7682,7 @@
           "url": "https://dl.airtable.com/.attachments/69ed345f52a4ab5ef4f20e82f45767ee/5a8448da/EnOgqeEW8AIVdbo.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1329567594328842241",
+      "fuente_inicio": "https://twitter.com/Canal_BoliviaTV/status/1329567594328842241",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7693,7 +7696,7 @@
       "persona": [
         "recnbqJsmoq3KgdNC"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329582969800040448",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329582969800040448",
       "twitter (from entidad)": [
         "@vmsc_bolivia"
       ]
@@ -7734,7 +7737,7 @@
           "url": "https://dl.airtable.com/.attachments/b6a2fee5840b46ef93a0305a6f77e46a/f4ce0d5e/EoZw7kGW8AMOEJh.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
+      "fuente_inicio": "https://twitter.com/MDPyEPBolivia/status/1334878534653841409",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7751,7 +7754,7 @@
       "sigla (from entidad)": [
         "VCI"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334912626623733765",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334912626623733765",
       "twitter (from entidad)": [
         "@vcie_bo"
       ]
@@ -7816,7 +7819,7 @@
           "url": "https://dl.airtable.com/.attachments/d7ac17762bc82f197755a1e4346dca13/c668b0fb/1f25c7_Gerente2.jpeg"
         }
       ],
-      "fuente": "https://www.delapaz.bo/noticias?n=viceministro-de-electricidad-y-energias-alternativas-posesiona-al-ing.-julio-aruquipa-como-nuevo-gerente-general-de-delapaz",
+      "fuente_inicio": "https://www.delapaz.bo/noticias?n=viceministro-de-electricidad-y-energias-alternativas-posesiona-al-ing.-julio-aruquipa-como-nuevo-gerente-general-de-delapaz",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7833,7 +7836,7 @@
       "sigla (from entidad)": [
         "DELAPAZ"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1338762489790607360",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1338762489790607360",
       "twitter (from entidad)": [
         "@delapazbol"
       ]
@@ -7874,7 +7877,7 @@
           "url": "https://dl.airtable.com/.attachments/8219565ce290d520f2d0432fa5adb9e7/4d93e5db/marcelo-alejandro-montenegro_1396110620_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7934,7 +7937,7 @@
           "url": "https://dl.airtable.com/.attachments/dc05cb2c86d241b617d5954b39c31fe4/35ba2b1a/EnWJt4_XMAQfonY.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
+      "fuente_inicio": "https://eldeber.com.bo/economia/ministro-de-mineria-posesiono-a-tres-de-sus-viceministros_209470",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -7948,7 +7951,7 @@
       "persona": [
         "reco7pqU1VHk9vIix"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330119773137620995"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330119773137620995"
     },
     {
       "airtableId": "rechLVAC9mH7pjkcL",
@@ -7986,7 +7989,7 @@
           "url": "https://dl.airtable.com/.attachments/ca382395e8d6e73b947d0777f2ad7c59/e876f79b/72fbf578-6f0f-454b-8ce9-bb59169cfe2a.jpg"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201117_victor-quispe-es-el-nuevo-viceministro-de-trabajo-y-prevision-social.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201117_victor-quispe-es-el-nuevo-viceministro-de-trabajo-y-prevision-social.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8000,7 +8003,7 @@
       "persona": [
         "recpnx6iZZHO0HSxl"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328782274796675074"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328782274796675074"
     },
     {
       "airtableId": "recinShBhg8QirJVY",
@@ -8038,7 +8041,7 @@
           "url": "https://dl.airtable.com/.attachments/30edf85ccb24f51763944a814c0e3a5e/23865a6e/POSESION_VICE_2.jpg"
         }
       ],
-      "fuente": "https://www.minedu.gob.bo/index.php?option=com_content&view=article&id=4787&catid=182&Itemid=854",
+      "fuente_inicio": "https://www.minedu.gob.bo/index.php?option=com_content&view=article&id=4787&catid=182&Itemid=854",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8055,7 +8058,7 @@
       "sigla (from entidad)": [
         "VCyT"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1351947057653805057"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1351947057653805057"
     },
     {
       "airtableId": "recio0kFx9eRUaPRg",
@@ -8093,7 +8096,7 @@
           "url": "https://dl.airtable.com/.attachments/1671169336a31e4f1f3489ec7530ad34/b007c872/1605830897737575-1-1.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
+      "fuente_inicio": "https://eldeber.com.bo/economia/ministro-de-economia-posesiona-a-nuevos-directores-de-la-aj-y-del-senape_209338",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8110,7 +8113,7 @@
       "sigla (from entidad)": [
         "Senape"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329706323890622469",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329706323890622469",
       "twitter (from entidad)": [
         "@SenapeBolivia"
       ]
@@ -8151,7 +8154,7 @@
           "url": "https://dl.airtable.com/.attachments/3bc2deaf6a94534022f177303f25d944/424b32b0/felima-gabriela-mendoza_1397555933_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -8211,7 +8214,7 @@
           "url": "https://dl.airtable.com/.attachments/6b002f5674a9280540cfa4c0d3c79332/b9d1d050/Calvimontes-12-533x261.jpg"
         }
       ],
-      "fuente": "https://www.la-razon.com/nacional/2020/11/12/el-exministro-juan-carlos-calvimontes-nuevo-viceministro-de-defensa-civil/",
+      "fuente_inicio": "https://www.la-razon.com/nacional/2020/11/12/el-exministro-juan-carlos-calvimontes-nuevo-viceministro-de-defensa-civil/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8225,7 +8228,7 @@
       "persona": [
         "recrQ9kTL2NMZqkOl"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327169942895128576"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1327169942895128576"
     },
     {
       "airtableId": "recjubB7hLPwRvcsA",
@@ -8263,7 +8266,7 @@
           "url": "https://dl.airtable.com/.attachments/dbc7e38aad6830c5d5bf68c8db674b21/caf90355/juan-santa-cruz_1391831511_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8323,7 +8326,7 @@
           "url": "https://dl.airtable.com/.attachments/f390387980d5cd9d2c2c0d74f052357e/39f3dfe1/helena_argirakis_1_caladaaaa.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/pagina_siete/status/1331356280489906178",
+      "fuente_inicio": "https://twitter.com/pagina_siete/status/1331356280489906178",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -8340,7 +8343,7 @@
       "sigla (from entidad)": [
         "SEA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331358805590937600"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331358805590937600"
     },
     {
       "airtableId": "reckbIhAa5OUDtAQQ",
@@ -8378,7 +8381,7 @@
           "url": "https://dl.airtable.com/.attachments/03f508153470579297da3960795b918c/7a9b62da/EqBNjWAW4AIAfZw.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MDRyTOficial/status/1342158918827565066/photo/2",
+      "fuente_inicio": "https://twitter.com/MDRyTOficial/status/1342158918827565066/photo/2",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8395,7 +8398,7 @@
       "sigla (from entidad)": [
         "Fonadin"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1342587152811618304",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1342587152811618304",
       "twitter (from entidad)": [
         "@fonadin_bolivia"
       ]
@@ -8436,7 +8439,7 @@
           "url": "https://dl.airtable.com/.attachments/cc37177cdc0a69774df511c793cddd11/f8305d11/rogelio-mayta-mayta_1399719292_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8503,7 +8506,7 @@
           "url": "https://dl.airtable.com/.attachments/0f39e9f3f27e93cd740abd868cc37e1a/6f832514/6cb74849-ff01-423e-8f69-0753cb8218dc.jpeg"
         }
       ],
-      "fuente": "https://correodelsur.com/local/20201127_carmelo-valda-a-la-cabeza-del-viceministerio-de-agua.html",
+      "fuente_inicio": "https://correodelsur.com/local/20201127_carmelo-valda-a-la-cabeza-del-viceministerio-de-agua.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8520,7 +8523,7 @@
       "sigla (from entidad)": [
         null
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332293970752380929",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332293970752380929",
       "twitter (from persona)": [
         "@CarmeloValda"
       ]
@@ -8561,7 +8564,7 @@
           "url": "https://dl.airtable.com/.attachments/6c6a60ee360131d7ead379fb1f7d65dd/e0a7919f/EqBNjWAW4AIAfZw.jpeg"
         }
       ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461501",
+      "fuente_inicio": "https://www1.abi.bo/abi_/?i=461501",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8578,7 +8581,7 @@
       "sigla (from entidad)": [
         "INIAF"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1342585276460363776",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1342585276460363776",
       "twitter (from entidad)": [
         "@INIAFBolivia"
       ]
@@ -8619,7 +8622,7 @@
           "url": "https://dl.airtable.com/.attachments/166337899fa4f1a05ffe8f8de87b41c5/8eadd5a6/edgar-pozo_1393889698_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8686,7 +8689,7 @@
           "url": "https://dl.airtable.com/.attachments/cc8afd0a201f5a0d5d9d3c132cf514f6/dc60c45d/EoKxkgNW8AMbhLe.png"
         }
       ],
-      "fuente": "https://twitter.com/Canal_BoliviaTV/status/1333823932638633985",
+      "fuente_inicio": "https://twitter.com/Canal_BoliviaTV/status/1333823932638633985",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8703,7 +8706,7 @@
       "sigla (from entidad)": [
         "Mi Teleférico"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333830566614102016",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333830566614102016",
       "twitter (from entidad)": [
         "@miteleferico"
       ]
@@ -8744,7 +8747,7 @@
           "url": "https://dl.airtable.com/.attachments/d0c88ce6a3b8ac07e939702784d77368/31adbf94/2019N297216.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/abi_bolivia/status/1334525577378861059",
+      "fuente_inicio": "https://twitter.com/abi_bolivia/status/1334525577378861059",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8761,7 +8764,7 @@
       "sigla (from entidad)": [
         "AFCOOP"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334550777306689536"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334550777306689536"
     },
     {
       "airtableId": "reco6N1CFBdVnWDgy",
@@ -8823,7 +8826,7 @@
           "url": "https://dl.airtable.com/.attachments/d0f7586038ca35a1afe4b3578c0a68dd/a240327a/f768x1-333869_333996_5050.webp"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/12/ministro-de-justicia-posesiona-cinco-nuevos-viceministros-274696.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8841,7 +8844,7 @@
       "sucesora": [
         "rec6N2HNTBByviXYS"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1327093489939714049"
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327093489939714049"
     },
     {
       "airtableId": "recoH7VxyxXA1mRYv",
@@ -8879,7 +8882,7 @@
           "url": "https://dl.airtable.com/.attachments/e811975f7842d9d96144f58311484a04/2e4298b4/EoFpSznXYAcHNSF.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/vicemincom/status/1333462794990137347",
+      "fuente_inicio": "https://twitter.com/vicemincom/status/1333462794990137347",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8896,7 +8899,7 @@
       "sigla (from entidad)": [
         "ABI"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333479622848245774",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333479622848245774",
       "twitter (from entidad)": [
         "@abi_bolivia"
       ]
@@ -8937,7 +8940,7 @@
           "url": "https://dl.airtable.com/.attachments/3c42e7b71aeb31f5c13b0658d2f3f434/9111d983/freddymamani.jpg"
         }
       ],
-      "fuente": "https://www.periodicobolivia.com.bo/posesionan-a-freddy-mamani-como-viceministro-de-relaciones-exteriores/",
+      "fuente_inicio": "https://www.periodicobolivia.com.bo/posesionan-a-freddy-mamani-como-viceministro-de-relaciones-exteriores/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -8954,7 +8957,7 @@
       "sigla (from entidad)": [
         "VRE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1337865247877713920",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337865247877713920",
       "twitter (from persona)": [
         "@FreddyMamani_Bo"
       ]
@@ -8995,7 +8998,7 @@
           "url": "https://dl.airtable.com/.attachments/dfe4ddef0ad7579a9ffbd42ee26d6741/74e6f32c/adrin-quelca_1393448589_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9064,7 +9067,7 @@
           "url": "https://dl.airtable.com/.attachments/c7fdd8421f261fea82a2fe55182579cd/b51f4e59/presidente.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/BOLIVIA_MH/status/1333474029911609344",
+      "fuente_inicio": "https://twitter.com/BOLIVIA_MH/status/1333474029911609344",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9081,7 +9084,7 @@
       "sigla (from entidad)": [
         "VEEA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333475096711847937"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333475096711847937"
     },
     {
       "airtableId": "recpaIpiUsmPRpcvD",
@@ -9119,7 +9122,7 @@
           "url": "https://dl.airtable.com/.attachments/632d8b4368d898f83a99b0bb894d34a1/40cabfb5/EnhDVIGXYAIaKZ1.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/vicemincom/status/1330888016215351300",
+      "fuente_inicio": "https://twitter.com/vicemincom/status/1330888016215351300",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9133,7 +9136,7 @@
       "persona": [
         "recxMkVYK5mwsNKQd"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330915947645898754"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330915947645898754"
     },
     {
       "airtableId": "recpbIDze6l3No8Xr",
@@ -9171,7 +9174,7 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9189,7 +9192,7 @@
       "sucesora": [
         "rectGUYoEjTV9iSat"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328379383762055168",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328379383762055168",
       "twitter (from entidad)": [
         "@ArmadaBoliviana"
       ]
@@ -9230,7 +9233,7 @@
           "url": "https://dl.airtable.com/.attachments/f8423a9aeed5fabd4330f57fd94433f7/7bc7112d/roque-mendez-soleto-entel-telecomunicaciones_lrzima20130419_0156_11.jpeg"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201127_roy-mendez-retorna-a-la-gerencia-de-entel.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201127_roy-mendez-retorna-a-la-gerencia-de-entel.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9247,7 +9250,7 @@
       "sigla (from entidad)": [
         "Entel-Bolivia"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332616878020288512",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332616878020288512",
       "twitter (from entidad)": [
         "@entelbo"
       ]
@@ -9288,7 +9291,7 @@
           "url": "https://dl.airtable.com/.attachments/e0594c1b81cd0eeb373d582f2f5bd220/e1c93208/EmptIKkXUAMgWW3.jpeg"
         }
       ],
-      "fuente": "https://www.lostiempos.com/actualidad/pais/20201112/gabriela-alcon-es-nueva-viceministra-comunicacion-juan-villca-coordinacion ",
+      "fuente_inicio": "https://www.lostiempos.com/actualidad/pais/20201112/gabriela-alcon-es-nueva-viceministra-comunicacion-juan-villca-coordinacion ",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9302,7 +9305,7 @@
       "persona": [
         "recyGbnd3uCXC3I5Z"
       ],
-      "tweet": "https://mobile.twitter.com/BoliviaMaes/status/1326993065945526272"
+      "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1326993065945526272"
     },
     {
       "airtableId": "recqRdFZXznk5dCyt",
@@ -9340,7 +9343,7 @@
           "url": "https://dl.airtable.com/.attachments/65f4ee1fbf02886a2a078ac2ee2eeec9/33769483/f33505c3-9c71-4cc0-ae92-24d61a9ceebe.jpeg"
         }
       ],
-      "fuente": "https://correodelsur.com/politica/20201126_ana-maria-morales-asume-como-nueva-directora-de-la-uif.html",
+      "fuente_inicio": "https://correodelsur.com/politica/20201126_ana-maria-morales-asume-como-nueva-directora-de-la-uif.html",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -9357,7 +9360,7 @@
       "sigla (from entidad)": [
         "UIF"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332235424824233984"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332235424824233984"
     },
     {
       "airtableId": "recqW1xocpPZdWieY",
@@ -9395,7 +9398,7 @@
           "url": "https://dl.airtable.com/.attachments/02d7eaf020d91067d52de70b9ec653d7/bf5db6df/2020120214553136441.jpeg"
         }
       ],
-      "fuente": "https://www.opinion.com.bo/articulo/pais/ronald-caso-vuelve-ser-gerente-boa/20201202145131798208.html",
+      "fuente_inicio": "https://www.opinion.com.bo/articulo/pais/ronald-caso-vuelve-ser-gerente-boa/20201202145131798208.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9412,7 +9415,7 @@
       "sigla (from entidad)": [
         "BoA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1334217316100399109",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334217316100399109",
       "twitter (from entidad)": [
         "@BoABolivia"
       ],
@@ -9480,7 +9483,7 @@
           "url": "https://dl.airtable.com/.attachments/c1026bf8ba15cab24803275478293295/05fba922/Etz_bzsXIAgrfax.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1359242473999118338",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1359242473999118338",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9497,7 +9500,7 @@
       "sigla (from entidad)": [
         "Correos"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1359244277394649091",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1359244277394649091",
       "twitter (from entidad)": [
         "@AGBCorreos"
       ],
@@ -9541,7 +9544,7 @@
           "url": "https://dl.airtable.com/.attachments/e909737da2ba7a9f7fea808f0140e751/8bac3571/alopez.jpg"
         }
       ],
-      "fuente": "https://www.att.gob.bo/content/n%C3%B3mina-de-autoridades",
+      "fuente_inicio": "https://www.att.gob.bo/content/n%C3%B3mina-de-autoridades",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9558,7 +9561,7 @@
       "sigla (from entidad)": [
         "ATT"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1367520336804249602",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1367520336804249602",
       "twitter (from entidad)": [
         "@ATTBolivia"
       ]
@@ -9599,7 +9602,7 @@
           "url": "https://dl.airtable.com/.attachments/c95ce6dbb7f4f565fceb09c10be11fdf/e1609d48/f608x342-335582_365305_164.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/economia/exejecutivo-de-la-afp-prevision-bbva-es-designado-gerente-general-de-la-gestora-publica_210081",
+      "fuente_inicio": "https://eldeber.com.bo/economia/exejecutivo-de-la-afp-prevision-bbva-es-designado-gerente-general-de-la-gestora-publica_210081",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9613,7 +9616,7 @@
       "persona": [
         "rec27Tcxm6ZnVzSdh"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1331876258519642112"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331876258519642112"
     },
     {
       "airtableId": "rectCXUdlwoaJzMV3",
@@ -9651,7 +9654,7 @@
           "url": "https://dl.airtable.com/.attachments/05a9c4130d84b9dbd6464f6300a8ad24/61a42001/EoFijaQWEAIOwzE.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/vicemincom/status/1333455634231144452",
+      "fuente_inicio": "https://twitter.com/vicemincom/status/1333455634231144452",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9668,7 +9671,7 @@
       "sigla (from entidad)": [
         "RPO"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333478247833722883"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333478247833722883"
     },
     {
       "airtableId": "rectGUYoEjTV9iSat",
@@ -9706,7 +9709,7 @@
           "url": "https://dl.airtable.com/.attachments/b613d20e90121b9d4fd1df2926e546c6/231a3a6e/EqdGgZ3XcAMcXnY.jpeg"
         }
       ],
-      "fuente": "https://www1.abi.bo/abi_/?i=461694",
+      "fuente_inicio": "https://www1.abi.bo/abi_/?i=461694",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9720,7 +9723,7 @@
       "persona": [
         "reclOca8D9b1W0Byu"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344137832202432512",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344137832202432512",
       "twitter (from entidad)": [
         "@ArmadaBoliviana"
       ]
@@ -9761,7 +9764,7 @@
           "url": "https://dl.airtable.com/.attachments/3e487bd420c8060075aefd076235f68c/55b695f0/Em9YpA_XUAYPVTz.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/11/16/arce-posesiona-al-alto-mando-militar-de-las-ffaa-275065.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9779,7 +9782,7 @@
       "sucesora": [
         "rec9LiMgX5f8nF38a"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328378779840942081",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328378779840942081",
       "twitter (from entidad)": [
         "@BoliviaEjercito"
       ]
@@ -9844,7 +9847,7 @@
           "url": "https://dl.airtable.com/.attachments/1c16c3f1b31bb204b99f87b785ca6471/bd57ef32/EnDTkAxW4AAfOhg.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/AgeticOficial/status/1328795211288424449",
+      "fuente_inicio": "https://twitter.com/AgeticOficial/status/1328795211288424449",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9861,7 +9864,7 @@
       "sigla (from entidad)": [
         "AGETIC"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328798468333318145",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328798468333318145",
       "twitter (from entidad)": [
         "@AgeticOficial"
       ]
@@ -9902,7 +9905,7 @@
           "url": "https://dl.airtable.com/.attachments/24767312b5e82a84303cb824395ae6c2/0b9fe974/EmvWmMwW8AIItd5.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/noticiasfides/status/1327386120871620608",
+      "fuente_inicio": "https://twitter.com/noticiasfides/status/1327386120871620608",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -9919,7 +9922,7 @@
       "sigla (from entidad)": [
         "ABC"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1327390470503346176"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1327390470503346176"
     },
     {
       "airtableId": "recu3JmGxYQ4wCbue",
@@ -9981,7 +9984,7 @@
           "url": "https://dl.airtable.com/.attachments/8b824d92a4d89c3d30bbcec8a6c262b0/5b7b5538/Eng-wqmWMAUDPa9.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
+      "fuente_inicio": "https://twitter.com/MinSaludBolivia/status/1330882719040098305",
       "genero (from persona)": [
         "Mujer"
       ],
@@ -9995,7 +9998,7 @@
       "persona": [
         "recCFlSmnBQL70JPO"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330914758715969542"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330914758715969542"
     },
     {
       "airtableId": "recuCDoC9kxbG3N4J",
@@ -10033,7 +10036,7 @@
           "url": "https://dl.airtable.com/.attachments/d8761eca20ddb96e18a6735a8552b460/f2675836/En6A6PWW4AAuyCV.jpeg"
         }
       ],
-      "fuente": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
+      "fuente_inicio": "https://www.opinion.com.bo/articulo/pais/hidrocarburos-posesiona-viceministros-encargados-consolidar-industrializacion-litio-fortalecer-exploracion/20201127212120797601.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10050,7 +10053,7 @@
       "sigla (from entidad)": [
         "VEEH"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1332644544677076992/photo/1"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332644544677076992/photo/1"
     },
     {
       "airtableId": "recvIwUlY2hrATL5k",
@@ -10088,7 +10091,7 @@
           "url": "https://dl.airtable.com/.attachments/cde5c5299b585fcf1dc89de315222e23/f23c49bb/336376.jpeg"
         }
       ],
-      "fuente": "https://www.paginasiete.bo/nacional/2020/12/1/arce-destituye-wilson-caceres-posesiona-nuevo-ministro-de-desarrollo-rural-276686.html",
+      "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/12/1/arce-destituye-wilson-caceres-posesiona-nuevo-ministro-de-desarrollo-rural-276686.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10108,7 +10111,7 @@
       "sigla (from entidad)": [
         "MDRyT"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333875982474895366",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333875982474895366",
       "twitter (from entidad)": [
         "@MDRyTOficial"
       ]
@@ -10149,7 +10152,7 @@
           "url": "https://dl.airtable.com/.attachments/1c6851948aa9da8021f1e8a8931d7253/e95b14d3/wilson-cceres_1394239355_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10234,7 +10237,7 @@
           "url": "https://dl.airtable.com/.attachments/f050b9ccf3b3c67e04e2a6cdea3faca3/6f9a8542/img.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/ABTBolivia/status/1344100496387284992",
+      "fuente_inicio": "https://twitter.com/ABTBolivia/status/1344100496387284992",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10251,7 +10254,7 @@
       "sigla (from entidad)": [
         "ABT"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1344223028385886208",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344223028385886208",
       "twitter (from entidad)": [
         "@ABTBolivia"
       ],
@@ -10295,7 +10298,7 @@
           "url": "https://dl.airtable.com/.attachments/a65e2413d4b7648a85690dbe9a45aafa/d8e18a25/edmundo-novillo_1398271901_760x520.jpeg"
         }
       ],
-      "fuente": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
+      "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10358,7 +10361,7 @@
           "url": "https://dl.airtable.com/.attachments/601932cb45b8f7f5ea02964c3d60cfb0/7561fe3c/EnyRduDXMAEDnT6.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/AmbienteyAgua/status/1332099545765974016",
+      "fuente_inicio": "https://twitter.com/AmbienteyAgua/status/1332099545765974016",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10375,7 +10378,7 @@
       "sigla (from entidad)": [
         "VRHR"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333482090705412099"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333482090705412099"
     },
     {
       "airtableId": "recx1arPJ3gpOvBp6",
@@ -10413,7 +10416,7 @@
           "url": "https://dl.airtable.com/.attachments/b0c7233e71632443b0bf9dbeaef974f6/1e289f0a/EpY3m_pW8Acg-dF.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/mopsv_Bolivia/status/1339320625802964994",
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1339320625802964994",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10430,7 +10433,7 @@
       "sigla (from entidad)": [
         "AASANA"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1339336010438729730",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1339336010438729730",
       "twitter (from entidad)": [
         "@AASANABOLIVIA"
       ]
@@ -10471,7 +10474,7 @@
           "url": "https://dl.airtable.com/.attachments/e0604b6b219dff30babc409f74d4c79c/52ac8f8e/Esw3nkOXAAIxAjE.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/ASPBolivia/status/1354519477203980289",
+      "fuente_inicio": "https://twitter.com/ASPBolivia/status/1354519477203980289",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10488,7 +10491,7 @@
       "sigla (from entidad)": [
         "ASP-B"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1354543164099588107",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1354543164099588107",
       "twitter (from entidad)": [
         "@ASPBolivia"
       ],
@@ -10556,7 +10559,7 @@
           "url": "https://dl.airtable.com/.attachments/3dfcc65962a4de069b0aea94a48b7ca9/bbaf8d89/EnSO1McXEAg5XQW.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/REV0LUCI0N_2006/status/1329844860111687683",
+      "fuente_inicio": "https://twitter.com/REV0LUCI0N_2006/status/1329844860111687683",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10573,7 +10576,7 @@
       "sigla (from entidad)": [
         "UPRE"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1329859533506752512"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329859533506752512"
     },
     {
       "airtableId": "reczFB7WODjnPoXWd",
@@ -10611,7 +10614,7 @@
           "url": "https://dl.airtable.com/.attachments/9b40e564ded78037849ed227785f97b9/d7be56ef/EoFkNtjXIAA5JgY.jpeg"
         }
       ],
-      "fuente": "https://twitter.com/vicemincom/status/1333457671350050819",
+      "fuente_inicio": "https://twitter.com/vicemincom/status/1333457671350050819",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10625,7 +10628,7 @@
       "persona": [
         "recldMdA2XUqRrpG4"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1333478933220757511",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333478933220757511",
       "twitter (from entidad)": [
         "@Bolivia_bol"
       ]
@@ -10682,7 +10685,7 @@
       "sigla (from entidad)": [
         "ADSIB"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1328728947476017154",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328728947476017154",
       "twitter (from entidad)": [
         "@AdsibBolivia"
       ]
@@ -10723,7 +10726,7 @@
           "url": "https://dl.airtable.com/.attachments/202b8f4f44c02231ee61a944c0e2a8d8/cc071d03/EnTdOSpXIAMW6jL.jpeg"
         }
       ],
-      "fuente": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
+      "fuente_inicio": "https://www.mmaya.gob.bo/2020/11/magin-herrera-asume-como-viceministro-de-medio-ambiente-y-biodiversidad/",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10740,7 +10743,7 @@
       "sigla (from entidad)": [
         "SERNAP"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1330024810269827072",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330024810269827072",
       "twitter (from entidad)": [
         "@BoliviaSernap"
       ]
@@ -10781,7 +10784,7 @@
           "url": "https://dl.airtable.com/.attachments/959a9da12b71ae6f1e1cd29d6523dae6/ccc8bb7d/Screenshot_2021-01-212021012115240515975jpgImageJPEG1280720pixels.png"
         }
       ],
-      "fuente": "https://www.opinion.com.bo/articulo/cultura/german-monje-asume-direccion-adecine/20210121152450804738.html",
+      "fuente_inicio": "https://www.opinion.com.bo/articulo/cultura/german-monje-asume-direccion-adecine/20210121152450804738.html",
       "genero (from persona)": [
         "Hombre"
       ],
@@ -10798,7 +10801,7 @@
       "sigla (from entidad)": [
         "Adecine"
       ],
-      "tweet": "https://twitter.com/BoliviaMaes/status/1352368384432885761",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1352368384432885761",
       "twitter (from entidad)": [
         "@adecinebolivia"
       ]
