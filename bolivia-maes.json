@@ -10416,10 +10416,12 @@
           "url": "https://dl.airtable.com/.attachments/b0c7233e71632443b0bf9dbeaef974f6/1e289f0a/EpY3m_pW8Acg-dF.jpeg"
         }
       ],
+      "fuente_fin": "https://twitter.com/mopsv_Bolivia/status/1376701844056109057",
       "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1339320625802964994",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-03-30",
       "id": 138,
       "nombre (from entidad)": [
         "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea"
@@ -10433,6 +10435,7 @@
       "sigla (from entidad)": [
         "AASANA"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1376821837636767744",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1339336010438729730",
       "twitter (from entidad)": [
         "@AASANABOLIVIA"
