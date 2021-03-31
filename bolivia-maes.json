@@ -3949,6 +3949,67 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333476812651962370"
     },
     {
+      "airtableId": "recLPQlcEJC3aAwFW",
+      "cargo": "Director Ejecutivo de la ATT (Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes)",
+      "dependencia (from entidad)": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "desde": "2021-03-30",
+      "entidad": [
+        "rechNCDLrBEgjniot"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "index.jpeg",
+          "id": "attI70OzQCgRMWbC8",
+          "size": 120077,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/767883f83f6a8ab2f1ff72f9db775ce1/4da6d98f",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/728f103e3d2196e12a20f26d1324fade/c914d19b",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/20363ec54a11fd105ed7b74d190279be/08a0f3d4",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/ab7cd374b8f005f7addf3f12bcc7ad3e/e714f4b2/index.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1376975826105810947\n",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 192,
+      "nombre (from entidad)": [
+        "Autoridad de Fiscalización y Regulación de Telecomunicaciones y Transportes"
+      ],
+      "nombre (from persona)": [
+        "Nestor Ríos Rivero"
+      ],
+      "persona": [
+        "recSXPwnvGi3OtuYS"
+      ],
+      "sigla (from entidad)": [
+        "ATT"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1376985459298033669",
+      "twitter (from entidad)": [
+        "@ATTBolivia"
+      ],
+      "twitter (from persona)": [
+        "@NesRiosRivero"
+      ]
+    },
+    {
       "airtableId": "recME9ztz5dSGXaei",
       "cargo": "Viceministro de Régimen Interior y Policía",
       "dependencia (from entidad)": [
@@ -9548,6 +9609,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-03-30",
       "id": 188,
       "nombre (from entidad)": [
         "Autoridad de Fiscalización y Regulación de Telecomunicaciones y Transportes"
@@ -9560,6 +9622,9 @@
       ],
       "sigla (from entidad)": [
         "ATT"
+      ],
+      "sucesora": [
+        "recLPQlcEJC3aAwFW"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1367520336804249602",
       "twitter (from entidad)": [
@@ -12330,7 +12395,8 @@
     {
       "airtableId": "rechNCDLrBEgjniot",
       "autoridades": [
-        "recr6QutNh34jHTk5"
+        "recr6QutNh34jHTk5",
+        "recLPQlcEJC3aAwFW"
       ],
       "dependencia": [
         "recKXt5RcXpXXrIyO"
@@ -16199,6 +16265,42 @@
       "genero": "Hombre",
       "id": 5,
       "nombre": "César Adalid Siles Bazán"
+    },
+    {
+      "airtableId": "recSXPwnvGi3OtuYS",
+      "autoridades": [
+        "recLPQlcEJC3aAwFW"
+      ],
+      "fotos": [
+        {
+          "filename": "index.jpeg",
+          "id": "attI70OzQCgRMWbC8",
+          "size": 120077,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/767883f83f6a8ab2f1ff72f9db775ce1/4da6d98f",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/728f103e3d2196e12a20f26d1324fade/c914d19b",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/20363ec54a11fd105ed7b74d190279be/08a0f3d4",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/ab7cd374b8f005f7addf3f12bcc7ad3e/e714f4b2/index.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 181,
+      "nombre": "Nestor Ríos Rivero",
+      "twitter": "@NesRiosRivero"
     },
     {
       "airtableId": "recSouprA8gofGOYN",
