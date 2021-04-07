@@ -1349,6 +1349,61 @@
       ]
     },
     {
+      "airtableId": "rec900hVRjQt9byy8",
+      "cargo": "Viceministro de Seguridad Ciudadana",
+      "dependencia (from entidad)": [
+        "recVFpQI3U7A124Tu"
+      ],
+      "desde": "2021-04-07",
+      "entidad": [
+        "recpsq3ZnIN1y8B5F"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "NUEVO_VOCEMINISTRO_DE_SEGURIDAD_CIUDADANA.jpg",
+          "id": "attSNBw5IGkuDY64r",
+          "size": 146947,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/51d43485a9ff6c20048dd449fc3d0f86/1639adee",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/132d1b11ed81ba0b94d9c2848cf07404/7e1ccc20",
+              "width": 782
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2972b7b367517ec5bf5d4b149aac6466/956517c3",
+              "width": 55
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/61bf10e41321d35e40802d51725a12d5/f8f78621/NUEVO_VOCEMINISTRO_DE_SEGURIDAD_CIUDADANA.jpg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/MindeGobierno/status/1379784276984672258",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 193,
+      "nombre (from entidad)": [
+        "Viceministerio de Seguridad Ciudadana"
+      ],
+      "nombre (from persona)": [
+        "Roberto Ríos Sanjinéz"
+      ],
+      "persona": [
+        "recBTSvTMFdI04d8k"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1379810311973244943",
+      "twitter (from entidad)": [
+        "@vmsc_bolivia"
+      ]
+    },
+    {
       "airtableId": "rec9LiMgX5f8nF38a",
       "cargo": "Comandante General Accidental del Ejercito",
       "dependencia (from entidad)": [
@@ -7747,6 +7802,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-04-07",
       "id": 34,
       "nombre (from entidad)": [
         "Viceministerio de Seguridad Ciudadana"
@@ -7756,6 +7812,9 @@
       ],
       "persona": [
         "recnbqJsmoq3KgdNC"
+      ],
+      "sucesora": [
+        "rec900hVRjQt9byy8"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329582969800040448",
       "twitter (from entidad)": [
@@ -12697,7 +12756,8 @@
     {
       "airtableId": "recpsq3ZnIN1y8B5F",
       "autoridades": [
-        "recfzOdMwLqm9SFs2"
+        "recfzOdMwLqm9SFs2",
+        "rec900hVRjQt9byy8"
       ],
       "dependencia": [
         "recVFpQI3U7A124Tu"
@@ -14567,6 +14627,41 @@
       "genero": "Hombre",
       "id": 18,
       "nombre": "Henry Nina Calle"
+    },
+    {
+      "airtableId": "recBTSvTMFdI04d8k",
+      "autoridades": [
+        "rec900hVRjQt9byy8"
+      ],
+      "fotos": [
+        {
+          "filename": "NUEVO_VOCEMINISTRO_DE_SEGURIDAD_CIUDADANA.jpg",
+          "id": "attSNBw5IGkuDY64r",
+          "size": 146947,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/51d43485a9ff6c20048dd449fc3d0f86/1639adee",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/132d1b11ed81ba0b94d9c2848cf07404/7e1ccc20",
+              "width": 782
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2972b7b367517ec5bf5d4b149aac6466/956517c3",
+              "width": 55
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/61bf10e41321d35e40802d51725a12d5/f8f78621/NUEVO_VOCEMINISTRO_DE_SEGURIDAD_CIUDADANA.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 182,
+      "nombre": "Roberto Ríos Sanjinéz"
     },
     {
       "airtableId": "recBjyTLMmkcC8AR8",
