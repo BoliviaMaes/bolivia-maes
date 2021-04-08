@@ -4532,6 +4532,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-04-07",
       "id": 172,
       "nombre (from entidad)": [
         "Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria"
@@ -4544,6 +4545,9 @@
       ],
       "sigla (from entidad)": [
         "Senasag"
+      ],
+      "sucesora": [
+        "recm7WmHvM5d6pQ9M"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1350554853362315265",
       "twitter (from entidad)": [
@@ -8591,6 +8595,67 @@
       ]
     },
     {
+      "airtableId": "recm7WmHvM5d6pQ9M",
+      "cargo": "Director General Ejecutivo del Senasag (Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria)",
+      "dependencia (from entidad)": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "desde": "2021-04-07",
+      "entidad": [
+        "recAmAK3GEie38r1Y"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "index.jpeg",
+          "id": "attpOYJeeVKWrFajK",
+          "size": 6254,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/93e1bdd7b087dd4501b8a973530e5ff5/71700d52",
+              "width": 3000
+            },
+            "large": {
+              "height": 225,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/74e8de2446b91567b6b68ebd4b9fbc17/71babe74",
+              "width": 225
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e40fdac99e2fc472b7aea76c9c2079c5/1427b099",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/179063acbaf0c9e1b740f98f83ec411e/9dc6c80a/index.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/3348",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 194,
+      "nombre (from entidad)": [
+        "Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria"
+      ],
+      "nombre (from persona)": [
+        "Patrick Nogales Mejía"
+      ],
+      "persona": [
+        "recD0NfJIm1lvim6X"
+      ],
+      "sigla (from entidad)": [
+        "Senasag"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1380105677566267394",
+      "twitter (from entidad)": [
+        "@SenasagBolivia"
+      ],
+      "twitter (from persona)": [
+        "@nogalespatrick"
+      ]
+    },
+    {
       "airtableId": "recmFfU2YPNzG2m1T",
       "cargo": "Viceministro de Agua Potable y Saneamiento Básico",
       "dependencia (from entidad)": [
@@ -11201,7 +11266,8 @@
       "airtableId": "recAmAK3GEie38r1Y",
       "autoridades": [
         "recSuKsCg3P672YTE",
-        "recNsj89xBrqIj1BJ"
+        "recNsj89xBrqIj1BJ",
+        "recm7WmHvM5d6pQ9M"
       ],
       "dependencia": [
         "recdkuR3fetrWHrQf"
@@ -14895,6 +14961,42 @@
       "id": 103,
       "nombre": "David Choquehuanca Céspedes",
       "twitter": "@LaramaDavid"
+    },
+    {
+      "airtableId": "recD0NfJIm1lvim6X",
+      "autoridades": [
+        "recm7WmHvM5d6pQ9M"
+      ],
+      "fotos": [
+        {
+          "filename": "index.jpeg",
+          "id": "attpOYJeeVKWrFajK",
+          "size": 6254,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/93e1bdd7b087dd4501b8a973530e5ff5/71700d52",
+              "width": 3000
+            },
+            "large": {
+              "height": 225,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/74e8de2446b91567b6b68ebd4b9fbc17/71babe74",
+              "width": 225
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e40fdac99e2fc472b7aea76c9c2079c5/1427b099",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/179063acbaf0c9e1b740f98f83ec411e/9dc6c80a/index.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 183,
+      "nombre": "Patrick Nogales Mejía",
+      "twitter": "@nogalespatrick"
     },
     {
       "airtableId": "recDJ2t4RNXoKDDdl",
