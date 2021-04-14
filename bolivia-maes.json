@@ -3032,10 +3032,12 @@
           "url": "https://dl.airtable.com/.attachments/bdb18e6b9c432db9871f67c1509e4ef9/b82f9db1/Prensa_0.jpeg"
         }
       ],
+      "fuente_fin": "https://www.paginasiete.bo/economia/2021/4/14/planificacion-viceministros-se-van-hay-denuncias-de-maltratos-290736.html",
       "fuente_inicio": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-03-12",
       "id": 129,
       "nombre (from entidad)": [
         "Viceministerio de Inversión Pública y Financiamiento Externo"
@@ -3049,6 +3051,7 @@
       "sigla (from entidad)": [
         "VIPFE"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1382337640037498887",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337150847822815233"
     },
     {
@@ -6730,10 +6733,12 @@
           "url": "https://dl.airtable.com/.attachments/f50ba2e106534d40c08c81c1452f6eb6/d06a0a49/Eo5259qXcAATjf-.png"
         }
       ],
+      "fuente_fin": "https://www.paginasiete.bo/economia/2021/4/14/planificacion-viceministros-se-van-hay-denuncias-de-maltratos-290736.html",
       "fuente_inicio": "https://twitter.com/Bolivia_bol/status/1337136901682307078",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-04-12",
       "id": 128,
       "nombre (from entidad)": [
         "Viceministerio de Planificación y Coordinación"
@@ -6747,6 +6752,7 @@
       "sigla (from entidad)": [
         "VPC"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1382336926624124929",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337149550025449484"
     },
     {
