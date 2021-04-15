@@ -5201,6 +5201,64 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331071560111837188"
     },
     {
+      "airtableId": "recQacFbxMHYJsJpd",
+      "cargo": "Directora General Ejecutiva de AASANA (Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea)",
+      "dependencia (from entidad)": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "desde": "2021-04-14",
+      "entidad": [
+        "recIysVnliGTwljf1"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "16.jpg",
+          "id": "attsMtYdsjF8SmUZq",
+          "size": 95285,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bab23bd43cc5edf03045f4744fcdd86b/cdb33ef4",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/78eedd936525676ca07c9aef6d9a4918/067b69a5",
+              "width": 849
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a5b756247af979eb90e194668b20ae85/c59fad7d",
+              "width": 60
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/3c1bd0e319e1a6a6de15105359dda1f0/a18f9a1c/16.jpg"
+        }
+      ],
+      "fuente_inicio": "https://www.la-razon.com/economia/2021/04/14/arminda-choque-trabajo-12-anos-en-aasana-y-ahora-es-su-maxima-autoridad/",
+      "genero (from persona)": [
+        "Mujer"
+      ],
+      "id": 195,
+      "nombre (from entidad)": [
+        "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea"
+      ],
+      "nombre (from persona)": [
+        "Arminda Choque Paca"
+      ],
+      "persona": [
+        "reccJzwTM8Jb28g2T"
+      ],
+      "sigla (from entidad)": [
+        "AASANA"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1382563149434515459",
+      "twitter (from entidad)": [
+        "@AASANABOLIVIA"
+      ]
+    },
+    {
       "airtableId": "recQebcFZCzM7C4WA",
       "cargo": "Presidente Ejecutivo Interino de ENDE (Empresa Nacional de Electricidad)",
       "dependencia (from entidad)": [
@@ -10286,10 +10344,12 @@
           "url": "https://dl.airtable.com/.attachments/cde5c5299b585fcf1dc89de315222e23/f23c49bb/336376.jpeg"
         }
       ],
+      "fuente_fin": "https://www.erbol.com.bo/seguridad/edwin-characayo-dice-que-el-caso-fue-%E2%80%98planificado%E2%80%99-y-su-defensa-asegura-que-no-recibi%C3%B3-ni",
       "fuente_inicio": "https://www.paginasiete.bo/nacional/2020/12/1/arce-destituye-wilson-caceres-posesiona-nuevo-ministro-de-desarrollo-rural-276686.html",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-04-14",
       "id": 86,
       "nombre (from entidad)": [
         "Ministerio de Desarrollo Rural y Tierras"
@@ -10306,6 +10366,7 @@
       "sigla (from entidad)": [
         "MDRyT"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1382560581656449026",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333875982474895366",
       "twitter (from entidad)": [
         "@MDRyTOficial"
@@ -10629,6 +10690,9 @@
       ],
       "sigla (from entidad)": [
         "AASANA"
+      ],
+      "sucesora": [
+        "recQacFbxMHYJsJpd"
       ],
       "tweet_fin": "https://twitter.com/BoliviaMaes/status/1376821837636767744",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1339336010438729730",
@@ -11540,7 +11604,8 @@
     {
       "airtableId": "recIysVnliGTwljf1",
       "autoridades": [
-        "recx1arPJ3gpOvBp6"
+        "recx1arPJ3gpOvBp6",
+        "recQacFbxMHYJsJpd"
       ],
       "dependencia": [
         "recKXt5RcXpXXrIyO"
@@ -11549,7 +11614,8 @@
       "nombre": "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea",
       "sigla": "AASANA",
       "tipo": "Otro",
-      "twitter": "@AASANABOLIVIA"
+      "twitter": "@AASANABOLIVIA",
+      "webpage": "https://aasana.bo/"
     },
     {
       "airtableId": "recJ4C785jhxaYWDJ",
@@ -17455,6 +17521,41 @@
       "genero": "Mujer",
       "id": 37,
       "nombre": "Jessica Paola Saravia"
+    },
+    {
+      "airtableId": "reccJzwTM8Jb28g2T",
+      "autoridades": [
+        "recQacFbxMHYJsJpd"
+      ],
+      "fotos": [
+        {
+          "filename": "16.jpg",
+          "id": "attsMtYdsjF8SmUZq",
+          "size": 95285,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bab23bd43cc5edf03045f4744fcdd86b/cdb33ef4",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/78eedd936525676ca07c9aef6d9a4918/067b69a5",
+              "width": 849
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a5b756247af979eb90e194668b20ae85/c59fad7d",
+              "width": 60
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/3c1bd0e319e1a6a6de15105359dda1f0/a18f9a1c/16.jpg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 184,
+      "nombre": "Arminda Choque Paca"
     },
     {
       "airtableId": "reccVW2wD55cFT51G",
