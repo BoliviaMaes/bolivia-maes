@@ -3051,6 +3051,9 @@
       "sigla (from entidad)": [
         "VIPFE"
       ],
+      "sucesora": [
+        "recO0kozCnqa93Bt9"
+      ],
       "tweet_fin": "https://twitter.com/BoliviaMaes/status/1382337640037498887",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337150847822815233"
     },
@@ -4672,6 +4675,61 @@
       "twitter (from persona)": [
         "@MartinBazurco"
       ]
+    },
+    {
+      "airtableId": "recO0kozCnqa93Bt9",
+      "cargo": "Viceministro de Inversión Pública y Financiamiento Externo",
+      "dependencia (from entidad)": [
+        "rec6hOG1aBXYJnXYZ"
+      ],
+      "desde": "2021-04-16",
+      "entidad": [
+        "recOxXon3IRtty2bn"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "Fotos columnistas 005.jpg",
+          "id": "attYgYneLP26BIJL6",
+          "size": 272422,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f584cf52caf628e2d72d8aa3b565b95f/bdbf5240",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d7ca5a61e92a7ccf7803b09089cce41f/e173d08d",
+              "width": 771
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/efae554560f7f25f75fb8b46378ca4f4/6770ab04",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/13bfa01b6cde627b7e3f6b69047ba45b/7be24a1c/Fotoscolumnistas005.jpg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/minplanifica/status/1383228552372383745",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 196,
+      "nombre (from entidad)": [
+        "Viceministerio de Inversión Pública y Financiamiento Externo"
+      ],
+      "nombre (from persona)": [
+        "Marcelo Laura Guarachi"
+      ],
+      "persona": [
+        "rec35kJQ7CbyuIuid"
+      ],
+      "sigla (from entidad)": [
+        "VIPFE"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1383288014948868097"
     },
     {
       "airtableId": "recOEV6eN7aVW3Ncg",
@@ -6809,6 +6867,9 @@
       ],
       "sigla (from entidad)": [
         "VPC"
+      ],
+      "sucesora": [
+        "recqegoy1p6QQ2SKJ"
       ],
       "tweet_fin": "https://twitter.com/BoliviaMaes/status/1382336926624124929",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337149550025449484"
@@ -9758,6 +9819,61 @@
       ]
     },
     {
+      "airtableId": "recqegoy1p6QQ2SKJ",
+      "cargo": "Viceministro de Planificación y Coordinación",
+      "dependencia (from entidad)": [
+        "rec6hOG1aBXYJnXYZ"
+      ],
+      "desde": "2021-04-16",
+      "entidad": [
+        "reciJUoAjHQX0OOlY"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "EzIHxOVXMAUyosH.jpeg",
+          "id": "attmG07PPrul3CF6F",
+          "size": 29490,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/531cd079f8eb4fd7e22ac89e34fc0af9/0e883772",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f135392dbe346030b00478f5deffe82e/dce8f679",
+              "width": 773
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d4fef71027ca51dcbc589189c7332e79/f3df1572",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/d4c77db9a2e977029eb566f8bb03cf53/5c2f8f40/EzIHxOVXMAUyosH.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/minplanifica/status/1383228552372383745",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 197,
+      "nombre (from entidad)": [
+        "Viceministerio de Planificación y Coordinación"
+      ],
+      "nombre (from persona)": [
+        "David Guachalla Terrazas"
+      ],
+      "persona": [
+        "recP9FnXx2yjhcSH6"
+      ],
+      "sigla (from entidad)": [
+        "VPC"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1383289360196378629"
+    },
+    {
       "airtableId": "recr6QutNh34jHTk5",
       "cargo": "Director Ejecutivo Interino de la ATT (Autoridad de Fiscalización y Regulación de Telecomunicaciones y Transportes)",
       "dependencia (from entidad)": [
@@ -11875,7 +11991,8 @@
     {
       "airtableId": "recOxXon3IRtty2bn",
       "autoridades": [
-        "recFGHiTt4wWIqdJq"
+        "recFGHiTt4wWIqdJq",
+        "recO0kozCnqa93Bt9"
       ],
       "dependencia": [
         "rec6hOG1aBXYJnXYZ"
@@ -12648,7 +12765,8 @@
     {
       "airtableId": "reciJUoAjHQX0OOlY",
       "autoridades": [
-        "recZDkPJe28GcfNpV"
+        "recZDkPJe28GcfNpV",
+        "recqegoy1p6QQ2SKJ"
       ],
       "dependencia": [
         "rec6hOG1aBXYJnXYZ"
@@ -14031,6 +14149,41 @@
       "id": 116,
       "nombre": "Javier Freire Bustos",
       "twitter": "@JavierFreire22"
+    },
+    {
+      "airtableId": "rec35kJQ7CbyuIuid",
+      "autoridades": [
+        "recO0kozCnqa93Bt9"
+      ],
+      "fotos": [
+        {
+          "filename": "Fotos columnistas 005.jpg",
+          "id": "attYgYneLP26BIJL6",
+          "size": 272422,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f584cf52caf628e2d72d8aa3b565b95f/bdbf5240",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d7ca5a61e92a7ccf7803b09089cce41f/e173d08d",
+              "width": 771
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/efae554560f7f25f75fb8b46378ca4f4/6770ab04",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/13bfa01b6cde627b7e3f6b69047ba45b/7be24a1c/Fotoscolumnistas005.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 185,
+      "nombre": "Marcelo Laura Guarachi"
     },
     {
       "airtableId": "rec3MTYwmnvxKRgoS",
@@ -16310,6 +16463,41 @@
       "genero": "Hombre",
       "id": 72,
       "nombre": "José María Salvador Romay Bortolini"
+    },
+    {
+      "airtableId": "recP9FnXx2yjhcSH6",
+      "autoridades": [
+        "recqegoy1p6QQ2SKJ"
+      ],
+      "fotos": [
+        {
+          "filename": "EzIHxOVXMAUyosH.jpeg",
+          "id": "attmG07PPrul3CF6F",
+          "size": 29490,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/531cd079f8eb4fd7e22ac89e34fc0af9/0e883772",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f135392dbe346030b00478f5deffe82e/dce8f679",
+              "width": 773
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d4fef71027ca51dcbc589189c7332e79/f3df1572",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/d4c77db9a2e977029eb566f8bb03cf53/5c2f8f40/EzIHxOVXMAUyosH.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 186,
+      "nombre": "David Guachalla Terrazas"
     },
     {
       "airtableId": "recPP6miNdGaSVVic",
