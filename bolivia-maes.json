@@ -2119,10 +2119,12 @@
           "url": "https://dl.airtable.com/.attachments/a7a6d8256030dfdbaf538b238a7a28f8/d582960e/oscarferrufino.jpg"
         }
       ],
+      "fuente_fin": "https://correodelsur.com/politica/20210420_renuncia-el-director-de-la-autoridad-de-fiscalizacion-y-control-de-pensiones-y-seguros.html",
       "fuente_inicio": "https://economy.com.bo/portada-economy/25-nosotros/5260-posesionan-a-%C3%B3scar-ferrufino-como-director-de-la-aps.html",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-04-19",
       "id": 132,
       "nombre (from entidad)": [
         "Autoridad de Fiscalización y Control de Pensiones y Seguros"
@@ -2136,6 +2138,7 @@
       "sigla (from entidad)": [
         "APS"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1384747590147772417",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337864353241034755",
       "twitter (from entidad)": [
         "@Bolivia_APS"
@@ -8151,6 +8154,64 @@
       ]
     },
     {
+      "airtableId": "recgWmrXLV0XQPn7C",
+      "cargo": "Ministro de Desarrollo Rural y Tierras",
+      "dependencia (from entidad)": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "desde": "2021-04-20",
+      "entidad": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "EzdRlMiWUAEcjob.jpeg",
+          "id": "attCLivsj4Y4TY91v",
+          "size": 154117,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fe954170bb8ec9785b3135904a10a04d/afaa5c38",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cefb8787301c0be415fed2d816179777/e04ad216",
+              "width": 861
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/74bae235ba8fd66c88373eea83b8c782/07500e7f",
+              "width": 61
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/ca975cf1cd19ffb34f1e6e0fbd11bbee/ab25b569/EzdRlMiWUAEcjob.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/MDRyTOficial/status/1384665118672408578\n",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 198,
+      "nombre (from entidad)": [
+        "Ministerio de Desarrollo Rural y Tierras"
+      ],
+      "nombre (from persona)": [
+        "Remmy Rubén Gonzales Atila"
+      ],
+      "persona": [
+        "recuRAVpqZSLHm78b"
+      ],
+      "sigla (from entidad)": [
+        "MDRyT"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1384748965690810368",
+      "twitter (from entidad)": [
+        "@MDRyTOficial"
+      ]
+    },
+    {
       "airtableId": "recgvNUebiHDy7aXX",
       "cargo": "Viceministro de Desarrollo Productivo Minero",
       "dependencia (from entidad)": [
@@ -10482,6 +10543,9 @@
       "sigla (from entidad)": [
         "MDRyT"
       ],
+      "sucesora": [
+        "recgWmrXLV0XQPn7C"
+      ],
       "tweet_fin": "https://twitter.com/BoliviaMaes/status/1382560581656449026",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333875982474895366",
       "twitter (from entidad)": [
@@ -12555,7 +12619,8 @@
       "airtableId": "recdkuR3fetrWHrQf",
       "autoridades": [
         "recvIwUlY2hrATL5k",
-        "recvbGZlJy5MH2abK"
+        "recvbGZlJy5MH2abK",
+        "recgWmrXLV0XQPn7C"
       ],
       "dependencia": [
         "recDPejejWlgRG7Vc"
@@ -20150,6 +20215,41 @@
       "genero": "Hombre",
       "id": 84,
       "nombre": "Sergio Daniel Altamirano Álvarez"
+    },
+    {
+      "airtableId": "recuRAVpqZSLHm78b",
+      "autoridades": [
+        "recgWmrXLV0XQPn7C"
+      ],
+      "fotos": [
+        {
+          "filename": "EzdRlMiWUAEcjob.jpeg",
+          "id": "attCLivsj4Y4TY91v",
+          "size": 154117,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fe954170bb8ec9785b3135904a10a04d/afaa5c38",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cefb8787301c0be415fed2d816179777/e04ad216",
+              "width": 861
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/74bae235ba8fd66c88373eea83b8c782/07500e7f",
+              "width": 61
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/ca975cf1cd19ffb34f1e6e0fbd11bbee/ab25b569/EzdRlMiWUAEcjob.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 187,
+      "nombre": "Remmy Rubén Gonzales Atila"
     },
     {
       "airtableId": "recuTITBJS29xN8R6",
