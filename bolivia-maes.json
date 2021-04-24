@@ -198,6 +198,7 @@
     {
       "airtableId": "rec2VWDUcJm5gZYpW",
       "cargo": "Comandante en Jefe Accidental de las Fuerzas Armadas",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recDPejejWlgRG7Vc"
       ],
@@ -963,6 +964,7 @@
     {
       "airtableId": "rec7SvwCIPN1hz5si",
       "cargo": "Comandante General de la Fuerza Aérea",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -1289,6 +1291,58 @@
       "twitter (from entidad)": [
         "@SenatexBolivia"
       ]
+    },
+    {
+      "airtableId": "rec8MrlWqi9i6JV83",
+      "cargo": "Viceministro de Lucha contra el Contrabando",
+      "dependencia (from entidad)": [
+        "recVFpQI3U7A124Tu"
+      ],
+      "desde": "2021-04-23",
+      "entidad": [
+        "recNDgMQZ59sRVlsW"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "Ezs9ILtXMAQlfBs.jpeg",
+          "id": "attutYgKKSs2gOt4F",
+          "size": 297681,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/467f92504f0a87827142f4922954afc9/16eb3e36",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ae2625074de8e5b504cfdc5c19519af8/9750b73d",
+              "width": 794
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ddc235cc7ed44c158ca5875a12c5c415/38e82271",
+              "width": 56
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/f6b5474cc4cb89679dc0cb0766483ed2/5ee5a283/Ezs9ILtXMAQlfBs.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/mindefbolivia/status/1385759333829517318",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 199,
+      "nombre (from entidad)": [
+        "Viceministerio  de Lucha Contra el Contrabando"
+      ],
+      "nombre (from persona)": [
+        "Daniel Pedro Vargas Carrasco"
+      ],
+      "persona": [
+        "recByzm0PkmwY4QhU"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1385835981174099968"
     },
     {
       "airtableId": "rec8RYVMgbacWA81M",
@@ -2086,6 +2140,7 @@
     {
       "airtableId": "recBpYsDbhG6TogXc",
       "cargo": "Director Ejecutivo de la Autoridad de Fiscalización y Control de Pensiones y Seguros (APS)",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "recDI8RDjX6z76J0n"
       ],
@@ -2513,6 +2568,7 @@
     {
       "airtableId": "recDKEWD88MNsFpPj",
       "cargo": "Viceministro  de Lucha Contra el Contrabando",
+      "causa_fin": "Deceso",
       "dependencia (from entidad)": [
         "recVFpQI3U7A124Tu"
       ],
@@ -2546,10 +2602,12 @@
           "url": "https://dl.airtable.com/.attachments/7654306a505c0d2a9bf6912f1788ed3b/03d876b1/index.jpeg"
         }
       ],
+      "fuente_fin": "https://www.la-razon.com/nacional/2021/02/27/muere-por-covid-19-el-viceministro-de-lucha-contra-el-contrabando-gonzalo-rodriguez/",
       "fuente_inicio": "https://www.erbol.com.bo/nacional/puente-asume-como-viceministro-de-defensa-y-rodr%C3%ADguez-vuelve-lucha-contra-el-contrabando",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-02-26",
       "id": 28,
       "nombre (from entidad)": [
         "Viceministerio  de Lucha Contra el Contrabando"
@@ -2560,6 +2618,10 @@
       "persona": [
         "recLmgsjYLMu33XaT"
       ],
+      "sucesora": [
+        "rec8MrlWqi9i6JV83"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1366135920643162118",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328731538125623297"
     },
     {
@@ -3002,6 +3064,7 @@
     {
       "airtableId": "recFGHiTt4wWIqdJq",
       "cargo": "Viceministro de Inversión Pública y Financiamiento Externo",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "rec6hOG1aBXYJnXYZ"
       ],
@@ -3234,6 +3297,7 @@
     {
       "airtableId": "recGD7aJZg8lxBbuX",
       "cargo": "Gerente Ejecutivo de EASBA (Empresa Azucarera San Buenaventura)",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "rec6hLDHJ33gjulLJ"
       ],
@@ -4504,6 +4568,7 @@
     {
       "airtableId": "recNsj89xBrqIj1BJ",
       "cargo": "Director General Ejecutivo del Senasag (Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria)",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recdkuR3fetrWHrQf"
       ],
@@ -5105,6 +5170,7 @@
     {
       "airtableId": "recPipiPddnOBqG7W",
       "cargo": "Viceministro de Interculturalidad",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "recWshaodYECp899M"
       ],
@@ -5596,6 +5662,7 @@
     {
       "airtableId": "recSuKsCg3P672YTE",
       "cargo": "Director General Ejecutivo a.i. del Senasag (Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria)",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recdkuR3fetrWHrQf"
       ],
@@ -6795,6 +6862,7 @@
     {
       "airtableId": "recZDkPJe28GcfNpV",
       "cargo": "Viceministro de Planificación y Coordinación",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "rec6hOG1aBXYJnXYZ"
       ],
@@ -7618,6 +7686,7 @@
     {
       "airtableId": "recdMinbx2Gb9PV8h",
       "cargo": "Jefe de Estado Mayor General Accidental del Comando en Jefe de las Fuerzas Armadas",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -7897,6 +7966,7 @@
     {
       "airtableId": "recfzOdMwLqm9SFs2",
       "cargo": "Viceministro de Seguridad Ciudadana",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recVFpQI3U7A124Tu"
       ],
@@ -7930,6 +8000,7 @@
           "url": "https://dl.airtable.com/.attachments/69ed345f52a4ab5ef4f20e82f45767ee/5a8448da/EnOgqeEW8AIVdbo.jpeg"
         }
       ],
+      "fuente_fin": "https://www.lostiempos.com/actualidad/pais/20210407/posesionan-nuevo-viceministro-seguridad-ciudadana-polemica-spot-machista",
       "fuente_inicio": "https://twitter.com/Canal_BoliviaTV/status/1329567594328842241",
       "genero (from persona)": [
         "Hombre"
@@ -7948,6 +8019,7 @@
       "sucesora": [
         "rec900hVRjQt9byy8"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1379810846919032836",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329582969800040448",
       "twitter (from entidad)": [
         "@vmsc_bolivia"
@@ -8960,6 +9032,7 @@
     {
       "airtableId": "recmeF4D2kXJP51Vq",
       "cargo": "Ministro de Salud",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "recDPejejWlgRG7Vc"
       ],
@@ -8993,6 +9066,7 @@
           "url": "https://dl.airtable.com/.attachments/166337899fa4f1a05ffe8f8de87b41c5/8eadd5a6/edgar-pozo_1393889698_760x520.jpeg"
         }
       ],
+      "fuente_fin": "https://www.lostiempos.com/actualidad/pais/20210116/posesionan-jeyson-marcos-auza-como-nuevo-ministro-salud",
       "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
@@ -9017,6 +9091,7 @@
       "sucesora": [
         "recVy6qaqPBhY2yLs"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1350556194595876864",
       "twitter (from entidad)": [
         "@SaludDeportesBo"
       ],
@@ -9140,6 +9215,7 @@
     {
       "airtableId": "reco6N1CFBdVnWDgy",
       "cargo": "Viceministro de Descolonización",
+      "causa_fin": "Supresión de la entidad",
       "dependencia (from entidad)": [
         "recRiMRkZ9ral1hlk"
       ],
@@ -9512,6 +9588,7 @@
     {
       "airtableId": "recpbIDze6l3No8Xr",
       "cargo": "Comandante General de la Armada",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -9937,6 +10014,7 @@
     {
       "airtableId": "recr6QutNh34jHTk5",
       "cargo": "Director Ejecutivo Interino de la ATT (Autoridad de Fiscalización y Regulación de Telecomunicaciones y Transportes)",
+      "causa_fin": "Fin interinato",
       "dependencia (from entidad)": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -10161,6 +10239,7 @@
     {
       "airtableId": "rectHWn5WJkv1K2wy",
       "cargo": "Comandante General Accidental del Ejercito",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -10488,6 +10567,7 @@
     {
       "airtableId": "recvIwUlY2hrATL5k",
       "cargo": "Ministro de Desarrollo Rural y Tierras",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recDPejejWlgRG7Vc"
       ],
@@ -10555,6 +10635,7 @@
     {
       "airtableId": "recvbGZlJy5MH2abK",
       "cargo": "Ministro de Desarrollo Rural y Tierras",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recDPejejWlgRG7Vc"
       ],
@@ -10588,6 +10669,7 @@
           "url": "https://dl.airtable.com/.attachments/1c6851948aa9da8021f1e8a8931d7253/e95b14d3/wilson-cceres_1394239355_760x520.jpeg"
         }
       ],
+      "fuente_fin": "https://www.bolivia.com/actualidad/politica/luis-arce-destituye-ministro-caceres-involucrado-en-escandalo-nepotismo-287817",
       "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
@@ -10609,6 +10691,8 @@
       "sucesora": [
         "recvIwUlY2hrATL5k"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1333887395478069256",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333887395478069256",
       "twitter (from entidad)": [
         "@MDRyTOficial"
       ]
@@ -10819,6 +10903,7 @@
     {
       "airtableId": "recx1arPJ3gpOvBp6",
       "cargo": "Director General Ejecutivo de AASANA (Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea)",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -12002,7 +12087,8 @@
     {
       "airtableId": "recNDgMQZ59sRVlsW",
       "autoridades": [
-        "recDKEWD88MNsFpPj"
+        "recDKEWD88MNsFpPj",
+        "rec8MrlWqi9i6JV83"
       ],
       "dependencia": [
         "recVFpQI3U7A124Tu"
@@ -15147,6 +15233,41 @@
       "genero": "Hombre",
       "id": 31,
       "nombre": "Vladimir Terán Gutiérrez"
+    },
+    {
+      "airtableId": "recByzm0PkmwY4QhU",
+      "autoridades": [
+        "rec8MrlWqi9i6JV83"
+      ],
+      "fotos": [
+        {
+          "filename": "Ezs9ILtXMAQlfBs.jpeg",
+          "id": "attutYgKKSs2gOt4F",
+          "size": 297681,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/467f92504f0a87827142f4922954afc9/16eb3e36",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ae2625074de8e5b504cfdc5c19519af8/9750b73d",
+              "width": 794
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ddc235cc7ed44c158ca5875a12c5c415/38e82271",
+              "width": 56
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/f6b5474cc4cb89679dc0cb0766483ed2/5ee5a283/Ezs9ILtXMAQlfBs.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 188,
+      "nombre": "Daniel Pedro Vargas Carrasco"
     },
     {
       "airtableId": "recCEWpnu199dQ5Fc",
