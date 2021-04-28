@@ -1951,6 +1951,67 @@
       ]
     },
     {
+      "airtableId": "recBF8Lx1QYGE0HiY",
+      "cargo": "Gerente General a.i. de la Empresa Pública Quipus",
+      "dependencia (from entidad)": [
+        "rec6hLDHJ33gjulLJ"
+      ],
+      "desde": "2020-12-17",
+      "entidad": [
+        "recPgQfOlTrnDW4An"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "5.jpg",
+          "id": "attzDmVXcGMlTXQoZ",
+          "size": 26276,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e11c0f02653e63f334cdb85c4732c756/5d844415",
+              "width": 3000
+            },
+            "large": {
+              "height": 354,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/362ec5e0e29f36b248536c97b0684673/62479e82",
+              "width": 268
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4a363c4a9f24106590656c977dec78b0/cebd1b2f",
+              "width": 27
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/809e472f25460472a4fc7c22c43751c3/f54ad467/5.jpg"
+        }
+      ],
+      "fuente_inicio": "https://quipus.gob.bo/index.php/europa-compra-laptops-quipus-bolivianas/",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 200,
+      "nombre (from entidad)": [
+        "Empresa Pública Quipus"
+      ],
+      "nombre (from persona)": [
+        "Alex Machicado"
+      ],
+      "persona": [
+        "recNqZ6stnwBfnIWo"
+      ],
+      "sigla (from entidad)": [
+        "Quipus"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1387321401984667649",
+      "twitter (from entidad)": [
+        "https://twitter.com/QuipusBolivia"
+      ],
+      "twitter (from persona)": [
+        "@alexmachicado"
+      ]
+    },
+    {
       "airtableId": "recBLOHQvkte60G3R",
       "cargo": "Ministra de Trabajo, Empleo y Previsión Social",
       "dependencia (from entidad)": [
@@ -12167,6 +12228,22 @@
       "twitter": "@sinbolivia"
     },
     {
+      "airtableId": "recPgQfOlTrnDW4An",
+      "autoridades": [
+        "recBF8Lx1QYGE0HiY"
+      ],
+      "dependencia": [
+        "rec6hLDHJ33gjulLJ"
+      ],
+      "desde": "2013-10-09",
+      "id": 175,
+      "nombre": "Empresa Pública Quipus",
+      "sigla": "Quipus",
+      "tipo": "Empresa",
+      "twitter": "https://twitter.com/QuipusBolivia",
+      "webpage": "https://quipus.gob.bo/"
+    },
+    {
       "airtableId": "recQ19ujBbg0HAm5O",
       "autoridades": [
         "recG8xE6KeTlikqsb"
@@ -16579,6 +16656,42 @@
       "genero": "Hombre",
       "id": 150,
       "nombre": "César Moisés Vallejos Rocha"
+    },
+    {
+      "airtableId": "recNqZ6stnwBfnIWo",
+      "autoridades": [
+        "recBF8Lx1QYGE0HiY"
+      ],
+      "fotos": [
+        {
+          "filename": "5.jpg",
+          "id": "attzDmVXcGMlTXQoZ",
+          "size": 26276,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e11c0f02653e63f334cdb85c4732c756/5d844415",
+              "width": 3000
+            },
+            "large": {
+              "height": 354,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/362ec5e0e29f36b248536c97b0684673/62479e82",
+              "width": 268
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4a363c4a9f24106590656c977dec78b0/cebd1b2f",
+              "width": 27
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/809e472f25460472a4fc7c22c43751c3/f54ad467/5.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 189,
+      "nombre": "Alex Machicado",
+      "twitter": "@alexmachicado"
     },
     {
       "airtableId": "recOK9aMART2TIYNL",
