@@ -901,6 +901,61 @@
       ]
     },
     {
+      "airtableId": "rec6xst6nSUSUzvb7",
+      "cargo": "Gobernador Departamental de Oruro",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recSNdLUudLcY3wEz"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0bcLu3WQAQla42.jpeg",
+          "id": "attLZwLB1jGMk7r5s",
+          "size": 17035,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e6437987528fdb977acbffdd916035fb/1c8e510d",
+              "width": 3000
+            },
+            "large": {
+              "height": 300,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0c4dc7c55d8ea9d7e75574e24845545e/1255e29b",
+              "width": 300
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a482ca8e47ecc4a54b6581e210b464b4/18ca84b5",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/5dd992a44a2a8afdd8822ee4f7e7a182/f6435081/E0bcLu3WQAQla42.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 205,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Departamental de Oruro"
+      ],
+      "nombre (from persona)": [
+        "Johnny Franklin Vedia Rodríguez"
+      ],
+      "persona": [
+        "recJMhUSFkXi1ivrx"
+      ],
+      "sigla (from entidad)": [
+        "GADO"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389173893055737864",
+      "twitter (from entidad)": [
+        "@GAD_OR"
+      ]
+    },
+    {
       "airtableId": "rec7MYTm8hs8ujVOV",
       "cargo": "Presidenta de la Aduana Nacional",
       "dependencia (from entidad)": [
@@ -960,6 +1015,26 @@
       "twitter (from persona)": [
         "@SerrudoKarina"
       ]
+    },
+    {
+      "airtableId": "rec7QeoP5M17UsYSr",
+      "cargo": "Alcalde de Trinidad",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recCfuHCXme6CHKOI"
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "id": 217,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de Trinidad"
+      ],
+      "persona": [
+        "recC6EJTch0fJMCqM"
+      ],
+      "sigla (from entidad)": [
+        "GAMT"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389539001154035715"
     },
     {
       "airtableId": "rec7SvwCIPN1hz5si",
@@ -1401,6 +1476,26 @@
       "twitter (from entidad)": [
         "@CNS_Bolivia"
       ]
+    },
+    {
+      "airtableId": "rec8p0focXIueZW1a",
+      "cargo": "Alcaldeza de Cobija",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recpNdeRjQS42JV6h"
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "id": 216,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de Cobija"
+      ],
+      "persona": [
+        "rec61E1foS5ZYS0Rf"
+      ],
+      "sigla (from entidad)": [
+        "GAMC"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538867158605828"
     },
     {
       "airtableId": "rec900hVRjQt9byy8",
@@ -3912,6 +4007,64 @@
       "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327050453197189120"
     },
     {
+      "airtableId": "recJLXUOyttUE4CsW",
+      "cargo": "Alcalde de La Paz",
+      "desde": "2021-05-03",
+      "entidad": [
+        "rec70UBEwmPDiSuJM"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0ihl5sXMAQ4PqP.jpeg",
+          "id": "attaEKszW7hLuj00t",
+          "size": 26623,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/adc4623855e09977eda11878135e506d/9c71efb0",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1a8b816ac8d5c5781f4063215594a5b6/66649bfb",
+              "width": 748
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e1bb1e7730e95b86a031e831d81b2359/ba252600",
+              "width": 53
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7115054296f21b5f8f1834c8b03adde5/0718e332/E0ihl5sXMAQ4PqP.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 210,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de La Paz"
+      ],
+      "nombre (from persona)": [
+        "Iván Arias Durán"
+      ],
+      "persona": [
+        "reciBDQ2bz2PEjkkq"
+      ],
+      "sigla (from entidad)": [
+        "GAM"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538179120877572",
+      "twitter (from entidad)": [
+        "@MuniLaPaz"
+      ],
+      "twitter (from persona)": [
+        "@ivanariasduran"
+      ]
+    },
+    {
       "airtableId": "recJf32eqxJfnW6xE",
       "cargo": "Gerente General Interino de EBIH (Empresa Boliviana de Industrialización de Hidrocarburos)",
       "dependencia (from entidad)": [
@@ -4080,6 +4233,64 @@
       ],
       "twitter (from persona)": [
         "@RocabadoRodolfo"
+      ]
+    },
+    {
+      "airtableId": "recL118kOdF4QfXVI",
+      "cargo": "Gobernador Departamental de La Paz",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recZAUyyLf6YUaBnS"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0bb94KWEAImvWg.jpeg",
+          "id": "attGB5gNJRHgYeYlV",
+          "size": 18172,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a731d5b486c48e08975ff509b3f679eb/e6c31265",
+              "width": 3000
+            },
+            "large": {
+              "height": 342,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c1d95f47b514bb5776e83a3c4178c916/8b4b4187",
+              "width": 608
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c5b4b7fd55c24db412b650e94c01ad5f/b472ea88",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/2469453cd194f798066912e1abdb0278/2ec8089b/E0bb94KWEAImvWg.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.noticiasfides.com/nacional/politica/santos-quispe-es-el-virtual-gobernador-de-la-paz-cuatro-mesas-fueron-anuladas-409198",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 204,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Departamental de La Paz"
+      ],
+      "nombre (from persona)": [
+        "Santos Quispe Quispe"
+      ],
+      "persona": [
+        "rec48zTkzjDwZ9MNE"
+      ],
+      "sigla (from entidad)": [
+        "GADLP"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389173641095569408",
+      "twitter (from entidad)": [
+        "@gobernacionlp"
+      ],
+      "twitter (from persona)": [
+        "@wayna_mallku"
       ]
     },
     {
@@ -5505,6 +5716,64 @@
       ]
     },
     {
+      "airtableId": "recQzRb9bbuNvNy4E",
+      "cargo": "Gobernador Departamental de Santa Cruz",
+      "desde": "2021-05-03",
+      "entidad": [
+        "rec3cJsLA8p5L3Uzs"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0bc4o_XMAIdBRy.jpeg",
+          "id": "attNMciRl2dtsWC9j",
+          "size": 12845,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6a8bd47ea5a7b4286953040293d9b954/c6698b6b",
+              "width": 3000
+            },
+            "large": {
+              "height": 340,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e6c7532b96bbb5a5e956011d2451580f/5e0520df",
+              "width": 320
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c6b6361d95340a8b0bd129a6a5d7215e/7e31cbca",
+              "width": 34
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/fae394039a054b5bcb424da41a8c91a6/f0ea0aca/E0bc4o_XMAIdBRy.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 208,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Departamental de Santa Cruz"
+      ],
+      "nombre (from persona)": [
+        "Luís Fernando Camacho Vaca"
+      ],
+      "persona": [
+        "recLeyJyhtLp6K8RX"
+      ],
+      "sigla (from entidad)": [
+        "GADSC"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389174647514492930",
+      "twitter (from entidad)": [
+        "@GobSantaCruz"
+      ],
+      "twitter (from persona)": [
+        "@LuisFerCamachoV"
+      ]
+    },
+    {
       "airtableId": "recR1NSGyn44FG6iq",
       "cargo": "Director Ejecutivo del FNDR (Fondo Nacional de Desarrollo Regional)",
       "dependencia (from entidad)": [
@@ -5785,7 +6054,7 @@
     },
     {
       "airtableId": "recT9zj7VqqzbKnBU",
-      "cargo": "Gobernador de Beni",
+      "cargo": "Gobernador Departamental de Beni",
       "desde": "2021-05-03",
       "entidad": [
         "rec4T5QmoteUNC6O5"
@@ -5822,7 +6091,7 @@
       ],
       "id": 201,
       "nombre (from entidad)": [
-        "Gobernio Autónomo Departamental de Beni"
+        "Gobierno Autónomo Departamental de Beni"
       ],
       "nombre (from persona)": [
         "José Alejandro Unzueta Shiriqui"
@@ -5833,7 +6102,10 @@
       "sigla (from entidad)": [
         "GADB"
       ],
-      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389172885801996288"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389172885801996288",
+      "twitter (from entidad)": [
+        "@GobernacionBeni"
+      ]
     },
     {
       "airtableId": "recTYA9zPhIKqkTWR",
@@ -5954,6 +6226,64 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344026642914676736",
       "twitter (from entidad)": [
         "@insa_bolivia"
+      ]
+    },
+    {
+      "airtableId": "recTuqF6kXKqvup1d",
+      "cargo": "Alcaldeza de El Alto",
+      "desde": "2021-05-03",
+      "entidad": [
+        "rec9l25hAyjIx2sPv"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0ihte0XIAkU9jh.jpeg",
+          "id": "attGnLFkeAQLhKcCu",
+          "size": 146377,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7a8164c25e0696f0cd2c76573f9063f9/0edbc54f",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7eb5aca3c3c0a8e7a446badcbd5e012f/ea5efb14",
+              "width": 683
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3907f9777b2710b2a073a0b2c38df11e/ab4889be",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/53ef564e638891b1aa640376799a87a7/f54caf52/E0ihte0XIAkU9jh.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Mujer"
+      ],
+      "id": 211,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de El Alto"
+      ],
+      "nombre (from persona)": [
+        "Eva Copa Murga"
+      ],
+      "persona": [
+        "recT9DDSEmCal6RpJ"
+      ],
+      "sigla (from entidad)": [
+        "GAMEA"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538318342316035",
+      "twitter (from entidad)": [
+        "@ElAltoAlcaldia"
+      ],
+      "twitter (from persona)": [
+        "@EvaCopa_Bol"
       ]
     },
     {
@@ -7059,6 +7389,26 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337149550025449484"
     },
     {
+      "airtableId": "recZGK6sa8mjRftcg",
+      "cargo": "Alcalde de Oruro",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recCsAKPcj009VBgv"
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "id": 219,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de Oruro"
+      ],
+      "persona": [
+        "rectQCXbyYMRpD5uE"
+      ],
+      "sigla (from entidad)": [
+        "GAMO"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389539173842001921"
+    },
+    {
       "airtableId": "recZXvyClhE8ZyTnR",
       "cargo": "Directora Ejecutiva Nacional de la AJAM (Autoridad Jurisdiccional Administrativa Minera)",
       "dependencia (from entidad)": [
@@ -8077,6 +8427,85 @@
       ]
     },
     {
+      "airtableId": "recfMciuZo9dBBUAw",
+      "cargo": "Gobernador Departamental de Chuquisaca",
+      "desde": "2021-05-03",
+      "entidad": [
+        "receWQxZPhi437bRA"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0bbSGgXoAECuwO.jpeg",
+          "id": "attksj0s3iuzy6gzF",
+          "size": 22524,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/51583351bbb934ba32e4809beff60539/0eb995e2",
+              "width": 3000
+            },
+            "large": {
+              "height": 342,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4764ad0156f87ea96e474ed8993c1ea6/2ae18ddf",
+              "width": 608
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/545ea6493a5fac5eae52995c942b6dcf/11483933",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c83b9439a64c6fd9460e7cd678d54f3b/02775a5a/E0bbSGgXoAECuwO.jpeg"
+        },
+        {
+          "filename": "E0ekArpXoAkAxd5.jpeg",
+          "id": "att4fOMoJ8fby1qbP",
+          "size": 42135,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ef19b8a5e8e552e32a67c2f6d695764f/881c7be4",
+              "width": 3000
+            },
+            "large": {
+              "height": 474,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0b9764398f5dc831682f991ca52cd1a7/ee2a4312",
+              "width": 600
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5a9a42cee701c997fc0020f0fe1e7ba9/0d718e29",
+              "width": 46
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/bf4893b7a78e4438727391bb16a2fd24/3ceb8dfa/E0ekArpXoAkAxd5.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 202,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Departamental de Chuquisaca"
+      ],
+      "nombre (from persona)": [
+        "Damián Condori Herrera"
+      ],
+      "persona": [
+        "rec0oJyRcz9OD5T1W"
+      ],
+      "sigla (from entidad)": [
+        "GADC"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389173137745584132",
+      "twitter (from entidad)": [
+        "@GobernacionCh"
+      ]
+    },
+    {
       "airtableId": "recfzOdMwLqm9SFs2",
       "cargo": "Viceministro de Seguridad Ciudadana",
       "causa_fin": "Destitución",
@@ -8194,6 +8623,64 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334912626623733765",
       "twitter (from entidad)": [
         "@vcie_bo"
+      ]
+    },
+    {
+      "airtableId": "recgBZwgjHVBSoW7W",
+      "cargo": "Gobernador Departamental de Pando",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recyXm5d66J1ijVtE"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0bcfBYXEAEDDUq.jpeg",
+          "id": "attS620KnGlNuXdtN",
+          "size": 94277,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e9fd058db8c53f788388e217f2d4b9b0/ef0e10f2",
+              "width": 3000
+            },
+            "large": {
+              "height": 399,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8bff83672c4fc335af8d19fe7cd50af0/2f89e367",
+              "width": 720
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d2511fdcf4992fcc54ca80084378b10c/fccbd286",
+              "width": 65
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7c0aa840d58a73bd4c4aca1a8b2e821b/cfb371b8/E0bcfBYXEAEDDUq.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 206,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Departamental de Pando"
+      ],
+      "nombre (from persona)": [
+        "Regis Richter Alencar"
+      ],
+      "persona": [
+        "recOlApAQ4w8z5Hxs"
+      ],
+      "sigla (from entidad)": [
+        "GADP"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389174144785211400",
+      "twitter (from entidad)": [
+        "@pandogob"
+      ],
+      "twitter (from persona)": [
+        "@RichterRegis"
       ]
     },
     {
@@ -8449,6 +8936,26 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330119773137620995"
     },
     {
+      "airtableId": "rech68j4WR9WSac8P",
+      "cargo": "Alcalde de Potosí",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recFlncTDfZ2QeFNT"
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "id": 218,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de Potosí"
+      ],
+      "persona": [
+        "recpiVEaMQRpW4kbR"
+      ],
+      "sigla (from entidad)": [
+        "GAMP"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389539088798257161"
+    },
+    {
       "airtableId": "rechLVAC9mH7pjkcL",
       "cargo": "Viceministro de Trabajo y Previsión Social",
       "dependencia (from entidad)": [
@@ -8499,6 +9006,29 @@
         "recpnx6iZZHO0HSxl"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1328782274796675074"
+    },
+    {
+      "airtableId": "recheSvHY8IXgH8Vc",
+      "cargo": "Alcalde de Tarija",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recJNqI8fmABRlwE3"
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "id": 215,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de Tarija"
+      ],
+      "persona": [
+        "recm9Q7gJgB8X12zx"
+      ],
+      "sigla (from entidad)": [
+        "GAMT"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538762410057733",
+      "twitter (from entidad)": [
+        "@TarijaCapital"
+      ]
     },
     {
       "airtableId": "recinShBhg8QirJVY",
@@ -9085,6 +9615,58 @@
       ]
     },
     {
+      "airtableId": "recmYOFPXlhzNtCbL",
+      "cargo": "Gobernador Departamental de Potosí",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recSD8cWvGDtDOta6"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0bcs-EXEAMkUql.jpeg",
+          "id": "attIq7WtRA51aF0pX",
+          "size": 19466,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f00ac03a624227db595a439436fcbab2/f08a3f99",
+              "width": 3000
+            },
+            "large": {
+              "height": 300,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8b4e16053ae631458184abcc2125c887/b289a632",
+              "width": 300
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a24033abf86fe6defc6e5c0d93ef1958/b26dc008",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/5b3101c9fc986c6f854458e7c3b7418d/8000ced2/E0bcs-EXEAMkUql.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 207,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Departamental de Potosí"
+      ],
+      "nombre (from persona)": [
+        "Jhonny Óscar Mamani Gutiérrez"
+      ],
+      "persona": [
+        "recriuLweNRc7gDr7"
+      ],
+      "sigla (from entidad)": [
+        "GADP"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389174395902386182"
+    },
+    {
       "airtableId": "recmcUEFmO5osT56H",
       "cargo": "Director General Ejecutivo del INIAF (Instituto Nacional de Innovación Agropecuaria y Forestal)",
       "dependencia (from entidad)": [
@@ -9589,6 +10171,61 @@
       ],
       "twitter (from persona)": [
         "@QuelcaAdrian"
+      ]
+    },
+    {
+      "airtableId": "recpQgCBFReNl8AtS",
+      "cargo": "Gobernador Departamental de Cochabamba",
+      "desde": "2021-05-03",
+      "entidad": [
+        "rec9lmguwaaqlzloZ"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0bbpzqXsAAYE_d.jpeg",
+          "id": "attJiGJPv1tv5TuOe",
+          "size": 49196,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2d2e7af2f2b9c6be2bb594ad014d64df/5c47149d",
+              "width": 3000
+            },
+            "large": {
+              "height": 430,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/59b89061794393ccb243c5a622cd9f53/572d3aca",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/58ad859b731cde556243a1a056e5a95d/ddc099b5",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/3e68db9205b4b6b634e481eef45968a2/a9eea540/E0bbpzqXsAAYE_d.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 203,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Departamental de Cochabamba"
+      ],
+      "nombre (from persona)": [
+        "Humberto Sánchez Sánchez"
+      ],
+      "persona": [
+        "rec9Rjms1I0N0q5oB"
+      ],
+      "sigla (from entidad)": [
+        "GADC"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389173389647138820",
+      "twitter (from entidad)": [
+        "@GobernacionCbba"
       ]
     },
     {
@@ -10240,6 +10877,29 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331876258519642112"
     },
     {
+      "airtableId": "recsptEL0UZEiNLe4",
+      "cargo": "Alcalde de Sucre",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recLsuTDK80mMew3C"
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "id": 214,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de Sucre"
+      ],
+      "persona": [
+        "recrvjaQrD8lzQugf"
+      ],
+      "sigla (from entidad)": [
+        "GAMS"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538662312984578",
+      "twitter (from entidad)": [
+        "@GAMSucre"
+      ]
+    },
+    {
       "airtableId": "rectCXUdlwoaJzMV3",
       "cargo": "Responsable de la Radio de los Pueblos Originarios (RPO)",
       "dependencia (from entidad)": [
@@ -10678,6 +11338,29 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332644544677076992/photo/1"
     },
     {
+      "airtableId": "recuS2N1M73RKgAVW",
+      "cargo": "Alcalde de Santa Cruz de la Sierra",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recEl4tpmD2Lz56P6"
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "id": 212,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de Santa Cruz de la Sierra"
+      ],
+      "persona": [
+        "rec2yF3MoWf8pdRPy"
+      ],
+      "sigla (from entidad)": [
+        "GAMSC"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538457131884544",
+      "twitter (from entidad)": [
+        "@GobMunSC"
+      ]
+    },
+    {
       "airtableId": "recvIwUlY2hrATL5k",
       "cargo": "Ministro de Desarrollo Rural y Tierras",
       "causa_fin": "Destitución",
@@ -11079,6 +11762,84 @@
       ]
     },
     {
+      "airtableId": "recxglVlCIMsqSjuA",
+      "cargo": "Alcalde de Cochabamba",
+      "desde": "2021-05-03",
+      "entidad": [
+        "recVmms2y3AIVJQ3I"
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "id": 213,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Municipal de Cochabamba"
+      ],
+      "persona": [
+        "recdMDAGGace5DZiy"
+      ],
+      "sigla (from entidad)": [
+        "GAMC"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538562660618240",
+      "twitter (from entidad)": [
+        "@gam_cochabamba"
+      ]
+    },
+    {
+      "airtableId": "recyF77b9kjuYuyR2",
+      "cargo": "Gobernador Departamental de Tarija",
+      "desde": "2021-05-03",
+      "entidad": [
+        "rec7io1yJANCxusWN"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0bdDBYXMAIwTsU.jpeg",
+          "id": "attk927W2pq3GKj2e",
+          "size": 41868,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e7903e86723db2b5614fd3c27ba0cd14/aa4384ed",
+              "width": 3000
+            },
+            "large": {
+              "height": 356,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c045adc15a539226939213dc2d9c0e34/8a06b442",
+              "width": 474
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3d860ec6c4ee776e43730d1d2c12911f/23132082",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/8907cd47bf795b3b8f540924473ff6d4/e77fe0ee/E0bdDBYXMAIwTsU.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 209,
+      "nombre (from entidad)": [
+        "Gobierno Autónomo Departamental de Tarija"
+      ],
+      "nombre (from persona)": [
+        "Óscar Montes Barzón"
+      ],
+      "persona": [
+        "recGuhlzIbgKHMYIL"
+      ],
+      "sigla (from entidad)": [
+        "GADT"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389174899223183363",
+      "twitter (from persona)": [
+        "@OscarBarzon"
+      ]
+    },
+    {
       "airtableId": "recyN9Zyzuo8Kdt7D",
       "cargo": "Gerente Ejecutivo de la ASP-B (Administración de Servicios Portuarios – Bolivia)",
       "dependencia (from entidad)": [
@@ -11456,6 +12217,7 @@
       "dependencia": [
         "recsuCxQwrF93G855"
       ],
+      "eleccion_mae": "designación",
       "id": 58,
       "nombre": "Viceministerio de Educación Alternativa y Especial",
       "tipo": "Viceministerio"
@@ -11468,6 +12230,7 @@
       "dependencia": [
         "rec6hOG1aBXYJnXYZ"
       ],
+      "eleccion_mae": "designación",
       "id": 156,
       "nombre": "Viceministerio de Planificación Estratégica del Estado",
       "sigla": "VPEE",
@@ -11481,6 +12244,7 @@
       "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
+      "eleccion_mae": "designación",
       "id": 45,
       "nombre": "Viceministerio de Medio Ambiente, Biodiversidad, Cambios Climáticos y de Gestión y Desarrollo Forestal",
       "tipo": "Viceministerio"
@@ -11493,6 +12257,7 @@
       "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
+      "eleccion_mae": "designación",
       "id": 60,
       "nombre": "Viceministerio de Autonomías",
       "tipo": "Viceministerio",
@@ -11506,10 +12271,24 @@
       "dependencia": [
         "recRiMRkZ9ral1hlk"
       ],
+      "eleccion_mae": "designación",
       "id": 8,
       "nombre": "Viceministerio de Transparencia Institucional y Lucha contra la Corrupción",
       "tipo": "Viceministerio",
       "twitter": "@V_Transparencia"
+    },
+    {
+      "airtableId": "rec3cJsLA8p5L3Uzs",
+      "autoridades": [
+        "recQzRb9bbuNvNy4E"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 183,
+      "nombre": "Gobierno Autónomo Departamental de Santa Cruz",
+      "sigla": "GADSC",
+      "tipo": "Gobierno Autónomo Departamental",
+      "twitter": "@GobSantaCruz",
+      "webpage": "http://www.santacruz.gob.bo/"
     },
     {
       "airtableId": "rec3fjmNTzBZ0RW3B",
@@ -11519,6 +12298,7 @@
       "dependencia": [
         "recZXuPo3n4QJ4cc1"
       ],
+      "eleccion_mae": "designación",
       "id": 100,
       "nombre": "Empresa Pública Editorial del Estado Plurinacional de Bolivia",
       "tipo": "Empresa",
@@ -11529,10 +12309,13 @@
       "autoridades": [
         "recT9zj7VqqzbKnBU"
       ],
+      "eleccion_mae": "elección popular",
       "id": 176,
-      "nombre": "Gobernio Autónomo Departamental de Beni",
+      "nombre": "Gobierno Autónomo Departamental de Beni",
       "sigla": "GADB",
-      "tipo": "Gobierno Autónomo Departamental"
+      "tipo": "Gobierno Autónomo Departamental",
+      "twitter": "@GobernacionBeni",
+      "webpage": "http://www.beni.gob.bo"
     },
     {
       "airtableId": "rec53Ti3nHSvyJEGV",
@@ -11542,6 +12325,7 @@
       "dependencia": [
         "recsuCxQwrF93G855"
       ],
+      "eleccion_mae": "designación",
       "id": 56,
       "nombre": "Viceministerio de Educación Regular",
       "tipo": "Viceministerio"
@@ -11554,6 +12338,7 @@
       "dependencia": [
         "recrEl2V8GSxaSshp"
       ],
+      "eleccion_mae": "designación",
       "id": 102,
       "nombre": "Viceministerio de Comercio Exterior e Integración",
       "sigla": "VCEI",
@@ -11568,6 +12353,7 @@
       "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
+      "eleccion_mae": "designación",
       "id": 44,
       "nombre": "Fondo Nacional de Desarrollo Forestal",
       "sigla": "Fonabosque",
@@ -11582,6 +12368,7 @@
       "dependencia": [
         "recyMpkgqj37VCj7M"
       ],
+      "eleccion_mae": "designación",
       "id": 107,
       "nombre": "Autoridad de Fiscalización y Control de Cooperativas",
       "sigla": "AFCOOP",
@@ -11595,6 +12382,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 105,
       "nombre": "Autoridad de Supervisión del Sistema Financiero",
       "sigla": "ASFI",
@@ -11609,6 +12397,7 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 160,
       "nombre": "Empresa Siderúrgica del Mutún",
       "sigla": "ESM",
@@ -11624,6 +12413,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 90,
       "nombre": "Ministerio de Desarrollo Productivo y Economía Plural",
       "sigla": "MDPyEP",
@@ -11638,11 +12428,25 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 76,
       "nombre": "Ministerio de Planificación del Desarrollo",
       "sigla": "MPD",
       "tipo": "Ministerio",
       "twitter": "@minplanifica"
+    },
+    {
+      "airtableId": "rec70UBEwmPDiSuJM",
+      "autoridades": [
+        "recJLXUOyttUE4CsW"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 185,
+      "nombre": "Gobierno Autónomo Municipal de La Paz",
+      "sigla": "GAM",
+      "tipo": "Gobierno Autónomo Municipal",
+      "twitter": "@MuniLaPaz",
+      "webpage": "https://www.lapaz.bo/"
     },
     {
       "airtableId": "rec73iYathqzow1TW",
@@ -11652,6 +12456,7 @@
       "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
+      "eleccion_mae": "designación",
       "id": 16,
       "nombre": "Viceministerio de Coordinación y Gestión Gubernamental",
       "tipo": "Viceministerio"
@@ -11664,9 +12469,22 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 51,
       "nombre": "Viceministerio de Cooperativas Mineras",
       "tipo": "Viceministerio"
+    },
+    {
+      "airtableId": "rec7io1yJANCxusWN",
+      "autoridades": [
+        "recyF77b9kjuYuyR2"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 184,
+      "nombre": "Gobierno Autónomo Departamental de Tarija",
+      "sigla": "GADT",
+      "tipo": "Gobierno Autónomo Departamental",
+      "webpage": "https://www.tarija.gob.bo/"
     },
     {
       "airtableId": "rec8iOFKCfnKPhudZ",
@@ -11676,6 +12494,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 47,
       "nombre": "Viceministerio de la Coca y Desarrollo Integral",
       "tipo": "Viceministerio",
@@ -11689,10 +12508,36 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 174,
       "nombre": "Fondo de Financiamiento para la Minería",
       "sigla": "Fofim",
       "tipo": "Fondo"
+    },
+    {
+      "airtableId": "rec9l25hAyjIx2sPv",
+      "autoridades": [
+        "recTuqF6kXKqvup1d"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 186,
+      "nombre": "Gobierno Autónomo Municipal de El Alto",
+      "sigla": "GAMEA",
+      "tipo": "Gobierno Autónomo Municipal",
+      "twitter": "@ElAltoAlcaldia",
+      "webpage": "https://www.facebook.com/ElAltoAlcaldia/"
+    },
+    {
+      "airtableId": "rec9lmguwaaqlzloZ",
+      "autoridades": [
+        "recpQgCBFReNl8AtS"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 178,
+      "nombre": "Gobierno Autónomo Departamental de Cochabamba",
+      "sigla": "GADC",
+      "tipo": "Gobierno Autónomo Departamental",
+      "twitter": "@GobernacionCbba"
     },
     {
       "airtableId": "recAJ7vOCTHDlNjuv",
@@ -11702,6 +12547,7 @@
       "dependencia": [
         "rec6hOG1aBXYJnXYZ"
       ],
+      "eleccion_mae": "designación",
       "id": 81,
       "nombre": "Fondo Productivo Social",
       "sigla": "FPS",
@@ -11716,6 +12562,7 @@
       "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
+      "eleccion_mae": "designación",
       "id": 1,
       "nombre": "Viceministerio de Coordinación con Movimientos Sociales",
       "tipo": "Viceministerio"
@@ -11730,6 +12577,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 122,
       "nombre": "Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria",
       "sigla": "Senasag",
@@ -11744,10 +12592,33 @@
       "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
+      "eleccion_mae": "designación",
       "id": 97,
       "nombre": "Viceministerio de Recursos Hídricos y Riego",
       "sigla": "VRHR",
       "tipo": "Viceministerio"
+    },
+    {
+      "airtableId": "recCfuHCXme6CHKOI",
+      "autoridades": [
+        "rec7QeoP5M17UsYSr"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 192,
+      "nombre": "Gobierno Autónomo Municipal de Trinidad",
+      "sigla": "GAMT",
+      "tipo": "Gobierno Autónomo Municipal"
+    },
+    {
+      "airtableId": "recCsAKPcj009VBgv",
+      "autoridades": [
+        "recZGK6sa8mjRftcg"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 194,
+      "nombre": "Gobierno Autónomo Municipal de Oruro",
+      "sigla": "GAMO",
+      "tipo": "Gobierno Autónomo Municipal"
     },
     {
       "airtableId": "recD6sRObwSGTeSRx",
@@ -11757,6 +12628,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 18,
       "nombre": "Administradora Boliviana de Carreteras",
       "sigla": "ABC",
@@ -11771,6 +12643,7 @@
       "dependencia": [
         "reccOyt73GJKFfU2z"
       ],
+      "eleccion_mae": "designación",
       "id": 21,
       "nombre": "Ejercito",
       "tipo": "Otro",
@@ -11784,6 +12657,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 63,
       "nombre": "Ministerio de Economía y Finanzas Públicas",
       "sigla": "MEFP",
@@ -11798,6 +12672,7 @@
       "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
+      "eleccion_mae": "designación",
       "id": 31,
       "nombre": "Agencia de Gobierno Electrónico y Tecnologías de la Información y Comunicación",
       "sigla": "AGETIC",
@@ -11809,6 +12684,7 @@
       "autoridades": [
         "rec5SqbarqKG4LH5x"
       ],
+      "eleccion_mae": "elección popular",
       "id": 65,
       "nombre": "Presidencia del Estado",
       "tipo": "Otro"
@@ -11822,6 +12698,7 @@
         "recDPejejWlgRG7Vc"
       ],
       "desde": "2020-12-11",
+      "eleccion_mae": "designación",
       "id": 138,
       "nombre": "Vocería Presidencial",
       "sigla": "VP",
@@ -11835,9 +12712,23 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 53,
       "nombre": "Viceministerio de Gestión del Sistema Sanitario",
       "tipo": "Viceministerio"
+    },
+    {
+      "airtableId": "recEl4tpmD2Lz56P6",
+      "autoridades": [
+        "recuS2N1M73RKgAVW"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 187,
+      "nombre": "Gobierno Autónomo Municipal de Santa Cruz de la Sierra",
+      "sigla": "GAMSC",
+      "tipo": "Gobierno Autónomo Municipal",
+      "twitter": "@GobMunSC",
+      "webpage": "http://www.gmsantacruz.gob.bo/"
     },
     {
       "airtableId": "recFOLfLWOglx0Wku",
@@ -11847,12 +12738,24 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 132,
       "nombre": "Servicio Nacional de Registro y Control de la Comercialización de Minerales y Metales",
       "sigla": "Senarecom",
       "tipo": "Otro",
       "twitter": "@senarecom1",
       "webpage": "http://www.senarecom.gob.bo/"
+    },
+    {
+      "airtableId": "recFlncTDfZ2QeFNT",
+      "autoridades": [
+        "rech68j4WR9WSac8P"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 193,
+      "nombre": "Gobierno Autónomo Municipal de Potosí",
+      "sigla": "GAMP",
+      "tipo": "Gobierno Autónomo Municipal"
     },
     {
       "airtableId": "recGUD7Z0Yutsw0Qp",
@@ -11862,6 +12765,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 92,
       "nombre": "Empresa Nacional de Electricidad",
       "sigla": "ENDE",
@@ -11876,6 +12780,7 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 131,
       "nombre": "Corporación Minera de Bolivia",
       "sigla": "Comibol",
@@ -11890,6 +12795,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 111,
       "nombre": "Agencia Boliviana Espacial",
       "sigla": "ABE",
@@ -11904,6 +12810,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 108,
       "nombre": "Viceministerio de Vivienda y Urbanismo",
       "sigla": "VVU",
@@ -11917,6 +12824,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 124,
       "nombre": "Servicios de Aeropuertos Bolivianos SA",
       "sigla": "SABSA",
@@ -11931,6 +12839,7 @@
       "dependencia": [
         "recsuCxQwrF93G855"
       ],
+      "eleccion_mae": "designación",
       "id": 144,
       "nombre": "Escuela de Gestión Pública Plurinacional",
       "sigla": "EGPP",
@@ -11942,6 +12851,7 @@
       "autoridades": [
         "recHhEmWb7S0S5ySb"
       ],
+      "eleccion_mae": "elección popular",
       "id": 70,
       "nombre": "Vicepresidencia del Estado",
       "sigla": "VPEP",
@@ -11956,6 +12866,7 @@
       "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
+      "eleccion_mae": "designación",
       "id": 39,
       "nombre": "Unidad de Proyectos Especiales",
       "sigla": "UPRE",
@@ -11970,6 +12881,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 154,
       "nombre": "Caja Petrolera de Salud",
       "sigla": "CPS",
@@ -11985,6 +12897,7 @@
       "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
+      "eleccion_mae": "designación",
       "id": 71,
       "nombre": "Viceministerio de Agua Potable y Saneamiento Básico",
       "tipo": "Viceministerio"
@@ -11998,6 +12911,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 140,
       "nombre": "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea",
       "sigla": "AASANA",
@@ -12013,6 +12927,7 @@
       "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
+      "eleccion_mae": "designación",
       "id": 43,
       "nombre": "Servicio Nacional de Áreas Protegidas",
       "sigla": "SERNAP",
@@ -12027,11 +12942,25 @@
       "dependencia": [
         "recHi2gYNUwRbBTai"
       ],
+      "eleccion_mae": "designación",
       "id": 27,
       "nombre": "Agencia para el Desarrollo de la Sociedad de la Información en Bolivia",
       "sigla": "ADSIB",
       "tipo": "Otro",
       "twitter": "@AdsibBolivia"
+    },
+    {
+      "airtableId": "recJNqI8fmABRlwE3",
+      "autoridades": [
+        "recheSvHY8IXgH8Vc"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 190,
+      "nombre": "Gobierno Autónomo Municipal de Tarija",
+      "sigla": "GAMT",
+      "tipo": "Gobierno Autónomo Municipal",
+      "twitter": "@",
+      "webpage": "https://tarija.bo/"
     },
     {
       "airtableId": "recJmLGJ8lygyRBSj",
@@ -12041,6 +12970,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 127,
       "nombre": "Empresa Nacional de Ferrocarriles",
       "sigla": "ENFE",
@@ -12055,6 +12985,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 10,
       "nombre": "Viceministerio de Tesoro y Crédito Público",
       "tipo": "Viceministerio"
@@ -12067,6 +12998,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 48,
       "nombre": "Dirección General de la Hoja de Coca e Industrialización",
       "tipo": "Otro"
@@ -12079,6 +13011,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 67,
       "nombre": "Ministerio de Obras Públicas, Servicios y Vivienda",
       "sigla": "MOPSV",
@@ -12093,6 +13026,7 @@
       "dependencia": [
         "recWshaodYECp899M"
       ],
+      "eleccion_mae": "designación",
       "id": 163,
       "nombre": "Agencia del Desarrollo del Cine y Audiovisual Bolivianos",
       "sigla": "Adecine",
@@ -12108,6 +13042,7 @@
       "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
+      "eleccion_mae": "designación",
       "id": 106,
       "nombre": "Unidad Ejecutora del Fondo Nacional de Solidaridad y Equidad",
       "sigla": "FNSE",
@@ -12121,6 +13056,7 @@
       "dependencia": [
         "recrEl2V8GSxaSshp"
       ],
+      "eleccion_mae": "elección asamblea plurinacional",
       "id": 32,
       "nombre": "Misión de Bolivia ante la ONU",
       "tipo": "Otro",
@@ -12134,9 +13070,23 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 54,
       "nombre": "Viceministerio de Seguros de Salud y Gestión del Sistema Único de Salud",
       "tipo": "Viceministerio"
+    },
+    {
+      "airtableId": "recLsuTDK80mMew3C",
+      "autoridades": [
+        "recsptEL0UZEiNLe4"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 189,
+      "nombre": "Gobierno Autónomo Municipal de Sucre",
+      "sigla": "GAMS",
+      "tipo": "Gobierno Autónomo Municipal",
+      "twitter": "@GAMSucre",
+      "webpage": "https://sucre.bo/"
     },
     {
       "airtableId": "recM2dLFNUaRgVPmO",
@@ -12146,6 +13096,7 @@
       "dependencia": [
         "recrEl2V8GSxaSshp"
       ],
+      "eleccion_mae": "designación",
       "id": 137,
       "nombre": "Viceministerio de Relaciones Exteriores",
       "sigla": "VRE",
@@ -12159,6 +13110,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 66,
       "nombre": "Ministerio de Defensa",
       "sigla": "MD",
@@ -12173,6 +13125,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 36,
       "nombre": "Agencia Nacional de Hidrocarburos",
       "sigla": "ANH",
@@ -12187,6 +13140,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 35,
       "nombre": "Yacimientos Petrolíferos Fiscales Bolivianos",
       "sigla": "YPFB",
@@ -12201,6 +13155,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 86,
       "nombre": "Lotería Nacional de Beneficencia y Salubridad",
       "sigla": "Lonabol",
@@ -12216,6 +13171,7 @@
       "dependencia": [
         "recVFpQI3U7A124Tu"
       ],
+      "eleccion_mae": "designación",
       "id": 28,
       "nombre": "Viceministerio  de Lucha Contra el Contrabando",
       "tipo": "Viceministerio"
@@ -12228,6 +13184,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 109,
       "nombre": "Viceministerio de Telecomunicaciones",
       "sigla": "VMTel",
@@ -12241,6 +13198,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 120,
       "nombre": "Autoridad de Fiscalización de Empresas",
       "sigla": "AEMP",
@@ -12255,6 +13213,7 @@
       "dependencia": [
         "recZXuPo3n4QJ4cc1"
       ],
+      "eleccion_mae": "designación",
       "id": 96,
       "nombre": "Agencia Boliviana de Información",
       "sigla": "ABI",
@@ -12270,6 +13229,7 @@
       "dependencia": [
         "rec6hOG1aBXYJnXYZ"
       ],
+      "eleccion_mae": "designación",
       "id": 135,
       "nombre": "Viceministerio de Inversión Pública y Financiamiento Externo",
       "sigla": "VIPFE",
@@ -12283,6 +13243,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 2,
       "nombre": "Impuestos Nacionales",
       "sigla": "SIN",
@@ -12298,6 +13259,7 @@
         "rec6hLDHJ33gjulLJ"
       ],
       "desde": "2013-10-09",
+      "eleccion_mae": "designación",
       "id": 175,
       "nombre": "Empresa Pública Quipus",
       "sigla": "Quipus",
@@ -12313,6 +13275,7 @@
       "dependencia": [
         "recMG6vay1qsi6aUd"
       ],
+      "eleccion_mae": "designación",
       "id": 29,
       "nombre": "Viceministerio de Defensa y Cooperación al Desarrollo Integral",
       "tipo": "Viceministerio"
@@ -12325,6 +13288,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 139,
       "nombre": "Distribuidora de Electricidad La Paz S.A.",
       "sigla": "DELAPAZ",
@@ -12339,6 +13303,7 @@
       "dependencia": [
         "recZXuPo3n4QJ4cc1"
       ],
+      "eleccion_mae": "designación",
       "id": 94,
       "nombre": "Radio de los Pueblos Originarios",
       "sigla": "RPO",
@@ -12352,6 +13317,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 168,
       "nombre": "Agencia Boliviana de Correos",
       "sigla": "Correos",
@@ -12367,6 +13333,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 149,
       "nombre": "Fondo Nacional de Desarrollo Integral",
       "sigla": "Fonadin",
@@ -12381,6 +13348,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 64,
       "nombre": "Ministerio de Justicia y Transparencia Institucional",
       "sigla": "MJ",
@@ -12395,22 +13363,49 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 24,
       "nombre": "Policía Boliviana",
       "tipo": "Otro",
       "twitter": "@Pol_Boliviana"
     },
     {
+      "airtableId": "recSD8cWvGDtDOta6",
+      "autoridades": [
+        "recmYOFPXlhzNtCbL"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 182,
+      "nombre": "Gobierno Autónomo Departamental de Potosí",
+      "sigla": "GADP",
+      "tipo": "Gobierno Autónomo Departamental",
+      "webpage": "http://www.potosi.gob.bo/"
+    },
+    {
       "airtableId": "recSET9RDkDwWBCuM",
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 171,
       "nombre": "Empresa Boliviana de la Construcción",
       "sigla": "EBC",
       "tipo": "Empresa",
       "twitter": "@ebc_bolivia",
       "webpage": "https://ebc.gob.bo/"
+    },
+    {
+      "airtableId": "recSNdLUudLcY3wEz",
+      "autoridades": [
+        "rec6xst6nSUSUzvb7"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 180,
+      "nombre": "Gobierno Autónomo Departamental de Oruro",
+      "sigla": "GADO",
+      "tipo": "Gobierno Autónomo Departamental",
+      "twitter": "@GAD_OR",
+      "webpage": "https://www.oruro.gob.bo/"
     },
     {
       "airtableId": "recSPM5XITdwqLfip",
@@ -12420,6 +13415,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 12,
       "nombre": "Viceministerio de Presupuesto y Contabilidad Fiscal",
       "tipo": "Viceministerio"
@@ -12432,6 +13428,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 129,
       "nombre": "Caja Nacional de Salud",
       "sigla": "CNS",
@@ -12446,6 +13443,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 146,
       "nombre": "Autoridad de Supervision de la Seguridad Social de Corto Plazo",
       "sigla": "ASUSS",
@@ -12460,6 +13458,7 @@
       "dependencia": [
         "recrEl2V8GSxaSshp"
       ],
+      "eleccion_mae": "designación",
       "id": 101,
       "nombre": "Viceministerio de Gestión Institucional Consular",
       "sigla": "VGIC",
@@ -12473,6 +13472,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 75,
       "nombre": "Ministerio de Medio Ambiente y Agua",
       "sigla": "MMAyA",
@@ -12487,6 +13487,7 @@
       "dependencia": [
         "recRiMRkZ9ral1hlk"
       ],
+      "eleccion_mae": "designación",
       "id": 5,
       "nombre": "Viceministerio de Justicia y Derechos Fundamentales",
       "tipo": "Viceministerio"
@@ -12499,6 +13500,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 155,
       "nombre": "Empresa Pública Nacional Estratégica de Yacimientos de Litio Bolivianos",
       "sigla": "YLB",
@@ -12513,6 +13515,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 69,
       "nombre": "Ministerio de Gobierno",
       "sigla": "MG",
@@ -12527,11 +13530,25 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 74,
       "nombre": "Ministerio de Hidrocarburos y Energías",
       "sigla": "MHE",
       "tipo": "Ministerio",
       "twitter": "@Bolivia_MHE"
+    },
+    {
+      "airtableId": "recVmms2y3AIVJQ3I",
+      "autoridades": [
+        "recxglVlCIMsqSjuA"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 188,
+      "nombre": "Gobierno Autónomo Municipal de Cochabamba",
+      "sigla": "GAMC",
+      "tipo": "Gobierno Autónomo Municipal",
+      "twitter": "@gam_cochabamba",
+      "webpage": "http://www.cochabamba.bo/"
     },
     {
       "airtableId": "recWshaodYECp899M",
@@ -12542,6 +13559,7 @@
         "recDPejejWlgRG7Vc"
       ],
       "desde": "2020-11-20",
+      "eleccion_mae": "designación",
       "id": 40,
       "nombre": "Ministerio de Culturas, Descolonización y Despatriarcalización",
       "sigla": "MCDD",
@@ -12555,6 +13573,7 @@
       "dependencia": [
         "recVFpQI3U7A124Tu"
       ],
+      "eleccion_mae": "designación",
       "id": 33,
       "nombre": "Viceministerio de Régimen Interior y Policía",
       "tipo": "Viceministerio"
@@ -12567,6 +13586,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 118,
       "nombre": "Insumos Bolivia",
       "sigla": "Inbol",
@@ -12581,6 +13601,7 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 159,
       "nombre": "Servicio Geológico Minero",
       "sigla": "Sergeomin",
@@ -12596,6 +13617,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 119,
       "nombre": "Servicio Nacional Textil",
       "sigla": "Senatex",
@@ -12607,11 +13629,25 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 133,
       "nombre": "Empresa de Envases de Vidrio de Bolivia",
       "sigla": "Envibol",
       "tipo": "Empresa",
       "twitter": "@envibol"
+    },
+    {
+      "airtableId": "recZAUyyLf6YUaBnS",
+      "autoridades": [
+        "recL118kOdF4QfXVI"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 179,
+      "nombre": "Gobierno Autónomo Departamental de La Paz",
+      "sigla": "GADLP",
+      "tipo": "Gobierno Autónomo Departamental",
+      "twitter": "@gobernacionlp",
+      "webpage": "https://www.lapaz.gob.bo/"
     },
     {
       "airtableId": "recZXuPo3n4QJ4cc1",
@@ -12621,6 +13657,7 @@
       "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
+      "eleccion_mae": "designación",
       "id": 3,
       "nombre": "Viceministerio de Comunicación",
       "tipo": "Viceministerio",
@@ -12634,6 +13671,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 13,
       "nombre": "Viceministerio de Pensiones y Servicios Financieros",
       "tipo": "Viceministerio"
@@ -12646,6 +13684,7 @@
       "dependencia": [
         "recsuCxQwrF93G855"
       ],
+      "eleccion_mae": "designación",
       "id": 57,
       "nombre": "Viceministerio de Educación Superior y Formación Profesional",
       "tipo": "Viceministerio"
@@ -12659,6 +13698,7 @@
         "recWshaodYECp899M"
       ],
       "desde": "2020-11-20",
+      "eleccion_mae": "designación",
       "id": 42,
       "nombre": "Viceministerio de Interculturalidad",
       "tipo": "Viceministerio"
@@ -12671,6 +13711,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 151,
       "nombre": "Fondo de Desarrollo Indígena",
       "sigla": "FDI",
@@ -12685,6 +13726,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 91,
       "nombre": "Viceministerio de Electricidad y Energías Alternativas",
       "sigla": "VEEA",
@@ -12698,6 +13740,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 25,
       "nombre": "Viceministerio de Desarrollo Rural y Agropecuario",
       "tipo": "Viceministerio",
@@ -12711,6 +13754,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 145,
       "nombre": "Central de Abastecimiento de Suministros de Salud",
       "sigla": "CEASS",
@@ -12724,6 +13768,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 115,
       "nombre": "Viceministerio de Producción Industrial a Mediana y Gran Escala",
       "sigla": "VPIMGE",
@@ -12737,6 +13782,7 @@
       "dependencia": [
         "recVFpQI3U7A124Tu"
       ],
+      "eleccion_mae": "designación",
       "id": 26,
       "nombre": "Servicio General de Identificación Personal",
       "sigla": "SEGIP",
@@ -12751,6 +13797,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 88,
       "nombre": "Viceministerio de Exploración y Explotación de Hidrocarburos",
       "sigla": "VEEH",
@@ -12764,6 +13811,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 126,
       "nombre": "Servicio de Desarrollo de las Empresas Públicas Productivas",
       "sigla": "SEDEM",
@@ -12778,6 +13826,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 153,
       "nombre": "Autoridad de Fiscalización y Control Social de Bosques y Tierra",
       "sigla": "ABT",
@@ -12793,6 +13842,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 19,
       "nombre": "Fuerzas Armadas",
       "tipo": "Otro",
@@ -12806,6 +13856,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 62,
       "nombre": "Ministerio de la Presidencia",
       "sigla": "MP",
@@ -12820,6 +13871,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 112,
       "nombre": "Viceministerio de Comercio Interno",
       "sigla": "VCI",
@@ -12834,6 +13886,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 116,
       "nombre": "Empresa Boliviana de Alimentos y Derivados",
       "sigla": "EBA",
@@ -12850,6 +13903,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 68,
       "nombre": "Ministerio de Desarrollo Rural y Tierras",
       "sigla": "MDRyT",
@@ -12864,6 +13918,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 157,
       "nombre": "Empresa Boliviana de Industrialización de Hidrocarburos",
       "sigla": "EBIH",
@@ -12879,11 +13934,25 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 147,
       "nombre": "Vías Bolivia, Recaudadora de Rodaje y Pesaje",
       "sigla": "Vías Bolivia",
       "tipo": "Otro",
       "twitter": "@ViasBoliviaONal"
+    },
+    {
+      "airtableId": "receWQxZPhi437bRA",
+      "autoridades": [
+        "recfMciuZo9dBBUAw"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 177,
+      "nombre": "Gobierno Autónomo Departamental de Chuquisaca",
+      "sigla": "GADC",
+      "tipo": "Gobierno Autónomo Departamental",
+      "twitter": "@GobernacionCh",
+      "webpage": "https://chuquisaca.gob.bo/"
     },
     {
       "airtableId": "recejG6jvgHc487Fh",
@@ -12893,6 +13962,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 37,
       "nombre": "Autoridad de Fiscalización y Control Social del Juego",
       "sigla": "AJ",
@@ -12907,6 +13977,7 @@
       "dependencia": [
         "recVFpQI3U7A124Tu"
       ],
+      "eleccion_mae": "designación",
       "id": 125,
       "nombre": "Dirección General de Migración",
       "sigla": "Digemig",
@@ -12921,6 +13992,7 @@
       "dependencia": [
         "recsuCxQwrF93G855"
       ],
+      "eleccion_mae": "designación",
       "id": 161,
       "nombre": "Viceministerio de Ciencia y Tecnología",
       "sigla": "VCyT",
@@ -12936,6 +14008,7 @@
         "recWshaodYECp899M"
       ],
       "desde": "2020-11-20",
+      "eleccion_mae": "designación",
       "id": 41,
       "nombre": "Viceministerio de Descolonización y Despatriarcalización",
       "tipo": "Viceministerio",
@@ -12949,6 +14022,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 104,
       "nombre": "Empresa Pública Nacional Estratégica Boliviana de Aviación",
       "sigla": "BoA",
@@ -12963,6 +14037,7 @@
       "dependencia": [
         "rec6hOG1aBXYJnXYZ"
       ],
+      "eleccion_mae": "designación",
       "id": 46,
       "nombre": "Instituto Nacional de Estadísticas",
       "sigla": "INE",
@@ -12977,6 +14052,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 59,
       "nombre": "Aduana Nacional de Bolivia",
       "sigla": "ANB",
@@ -12992,6 +14068,7 @@
       "dependencia": [
         "reccOyt73GJKFfU2z"
       ],
+      "eleccion_mae": "designación",
       "id": 22,
       "nombre": "Fuerza Aérea",
       "tipo": "Otro"
@@ -13005,6 +14082,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 170,
       "nombre": "Autoridad de Fiscalización y Regulación de Telecomunicaciones y Transportes",
       "sigla": "ATT",
@@ -13020,6 +14098,7 @@
       "dependencia": [
         "recRiMRkZ9ral1hlk"
       ],
+      "eleccion_mae": "designación",
       "id": 6,
       "nombre": "Viceministerio de Igualdad de Oportunidades",
       "tipo": "Viceministerio"
@@ -13032,6 +14111,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 103,
       "nombre": "Empresa Estatal de Transporte por Cable Mi Teleférico",
       "sigla": "Mi Teleférico",
@@ -13046,6 +14126,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 152,
       "nombre": "Institución Pública Desconcentrada Soberanía Alimentaria",
       "sigla": "IPDSA",
@@ -13061,6 +14142,7 @@
       "dependencia": [
         "rec6hOG1aBXYJnXYZ"
       ],
+      "eleccion_mae": "designación",
       "id": 134,
       "nombre": "Viceministerio de Planificación y Coordinación",
       "sigla": "VPC",
@@ -13074,6 +14156,7 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 130,
       "nombre": "Autoridad Juridiccional Administrativa Minera",
       "sigla": "AJAM",
@@ -13089,6 +14172,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "elección asamblea plurinacional",
       "id": 15,
       "nombre": "Procuraduría General del Estado",
       "sigla": "PGE",
@@ -13104,6 +14188,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 4,
       "nombre": "Banco Central de Bolivia",
       "sigla": "BCB",
@@ -13119,6 +14204,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 52,
       "nombre": "Viceministerio de Promoción, Vigilancia Epidemiológica y Medicina Tradicional",
       "tipo": "Viceministerio"
@@ -13131,6 +14217,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 113,
       "nombre": "Viceministerio de Micro y Pequeña Empresa",
       "sigla": "VMPE",
@@ -13144,6 +14231,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 150,
       "nombre": "Instituto del Seguro Agrario",
       "sigla": "INSA",
@@ -13158,6 +14246,7 @@
       "dependencia": [
         "recMG6vay1qsi6aUd"
       ],
+      "eleccion_mae": "designación",
       "id": 17,
       "nombre": "Viceministerio de Defensa Social y Sustancias Controladas",
       "tipo": "Viceministerio"
@@ -13170,6 +14259,7 @@
       "dependencia": [
         "recRiMRkZ9ral1hlk"
       ],
+      "eleccion_mae": "designación",
       "id": 7,
       "nombre": "Viceministerio de Defensa de los Derechos del Usuario y Consumidor",
       "sigla": "VDDUC",
@@ -13185,6 +14275,7 @@
       "dependencia": [
         "reccOyt73GJKFfU2z"
       ],
+      "eleccion_mae": "designación",
       "id": 20,
       "nombre": "Estado Mayor de las Fuerzas Armadas",
       "tipo": "Otro"
@@ -13197,6 +14288,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 167,
       "nombre": "Instituto Nacional de Reforma Agraria",
       "sigla": "INRA",
@@ -13212,6 +14304,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 77,
       "nombre": "Ministerio de Minería y Metalurgia",
       "sigla": "MMM",
@@ -13226,6 +14319,7 @@
       "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
+      "eleccion_mae": "designación",
       "id": 164,
       "nombre": "Servicio Nacional de Riego",
       "sigla": "Senari",
@@ -13241,6 +14335,7 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 50,
       "nombre": "Viceministerio de Política Minera, Regulación y Fiscalización",
       "tipo": "Viceministerio"
@@ -13253,6 +14348,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 11,
       "nombre": "Viceministerio de Política Tributaria",
       "tipo": "Viceministerio"
@@ -13265,6 +14361,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 136,
       "nombre": "Autoridad de Fiscalización y Control de Pensiones y Seguros",
       "sigla": "APS",
@@ -13279,11 +14376,23 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 128,
       "nombre": "Dirección General de Aeronáutica Civil",
       "sigla": "DGAC",
       "tipo": "Otro",
       "twitter": "@dgacbolivia"
+    },
+    {
+      "airtableId": "recpNdeRjQS42JV6h",
+      "autoridades": [
+        "rec8p0focXIueZW1a"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 191,
+      "nombre": "Gobierno Autónomo Municipal de Cobija",
+      "sigla": "GAMC",
+      "tipo": "Gobierno Autónomo Municipal"
     },
     {
       "airtableId": "recpdpz1bWV3Zr83H",
@@ -13293,6 +14402,7 @@
       "dependencia": [
         "recZXuPo3n4QJ4cc1"
       ],
+      "eleccion_mae": "designación",
       "id": 98,
       "nombre": "Empresa Estatal de Televisión “Bolivia Tv”",
       "sigla": "Bolivia Tv",
@@ -13308,6 +14418,7 @@
       "dependencia": [
         "recVFpQI3U7A124Tu"
       ],
+      "eleccion_mae": "designación",
       "id": 34,
       "nombre": "Viceministerio de Seguridad Ciudadana",
       "tipo": "Viceministerio",
@@ -13321,6 +14432,7 @@
       "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
+      "eleccion_mae": "designación",
       "id": 143,
       "nombre": "Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo",
       "sigla": "OTNPB",
@@ -13335,6 +14447,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 114,
       "nombre": "Viceministerio de Turismo",
       "sigla": "VT",
@@ -13348,6 +14461,7 @@
       "dependencia": [
         "recnjo1nbKW3JKsVr"
       ],
+      "eleccion_mae": "designación",
       "id": 49,
       "nombre": "Viceministerio de Desarrollo Productivo Minero",
       "tipo": "Viceministerio"
@@ -13360,6 +14474,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 166,
       "nombre": "Viceministerio de Transporte",
       "sigla": "VT",
@@ -13374,6 +14489,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 73,
       "nombre": "Ministerio de Relaciones Exteriores",
       "sigla": "MRE",
@@ -13388,6 +14504,7 @@
       "dependencia": [
         "recyMpkgqj37VCj7M"
       ],
+      "eleccion_mae": "designación",
       "id": 30,
       "nombre": "Viceministerio de Trabajo y Previsión Social",
       "tipo": "Viceministerio"
@@ -13400,6 +14517,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 123,
       "nombre": "Viceministerio de Deportes",
       "tipo": "Viceministerio",
@@ -13413,6 +14531,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 83,
       "nombre": "Unidad de Investigaciones Financieras",
       "sigla": "UIF",
@@ -13426,6 +14545,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 82,
       "nombre": "Gestora Pública de la Seguridad Social de Largo Plazo",
       "tipo": "Otro"
@@ -13438,6 +14558,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 38,
       "nombre": "Servicio Nacional de Patrimonio del Estado",
       "sigla": "Senape",
@@ -13452,6 +14573,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 79,
       "nombre": "Ministerio de Educación",
       "sigla": "ME",
@@ -13466,6 +14588,7 @@
       "dependencia": [
         "recMG6vay1qsi6aUd"
       ],
+      "eleccion_mae": "designación",
       "id": 14,
       "nombre": "Viceministerio de Defensa Civil",
       "tipo": "Viceministerio"
@@ -13478,6 +14601,7 @@
       "dependencia": [
         "recRiMRkZ9ral1hlk"
       ],
+      "eleccion_mae": "designación",
       "id": 84,
       "nombre": "Servicio Plurinacional de la Mujer y la Despatriarcalización \"Ana María Romero\"",
       "sigla": "Sepmud",
@@ -13492,6 +14616,7 @@
       "dependencia": [
         "reccX4xvpiziL6dV9"
       ],
+      "eleccion_mae": "designación",
       "id": 61,
       "nombre": "Servicio Estatal de Autonomías",
       "sigla": "SEA",
@@ -13506,6 +14631,7 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 78,
       "nombre": "Ministerio de Salud y Deportes",
       "sigla": "MSD",
@@ -13520,6 +14646,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 93,
       "nombre": "Autoridad de Fiscalización de Electricidad y Tecnología Nuclear",
       "sigla": "AETN",
@@ -13533,6 +14660,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 148,
       "nombre": "Agencia de Infraestructura en Salud y Equipamiento",
       "sigla": "AISEM",
@@ -13547,6 +14675,7 @@
       "dependencia": [
         "recZXuPo3n4QJ4cc1"
       ],
+      "eleccion_mae": "designación",
       "id": 99,
       "nombre": "Radio Illimani - Red Patria Nueva",
       "tipo": "Otro",
@@ -13560,6 +14689,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 87,
       "nombre": "Empresa Nacional de Telecomunicaciones",
       "sigla": "Entel-Bolivia",
@@ -13574,6 +14704,7 @@
       "dependencia": [
         "recsuCxQwrF93G855"
       ],
+      "eleccion_mae": "designación",
       "id": 173,
       "nombre": "Observatorio Plurinacional de la Calidad Educativa",
       "sigla": "OPCE",
@@ -13588,6 +14719,7 @@
       "dependencia": [
         "recyMpkgqj37VCj7M"
       ],
+      "eleccion_mae": "designación",
       "id": 141,
       "nombre": "Viceministerio de Empleo, Servicio Civil y Cooperativas",
       "sigla": "VESCC",
@@ -13601,6 +14733,7 @@
       "dependencia": [
         "recDI8RDjX6z76J0n"
       ],
+      "eleccion_mae": "designación",
       "id": 165,
       "nombre": "Administración de Servicios Portuarios – Bolivia",
       "sigla": "ASP-B",
@@ -13616,6 +14749,7 @@
       "dependencia": [
         "recZXuPo3n4QJ4cc1"
       ],
+      "eleccion_mae": "designación",
       "id": 95,
       "nombre": "Periódico Bolivia",
       "tipo": "Otro",
@@ -13629,6 +14763,7 @@
       "dependencia": [
         "recTV9hdUCYs4u19T"
       ],
+      "eleccion_mae": "designación",
       "id": 169,
       "nombre": "Entidad Ejecutora de Medio Ambiente y Agua",
       "sigla": "EMAGUA",
@@ -13644,6 +14779,7 @@
       "dependencia": [
         "recuomBcP9OFzwKQi"
       ],
+      "eleccion_mae": "designación",
       "id": 158,
       "nombre": "Caja de Salud de Caminos y Ramas Anexas",
       "sigla": "CSCRA",
@@ -13659,6 +14795,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 142,
       "nombre": "Agencia Boliviana de Energía Nuclear",
       "sigla": "ABEN",
@@ -13673,6 +14810,7 @@
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
+      "eleccion_mae": "designación",
       "id": 110,
       "nombre": "Agencia Estatal de Vivienda",
       "sigla": "AEVivienda",
@@ -13688,6 +14826,7 @@
       "dependencia": [
         "rec6hLDHJ33gjulLJ"
       ],
+      "eleccion_mae": "designación",
       "id": 117,
       "nombre": "Empresa Azucarera San Buenaventura",
       "sigla": "EASBA",
@@ -13702,11 +14841,25 @@
       "dependencia": [
         "recDPejejWlgRG7Vc"
       ],
+      "eleccion_mae": "designación",
       "id": 72,
       "nombre": "Ministerio de Trabajo, Empleo y Previsión Social",
       "sigla": "MTEPS",
       "tipo": "Ministerio",
       "twitter": "@MinTrabajoBol"
+    },
+    {
+      "airtableId": "recyXm5d66J1ijVtE",
+      "autoridades": [
+        "recgBZwgjHVBSoW7W"
+      ],
+      "eleccion_mae": "elección popular",
+      "id": 181,
+      "nombre": "Gobierno Autónomo Departamental de Pando",
+      "sigla": "GADP",
+      "tipo": "Gobierno Autónomo Departamental",
+      "twitter": "@pandogob",
+      "webpage": "http://www.pando.gob.bo/"
     },
     {
       "airtableId": "recyZpRPwyAAMczTb",
@@ -13716,6 +14869,7 @@
       "dependencia": [
         "recRiMRkZ9ral1hlk"
       ],
+      "eleccion_mae": "designación",
       "hasta": "2020-11-20",
       "id": 9,
       "nombre": "Viceministerio de Descolonización",
@@ -13732,6 +14886,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 55,
       "nombre": "Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos",
       "tipo": "Viceministerio"
@@ -13745,6 +14900,7 @@
       "dependencia": [
         "reccOyt73GJKFfU2z"
       ],
+      "eleccion_mae": "designación",
       "id": 23,
       "nombre": "Armada",
       "tipo": "Otro",
@@ -13758,6 +14914,7 @@
       "dependencia": [
         "rec6hOG1aBXYJnXYZ"
       ],
+      "eleccion_mae": "designación",
       "id": 80,
       "nombre": "Fondo Nacional de Desarrollo Regional",
       "sigla": "FNDR",
@@ -13772,6 +14929,7 @@
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
       ],
+      "eleccion_mae": "designación",
       "id": 89,
       "nombre": "Viceministerio de Altas Tecnologías Energéticas",
       "sigla": "VATE",
@@ -13785,6 +14943,7 @@
       "dependencia": [
         "recdkuR3fetrWHrQf"
       ],
+      "eleccion_mae": "designación",
       "id": 121,
       "nombre": "Instituto Nacional de Innovación Agropecuaria y Forestal",
       "sigla": "INIAF",
@@ -14171,6 +15330,65 @@
       "nombre": "David Pérez"
     },
     {
+      "airtableId": "rec0oJyRcz9OD5T1W",
+      "autoridades": [
+        "recfMciuZo9dBBUAw"
+      ],
+      "fotos": [
+        {
+          "filename": "E0bbSGgXoAECuwO.jpeg",
+          "id": "attksj0s3iuzy6gzF",
+          "size": 22524,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/51583351bbb934ba32e4809beff60539/0eb995e2",
+              "width": 3000
+            },
+            "large": {
+              "height": 342,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4764ad0156f87ea96e474ed8993c1ea6/2ae18ddf",
+              "width": 608
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/545ea6493a5fac5eae52995c942b6dcf/11483933",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c83b9439a64c6fd9460e7cd678d54f3b/02775a5a/E0bbSGgXoAECuwO.jpeg"
+        },
+        {
+          "filename": "E0ekArpXoAkAxd5.jpeg",
+          "id": "att4fOMoJ8fby1qbP",
+          "size": 42135,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ef19b8a5e8e552e32a67c2f6d695764f/881c7be4",
+              "width": 3000
+            },
+            "large": {
+              "height": 474,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0b9764398f5dc831682f991ca52cd1a7/ee2a4312",
+              "width": 600
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5a9a42cee701c997fc0020f0fe1e7ba9/0d718e29",
+              "width": 46
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/bf4893b7a78e4438727391bb16a2fd24/3ceb8dfa/E0ekArpXoAkAxd5.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 191,
+      "nombre": "Damián Condori Herrera"
+    },
+    {
       "airtableId": "rec1TJYIP3FlMam3m",
       "autoridades": [
         "recGWUtviBlCaE5Sb"
@@ -14441,6 +15659,13 @@
       "twitter": "@JavierFreire22"
     },
     {
+      "airtableId": "rec2yF3MoWf8pdRPy",
+      "autoridades": [
+        "recuS2N1M73RKgAVW"
+      ],
+      "id": 201
+    },
+    {
       "airtableId": "rec35kJQ7CbyuIuid",
       "autoridades": [
         "recO0kozCnqa93Bt9"
@@ -14640,6 +15865,42 @@
       "nombre": "Adolfo León Rejas"
     },
     {
+      "airtableId": "rec48zTkzjDwZ9MNE",
+      "autoridades": [
+        "recL118kOdF4QfXVI"
+      ],
+      "fotos": [
+        {
+          "filename": "E0bb94KWEAImvWg.jpeg",
+          "id": "attGB5gNJRHgYeYlV",
+          "size": 18172,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a731d5b486c48e08975ff509b3f679eb/e6c31265",
+              "width": 3000
+            },
+            "large": {
+              "height": 342,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c1d95f47b514bb5776e83a3c4178c916/8b4b4187",
+              "width": 608
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c5b4b7fd55c24db412b650e94c01ad5f/b472ea88",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/2469453cd194f798066912e1abdb0278/2ec8089b/E0bb94KWEAImvWg.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 193,
+      "nombre": "Santos Quispe Quispe",
+      "twitter": "@wayna_mallku"
+    },
+    {
       "airtableId": "rec4AQ3cO2LCpv8Tj",
       "autoridades": [
         "recT9zj7VqqzbKnBU"
@@ -14832,6 +16093,13 @@
       "id": 16,
       "nombre": "Freddy Martín Bobaryn López",
       "twitter": "@fbobaryn"
+    },
+    {
+      "airtableId": "rec61E1foS5ZYS0Rf",
+      "autoridades": [
+        "rec8p0focXIueZW1a"
+      ],
+      "id": 205
     },
     {
       "airtableId": "rec61OldBV0M1p6VW",
@@ -15103,6 +16371,41 @@
       "genero": "Hombre",
       "id": 25,
       "nombre": "Álvaro Mollinedo Catari"
+    },
+    {
+      "airtableId": "rec9Rjms1I0N0q5oB",
+      "autoridades": [
+        "recpQgCBFReNl8AtS"
+      ],
+      "fotos": [
+        {
+          "filename": "E0bbpzqXsAAYE_d.jpeg",
+          "id": "attJiGJPv1tv5TuOe",
+          "size": 49196,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2d2e7af2f2b9c6be2bb594ad014d64df/5c47149d",
+              "width": 3000
+            },
+            "large": {
+              "height": 430,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/59b89061794393ccb243c5a622cd9f53/572d3aca",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/58ad859b731cde556243a1a056e5a95d/ddc099b5",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/3e68db9205b4b6b634e481eef45968a2/a9eea540/E0bbpzqXsAAYE_d.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 192,
+      "nombre": "Humberto Sánchez Sánchez"
     },
     {
       "airtableId": "recAMo8FGMbVRZziN",
@@ -15442,6 +16745,13 @@
       "genero": "Hombre",
       "id": 188,
       "nombre": "Daniel Pedro Vargas Carrasco"
+    },
+    {
+      "airtableId": "recC6EJTch0fJMCqM",
+      "autoridades": [
+        "rec7QeoP5M17UsYSr"
+      ],
+      "id": 206
     },
     {
       "airtableId": "recCEWpnu199dQ5Fc",
@@ -16013,6 +17323,42 @@
       "nombre": "José Aramayo"
     },
     {
+      "airtableId": "recGuhlzIbgKHMYIL",
+      "autoridades": [
+        "recyF77b9kjuYuyR2"
+      ],
+      "fotos": [
+        {
+          "filename": "E0bdDBYXMAIwTsU.jpeg",
+          "id": "attk927W2pq3GKj2e",
+          "size": 41868,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e7903e86723db2b5614fd3c27ba0cd14/aa4384ed",
+              "width": 3000
+            },
+            "large": {
+              "height": 356,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c045adc15a539226939213dc2d9c0e34/8a06b442",
+              "width": 474
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3d860ec6c4ee776e43730d1d2c12911f/23132082",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/8907cd47bf795b3b8f540924473ff6d4/e77fe0ee/E0bdDBYXMAIwTsU.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 198,
+      "nombre": "Óscar Montes Barzón",
+      "twitter": "@OscarBarzon"
+    },
+    {
       "airtableId": "recGyLW0h8TbwXVIW",
       "autoridades": [
         "recAhUsC6Ci14FFAF"
@@ -16256,6 +17602,41 @@
       "genero": "Hombre",
       "id": 54,
       "nombre": "Álvaro Terrazas Pelaez"
+    },
+    {
+      "airtableId": "recJMhUSFkXi1ivrx",
+      "autoridades": [
+        "rec6xst6nSUSUzvb7"
+      ],
+      "fotos": [
+        {
+          "filename": "E0bcLu3WQAQla42.jpeg",
+          "id": "attLZwLB1jGMk7r5s",
+          "size": 17035,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e6437987528fdb977acbffdd916035fb/1c8e510d",
+              "width": 3000
+            },
+            "large": {
+              "height": 300,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0c4dc7c55d8ea9d7e75574e24845545e/1255e29b",
+              "width": 300
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a482ca8e47ecc4a54b6581e210b464b4/18ca84b5",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/5dd992a44a2a8afdd8822ee4f7e7a182/f6435081/E0bcLu3WQAQla42.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 194,
+      "nombre": "Johnny Franklin Vedia Rodríguez"
     },
     {
       "airtableId": "recJWxmAYm41RDyHy",
@@ -16579,6 +17960,42 @@
       "nombre": "Eusebio Lucio Aruquipa Fernández"
     },
     {
+      "airtableId": "recLeyJyhtLp6K8RX",
+      "autoridades": [
+        "recQzRb9bbuNvNy4E"
+      ],
+      "fotos": [
+        {
+          "filename": "E0bc4o_XMAIdBRy.jpeg",
+          "id": "attNMciRl2dtsWC9j",
+          "size": 12845,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6a8bd47ea5a7b4286953040293d9b954/c6698b6b",
+              "width": 3000
+            },
+            "large": {
+              "height": 340,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e6c7532b96bbb5a5e956011d2451580f/5e0520df",
+              "width": 320
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c6b6361d95340a8b0bd129a6a5d7215e/7e31cbca",
+              "width": 34
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/fae394039a054b5bcb424da41a8c91a6/f0ea0aca/E0bc4o_XMAIdBRy.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 197,
+      "nombre": "Luís Fernando Camacho Vaca",
+      "twitter": "@LuisFerCamachoV"
+    },
+    {
       "airtableId": "recLmD0wBteClURcV",
       "autoridades": [
         "rec5SqbarqKG4LH5x"
@@ -16859,6 +18276,42 @@
       "genero": "Hombre",
       "id": 72,
       "nombre": "José María Salvador Romay Bortolini"
+    },
+    {
+      "airtableId": "recOlApAQ4w8z5Hxs",
+      "autoridades": [
+        "recgBZwgjHVBSoW7W"
+      ],
+      "fotos": [
+        {
+          "filename": "E0bcfBYXEAEDDUq.jpeg",
+          "id": "attS620KnGlNuXdtN",
+          "size": 94277,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e9fd058db8c53f788388e217f2d4b9b0/ef0e10f2",
+              "width": 3000
+            },
+            "large": {
+              "height": 399,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8bff83672c4fc335af8d19fe7cd50af0/2f89e367",
+              "width": 720
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d2511fdcf4992fcc54ca80084378b10c/fccbd286",
+              "width": 65
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7c0aa840d58a73bd4c4aca1a8b2e821b/cfb371b8/E0bcfBYXEAEDDUq.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 195,
+      "nombre": "Regis Richter Alencar",
+      "twitter": "@RichterRegis"
     },
     {
       "airtableId": "recP9FnXx2yjhcSH6",
@@ -17213,6 +18666,42 @@
       "genero": "Hombre",
       "id": 174,
       "nombre": "Eugenio Mendoza Tapia"
+    },
+    {
+      "airtableId": "recT9DDSEmCal6RpJ",
+      "autoridades": [
+        "recTuqF6kXKqvup1d"
+      ],
+      "fotos": [
+        {
+          "filename": "E0ihte0XIAkU9jh.jpeg",
+          "id": "attGnLFkeAQLhKcCu",
+          "size": 146377,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7a8164c25e0696f0cd2c76573f9063f9/0edbc54f",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7eb5aca3c3c0a8e7a446badcbd5e012f/ea5efb14",
+              "width": 683
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3907f9777b2710b2a073a0b2c38df11e/ab4889be",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/53ef564e638891b1aa640376799a87a7/f54caf52/E0ihte0XIAkU9jh.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 200,
+      "nombre": "Eva Copa Murga",
+      "twitter": "@EvaCopa_Bol"
     },
     {
       "airtableId": "recTFlT7EVPxbCL8Z",
@@ -18368,6 +19857,13 @@
       "nombre": "Edson Ross Valda Gómez"
     },
     {
+      "airtableId": "recdMDAGGace5DZiy",
+      "autoridades": [
+        "recxglVlCIMsqSjuA"
+      ],
+      "id": 202
+    },
+    {
       "airtableId": "recdWV1XwyBsqt7is",
       "autoridades": [
         "recplry7wQgzs40Pp"
@@ -19300,6 +20796,42 @@
       "twitter": "@RommelUno"
     },
     {
+      "airtableId": "reciBDQ2bz2PEjkkq",
+      "autoridades": [
+        "recJLXUOyttUE4CsW"
+      ],
+      "fotos": [
+        {
+          "filename": "E0ihl5sXMAQ4PqP.jpeg",
+          "id": "attaEKszW7hLuj00t",
+          "size": 26623,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/adc4623855e09977eda11878135e506d/9c71efb0",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1a8b816ac8d5c5781f4063215594a5b6/66649bfb",
+              "width": 748
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e1bb1e7730e95b86a031e831d81b2359/ba252600",
+              "width": 53
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/7115054296f21b5f8f1834c8b03adde5/0718e332/E0ihl5sXMAQ4PqP.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 199,
+      "nombre": "Iván Arias Durán",
+      "twitter": "@ivanariasduran"
+    },
+    {
       "airtableId": "recicwAiTbRm2lLHI",
       "autoridades": [
         "recaAU4C3yRFrXdm8"
@@ -19812,6 +21344,13 @@
       "nombre": "Miguel Ángel Contreras Campero"
     },
     {
+      "airtableId": "recm9Q7gJgB8X12zx",
+      "autoridades": [
+        "recheSvHY8IXgH8Vc"
+      ],
+      "id": 204
+    },
+    {
       "airtableId": "recmLCdRFNO19mqTQ",
       "autoridades": [
         "rece90HbPaOkyYSyg"
@@ -20196,6 +21735,13 @@
       "twitter": "@NaviaTejerina"
     },
     {
+      "airtableId": "recpiVEaMQRpW4kbR",
+      "autoridades": [
+        "rech68j4WR9WSac8P"
+      ],
+      "id": 207
+    },
+    {
       "airtableId": "recpnx6iZZHO0HSxl",
       "autoridades": [
         "rechLVAC9mH7pjkcL"
@@ -20442,6 +21988,48 @@
       "nombre": "Eva Gloria Chuquimia"
     },
     {
+      "airtableId": "recriuLweNRc7gDr7",
+      "autoridades": [
+        "recmYOFPXlhzNtCbL"
+      ],
+      "fotos": [
+        {
+          "filename": "E0bcs-EXEAMkUql.jpeg",
+          "id": "attIq7WtRA51aF0pX",
+          "size": 19466,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f00ac03a624227db595a439436fcbab2/f08a3f99",
+              "width": 3000
+            },
+            "large": {
+              "height": 300,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8b4e16053ae631458184abcc2125c887/b289a632",
+              "width": 300
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a24033abf86fe6defc6e5c0d93ef1958/b26dc008",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/5b3101c9fc986c6f854458e7c3b7418d/8000ced2/E0bcs-EXEAMkUql.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 196,
+      "nombre": "Jhonny Óscar Mamani Gutiérrez"
+    },
+    {
+      "airtableId": "recrvjaQrD8lzQugf",
+      "autoridades": [
+        "recsptEL0UZEiNLe4"
+      ],
+      "id": 203
+    },
+    {
       "airtableId": "recs3VKQLO2dpHMxb",
       "autoridades": [
         "recNvSvKxHu2ptELM"
@@ -20511,6 +22099,13 @@
       "genero": "Mujer",
       "id": 61,
       "nombre": "Helena Argirakis Jordán"
+    },
+    {
+      "airtableId": "rectQCXbyYMRpD5uE",
+      "autoridades": [
+        "recZGK6sa8mjRftcg"
+      ],
+      "id": 208
     },
     {
       "airtableId": "recuOkcYJnUxty3mv",
