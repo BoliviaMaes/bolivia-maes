@@ -1023,10 +1023,42 @@
       "entidad": [
         "recCfuHCXme6CHKOI"
       ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0iiVuSWEAIbkSZ.png",
+          "id": "attaJFtGI5ILV42sL",
+          "size": 326489,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cd2cf5515508458b96ca1c5ac9e65c4b/db21c9f6",
+              "width": 3000
+            },
+            "large": {
+              "height": 387,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3348b2ab8e038e927efe5e28f8e8a2de/8ca28778",
+              "width": 700
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a390de99f4047e3641c589b3c26d623f/539c2eb4",
+              "width": 65
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/9cc7b64c4d8b99b30052bb1b749b8843/76990713/E0iiVuSWEAIbkSZ.png"
+        }
+      ],
       "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
       "id": 217,
       "nombre (from entidad)": [
         "Gobierno Autónomo Municipal de Trinidad"
+      ],
+      "nombre (from persona)": [
+        "Cristhian Miguel Cámara Arratia"
       ],
       "persona": [
         "recC6EJTch0fJMCqM"
@@ -1484,10 +1516,42 @@
       "entidad": [
         "recpNdeRjQS42JV6h"
       ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0iiN7JX0AIuUw9.jpeg",
+          "id": "attknwR4AfFzyGvM4",
+          "size": 38251,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d38a1a161054cc793e922b1f6d42a52e/0b6738ef",
+              "width": 3000
+            },
+            "large": {
+              "height": 430,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/61234f10cda5a0fdacd140a6f399a982/ac38c00d",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c80cc383da81e238b73b0edfa761707c/5fc7ae99",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/db11efbc4ded59467d98e91a3536c33e/5504ca80/E0iiN7JX0AIuUw9.jpeg"
+        }
+      ],
       "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Mujer"
+      ],
       "id": 216,
       "nombre (from entidad)": [
         "Gobierno Autónomo Municipal de Cobija"
+      ],
+      "nombre (from persona)": [
+        "Ana Lucía Reis"
       ],
       "persona": [
         "rec61E1foS5ZYS0Rf"
@@ -1495,7 +1559,13 @@
       "sigla (from entidad)": [
         "GAMC"
       ],
-      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538867158605828"
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538867158605828",
+      "twitter (from entidad)": [
+        "@gamcobija"
+      ],
+      "twitter (from persona)": [
+        "@UciaAna"
+      ]
     },
     {
       "airtableId": "rec900hVRjQt9byy8",
@@ -7395,10 +7465,42 @@
       "entidad": [
         "recCsAKPcj009VBgv"
       ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0iigUTXoAU094t.jpeg",
+          "id": "attDCtL3dy9yKE2x3",
+          "size": 46512,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6bd04055f19c73c0a6f3a0f79368092e/8985dab4",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/39dcbd668c09f5051503aad52c94e02a/8885e956",
+              "width": 820
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/792135f8687a3c935f2ec406b0c4c872/282095d5",
+              "width": 58
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a24958a0cdbefe030f43ab000e1a4e09/23760918/E0iigUTXoAU094t.jpeg"
+        }
+      ],
       "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
       "id": 219,
       "nombre (from entidad)": [
         "Gobierno Autónomo Municipal de Oruro"
+      ],
+      "nombre (from persona)": [
+        "Adhemar Willcarani Morales"
       ],
       "persona": [
         "rectQCXbyYMRpD5uE"
@@ -8942,10 +9044,42 @@
       "entidad": [
         "recFlncTDfZ2QeFNT"
       ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0iia4OWUAA1pQS.jpeg",
+          "id": "att4WcaiWTmSPHhFy",
+          "size": 45860,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/330bd1ac66697d16d737e37655aff83a/6dc33ff7",
+              "width": 3000
+            },
+            "large": {
+              "height": 420,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c5fe4c7e907d008c9dff0d4bbe75e2b9/02e635e0",
+              "width": 665
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7e25eaf44830917053b4ef5fdd6799cd/fb2a602f",
+              "width": 57
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a109ce817044107ec7a616dd2dea73b1/c0387061/E0iia4OWUAA1pQS.jpeg"
+        }
+      ],
       "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
       "id": 218,
       "nombre (from entidad)": [
         "Gobierno Autónomo Municipal de Potosí"
+      ],
+      "nombre (from persona)": [
+        "Jhonny Llally Huata"
       ],
       "persona": [
         "recpiVEaMQRpW4kbR"
@@ -9014,10 +9148,42 @@
       "entidad": [
         "recJNqI8fmABRlwE3"
       ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0iiHMgXsAQRJmm.jpeg",
+          "id": "attzFslHzUM1mY9bB",
+          "size": 51518,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ff9a8b914b29e5debc44dd45ffc77d7b/165727e2",
+              "width": 3000
+            },
+            "large": {
+              "height": 600,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/54657ce7c509a23b8fcd470096b8896c/6ce53eb1",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/02d5f239b13c7840b31e5fcea4ee7e8a/e6680edd",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/397df005425090afeb1c0c1e75231fa8/9fcde908/E0iiHMgXsAQRJmm.jpeg"
+        }
+      ],
       "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
       "id": 215,
       "nombre (from entidad)": [
         "Gobierno Autónomo Municipal de Tarija"
+      ],
+      "nombre (from persona)": [
+        "Johnny Torres"
       ],
       "persona": [
         "recm9Q7gJgB8X12zx"
@@ -10883,10 +11049,42 @@
       "entidad": [
         "recLsuTDK80mMew3C"
       ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0iiCEUWQAAD4la.jpeg",
+          "id": "attg9C40rD7nn2jS8",
+          "size": 40604,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8d911cf330ed9f33459c9dcaf3d9bdc9/3f226510",
+              "width": 3000
+            },
+            "large": {
+              "height": 480,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7594c33930563e7fc7568dd3f65cda68/f66f8fb8",
+              "width": 640
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f245316927456c6dba39691059fd0e7d/74f58d60",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/f29f5eb4434b7eb8722590cae34574e3/b20be3ec/E0iiCEUWQAAD4la.jpeg"
+        }
+      ],
       "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
       "id": 214,
       "nombre (from entidad)": [
         "Gobierno Autónomo Municipal de Sucre"
+      ],
+      "nombre (from persona)": [
+        "Enrique Leaño"
       ],
       "persona": [
         "recrvjaQrD8lzQugf"
@@ -10897,6 +11095,9 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538662312984578",
       "twitter (from entidad)": [
         "@GAMSucre"
+      ],
+      "twitter (from persona)": [
+        "@EnriqueLeano26"
       ]
     },
     {
@@ -11344,10 +11545,42 @@
       "entidad": [
         "recEl4tpmD2Lz56P6"
       ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0ih1TZXMAEm4C6.jpeg",
+          "id": "attZZ8i7SK2mpCczU",
+          "size": 32727,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/18eae8b994b1bb7570b8aa2164dfbba4/31e37a7c",
+              "width": 3000
+            },
+            "large": {
+              "height": 464,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9b702aa5bdb2b347f158ce9bf9963318/8f7b8687",
+              "width": 598
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4965ffd4d9111477ade77612848710fe/a7af7e3d",
+              "width": 46
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/4b3883a076b61ce5ff43c572425d0a10/20606de8/E0ih1TZXMAEm4C6.jpeg"
+        }
+      ],
       "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
       "id": 212,
       "nombre (from entidad)": [
         "Gobierno Autónomo Municipal de Santa Cruz de la Sierra"
+      ],
+      "nombre (from persona)": [
+        "Max Jhonny Fernández Saucedo"
       ],
       "persona": [
         "rec2yF3MoWf8pdRPy"
@@ -11768,10 +12001,42 @@
       "entidad": [
         "recVmms2y3AIVJQ3I"
       ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0ih79XXsAIOclR.jpeg",
+          "id": "attzLZ5z9Ubq8QhL7",
+          "size": 124850,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/db4417d328a08f6d8f550c1f59e53e6e/6dd41be1",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3a7168ce551639fdf6ec8237ac26a27d/73f5701c",
+              "width": 910
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/88221747e844c25870e524363c40f8cc/bc08b4db",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b79c8e4afa6fb1e0ec366e1a89868881/09dce52f/E0ih79XXsAIOclR.jpeg"
+        }
+      ],
       "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
       "id": 213,
       "nombre (from entidad)": [
         "Gobierno Autónomo Municipal de Cochabamba"
+      ],
+      "nombre (from persona)": [
+        "Manfred Armando Antonio Reyes Villa Bacigalupi"
       ],
       "persona": [
         "recdMDAGGace5DZiy"
@@ -11782,6 +12047,9 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389538562660618240",
       "twitter (from entidad)": [
         "@gam_cochabamba"
+      ],
+      "twitter (from persona)": [
+        "@ManfredBolivia"
       ]
     },
     {
@@ -12607,7 +12875,8 @@
       "id": 192,
       "nombre": "Gobierno Autónomo Municipal de Trinidad",
       "sigla": "GAMT",
-      "tipo": "Gobierno Autónomo Municipal"
+      "tipo": "Gobierno Autónomo Municipal",
+      "webpage": "https://www.trinidad.gob.bo/"
     },
     {
       "airtableId": "recCsAKPcj009VBgv",
@@ -12618,7 +12887,8 @@
       "id": 194,
       "nombre": "Gobierno Autónomo Municipal de Oruro",
       "sigla": "GAMO",
-      "tipo": "Gobierno Autónomo Municipal"
+      "tipo": "Gobierno Autónomo Municipal",
+      "webpage": "https://gamoruro.com/"
     },
     {
       "airtableId": "recD6sRObwSGTeSRx",
@@ -12755,7 +13025,8 @@
       "id": 193,
       "nombre": "Gobierno Autónomo Municipal de Potosí",
       "sigla": "GAMP",
-      "tipo": "Gobierno Autónomo Municipal"
+      "tipo": "Gobierno Autónomo Municipal",
+      "webpage": "https://potosi.bo"
     },
     {
       "airtableId": "recGUD7Z0Yutsw0Qp",
@@ -12959,7 +13230,7 @@
       "nombre": "Gobierno Autónomo Municipal de Tarija",
       "sigla": "GAMT",
       "tipo": "Gobierno Autónomo Municipal",
-      "twitter": "@",
+      "twitter": "@TarijaCapital",
       "webpage": "https://tarija.bo/"
     },
     {
@@ -14392,7 +14663,9 @@
       "id": 191,
       "nombre": "Gobierno Autónomo Municipal de Cobija",
       "sigla": "GAMC",
-      "tipo": "Gobierno Autónomo Municipal"
+      "tipo": "Gobierno Autónomo Municipal",
+      "twitter": "@gamcobija",
+      "webpage": "https://www.cobija.gob.bo"
     },
     {
       "airtableId": "recpdpz1bWV3Zr83H",
@@ -15663,7 +15936,35 @@
       "autoridades": [
         "recuS2N1M73RKgAVW"
       ],
-      "id": 201
+      "fotos": [
+        {
+          "filename": "E0ih1TZXMAEm4C6.jpeg",
+          "id": "attZZ8i7SK2mpCczU",
+          "size": 32727,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/18eae8b994b1bb7570b8aa2164dfbba4/31e37a7c",
+              "width": 3000
+            },
+            "large": {
+              "height": 464,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9b702aa5bdb2b347f158ce9bf9963318/8f7b8687",
+              "width": 598
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4965ffd4d9111477ade77612848710fe/a7af7e3d",
+              "width": 46
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/4b3883a076b61ce5ff43c572425d0a10/20606de8/E0ih1TZXMAEm4C6.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 201,
+      "nombre": "Max Jhonny Fernández Saucedo"
     },
     {
       "airtableId": "rec35kJQ7CbyuIuid",
@@ -16099,7 +16400,36 @@
       "autoridades": [
         "rec8p0focXIueZW1a"
       ],
-      "id": 205
+      "fotos": [
+        {
+          "filename": "E0iiN7JX0AIuUw9.jpeg",
+          "id": "attknwR4AfFzyGvM4",
+          "size": 38251,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d38a1a161054cc793e922b1f6d42a52e/0b6738ef",
+              "width": 3000
+            },
+            "large": {
+              "height": 430,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/61234f10cda5a0fdacd140a6f399a982/ac38c00d",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c80cc383da81e238b73b0edfa761707c/5fc7ae99",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/db11efbc4ded59467d98e91a3536c33e/5504ca80/E0iiN7JX0AIuUw9.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 205,
+      "nombre": "Ana Lucía Reis",
+      "twitter": "@UciaAna"
     },
     {
       "airtableId": "rec61OldBV0M1p6VW",
@@ -16751,7 +17081,35 @@
       "autoridades": [
         "rec7QeoP5M17UsYSr"
       ],
-      "id": 206
+      "fotos": [
+        {
+          "filename": "E0iiVuSWEAIbkSZ.png",
+          "id": "attaJFtGI5ILV42sL",
+          "size": 326489,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cd2cf5515508458b96ca1c5ac9e65c4b/db21c9f6",
+              "width": 3000
+            },
+            "large": {
+              "height": 387,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3348b2ab8e038e927efe5e28f8e8a2de/8ca28778",
+              "width": 700
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a390de99f4047e3641c589b3c26d623f/539c2eb4",
+              "width": 65
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/9cc7b64c4d8b99b30052bb1b749b8843/76990713/E0iiVuSWEAIbkSZ.png"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 206,
+      "nombre": "Cristhian Miguel Cámara Arratia"
     },
     {
       "airtableId": "recCEWpnu199dQ5Fc",
@@ -19861,7 +20219,36 @@
       "autoridades": [
         "recxglVlCIMsqSjuA"
       ],
-      "id": 202
+      "fotos": [
+        {
+          "filename": "E0ih79XXsAIOclR.jpeg",
+          "id": "attzLZ5z9Ubq8QhL7",
+          "size": 124850,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/db4417d328a08f6d8f550c1f59e53e6e/6dd41be1",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3a7168ce551639fdf6ec8237ac26a27d/73f5701c",
+              "width": 910
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/88221747e844c25870e524363c40f8cc/bc08b4db",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b79c8e4afa6fb1e0ec366e1a89868881/09dce52f/E0ih79XXsAIOclR.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 202,
+      "nombre": "Manfred Armando Antonio Reyes Villa Bacigalupi",
+      "twitter": "@ManfredBolivia"
     },
     {
       "airtableId": "recdWV1XwyBsqt7is",
@@ -21348,7 +21735,35 @@
       "autoridades": [
         "recheSvHY8IXgH8Vc"
       ],
-      "id": 204
+      "fotos": [
+        {
+          "filename": "E0iiHMgXsAQRJmm.jpeg",
+          "id": "attzFslHzUM1mY9bB",
+          "size": 51518,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ff9a8b914b29e5debc44dd45ffc77d7b/165727e2",
+              "width": 3000
+            },
+            "large": {
+              "height": 600,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/54657ce7c509a23b8fcd470096b8896c/6ce53eb1",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/02d5f239b13c7840b31e5fcea4ee7e8a/e6680edd",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/397df005425090afeb1c0c1e75231fa8/9fcde908/E0iiHMgXsAQRJmm.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 204,
+      "nombre": "Johnny Torres"
     },
     {
       "airtableId": "recmLCdRFNO19mqTQ",
@@ -21739,7 +22154,35 @@
       "autoridades": [
         "rech68j4WR9WSac8P"
       ],
-      "id": 207
+      "fotos": [
+        {
+          "filename": "E0iia4OWUAA1pQS.jpeg",
+          "id": "att4WcaiWTmSPHhFy",
+          "size": 45860,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/330bd1ac66697d16d737e37655aff83a/6dc33ff7",
+              "width": 3000
+            },
+            "large": {
+              "height": 420,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c5fe4c7e907d008c9dff0d4bbe75e2b9/02e635e0",
+              "width": 665
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7e25eaf44830917053b4ef5fdd6799cd/fb2a602f",
+              "width": 57
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a109ce817044107ec7a616dd2dea73b1/c0387061/E0iia4OWUAA1pQS.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 207,
+      "nombre": "Jhonny Llally Huata"
     },
     {
       "airtableId": "recpnx6iZZHO0HSxl",
@@ -22027,7 +22470,36 @@
       "autoridades": [
         "recsptEL0UZEiNLe4"
       ],
-      "id": 203
+      "fotos": [
+        {
+          "filename": "E0iiCEUWQAAD4la.jpeg",
+          "id": "attg9C40rD7nn2jS8",
+          "size": 40604,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8d911cf330ed9f33459c9dcaf3d9bdc9/3f226510",
+              "width": 3000
+            },
+            "large": {
+              "height": 480,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7594c33930563e7fc7568dd3f65cda68/f66f8fb8",
+              "width": 640
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f245316927456c6dba39691059fd0e7d/74f58d60",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/f29f5eb4434b7eb8722590cae34574e3/b20be3ec/E0iiCEUWQAAD4la.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 203,
+      "nombre": "Enrique Leaño",
+      "twitter": "@EnriqueLeano26"
     },
     {
       "airtableId": "recs3VKQLO2dpHMxb",
@@ -22105,7 +22577,35 @@
       "autoridades": [
         "recZGK6sa8mjRftcg"
       ],
-      "id": 208
+      "fotos": [
+        {
+          "filename": "E0iigUTXoAU094t.jpeg",
+          "id": "attDCtL3dy9yKE2x3",
+          "size": 46512,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6bd04055f19c73c0a6f3a0f79368092e/8985dab4",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/39dcbd668c09f5051503aad52c94e02a/8885e956",
+              "width": 820
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/792135f8687a3c935f2ec406b0c4c872/282095d5",
+              "width": 58
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a24958a0cdbefe030f43ab000e1a4e09/23760918/E0iigUTXoAU094t.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 208,
+      "nombre": "Adhemar Willcarani Morales"
     },
     {
       "airtableId": "recuOkcYJnUxty3mv",
