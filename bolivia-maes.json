@@ -5784,6 +5784,58 @@
       ]
     },
     {
+      "airtableId": "recT9zj7VqqzbKnBU",
+      "cargo": "Gobernador de Beni",
+      "desde": "2021-05-03",
+      "entidad": [
+        "rec4T5QmoteUNC6O5"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E0ba_SFXsAc84J1.png",
+          "id": "att2f5rizNTLG5GmN",
+          "size": 318116,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3e5d337f0c8c323db23b4d5a84950975/e87e3893",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f9023a8e3a7444f0699afe9ae763c129/7e009d0e",
+              "width": 847
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/074e85b70593b07792a29d73d40d01db/5e72a5c2",
+              "width": 60
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/adbfad10a014bfd2170871d8a2eb4fb7/a6201f4f/E0ba_SFXsAc84J1.png"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/4029",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 201,
+      "nombre (from entidad)": [
+        "Gobernio Autónomo Departamental de Beni"
+      ],
+      "nombre (from persona)": [
+        "José Alejandro Unzueta Shiriqui"
+      ],
+      "persona": [
+        "rec4AQ3cO2LCpv8Tj"
+      ],
+      "sigla (from entidad)": [
+        "GADB"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389172885801996288"
+    },
+    {
       "airtableId": "recTYA9zPhIKqkTWR",
       "cargo": "Ministro de Desarrollo Productivo",
       "dependencia (from entidad)": [
@@ -11473,6 +11525,16 @@
       "twitter": "@EditorialEstado"
     },
     {
+      "airtableId": "rec4T5QmoteUNC6O5",
+      "autoridades": [
+        "recT9zj7VqqzbKnBU"
+      ],
+      "id": 176,
+      "nombre": "Gobernio Autónomo Departamental de Beni",
+      "sigla": "GADB",
+      "tipo": "Gobierno Autónomo Departamental"
+    },
+    {
       "airtableId": "rec53Ti3nHSvyJEGV",
       "autoridades": [
         "recVahsQwKvQ9tI3i"
@@ -14576,6 +14638,41 @@
       "genero": "Hombre",
       "id": 44,
       "nombre": "Adolfo León Rejas"
+    },
+    {
+      "airtableId": "rec4AQ3cO2LCpv8Tj",
+      "autoridades": [
+        "recT9zj7VqqzbKnBU"
+      ],
+      "fotos": [
+        {
+          "filename": "E0ba_SFXsAc84J1.png",
+          "id": "att2f5rizNTLG5GmN",
+          "size": 318116,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3e5d337f0c8c323db23b4d5a84950975/e87e3893",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f9023a8e3a7444f0699afe9ae763c129/7e009d0e",
+              "width": 847
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/074e85b70593b07792a29d73d40d01db/5e72a5c2",
+              "width": 60
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/adbfad10a014bfd2170871d8a2eb4fb7/a6201f4f/E0ba_SFXsAc84J1.png"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 190,
+      "nombre": "José Alejandro Unzueta Shiriqui"
     },
     {
       "airtableId": "rec4o81Lwn2iV6HIo",
