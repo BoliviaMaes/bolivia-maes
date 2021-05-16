@@ -3700,6 +3700,61 @@
       ]
     },
     {
+      "airtableId": "recGkXo6T1R6QjPSJ",
+      "cargo": "Viceministro de Autonomías",
+      "dependencia (from entidad)": [
+        "reccX4xvpiziL6dV9"
+      ],
+      "desde": "2021-05-15",
+      "entidad": [
+        "rec24Y6z7nWHIqB60"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E1YRApHXIAEB1CC.jpeg",
+          "id": "attc0xz1hqRwyAte0",
+          "size": 196434,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/85067158f516a1e0e6957b6780f8c118/82c8784e",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5dc4b7eace53fd91e7611f15939ed529/74e0cea5",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0bc3b29226ec34e4ecb8e0cde3d57ef3/7bbb8eb1",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/1aeae8ea064515094ea7aa3ecf1e46ef/2cfd9b50/E1YRApHXIAEB1CC.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/abi_bolivia/status/1393319852555780102",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 220,
+      "nombre (from entidad)": [
+        "Viceministerio de Autonomías"
+      ],
+      "nombre (from persona)": [
+        "Álvaro Horacio Ruiz"
+      ],
+      "persona": [
+        "recE6cnjBeyzqvAsd"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1393865619322376197",
+      "twitter (from entidad)": [
+        "@AutonomiasBol"
+      ]
+    },
+    {
       "airtableId": "recHFb3zPcdwNDASK",
       "cargo": "Comandante General interino de la Policía Boliviana",
       "dependencia (from entidad)": [
@@ -5928,6 +5983,7 @@
     {
       "airtableId": "recSbmgmgqz2jaFtn",
       "cargo": "Viceministro de Autonomías",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "reccX4xvpiziL6dV9"
       ],
@@ -5965,6 +6021,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-05-15",
       "id": 60,
       "nombre (from entidad)": [
         "Viceministerio de Autonomías"
@@ -5975,7 +6032,10 @@
       "persona": [
         "rec0NYM263zJUydOX"
       ],
-      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331357554098712576",
+      "sucesora": [
+        "recGkXo6T1R6QjPSJ"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331357450516226052",
       "twitter (from entidad)": [
         "@AutonomiasBol"
       ]
@@ -12520,7 +12580,8 @@
     {
       "airtableId": "rec24Y6z7nWHIqB60",
       "autoridades": [
-        "recSbmgmgqz2jaFtn"
+        "recSbmgmgqz2jaFtn",
+        "recGkXo6T1R6QjPSJ"
       ],
       "dependencia": [
         "reccX4xvpiziL6dV9"
@@ -17320,6 +17381,41 @@
       "genero": "Mujer",
       "id": 91,
       "nombre": "Felima Gabriela Mendoza"
+    },
+    {
+      "airtableId": "recE6cnjBeyzqvAsd",
+      "autoridades": [
+        "recGkXo6T1R6QjPSJ"
+      ],
+      "fotos": [
+        {
+          "filename": "E1YRApHXIAEB1CC.jpeg",
+          "id": "attc0xz1hqRwyAte0",
+          "size": 196434,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/85067158f516a1e0e6957b6780f8c118/82c8784e",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5dc4b7eace53fd91e7611f15939ed529/74e0cea5",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0bc3b29226ec34e4ecb8e0cde3d57ef3/7bbb8eb1",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/1aeae8ea064515094ea7aa3ecf1e46ef/2cfd9b50/E1YRApHXIAEB1CC.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 209,
+      "nombre": "Álvaro Horacio Ruiz"
     },
     {
       "airtableId": "recE7wbq4f50JGBIg",
