@@ -2248,6 +2248,64 @@
       ]
     },
     {
+      "airtableId": "recBReQeJsFfkCThX",
+      "cargo": "Gerente General de la Gestora Pública de la Seguridad Social de Largo Plazo",
+      "dependencia (from entidad)": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "desde": "2021-05-18",
+      "entidad": [
+        "recsG84XJ2a9Ix4xR"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "357018.jpg",
+          "id": "att7LEe7DFOHjVdu8",
+          "size": 192481,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fb3bd21e5f13d275c2491061fc1a7457/9b82ab4b",
+              "width": 3000
+            },
+            "large": {
+              "height": 491,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7018afe047600407e2e6bc18e160de91/85a873a9",
+              "width": 700
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ecc498a4c0b483d9798d2056164ace80/17394da8",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/324de7aeac4143778e81ea4115519a39/1ba78a4c/357018.jpg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/EconomiaBo/status/1394739181159690240",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 221,
+      "nombre (from entidad)": [
+        "Gestora Pública de la Seguridad Social de Largo Plazo"
+      ],
+      "nombre (from persona)": [
+        "Jaime Durán Chuquimia"
+      ],
+      "persona": [
+        "recUxPzOsgI45YCKX"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1394916589343068160",
+      "twitter (from entidad)": [
+        "@GestoraDe"
+      ],
+      "twitter (from persona)": [
+        "@Jaime_Duran"
+      ]
+    },
+    {
       "airtableId": "recBll6L1jkC5F2tA",
       "cargo": "Director a.i. del Banco Central de Bolivia",
       "dependencia (from entidad)": [
@@ -11053,6 +11111,7 @@
     {
       "airtableId": "recrJYbjvZmSRCnEg",
       "cargo": "Gerente General de la Gestora Pública de la Seguridad Social de Largo Plazo",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "recDI8RDjX6z76J0n"
       ],
@@ -11086,10 +11145,12 @@
           "url": "https://dl.airtable.com/.attachments/c95ce6dbb7f4f565fceb09c10be11fdf/e1609d48/f608x342-335582_365305_164.jpeg"
         }
       ],
+      "fuente_fin": "https://www.paginasiete.bo/economia/2021/5/18/exviceministro-jaime-duran-ahora-es-gerente-de-la-gestoria-publica-295426.html",
       "fuente_inicio": "https://eldeber.com.bo/economia/exejecutivo-de-la-afp-prevision-bbva-es-designado-gerente-general-de-la-gestora-publica_210081",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-05-18",
       "id": 64,
       "nombre (from entidad)": [
         "Gestora Pública de la Seguridad Social de Largo Plazo"
@@ -11100,7 +11161,14 @@
       "persona": [
         "rec27Tcxm6ZnVzSdh"
       ],
-      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331876258519642112"
+      "sucesora": [
+        "recBReQeJsFfkCThX"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1394917231553916929",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331876258519642112",
+      "twitter (from entidad)": [
+        "@GestoraDe"
+      ]
     },
     {
       "airtableId": "recsptEL0UZEiNLe4",
@@ -14874,7 +14942,8 @@
     {
       "airtableId": "recsG84XJ2a9Ix4xR",
       "autoridades": [
-        "recrJYbjvZmSRCnEg"
+        "recrJYbjvZmSRCnEg",
+        "recBReQeJsFfkCThX"
       ],
       "dependencia": [
         "recDI8RDjX6z76J0n"
@@ -14882,7 +14951,9 @@
       "eleccion_mae": "designación",
       "id": 82,
       "nombre": "Gestora Pública de la Seguridad Social de Largo Plazo",
-      "tipo": "Otro"
+      "tipo": "Otro",
+      "twitter": "@GestoraDe",
+      "webpage": "https://www.gestora.bo/"
     },
     {
       "airtableId": "recshCaSo6BwjqLuT",
@@ -19369,6 +19440,42 @@
       "id": 33,
       "nombre": "Emilio Rodas",
       "twitter": "@RodasEmilio"
+    },
+    {
+      "airtableId": "recUxPzOsgI45YCKX",
+      "autoridades": [
+        "recBReQeJsFfkCThX"
+      ],
+      "fotos": [
+        {
+          "filename": "357018.jpg",
+          "id": "att7LEe7DFOHjVdu8",
+          "size": 192481,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fb3bd21e5f13d275c2491061fc1a7457/9b82ab4b",
+              "width": 3000
+            },
+            "large": {
+              "height": 491,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7018afe047600407e2e6bc18e160de91/85a873a9",
+              "width": 700
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ecc498a4c0b483d9798d2056164ace80/17394da8",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/324de7aeac4143778e81ea4115519a39/1ba78a4c/357018.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 210,
+      "nombre": "Jaime Durán Chuquimia",
+      "twitter": "@Jaime_Duran"
     },
     {
       "airtableId": "recVAwe4aCOFqbkjr",
