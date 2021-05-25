@@ -5512,6 +5512,7 @@
     {
       "airtableId": "recPMwmzPpBJtBoJ0",
       "cargo": "Director General Ejecutivo de la AISEM (Agencia de Infraestructura en Salud y Equipamiento)",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recuomBcP9OFzwKQi"
       ],
@@ -5549,6 +5550,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-05-24",
       "id": 148,
       "nombre (from entidad)": [
         "Agencia de Infraestructura en Salud y Equipamiento"
@@ -5561,6 +5563,9 @@
       ],
       "sigla (from entidad)": [
         "AISEM"
+      ],
+      "sucesora": [
+        "recoWszjjsVkIzt3o"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1342176944293605377",
       "twitter (from entidad)": [
@@ -10458,6 +10463,64 @@
       ]
     },
     {
+      "airtableId": "recoWszjjsVkIzt3o",
+      "cargo": "Director General Ejecutivo de la AISEM (Agencia de Infraestructura en Salud y Equipamiento Médico)",
+      "dependencia (from entidad)": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "desde": "2021-05-24",
+      "entidad": [
+        "recv1X4n3aSHHBxNo"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "index.jpeg",
+          "id": "attCJUX4NKhccSUiI",
+          "size": 6361,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/43c7106ff6b98bc7455c94189d86a65e/20e52588",
+              "width": 3000
+            },
+            "large": {
+              "height": 183,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/67d5365bf6e18a3d29cbf346aab4d8b1/8333083b",
+              "width": 275
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5c867fac737f820b50618e427a4bcf9f/60effd0d",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/90f76bf581b89adb16c7d997ebe3e87f/0ab66006/index.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://www.abi.bo/#/noticia/5397",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 222,
+      "nombre (from entidad)": [
+        "Agencia de Infraestructura en Salud y Equipamiento"
+      ],
+      "nombre (from persona)": [
+        "Javier Christian Fulguera Condori"
+      ],
+      "persona": [
+        "reciTQFx6kC5OntpY"
+      ],
+      "sigla (from entidad)": [
+        "AISEM"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1397089168166166529",
+      "twitter (from entidad)": [
+        "@AISEM_BOLIVIA"
+      ]
+    },
+    {
       "airtableId": "recpQgCBFReNl8AtS",
       "cargo": "Gobernador Departamental de Cochabamba",
       "desde": "2021-05-03",
@@ -15060,7 +15123,8 @@
     {
       "airtableId": "recv1X4n3aSHHBxNo",
       "autoridades": [
-        "recPMwmzPpBJtBoJ0"
+        "recPMwmzPpBJtBoJ0",
+        "recoWszjjsVkIzt3o"
       ],
       "dependencia": [
         "recuomBcP9OFzwKQi"
@@ -21420,6 +21484,41 @@
       "id": 199,
       "nombre": "Iván Arias Durán",
       "twitter": "@ivanariasduran"
+    },
+    {
+      "airtableId": "reciTQFx6kC5OntpY",
+      "autoridades": [
+        "recoWszjjsVkIzt3o"
+      ],
+      "fotos": [
+        {
+          "filename": "index.jpeg",
+          "id": "attCJUX4NKhccSUiI",
+          "size": 6361,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/43c7106ff6b98bc7455c94189d86a65e/20e52588",
+              "width": 3000
+            },
+            "large": {
+              "height": 183,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/67d5365bf6e18a3d29cbf346aab4d8b1/8333083b",
+              "width": 275
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5c867fac737f820b50618e427a4bcf9f/60effd0d",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/90f76bf581b89adb16c7d997ebe3e87f/0ab66006/index.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 211,
+      "nombre": "Javier Christian Fulguera Condori"
     },
     {
       "airtableId": "recicwAiTbRm2lLHI",
