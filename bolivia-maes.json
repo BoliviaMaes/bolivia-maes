@@ -9718,6 +9718,67 @@
       ]
     },
     {
+      "airtableId": "reclKIOXK5JdsJCda",
+      "cargo": "Gerente Ejecutivo de EMAPA (Empresa de Apoyo a la Producción de Alimentos)",
+      "dependencia (from entidad)": [
+        "rec6hLDHJ33gjulLJ"
+      ],
+      "desde": "2021-05-26",
+      "entidad": [
+        "recN0KrfashQIrL2J"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "f850x638-343211_420700_4619.jpg",
+          "id": "attsrouNZWWvLVcBE",
+          "size": 42744,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fc424b5b9ab122c1ab026c541bdde902/fc40b878",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3eaa1398a6eb56bf40bd284cb29ae845/d70b1ad8",
+              "width": 682
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/737842267f0b6392598ef7b2e912f0b2/1fea6e0c",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a1be2cc35f8acc899deab027eca96e7e/9af1ce22/f850x638-343211_420700_4619.jpg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/MDPyEPBolivia/status/1397752146754478085",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 223,
+      "nombre (from entidad)": [
+        "Empresa de Apoyo a la Producción de Alimentos"
+      ],
+      "nombre (from persona)": [
+        "Franklin Richard Flores Córdova"
+      ],
+      "persona": [
+        "recComxO4R4aKGbWc"
+      ],
+      "sigla (from entidad)": [
+        "EMAPA"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1397816575076470784",
+      "twitter (from entidad)": [
+        "@EmapaBolivia"
+      ],
+      "twitter (from persona)": [
+        "@FloresCordova1"
+      ]
+    },
+    {
       "airtableId": "reclNBmhSGRUmOgQ2",
       "cargo": "Ministro de Relaciones Exteriores",
       "dependencia (from entidad)": [
@@ -13611,6 +13672,21 @@
       "twitter": "@YPFB_corp"
     },
     {
+      "airtableId": "recN0KrfashQIrL2J",
+      "autoridades": [
+        "reclKIOXK5JdsJCda"
+      ],
+      "dependencia": [
+        "rec6hLDHJ33gjulLJ"
+      ],
+      "eleccion_mae": "designación",
+      "id": 195,
+      "nombre": "Empresa de Apoyo a la Producción de Alimentos",
+      "sigla": "EMAPA",
+      "tipo": "Empresa",
+      "twitter": "@EmapaBolivia"
+    },
+    {
       "airtableId": "recNB343Y7zTT14nC",
       "autoridades": [
         "rec3FEK8CFNtKW5oO"
@@ -17410,6 +17486,42 @@
       "id": 103,
       "nombre": "David Choquehuanca Céspedes",
       "twitter": "@LaramaDavid"
+    },
+    {
+      "airtableId": "recComxO4R4aKGbWc",
+      "autoridades": [
+        "reclKIOXK5JdsJCda"
+      ],
+      "fotos": [
+        {
+          "filename": "f850x638-343211_420700_4619.jpg",
+          "id": "attsrouNZWWvLVcBE",
+          "size": 42744,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fc424b5b9ab122c1ab026c541bdde902/fc40b878",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3eaa1398a6eb56bf40bd284cb29ae845/d70b1ad8",
+              "width": 682
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/737842267f0b6392598ef7b2e912f0b2/1fea6e0c",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a1be2cc35f8acc899deab027eca96e7e/9af1ce22/f850x638-343211_420700_4619.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 212,
+      "nombre": "Franklin Richard Flores Córdova",
+      "twitter": "@FloresCordova1"
     },
     {
       "airtableId": "recD0NfJIm1lvim6X",
