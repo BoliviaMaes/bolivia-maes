@@ -2484,6 +2484,67 @@
       ]
     },
     {
+      "airtableId": "recBqDYntowE3uVVf",
+      "cargo": "Gerente Ejecutivo de Mi Teleférico (Empresa Estatal de Transporte por Cable)",
+      "dependencia (from entidad)": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "desde": "2021-06-05",
+      "entidad": [
+        "rechnWAyDvFw6xdUn"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "Sergio_Choque_en_abril_de_2020.png",
+          "id": "attaXIEZArrw7HZlM",
+          "size": 292006,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/34246352b718c5d5b61e3c8c45b2e1d2/3ffc1e47",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/68d4234df0545871b0c8e2ac24f91464/c7169073",
+              "width": 532
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e9c16ffbae18b43a34a05cc7c5e22de1/6270bd76",
+              "width": 37
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/97f51ad665456f6582da2d6632da844d/72a5bc60/Sergio_Choque_en_abril_de_2020.png"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1400943168179343360",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 224,
+      "nombre (from entidad)": [
+        "Empresa Estatal de Transporte por Cable Mi Teleférico"
+      ],
+      "nombre (from persona)": [
+        "Simón Sergio Choque Siñani"
+      ],
+      "persona": [
+        "recNC33KEEApDXF6l"
+      ],
+      "sigla (from entidad)": [
+        "Mi Teleférico"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1401802278886125570",
+      "twitter (from entidad)": [
+        "@miteleferico"
+      ],
+      "twitter (from persona)": [
+        "@Sergio_Choque_S"
+      ]
+    },
+    {
       "airtableId": "recBraO3XrkBmtoxh",
       "cargo": "Viceministro de Seguros de Salud y Gestión del Sistema Único de Salud",
       "dependencia (from entidad)": [
@@ -10147,6 +10208,7 @@
     {
       "airtableId": "recnuHQrPgPMmRhZg",
       "cargo": "Gerente Ejecutivo de la Empresa Estatal de Transporte por Cable Mi Teleférico",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -10184,6 +10246,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-06-05",
       "id": 85,
       "nombre (from entidad)": [
         "Empresa Estatal de Transporte por Cable Mi Teleférico"
@@ -10196,6 +10259,9 @@
       ],
       "sigla (from entidad)": [
         "Mi Teleférico"
+      ],
+      "sucesora": [
+        "recBqDYntowE3uVVf"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333830566614102016",
       "twitter (from entidad)": [
@@ -14645,7 +14711,8 @@
     {
       "airtableId": "rechnWAyDvFw6xdUn",
       "autoridades": [
-        "recnuHQrPgPMmRhZg"
+        "recnuHQrPgPMmRhZg",
+        "recBqDYntowE3uVVf"
       ],
       "dependencia": [
         "recKXt5RcXpXXrIyO"
@@ -18801,6 +18868,42 @@
       "genero": "Hombre",
       "id": 2,
       "nombre": "Mario Cazón Morales"
+    },
+    {
+      "airtableId": "recNC33KEEApDXF6l",
+      "autoridades": [
+        "recBqDYntowE3uVVf"
+      ],
+      "fotos": [
+        {
+          "filename": "Sergio_Choque_en_abril_de_2020.png",
+          "id": "attaXIEZArrw7HZlM",
+          "size": 292006,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/34246352b718c5d5b61e3c8c45b2e1d2/3ffc1e47",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/68d4234df0545871b0c8e2ac24f91464/c7169073",
+              "width": 532
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e9c16ffbae18b43a34a05cc7c5e22de1/6270bd76",
+              "width": 37
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/97f51ad665456f6582da2d6632da844d/72a5bc60/Sergio_Choque_en_abril_de_2020.png"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 213,
+      "nombre": "Simón Sergio Choque Siñani",
+      "twitter": "@Sergio_Choque_S"
     },
     {
       "airtableId": "recNhL1whY1bDIPT3",
