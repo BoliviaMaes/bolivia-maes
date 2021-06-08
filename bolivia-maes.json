@@ -6659,6 +6659,7 @@
     {
       "airtableId": "recUa7fkGRDqRyGXz",
       "cargo": "Gerente General de la Empresa Estatal de Televisión “Bolivia Tv”",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recZXuPo3n4QJ4cc1"
       ],
@@ -6696,6 +6697,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-06-07",
       "id": 80,
       "nombre (from entidad)": [
         "Empresa Estatal de Televisión “Bolivia Tv”"
@@ -6708,6 +6710,9 @@
       ],
       "sigla (from entidad)": [
         "Bolivia Tv"
+      ],
+      "sucesora": [
+        "recV9LMb6hjEPkZAY"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333517116792770563",
       "twitter (from entidad)": [
@@ -6772,6 +6777,67 @@
       ],
       "twitter (from entidad)": [
         "@Bolivia_MHE"
+      ]
+    },
+    {
+      "airtableId": "recV9LMb6hjEPkZAY",
+      "cargo": "Gerente General de Bolivia TV (Empresa Estatal de Televisión)",
+      "dependencia (from entidad)": [
+        "recZXuPo3n4QJ4cc1"
+      ],
+      "desde": "2021-06-07",
+      "entidad": [
+        "recpdpz1bWV3Zr83H"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E3UR02xXMAM9l25.jpeg",
+          "id": "attXWxlNgpAclKaBp",
+          "size": 100753,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ffec022b282ff914f94f1bad6884eebc/e2b80de1",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6dc3f93930f56e0adf1454273892b234/34d77486",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c3743ed933028762b6e537d43a54e596/16dffb9b",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/3dc309eaef31f82a323c43f57ba28119/c10eefe3/E3UR02xXMAM9l25.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/vicemincom/status/1402083536274923533",
+      "genero (from persona)": [
+        "Mujer"
+      ],
+      "id": 225,
+      "nombre (from entidad)": [
+        "Empresa Estatal de Televisión “Bolivia Tv”"
+      ],
+      "nombre (from persona)": [
+        "Rocio Molina Travesi"
+      ],
+      "persona": [
+        "rechAhoB2u61bn3CC"
+      ],
+      "sigla (from entidad)": [
+        "Bolivia Tv"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1402167920755720194",
+      "twitter (from entidad)": [
+        "@Canal_BoliviaTV"
+      ],
+      "twitter (from persona)": [
+        "@chiomoltra"
       ]
     },
     {
@@ -15005,7 +15071,8 @@
     {
       "airtableId": "recpdpz1bWV3Zr83H",
       "autoridades": [
-        "recUa7fkGRDqRyGXz"
+        "recUa7fkGRDqRyGXz",
+        "recV9LMb6hjEPkZAY"
       ],
       "dependencia": [
         "recZXuPo3n4QJ4cc1"
@@ -21403,6 +21470,42 @@
       "genero": "Hombre",
       "id": 112,
       "nombre": "Grover Lacoa"
+    },
+    {
+      "airtableId": "rechAhoB2u61bn3CC",
+      "autoridades": [
+        "recV9LMb6hjEPkZAY"
+      ],
+      "fotos": [
+        {
+          "filename": "E3UR02xXMAM9l25.jpeg",
+          "id": "attXWxlNgpAclKaBp",
+          "size": 100753,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ffec022b282ff914f94f1bad6884eebc/e2b80de1",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6dc3f93930f56e0adf1454273892b234/34d77486",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c3743ed933028762b6e537d43a54e596/16dffb9b",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/3dc309eaef31f82a323c43f57ba28119/c10eefe3/E3UR02xXMAM9l25.jpeg"
+        }
+      ],
+      "genero": "Mujer",
+      "id": 214,
+      "nombre": "Rocio Molina Travesi",
+      "twitter": "@chiomoltra"
     },
     {
       "airtableId": "rechYcrp3RgkUuuTk",
