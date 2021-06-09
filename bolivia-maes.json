@@ -3054,6 +3054,7 @@
     {
       "airtableId": "recDrZhjvRtAwLmFZ",
       "cargo": "Presidente Ejecutivo Interino de la ESM (Empresa Siderúrgica del Mutún)",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "recnjo1nbKW3JKsVr"
       ],
@@ -3087,10 +3088,12 @@
           "url": "https://dl.airtable.com/.attachments/e7deab98b43178fcc0907044b979d765/481c1b93/EsCp-yRXIAIlEdf.jpeg"
         }
       ],
+      "fuente_fin": "https://www.paginasiete.bo/economia/2021/6/8/renuncia-presidente-de-la-esm-sindicado-de-tres-delitos-sancionados-por-la-ley-anticorrupcion-297547.html",
       "fuente_inicio": "https://twitter.com/abi_bolivia/status/1351267620125876227",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-06-08",
       "id": 173,
       "nombre (from entidad)": [
         "Empresa Siderúrgica del Mutún"
@@ -3104,6 +3107,7 @@
       "sigla (from entidad)": [
         "ESM"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1402523317756641285",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1351441179796271105",
       "twitter (from entidad)": [
         "@esmbolivia"
