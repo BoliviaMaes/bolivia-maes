@@ -4660,6 +4660,7 @@
     {
       "airtableId": "recME9ztz5dSGXaei",
       "cargo": "Viceministro de Régimen Interior y Policía",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recVFpQI3U7A124Tu"
       ],
@@ -4697,6 +4698,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-06-28",
       "id": 33,
       "nombre (from entidad)": [
         "Viceministerio de Régimen Interior y Policía"
@@ -4706,6 +4708,9 @@
       ],
       "persona": [
         "recUgL59pIdzhlIzS"
+      ],
+      "sucesora": [
+        "rechyuXOHMQy0YBAI"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329581820015472641",
       "twitter (from persona)": [
@@ -4797,6 +4802,7 @@
     {
       "airtableId": "recMUSBgn2xEhfAry",
       "cargo": "Director General de la CEASS (Central de Abastecimiento de Suministros de Salud)",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recuomBcP9OFzwKQi"
       ],
@@ -4834,6 +4840,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-06-28",
       "id": 145,
       "nombre (from entidad)": [
         "Central de Abastecimiento de Suministros de Salud"
@@ -4846,6 +4853,9 @@
       ],
       "sigla (from entidad)": [
         "CEASS"
+      ],
+      "sucesora": [
+        "recr4YhIAermkM76U"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341689639090970625"
     },
@@ -9451,6 +9461,58 @@
       ]
     },
     {
+      "airtableId": "rechyuXOHMQy0YBAI",
+      "cargo": "Viceministro de Régimen Interior y Policía",
+      "dependencia (from entidad)": [
+        "recVFpQI3U7A124Tu"
+      ],
+      "desde": "2021-06-28",
+      "entidad": [
+        "recWxLpGq2Ax5d6RV"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "13_seg_2_rochaaaaa.jpg",
+          "id": "attIPTD1Sv34Z0z1K",
+          "size": 33059,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9923d65ac4af04b106aec8cb49c85eca/9a3385fb",
+              "width": 3000
+            },
+            "large": {
+              "height": 430,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3c2803d619cae140860eec1618eb8b52/072d2add",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5544c25b3584155fa5c37679696c7681/20dff931",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e92731efb54e38995132f6b85c3a0491/1869e738/13_seg_2_rochaaaaa.jpg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/MindeGobierno/status/1409586063547400192",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 226,
+      "nombre (from entidad)": [
+        "Viceministerio de Régimen Interior y Policía"
+      ],
+      "nombre (from persona)": [
+        "Nelson Marcelo Cox Mayorga"
+      ],
+      "persona": [
+        "recrGn3EHlrFP2KCZ"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1409776449620480000"
+    },
+    {
       "airtableId": "recinShBhg8QirJVY",
       "cargo": "Viceministro de Ciencia y Tecnología",
       "dependencia (from entidad)": [
@@ -11304,6 +11366,61 @@
         "VPC"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1383289360196378629"
+    },
+    {
+      "airtableId": "recr4YhIAermkM76U",
+      "cargo": "Director Ejecutivo de la Ceass (Central de Abastecimiento de Suministros de Salud)",
+      "dependencia (from entidad)": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "desde": "2021-06-28",
+      "entidad": [
+        "recbhjxvEsvLie5PK"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "POSESIÓN_CEASS_330.jpg",
+          "id": "atthnO6IP0Y24XL2Y",
+          "size": 22119,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/51d9c0d50497db5641ea19af2a9ca200/c000023e",
+              "width": 3000
+            },
+            "large": {
+              "height": 247,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ba2d4af3810a419bb3bab35032bb39aa/33aa17f4",
+              "width": 330
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4b26319754c08fcc8b89af8e430d2059/01beb132",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/0e66038c97256587f0e138298a1c8eae/af5036ff/POSESIN_CEASS_330.jpg"
+        }
+      ],
+      "fuente_inicio": "https://www.minsalud.gob.bo/5742-ministro-auza-posesiona-a-director-del-ceass-y-le-pide-garantice-el-suministro-de-medicamentos-en-la-seguridad-social",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 227,
+      "nombre (from entidad)": [
+        "Central de Abastecimiento de Suministros de Salud"
+      ],
+      "nombre (from persona)": [
+        "Juan Nacer Villagómez Ledezma"
+      ],
+      "persona": [
+        "rec3aeWlThNrSHZJa"
+      ],
+      "sigla (from entidad)": [
+        "CEASS"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1409778123760091138"
     },
     {
       "airtableId": "recr6QutNh34jHTk5",
@@ -14243,7 +14360,8 @@
     {
       "airtableId": "recWxLpGq2Ax5d6RV",
       "autoridades": [
-        "recME9ztz5dSGXaei"
+        "recME9ztz5dSGXaei",
+        "rechyuXOHMQy0YBAI"
       ],
       "dependencia": [
         "recVFpQI3U7A124Tu"
@@ -14424,7 +14542,8 @@
     {
       "airtableId": "recbhjxvEsvLie5PK",
       "autoridades": [
-        "recMUSBgn2xEhfAry"
+        "recMUSBgn2xEhfAry",
+        "recr4YhIAermkM76U"
       ],
       "dependencia": [
         "recuomBcP9OFzwKQi"
@@ -14433,7 +14552,8 @@
       "id": 145,
       "nombre": "Central de Abastecimiento de Suministros de Salud",
       "sigla": "CEASS",
-      "tipo": "Otro"
+      "tipo": "Otro",
+      "webpage": "http://www.ceass.gob.bo/"
     },
     {
       "airtableId": "recbyxfOHMNLhBsr9",
@@ -16445,6 +16565,41 @@
       "genero": "Hombre",
       "id": 56,
       "nombre": "Bartolomé Puma"
+    },
+    {
+      "airtableId": "rec3aeWlThNrSHZJa",
+      "autoridades": [
+        "recr4YhIAermkM76U"
+      ],
+      "fotos": [
+        {
+          "filename": "POSESIÓN_CEASS_330.jpg",
+          "id": "atthnO6IP0Y24XL2Y",
+          "size": 22119,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/51d9c0d50497db5641ea19af2a9ca200/c000023e",
+              "width": 3000
+            },
+            "large": {
+              "height": 247,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ba2d4af3810a419bb3bab35032bb39aa/33aa17f4",
+              "width": 330
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4b26319754c08fcc8b89af8e430d2059/01beb132",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/0e66038c97256587f0e138298a1c8eae/af5036ff/POSESIN_CEASS_330.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 216,
+      "nombre": "Juan Nacer Villagómez Ledezma"
     },
     {
       "airtableId": "rec3bvwgR5hAePaLt",
@@ -22948,6 +23103,41 @@
       "id": 98,
       "nombre": "Néstor Huanca Chura",
       "twitter": "@Nestor_HuancaCh"
+    },
+    {
+      "airtableId": "recrGn3EHlrFP2KCZ",
+      "autoridades": [
+        "rechyuXOHMQy0YBAI"
+      ],
+      "fotos": [
+        {
+          "filename": "13_seg_2_rochaaaaa.jpg",
+          "id": "attIPTD1Sv34Z0z1K",
+          "size": 33059,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9923d65ac4af04b106aec8cb49c85eca/9a3385fb",
+              "width": 3000
+            },
+            "large": {
+              "height": 430,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3c2803d619cae140860eec1618eb8b52/072d2add",
+              "width": 770
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5544c25b3584155fa5c37679696c7681/20dff931",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e92731efb54e38995132f6b85c3a0491/1869e738/13_seg_2_rochaaaaa.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 215,
+      "nombre": "Nelson Marcelo Cox Mayorga"
     },
     {
       "airtableId": "recrMkdSiitCWddr8",
