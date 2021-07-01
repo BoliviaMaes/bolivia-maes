@@ -4660,7 +4660,7 @@
     {
       "airtableId": "recME9ztz5dSGXaei",
       "cargo": "Viceministro de Régimen Interior y Policía",
-      "causa_fin": "Desconocida",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recVFpQI3U7A124Tu"
       ],
@@ -4694,6 +4694,7 @@
           "url": "https://dl.airtable.com/.attachments/363c40a8a446899b539dc8f2c6d2c1cf/eaaf6573/EnOfngdXIAA-BQJ.jpeg"
         }
       ],
+      "fuente_fin": "https://eldeber.com.bo/pais/rodas-revela-que-pidieron-su-renuncia-como-viceministro-y-que-del-castillo-se-maneja-individualmente_237257",
       "fuente_inicio": "https://twitter.com/LaRazon_Bolivia/status/1329561679429062657",
       "genero (from persona)": [
         "Hombre"
@@ -4712,6 +4713,7 @@
       "sucesora": [
         "rechyuXOHMQy0YBAI"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1409776789812088832",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329581820015472641",
       "twitter (from persona)": [
         "@RodasEmilio"
@@ -4857,6 +4859,7 @@
       "sucesora": [
         "recr4YhIAermkM76U"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1409778657686691840",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1341689639090970625"
     },
     {
