@@ -4069,6 +4069,58 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1332645202633297920/photo/1"
     },
     {
+      "airtableId": "recI4ZjAnivckM1QZ",
+      "cargo": "Viceministro de Interculturalidad",
+      "dependencia (from entidad)": [
+        "recWshaodYECp899M"
+      ],
+      "desde": "2021-07-07",
+      "entidad": [
+        "recZb1824aKt0GCKz"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "images.php.jpeg",
+          "id": "attALGEKvUGdDWGsW",
+          "size": 178741,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b2cc10252995dc35f11ebb1b788ad06f/8a2774c1",
+              "width": 3000
+            },
+            "large": {
+              "height": 302,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/67026ec46f5742088a7a07bb94133ed6/c5dbe9d7",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fd966171d5b082bd004b70bc6b7e5145/9dc13759",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/45437577a8f0b15c0d761d933f93bd6a/ae199c45/images.php.jpeg"
+        }
+      ],
+      "fuente_inicio": "http://www.boliviatv.bo/principal/noticia.php?noticia=1ccd607033ef7c7c2448adc9ef409d04&lang=es",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 228,
+      "nombre (from entidad)": [
+        "Viceministerio de Interculturalidad"
+      ],
+      "nombre (from persona)": [
+        "Juan Carlos Cordero Nina"
+      ],
+      "persona": [
+        "recyxG36qjLDmynWO"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1413050404875689984"
+    },
+    {
       "airtableId": "recITBLC8q6GRemce",
       "cargo": "Vocero Presidencial",
       "dependencia (from entidad)": [
@@ -5757,6 +5809,9 @@
       ],
       "persona": [
         "recXU1Ov3QnvcOesw"
+      ],
+      "sucesora": [
+        "recI4ZjAnivckM1QZ"
       ],
       "tweet_fin": "https://twitter.com/BoliviaMaes/status/1370676235421028353",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330023229583396864"
@@ -14488,7 +14543,8 @@
     {
       "airtableId": "recZb1824aKt0GCKz",
       "autoridades": [
-        "recPipiPddnOBqG7W"
+        "recPipiPddnOBqG7W",
+        "recI4ZjAnivckM1QZ"
       ],
       "dependencia": [
         "recWshaodYECp899M"
@@ -23856,6 +23912,41 @@
       "genero": "Hombre",
       "id": 146,
       "nombre": "Plácido Condori Mamani"
+    },
+    {
+      "airtableId": "recyxG36qjLDmynWO",
+      "autoridades": [
+        "recI4ZjAnivckM1QZ"
+      ],
+      "fotos": [
+        {
+          "filename": "images.php.jpeg",
+          "id": "attALGEKvUGdDWGsW",
+          "size": 178741,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b2cc10252995dc35f11ebb1b788ad06f/8a2774c1",
+              "width": 3000
+            },
+            "large": {
+              "height": 302,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/67026ec46f5742088a7a07bb94133ed6/c5dbe9d7",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fd966171d5b082bd004b70bc6b7e5145/9dc13759",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/45437577a8f0b15c0d761d933f93bd6a/ae199c45/images.php.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 217,
+      "nombre": "Juan Carlos Cordero Nina"
     },
     {
       "airtableId": "recz0KyW7fVLgQNnE",
