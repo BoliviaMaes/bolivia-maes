@@ -1491,6 +1491,7 @@
       "genero (from persona)": [
         "Mujer"
       ],
+      "hasta": "2021-07-19",
       "id": 127,
       "nombre (from entidad)": [
         "Caja Nacional de Salud"
@@ -3590,6 +3591,63 @@
         "recolFl9v0FWCTpYQ"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344122630471872512"
+    },
+    {
+      "airtableId": "recFtr60R5fUWy5Il",
+      "cargo": "Gerente General de la Caja Nacional de Salud",
+      "dependencia (from entidad)": [
+        "recuomBcP9OFzwKQi"
+      ],
+      "desde": "2021-07-19",
+      "entidad": [
+        "recSpPxv2UEzUcBZ9"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "Herland-Tejerina-.jpg",
+          "id": "attAUaJ3bqEFBMcz9",
+          "size": 53672,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/67afbf25033cc65b70aed6d96af29382/71620eed",
+              "width": 3000
+            },
+            "large": {
+              "height": 440,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b6d2d097809a86e1566eb727385d9c8e/2a379732",
+              "width": 720
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/259059b1fa6e8e0e344ad26ed3a39485/8c7ab80e",
+              "width": 59
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/706aa63375541bfc9b555e028810ea4d/79124a64/Herland-Tejerina-.jpg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/SaludDeportesBo/status/1417111081223442433",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 229,
+      "nombre (from entidad)": [
+        "Caja Nacional de Salud"
+      ],
+      "nombre (from persona)": [
+        "Herland Tejerina Silva"
+      ],
+      "persona": [
+        "rec05FnMWb2kY0DPI"
+      ],
+      "sigla (from entidad)": [
+        "CNS"
+      ],
+      "twitter (from entidad)": [
+        "@CNS_Bolivia"
+      ]
     },
     {
       "airtableId": "recG8xE6KeTlikqsb",
@@ -14273,7 +14331,8 @@
     {
       "airtableId": "recSpPxv2UEzUcBZ9",
       "autoridades": [
-        "rec8RYVMgbacWA81M"
+        "rec8RYVMgbacWA81M",
+        "recFtr60R5fUWy5Il"
       ],
       "dependencia": [
         "recuomBcP9OFzwKQi"
@@ -16061,6 +16120,41 @@
       "genero": "Hombre",
       "id": 111,
       "nombre": "Jhonny Iván Zambrana Cruz"
+    },
+    {
+      "airtableId": "rec05FnMWb2kY0DPI",
+      "autoridades": [
+        "recFtr60R5fUWy5Il"
+      ],
+      "fotos": [
+        {
+          "filename": "Herland-Tejerina-.jpg",
+          "id": "attAUaJ3bqEFBMcz9",
+          "size": 53672,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/67afbf25033cc65b70aed6d96af29382/71620eed",
+              "width": 3000
+            },
+            "large": {
+              "height": 440,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b6d2d097809a86e1566eb727385d9c8e/2a379732",
+              "width": 720
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/259059b1fa6e8e0e344ad26ed3a39485/8c7ab80e",
+              "width": 59
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/706aa63375541bfc9b555e028810ea4d/79124a64/Herland-Tejerina-.jpg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 218,
+      "nombre": "Herland Tejerina Silva"
     },
     {
       "airtableId": "rec05OpaQtSBMW1Ih",
