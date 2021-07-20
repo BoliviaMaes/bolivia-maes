@@ -1454,6 +1454,7 @@
     {
       "airtableId": "rec8RYVMgbacWA81M",
       "cargo": "Gerente General de la CNS (Caja Nacional de Salud)",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recuomBcP9OFzwKQi"
       ],
@@ -1487,6 +1488,7 @@
           "url": "https://dl.airtable.com/.attachments/920be62a8f6edde323259ea3ced3425a/1513e2bb/EowuOqgWEAAT6Bl.jpeg"
         }
       ],
+      "fuente_fin": "https://eldeber.com.bo/pais/herland-tejerina-asume-como-nuevo-gerente-de-la-caja-nacional-de-salud_239671",
       "fuente_inicio": "https://twitter.com/SaludDeportesBo/status/1336494175953498112",
       "genero (from persona)": [
         "Mujer"
@@ -1505,6 +1507,10 @@
       "sigla (from entidad)": [
         "CNS"
       ],
+      "sucesora": [
+        "recFtr60R5fUWy5Il"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1417390285437427714",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1336582385790558208",
       "twitter (from entidad)": [
         "@CNS_Bolivia"
@@ -14342,7 +14348,8 @@
       "nombre": "Caja Nacional de Salud",
       "sigla": "CNS",
       "tipo": "Caja de Salud",
-      "twitter": "@CNS_Bolivia"
+      "twitter": "@CNS_Bolivia",
+      "webpage": "https://www.cns.gob.bo/"
     },
     {
       "airtableId": "recSqqbtO2UPeHLYm",
