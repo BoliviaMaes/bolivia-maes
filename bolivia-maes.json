@@ -3651,6 +3651,7 @@
       "sigla (from entidad)": [
         "CNS"
       ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1417389594912382980",
       "twitter (from entidad)": [
         "@CNS_Bolivia"
       ]
@@ -5765,6 +5766,58 @@
       "twitter (from entidad)": [
         "@AISEM_BOLIVIA"
       ]
+    },
+    {
+      "airtableId": "recPWPeZLPg2dGcQz",
+      "cargo": "Presidente a.i. del Directorio de la Empresa Misicuni",
+      "dependencia (from entidad)": [
+        "recTV9hdUCYs4u19T"
+      ],
+      "desde": "2021-07-20",
+      "entidad": [
+        "rec5YTLW22AHhnr7m"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E6sxr6OXsAEz8xQ.jpeg",
+          "id": "attRWwRi1jUnqlYDU",
+          "size": 3271347,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6f92ba195b9983092f8deeb9aaeb8659/a7b2cbbe",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8e8401f6c771a29a28ffefd2f3630e00/deecb1cb",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c28336eab5662c501e4bb65ef3a6d22c/9654c07a",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/ce64d74bc680cf53987ddef08bfe1d1d/f5cb0e13/E6sxr6OXsAEz8xQ.jpeg"
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/AmbienteyAgua/status/1417281238168129538",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 230,
+      "nombre (from entidad)": [
+        "Empresa Misicuni"
+      ],
+      "nombre (from persona)": [
+        "Oscar David Zelada Jaldín"
+      ],
+      "persona": [
+        "recVapkLRdKdxS1QL"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1417916845160534018"
     },
     {
       "airtableId": "recPhuw5iJDrnZnZ5",
@@ -13257,6 +13310,20 @@
       "twitter": "@fonabosque"
     },
     {
+      "airtableId": "rec5YTLW22AHhnr7m",
+      "autoridades": [
+        "recPWPeZLPg2dGcQz"
+      ],
+      "dependencia": [
+        "recTV9hdUCYs4u19T"
+      ],
+      "eleccion_mae": "designación",
+      "id": 196,
+      "nombre": "Empresa Misicuni",
+      "tipo": "Empresa",
+      "webpage": "https://www.misicuni.gob.bo/"
+    },
+    {
       "airtableId": "rec60LAr5uanVLhQh",
       "autoridades": [
         "reco0QZNlLa6zj6YJ"
@@ -20176,6 +20243,41 @@
       "genero": "Hombre",
       "id": 71,
       "nombre": "Álvaro Hernán Arnez Prado"
+    },
+    {
+      "airtableId": "recVapkLRdKdxS1QL",
+      "autoridades": [
+        "recPWPeZLPg2dGcQz"
+      ],
+      "fotos": [
+        {
+          "filename": "E6sxr6OXsAEz8xQ.jpeg",
+          "id": "attRWwRi1jUnqlYDU",
+          "size": 3271347,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6f92ba195b9983092f8deeb9aaeb8659/a7b2cbbe",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8e8401f6c771a29a28ffefd2f3630e00/deecb1cb",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c28336eab5662c501e4bb65ef3a6d22c/9654c07a",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/ce64d74bc680cf53987ddef08bfe1d1d/f5cb0e13/E6sxr6OXsAEz8xQ.jpeg"
+        }
+      ],
+      "genero": "Hombre",
+      "id": 219,
+      "nombre": "Oscar David Zelada Jaldín"
     },
     {
       "airtableId": "recVoHL1U4tCQRYtJ",
