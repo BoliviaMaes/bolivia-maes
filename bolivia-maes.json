@@ -147,6 +147,63 @@
       ]
     },
     {
+      "airtableId": "rec0oiFeNeQiMjs0g",
+      "cargo": "Comandante General Accidental del Ejército",
+      "dependencia (from entidad)": [
+        "reccOyt73GJKFfU2z"
+      ],
+      "desde": "2021-08-07",
+      "entidad": [
+        "recDAydiNGHaq0Y9b"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E8KEJYDX0AEVgIz.jpeg",
+          "height": 737,
+          "id": "attP6iNLEz5x421yU",
+          "size": 109081,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/916262cd37bd250db5149d1e348c0897/4f406e8f",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3345cdc880309e553cb30cbb904101bf/42cddbe7",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8ef59ac6599751e2b25706767d13a409/2e19cb64",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/8b53b8e40e804094de4a103951757009/22745a85/E8KEJYDX0AEVgIz.jpeg",
+          "width": 737
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/BoliviaEjercito/status/1423845744210071554",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 231,
+      "nombre (from entidad)": [
+        "Ejercito"
+      ],
+      "nombre (from persona)": [
+        "Hugo Eduardo Arandia López"
+      ],
+      "persona": [
+        "recTbydcVV46qI0NX"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1424273874452090883",
+      "twitter (from entidad)": [
+        "@BoliviaEjercito"
+      ]
+    },
+    {
       "airtableId": "rec161AO5afiDeIfg",
       "cargo": "Viceministro de Desarrollo Rural y Agropecuario",
       "dependencia (from entidad)": [
@@ -1692,6 +1749,7 @@
     {
       "airtableId": "rec9LiMgX5f8nF38a",
       "cargo": "Comandante General Accidental del Ejercito",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -1727,10 +1785,12 @@
           "width": 839
         }
       ],
+      "fuente_fin": "https://www.opinion.com.bo/articulo/policial/general-acusado-violencia-es-destituido-sigue-investigacion/20210806000446830111.html",
       "fuente_inicio": "https://www1.abi.bo/abi_/?i=461694",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-08-06",
       "id": 157,
       "nombre (from entidad)": [
         "Ejercito"
@@ -1741,6 +1801,10 @@
       "persona": [
         "recAMo8FGMbVRZziN"
       ],
+      "sucesora": [
+        "rec0oiFeNeQiMjs0g"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1424274689510289412",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344122044598906882",
       "twitter (from entidad)": [
         "@BoliviaEjercito"
@@ -14081,7 +14145,8 @@
       "airtableId": "recDAydiNGHaq0Y9b",
       "autoridades": [
         "rectHWn5WJkv1K2wy",
-        "rec9LiMgX5f8nF38a"
+        "rec9LiMgX5f8nF38a",
+        "rec0oiFeNeQiMjs0g"
       ],
       "dependencia": [
         "reccOyt73GJKFfU2z"
@@ -20731,6 +20796,43 @@
       "genero": "Hombre",
       "id": 73,
       "nombre": "Marco Antonio Escobar Seleme"
+    },
+    {
+      "airtableId": "recTbydcVV46qI0NX",
+      "autoridades": [
+        "rec0oiFeNeQiMjs0g"
+      ],
+      "fotos": [
+        {
+          "filename": "E8KEJYDX0AEVgIz.jpeg",
+          "height": 737,
+          "id": "attP6iNLEz5x421yU",
+          "size": 109081,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/916262cd37bd250db5149d1e348c0897/4f406e8f",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3345cdc880309e553cb30cbb904101bf/42cddbe7",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8ef59ac6599751e2b25706767d13a409/2e19cb64",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/8b53b8e40e804094de4a103951757009/22745a85/E8KEJYDX0AEVgIz.jpeg",
+          "width": 737
+        }
+      ],
+      "genero": "Hombre",
+      "id": 220,
+      "nombre": "Hugo Eduardo Arandia López"
     },
     {
       "airtableId": "recTmCwA63n22m692",
