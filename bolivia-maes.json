@@ -2821,7 +2821,8 @@
     },
     {
       "airtableId": "recC5lmy3i6Gv3iZm",
-      "cargo": "Gerente Ejecutivo de Yacimientos de Litio Bolivianos",
+      "cargo": "Presidente Ejecutivo de Yacimientos de Litio Bolivianos",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recVWx1zATfZJ6Z5x"
       ],
@@ -2887,6 +2888,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-08-21",
       "id": 162,
       "nombre (from entidad)": [
         "Empresa Pública Nacional Estratégica de Yacimientos de Litio Bolivianos"
@@ -2900,6 +2902,10 @@
       "sigla (from entidad)": [
         "YLB"
       ],
+      "sucesora": [
+        "recxdDfivNyfpgRmO"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1430250813973217282",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1348628133344387072",
       "twitter (from entidad)": [
         "@litio_boliviano"
@@ -13199,6 +13205,66 @@
       ]
     },
     {
+      "airtableId": "recxdDfivNyfpgRmO",
+      "cargo": "Presidente Ejecutivo de YLB (Yacimientos de Litio Bolivianos)",
+      "dependencia (from entidad)": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "desde": "2021-08-21",
+      "entidad": [
+        "recUUjVxPVBMMPZnI"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E9Uyc-CXsAECQXR.jpeg",
+          "height": 899,
+          "id": "attoeO6JvDPTWAbIp",
+          "size": 98037,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/499e4ac63bd7fbf759ca2ebf23d7b80d/9e7b78ac",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ca2872fb71c883baae6ddad9f309e140/89727f8c",
+              "width": 911
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d443cf26bdb5239f13d7616615b7fbca/92939da8",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b3b05b0191f7e9773259702d27656617/98f02d39/E9Uyc-CXsAECQXR.jpeg",
+          "width": 1599
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/Bolivia_MHE/status/1429103939006476290",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 232,
+      "nombre (from entidad)": [
+        "Empresa Pública Nacional Estratégica de Yacimientos de Litio Bolivianos"
+      ],
+      "nombre (from persona)": [
+        "Carlos Humberto Ramos Mamani"
+      ],
+      "persona": [
+        "recrRI7Z3IR7f6FY0"
+      ],
+      "sigla (from entidad)": [
+        "YLB"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1430250532078329866",
+      "twitter (from entidad)": [
+        "@litio_boliviano"
+      ]
+    },
+    {
       "airtableId": "recxglVlCIMsqSjuA",
       "cargo": "Alcalde de Cochabamba",
       "desde": "2021-05-03",
@@ -15021,7 +15087,8 @@
     {
       "airtableId": "recUUjVxPVBMMPZnI",
       "autoridades": [
-        "recC5lmy3i6Gv3iZm"
+        "recC5lmy3i6Gv3iZm",
+        "recxdDfivNyfpgRmO"
       ],
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
@@ -24474,6 +24541,43 @@
       "genero": "Hombre",
       "id": 14,
       "nombre": "Juan Carlos Calvimontes"
+    },
+    {
+      "airtableId": "recrRI7Z3IR7f6FY0",
+      "autoridades": [
+        "recxdDfivNyfpgRmO"
+      ],
+      "fotos": [
+        {
+          "filename": "E9Uyc-CXsAECQXR.jpeg",
+          "height": 899,
+          "id": "attoeO6JvDPTWAbIp",
+          "size": 98037,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/499e4ac63bd7fbf759ca2ebf23d7b80d/9e7b78ac",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ca2872fb71c883baae6ddad9f309e140/89727f8c",
+              "width": 911
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d443cf26bdb5239f13d7616615b7fbca/92939da8",
+              "width": 64
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b3b05b0191f7e9773259702d27656617/98f02d39/E9Uyc-CXsAECQXR.jpeg",
+          "width": 1599
+        }
+      ],
+      "genero": "Hombre",
+      "id": 221,
+      "nombre": "Carlos Humberto Ramos Mamani"
     },
     {
       "airtableId": "recrUcTXdd84vWSKt",
