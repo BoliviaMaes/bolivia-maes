@@ -147,6 +147,66 @@
       ]
     },
     {
+      "airtableId": "rec0HC9H2K4z1XEWZ",
+      "cargo": "Viceministro de Tierras",
+      "causa_fin": "Desconocida",
+      "dependencia (from entidad)": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "desde": "2021-02-02",
+      "entidad": [
+        "recQDocBz2XNpCofB"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "7.png",
+          "height": 734,
+          "id": "attjdQPGRJSqSfXBa",
+          "size": 2087987,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/47fd21d4433a5611d49db9b721d6e5ed/ae1e943c",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f9d529d37e9ff6bd019d08c7a225e633/ce5c6aa9",
+              "width": 767
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4c6d73f703527a99591b994200f25226/67972ee9",
+              "width": 54
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/b6d44c16bc5753def3686a0463f60b73/fdd4220e/7.png",
+          "width": 1099
+        }
+      ],
+      "fuente_inicio": "https://www.ahoraelpueblo.bo/juan-garcia-asume-el-viceministerio-de-tierras/",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "hasta": "2021-08-27",
+      "id": 234,
+      "nombre (from entidad)": [
+        "Viceministerio de Tierras"
+      ],
+      "nombre (from persona)": [
+        "Juan José García Cruz"
+      ],
+      "persona": [
+        "rec8lA2uipifMwQ6I"
+      ],
+      "sucesora": [
+        "recVlANCs6pnc1gjx"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1431683381142691843",
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1431683381142691843"
+    },
+    {
       "airtableId": "rec0oiFeNeQiMjs0g",
       "cargo": "Comandante General Accidental del Ejército",
       "dependencia (from entidad)": [
@@ -7552,6 +7612,60 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331069507033567236"
     },
     {
+      "airtableId": "recVlANCs6pnc1gjx",
+      "cargo": "Viceministro de Tierras",
+      "dependencia (from entidad)": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "desde": "2021-08-27",
+      "entidad": [
+        "recQDocBz2XNpCofB"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "5bcf7242aa212.JPG",
+          "height": 328,
+          "id": "attAutuPD6Jrp9xg6",
+          "size": 15279,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2ede28ea17493c2bfa6f85176efa4bf9/558e16ef",
+              "width": 3000
+            },
+            "large": {
+              "height": 328,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c4d194bf60d4119b58f8f587fd85e547/a09aae40",
+              "width": 322
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/494ada21336f6f0453ccb29e27bdd826/012dd0bf",
+              "width": 35
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/0c0b79814aeb8275fc5336907983e8ce/6b3400a1/5bcf7242aa212.JPG",
+          "width": 322
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/MDRyTOficial/status/1431403084438196235",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 233,
+      "nombre (from entidad)": [
+        "Viceministerio de Tierras"
+      ],
+      "nombre (from persona)": [
+        "Ramiro Guerrero Peñaranda"
+      ],
+      "persona": [
+        "reco5mbm91rsKthqT"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1431682272390955013"
+    },
+    {
       "airtableId": "recVqHwXSsW7njFGk",
       "cargo": "Ministra de la Presidencia",
       "dependencia (from entidad)": [
@@ -14871,6 +14985,20 @@
       "tipo": "Viceministerio"
     },
     {
+      "airtableId": "recQDocBz2XNpCofB",
+      "autoridades": [
+        "recVlANCs6pnc1gjx",
+        "rec0HC9H2K4z1XEWZ"
+      ],
+      "dependencia": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "eleccion_mae": "designación",
+      "id": 197,
+      "nombre": "Viceministerio de Tierras",
+      "tipo": "Viceministerio"
+    },
+    {
       "airtableId": "recQmAslYfi2uvwvZ",
       "autoridades": [
         "recgCmVpYbcaNdY3W"
@@ -18080,6 +18208,43 @@
       "id": 172,
       "nombre": "Dante Fedor Justiniano Segales",
       "twitter": "@DanteJuSegales"
+    },
+    {
+      "airtableId": "rec8lA2uipifMwQ6I",
+      "autoridades": [
+        "rec0HC9H2K4z1XEWZ"
+      ],
+      "fotos": [
+        {
+          "filename": "7.png",
+          "height": 734,
+          "id": "attjdQPGRJSqSfXBa",
+          "size": 2087987,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/47fd21d4433a5611d49db9b721d6e5ed/ae1e943c",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f9d529d37e9ff6bd019d08c7a225e633/ce5c6aa9",
+              "width": 767
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4c6d73f703527a99591b994200f25226/67972ee9",
+              "width": 54
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/b6d44c16bc5753def3686a0463f60b73/fdd4220e/7.png",
+          "width": 1099
+        }
+      ],
+      "genero": "Hombre",
+      "id": 223,
+      "nombre": "Juan José García Cruz"
     },
     {
       "airtableId": "rec9ADasnZ2LNlSJz",
@@ -24132,6 +24297,43 @@
       "genero": "Hombre",
       "id": 97,
       "nombre": "Franklin Molina"
+    },
+    {
+      "airtableId": "reco5mbm91rsKthqT",
+      "autoridades": [
+        "recVlANCs6pnc1gjx"
+      ],
+      "fotos": [
+        {
+          "filename": "5bcf7242aa212.JPG",
+          "height": 328,
+          "id": "attAutuPD6Jrp9xg6",
+          "size": 15279,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2ede28ea17493c2bfa6f85176efa4bf9/558e16ef",
+              "width": 3000
+            },
+            "large": {
+              "height": 328,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c4d194bf60d4119b58f8f587fd85e547/a09aae40",
+              "width": 322
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/494ada21336f6f0453ccb29e27bdd826/012dd0bf",
+              "width": 35
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/0c0b79814aeb8275fc5336907983e8ce/6b3400a1/5bcf7242aa212.JPG",
+          "width": 322
+        }
+      ],
+      "genero": "Hombre",
+      "id": 222,
+      "nombre": "Ramiro Guerrero Peñaranda"
     },
     {
       "airtableId": "reco7pqU1VHk9vIix",
