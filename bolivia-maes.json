@@ -11592,6 +11592,69 @@
       ]
     },
     {
+      "airtableId": "recpVvFCPOaeFF1L1",
+      "cargo": "Director General Ejecutivo de la Agencia Boliviana de Correos",
+      "dependencia (from entidad)": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "desde": "2021-08-31",
+      "entidad": [
+        "recRCAJdtvWF1CclO"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "WhatsApp-Image-2021-08-31-at-16.15.37-661x1024.jpeg",
+          "height": 1024,
+          "id": "attUn3gnMOnOQuFhH",
+          "size": 60391,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f4c7b9d596490294f6561d2027dabbbe/117cf074",
+              "width": 3000
+            },
+            "large": {
+              "height": 793,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/55257151c621099a22ce09f8b8377c25/3642384a",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e958ed435cfb68363f3728764fa9101d/e290a5eb",
+              "width": 23
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/502ca241efbd08581ffd28dfc5a9c028/d6948c79/WhatsApp-Image-2021-08-31-at-16.15.37-661x1024.jpeg",
+          "width": 661
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1432812483769683972",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 235,
+      "nombre (from entidad)": [
+        "Agencia Boliviana de Correos"
+      ],
+      "nombre (from persona)": [
+        "Orlando Pozo Terrazas"
+      ],
+      "persona": [
+        "reclycX39oRpASs2x"
+      ],
+      "sigla (from entidad)": [
+        "Correos"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1432817805200613380",
+      "twitter (from entidad)": [
+        "@AGBCorreos"
+      ],
+      "twitter (from persona)": [
+        "@Orlando_Pozito"
+      ]
+    },
+    {
       "airtableId": "recpW0H03ttgXGgVK",
       "cargo": "Viceministro de Electricidad y Energías Alternativas",
       "dependencia (from entidad)": [
@@ -12001,6 +12064,7 @@
     {
       "airtableId": "recqdAJXC3pUDevXt",
       "cargo": "Director General Ejecutivo de la Agencia Boliviana de Correos",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -12066,6 +12130,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-08-31",
       "id": 185,
       "nombre (from entidad)": [
         "Agencia Boliviana de Correos"
@@ -12079,6 +12144,10 @@
       "sigla (from entidad)": [
         "Correos"
       ],
+      "sucesora": [
+        "recpVvFCPOaeFF1L1"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1432818390586982401",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1359244277394649091",
       "twitter (from entidad)": [
         "@AGBCorreos"
@@ -15030,7 +15099,8 @@
     {
       "airtableId": "recRCAJdtvWF1CclO",
       "autoridades": [
-        "recqdAJXC3pUDevXt"
+        "recqdAJXC3pUDevXt",
+        "recpVvFCPOaeFF1L1"
       ],
       "dependencia": [
         "recKXt5RcXpXXrIyO"
@@ -23966,6 +24036,44 @@
       "genero": "Hombre",
       "id": 20,
       "nombre": "Miguel Ángel Contreras Campero"
+    },
+    {
+      "airtableId": "reclycX39oRpASs2x",
+      "autoridades": [
+        "recpVvFCPOaeFF1L1"
+      ],
+      "fotos": [
+        {
+          "filename": "WhatsApp-Image-2021-08-31-at-16.15.37-661x1024.jpeg",
+          "height": 1024,
+          "id": "attUn3gnMOnOQuFhH",
+          "size": 60391,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f4c7b9d596490294f6561d2027dabbbe/117cf074",
+              "width": 3000
+            },
+            "large": {
+              "height": 793,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/55257151c621099a22ce09f8b8377c25/3642384a",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e958ed435cfb68363f3728764fa9101d/e290a5eb",
+              "width": 23
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/502ca241efbd08581ffd28dfc5a9c028/d6948c79/WhatsApp-Image-2021-08-31-at-16.15.37-661x1024.jpeg",
+          "width": 661
+        }
+      ],
+      "genero": "Hombre",
+      "id": 224,
+      "nombre": "Orlando Pozo Terrazas",
+      "twitter": "@Orlando_Pozito"
     },
     {
       "airtableId": "recm9Q7gJgB8X12zx",
