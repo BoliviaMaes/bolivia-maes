@@ -8221,6 +8221,7 @@
     {
       "airtableId": "recYpcPxLi05q1yAm",
       "cargo": "Viceministro de la Coca y Desarrollo Integral",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recdkuR3fetrWHrQf"
       ],
@@ -8260,6 +8261,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-09-17",
       "id": 47,
       "nombre (from entidad)": [
         "Viceministerio de la Coca y Desarrollo Integral"
@@ -8270,6 +8272,13 @@
       "persona": [
         "rec61OldBV0M1p6VW"
       ],
+      "sigla (from entidad)": [
+        "VCDI"
+      ],
+      "sucesora": [
+        "recfu3CFylFkraJby"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1441869229549047809",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330108072006721538",
       "twitter (from entidad)": [
         "@cocavcdi"
@@ -9556,6 +9565,66 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389173137745584132",
       "twitter (from entidad)": [
         "@GobernacionCh"
+      ]
+    },
+    {
+      "airtableId": "recfu3CFylFkraJby",
+      "cargo": "Viceministro de Coca y Desarrollo Integral",
+      "dependencia (from entidad)": [
+        "recdkuR3fetrWHrQf"
+      ],
+      "desde": "2021-09-17",
+      "entidad": [
+        "rec8iOFKCfnKPhudZ"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "E_qEvhAXsAAHy88.jpeg",
+          "height": 944,
+          "id": "attmExK7d0cTbz7hD",
+          "size": 52418,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/12e0f47ccc4d2d6c256e0369b12d560e/662b7bf1",
+              "width": 3000
+            },
+            "large": {
+              "height": 900,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/503bdfdd1ed854c615e07ee8760f13b8/f44e0c45",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1f9df240811e2c832518e359b92b4851/c032b6be",
+              "width": 20
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e2d11486064aeb51fdb9ff644434aa7c/bb05cf21/E_qEvhAXsAAHy88.jpeg",
+          "width": 537
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/MDRyTOficial/status/1439608993853452288",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 236,
+      "nombre (from entidad)": [
+        "Viceministerio de la Coca y Desarrollo Integral"
+      ],
+      "nombre (from persona)": [
+        "Juan Pablo Jove Álvarez"
+      ],
+      "persona": [
+        "recrrS368xXEBj27r"
+      ],
+      "sigla (from entidad)": [
+        "VCDI"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1441868800496898051\n\n",
+      "twitter (from entidad)": [
+        "@cocavcdi"
       ]
     },
     {
@@ -14243,7 +14312,8 @@
     {
       "airtableId": "rec8iOFKCfnKPhudZ",
       "autoridades": [
-        "recYpcPxLi05q1yAm"
+        "recYpcPxLi05q1yAm",
+        "recfu3CFylFkraJby"
       ],
       "dependencia": [
         "recdkuR3fetrWHrQf"
@@ -14251,6 +14321,7 @@
       "eleccion_mae": "designación",
       "id": 47,
       "nombre": "Viceministerio de la Coca y Desarrollo Integral",
+      "sigla": "VCDI",
       "tipo": "Viceministerio",
       "twitter": "@cocavcdi"
     },
@@ -24962,6 +25033,43 @@
       "genero": "Hombre",
       "id": 196,
       "nombre": "Jhonny Óscar Mamani Gutiérrez"
+    },
+    {
+      "airtableId": "recrrS368xXEBj27r",
+      "autoridades": [
+        "recfu3CFylFkraJby"
+      ],
+      "fotos": [
+        {
+          "filename": "E_qEvhAXsAAHy88.jpeg",
+          "height": 944,
+          "id": "attmExK7d0cTbz7hD",
+          "size": 52418,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/12e0f47ccc4d2d6c256e0369b12d560e/662b7bf1",
+              "width": 3000
+            },
+            "large": {
+              "height": 900,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/503bdfdd1ed854c615e07ee8760f13b8/f44e0c45",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1f9df240811e2c832518e359b92b4851/c032b6be",
+              "width": 20
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e2d11486064aeb51fdb9ff644434aa7c/bb05cf21/E_qEvhAXsAAHy88.jpeg",
+          "width": 537
+        }
+      ],
+      "genero": "Hombre",
+      "id": 225,
+      "nombre": "Juan Pablo Jove Álvarez"
     },
     {
       "airtableId": "recrvjaQrD8lzQugf",
