@@ -323,7 +323,7 @@
     {
       "airtableId": "rec2VWDUcJm5gZYpW",
       "cargo": "Comandante en Jefe Accidental de las Fuerzas Armadas",
-      "causa_fin": "Desconocida",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recDPejejWlgRG7Vc"
       ],
@@ -1226,7 +1226,7 @@
     {
       "airtableId": "rec7SvwCIPN1hz5si",
       "cargo": "Comandante General de la Fuerza Aérea",
-      "causa_fin": "Desconocida",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -2222,6 +2222,63 @@
       ]
     },
     {
+      "airtableId": "recAvyPPiYkoTfal3",
+      "cargo": "Comandante General de la Armada",
+      "dependencia (from entidad)": [
+        "reccOyt73GJKFfU2z"
+      ],
+      "desde": "2021-10-04",
+      "entidad": [
+        "recz4ktM53IIcE4A4"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "FA2q6wgXIAE2bDo.jpeg",
+          "height": 1599,
+          "id": "attPAQ6mP2pdMCJCp",
+          "size": 140608,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4f5a078cfd4e1d05e156d219a601030f/490462b8",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c178a3def05c94e686182113a585855f/bbb99898",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3daae41b168daabdd111cd463654f18b/fa60cca7",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/be43c7bf4068647c157ee2875b11a2d3/da5d917b/FA2q6wgXIAE2bDo.jpeg",
+          "width": 1066
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/niquitodo/status/1444999006866878471",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 239,
+      "nombre (from entidad)": [
+        "Armada"
+      ],
+      "nombre (from persona)": [
+        "Francis Efraín Frank Salazar"
+      ],
+      "persona": [
+        "recfcTkrS1JRJUA30"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1446738992611926017",
+      "twitter (from entidad)": [
+        "@ArmadaBoliviana"
+      ]
+    },
+    {
       "airtableId": "recB0QmQefnGRN4Bg",
       "cargo": "Viceministro de Planificación Estratégica del Estado",
       "dependencia (from entidad)": [
@@ -2675,6 +2732,32 @@
           "type": "image/jpeg",
           "url": "https://dl.airtable.com/.attachments/a7a6d8256030dfdbaf538b238a7a28f8/d582960e/oscarferrufino.jpg",
           "width": 840
+        },
+        {
+          "filename": "FBHl-fCWEAcGrnL.jpeg",
+          "height": 874,
+          "id": "attw7c0osrBB1s4cz",
+          "size": 230773,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b7c9d6ccb52dcbb8b63fceaebef7c911/41c00bff",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4ff930d6b1feb06625ed5edbe5d7d9fe/8fa4a6f2",
+              "width": 750
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d2a7c38c4c353604e33f830b763a359c/c9b6a834",
+              "width": 53
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/32b29f2c36f26e81c952d26224d86bac/a6d55301/FBHl-fCWEAcGrnL.jpeg",
+          "width": 1280
         }
       ],
       "fuente_fin": "https://correodelsur.com/politica/20210420_renuncia-el-director-de-la-autoridad-de-fiscalizacion-y-control-de-pensiones-y-seguros.html",
@@ -4580,6 +4663,60 @@
       "tweet_inicio": "https://mobile.twitter.com/BoliviaMaes/status/1327095981566009344"
     },
     {
+      "airtableId": "recJCJ1QbGkSehBtF",
+      "cargo": "Jefe de Estado Mayor General Accidental del Comando en Jefe de las Fuerzas Armadas",
+      "dependencia (from entidad)": [
+        "reccOyt73GJKFfU2z"
+      ],
+      "desde": "2021-10-04",
+      "entidad": [
+        "recnFUdooZ3Qy5RLU"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "FA2q6uoXsA8wXBz.jpeg",
+          "height": 1599,
+          "id": "attjlVUqCGTefjHos",
+          "size": 149139,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9fc20efe6878270e3b0793a3f505f139/9d75c3f4",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/48c15a711aa86e8b24ace3b044947760/75946984",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bb6edc6220d755ae1c009633f7f03be8/a1854286",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/fc25f480c50c8580cf6bd60e55631335/abde7701/FA2q6uoXsA8wXBz.jpeg",
+          "width": 1066
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/niquitodo/status/144499900686687847",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 238,
+      "nombre (from entidad)": [
+        "Estado Mayor de las Fuerzas Armadas"
+      ],
+      "nombre (from persona)": [
+        "Teófilo Medina Zabala"
+      ],
+      "persona": [
+        "recEP5if1JAUfz4K1"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1446737286926905346"
+    },
+    {
       "airtableId": "recJGLbmug7495IyK",
       "cargo": "Viceministro de Justicia y Derechos Fundamentales",
       "dependencia (from entidad)": [
@@ -4782,6 +4919,7 @@
     {
       "airtableId": "recKJSf4XRbNjuhu2",
       "cargo": "Jefe de Estado Mayor Accidental del Comando en Jefe de las Fuerzas Armadas",
+      "causa_fin": "Fin mandato",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -4821,6 +4959,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-10-04",
       "id": 156,
       "nombre (from entidad)": [
         "Estado Mayor de las Fuerzas Armadas"
@@ -4831,6 +4970,10 @@
       "persona": [
         "rec0JMrZTrqpb6J5v"
       ],
+      "sucesora": [
+        "recJCJ1QbGkSehBtF"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1446737548534063106",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344120538457845762"
     },
     {
@@ -8491,6 +8634,7 @@
     {
       "airtableId": "recZcuZkLhWpazk5q",
       "cargo": "Comandante en Jefe Accidental de las Fuerzas Armadas",
+      "causa_fin": "Fin mandato",
       "dependencia (from entidad)": [
         "recDPejejWlgRG7Vc"
       ],
@@ -8530,6 +8674,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-10-04",
       "id": 155,
       "nombre (from entidad)": [
         "Fuerzas Armadas"
@@ -8540,6 +8685,10 @@
       "persona": [
         "recNhlyr9d3lIDwxo"
       ],
+      "sucesora": [
+        "rectsaHNl0tjePnjN"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1446736348598214657",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344116906899484672",
       "twitter (from entidad)": [
         "@ComandoLas"
@@ -9197,7 +9346,7 @@
     {
       "airtableId": "recdMinbx2Gb9PV8h",
       "cargo": "Jefe de Estado Mayor General Accidental del Comando en Jefe de las Fuerzas Armadas",
-      "causa_fin": "Desconocida",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -11837,7 +11986,7 @@
     {
       "airtableId": "recpbIDze6l3No8Xr",
       "cargo": "Comandante General de la Armada",
-      "causa_fin": "Desconocida",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -12588,6 +12737,7 @@
     {
       "airtableId": "rectGUYoEjTV9iSat",
       "cargo": "Comandante General de la Armada",
+      "causa_fin": "Fin mandato",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -12627,6 +12777,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-10-04",
       "id": 159,
       "nombre (from entidad)": [
         "Armada"
@@ -12637,6 +12788,10 @@
       "persona": [
         "reclOca8D9b1W0Byu"
       ],
+      "sucesora": [
+        "recAvyPPiYkoTfal3"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1446739220643651591",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1344137832202432512",
       "twitter (from entidad)": [
         "@ArmadaBoliviana"
@@ -12645,7 +12800,7 @@
     {
       "airtableId": "rectHWn5WJkv1K2wy",
       "cargo": "Comandante General Accidental del Ejercito",
-      "causa_fin": "Desconocida",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "reccOyt73GJKFfU2z"
       ],
@@ -12846,6 +13001,63 @@
         "ABC"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1327390470503346176"
+    },
+    {
+      "airtableId": "rectsaHNl0tjePnjN",
+      "cargo": "Comandante en Jefe Accidental de las Fuerzas Armadas",
+      "dependencia (from entidad)": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "desde": "2021-10-04",
+      "entidad": [
+        "reccOyt73GJKFfU2z"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "FA2q6uqXIAEVF2C.jpeg",
+          "height": 1599,
+          "id": "attDyNImgJFjnNC6a",
+          "size": 139918,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b32ec653aa0f39368c2afe80d3ea780d/41a81029",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6254d4321c8d94bcabaed7274105fbdf/b0a45ea9",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/20c418ce3e607e2a7c436e96d2b96d05/b898641b",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/186d46c118ce34c806291b46f02a3782/61507751/FA2q6uqXIAEVF2C.jpeg",
+          "width": 1066
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/niquitodo/status/1444999006866878471",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 237,
+      "nombre (from entidad)": [
+        "Fuerzas Armadas"
+      ],
+      "nombre (from persona)": [
+        "Augusto García Lara"
+      ],
+      "persona": [
+        "rec6pnEnzuffJLRhH"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1446735811047825410",
+      "twitter (from entidad)": [
+        "@ComandoLas"
+      ]
     },
     {
       "airtableId": "recu3JmGxYQ4wCbue",
@@ -13834,6 +14046,92 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333478933220757511",
       "twitter (from entidad)": [
         "@Bolivia_bol"
+      ]
+    },
+    {
+      "airtableId": "reczHtclBFuVbyjs8",
+      "cargo": "Director Interino del Banco Central de Bolivia",
+      "dependencia (from entidad)": [
+        "recDI8RDjX6z76J0n"
+      ],
+      "desde": "2021-10-07",
+      "entidad": [
+        "recktwUPUvekQd9ZL"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "oscar ferrufino.jpg",
+          "height": 666,
+          "id": "attqZKQkJoDqzLusu",
+          "size": 107797,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/729787c36a797b19c2737063d0eb39b0/e9ca101b",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6ae0c5b8a96dcb039e87947b9fb5b6a3/72e80042",
+              "width": 646
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/30cda974a5e7a2f57b1343cb675628ef/a8c97b65",
+              "width": 45
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/a7a6d8256030dfdbaf538b238a7a28f8/d582960e/oscarferrufino.jpg",
+          "width": 840
+        },
+        {
+          "filename": "FBHl-fCWEAcGrnL.jpeg",
+          "height": 874,
+          "id": "attw7c0osrBB1s4cz",
+          "size": 230773,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b7c9d6ccb52dcbb8b63fceaebef7c911/41c00bff",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4ff930d6b1feb06625ed5edbe5d7d9fe/8fa4a6f2",
+              "width": 750
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d2a7c38c4c353604e33f830b763a359c/c9b6a834",
+              "width": 53
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/32b29f2c36f26e81c952d26224d86bac/a6d55301/FBHl-fCWEAcGrnL.jpeg",
+          "width": 1280
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/BancoCentralBO/status/1446189833672699905",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 240,
+      "nombre (from entidad)": [
+        "Banco Central de Bolivia"
+      ],
+      "nombre (from persona)": [
+        "Oscar Ferrufino Morro"
+      ],
+      "persona": [
+        "recfXwljENCLDFEN0"
+      ],
+      "sigla (from entidad)": [
+        "BCB"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1446742142693556225",
+      "twitter (from entidad)": [
+        "@BancoCentralBO"
       ]
     },
     {
@@ -15703,7 +16001,8 @@
       "airtableId": "reccOyt73GJKFfU2z",
       "autoridades": [
         "rec2VWDUcJm5gZYpW",
-        "recZcuZkLhWpazk5q"
+        "recZcuZkLhWpazk5q",
+        "rectsaHNl0tjePnjN"
       ],
       "dependencia": [
         "recDPejejWlgRG7Vc"
@@ -16050,7 +16349,8 @@
       "airtableId": "recktwUPUvekQd9ZL",
       "autoridades": [
         "recaAU4C3yRFrXdm8",
-        "recBll6L1jkC5F2tA"
+        "recBll6L1jkC5F2tA",
+        "reczHtclBFuVbyjs8"
       ],
       "dependencia": [
         "recDI8RDjX6z76J0n"
@@ -16137,7 +16437,8 @@
       "airtableId": "recnFUdooZ3Qy5RLU",
       "autoridades": [
         "recdMinbx2Gb9PV8h",
-        "recKJSf4XRbNjuhu2"
+        "recKJSf4XRbNjuhu2",
+        "recJCJ1QbGkSehBtF"
       ],
       "dependencia": [
         "reccOyt73GJKFfU2z"
@@ -16769,7 +17070,8 @@
       "airtableId": "recz4ktM53IIcE4A4",
       "autoridades": [
         "recpbIDze6l3No8Xr",
-        "rectGUYoEjTV9iSat"
+        "rectGUYoEjTV9iSat",
+        "recAvyPPiYkoTfal3"
       ],
       "dependencia": [
         "reccOyt73GJKFfU2z"
@@ -18276,6 +18578,43 @@
       "nombre": "Gustavo Choque Velasquez"
     },
     {
+      "airtableId": "rec6pnEnzuffJLRhH",
+      "autoridades": [
+        "rectsaHNl0tjePnjN"
+      ],
+      "fotos": [
+        {
+          "filename": "FA2q6uqXIAEVF2C.jpeg",
+          "height": 1599,
+          "id": "attDyNImgJFjnNC6a",
+          "size": 139918,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b32ec653aa0f39368c2afe80d3ea780d/41a81029",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6254d4321c8d94bcabaed7274105fbdf/b0a45ea9",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/20c418ce3e607e2a7c436e96d2b96d05/b898641b",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/186d46c118ce34c806291b46f02a3782/61507751/FA2q6uqXIAEVF2C.jpeg",
+          "width": 1066
+        }
+      ],
+      "genero": "Hombre",
+      "id": 226,
+      "nombre": "Augusto García Lara"
+    },
+    {
       "airtableId": "rec7DXuwlB4XTYPnS",
       "autoridades": [
         "recAIGKuN0liWizPw"
@@ -19255,6 +19594,43 @@
       "id": 87,
       "nombre": "Rogelio Mayta Mayta",
       "twitter": "@RogelioMayta_Bo"
+    },
+    {
+      "airtableId": "recEP5if1JAUfz4K1",
+      "autoridades": [
+        "recJCJ1QbGkSehBtF"
+      ],
+      "fotos": [
+        {
+          "filename": "FA2q6uoXsA8wXBz.jpeg",
+          "height": 1599,
+          "id": "attjlVUqCGTefjHos",
+          "size": 149139,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9fc20efe6878270e3b0793a3f505f139/9d75c3f4",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/48c15a711aa86e8b24ace3b044947760/75946984",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bb6edc6220d755ae1c009633f7f03be8/a1854286",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/fc25f480c50c8580cf6bd60e55631335/abde7701/FA2q6uoXsA8wXBz.jpeg",
+          "width": 1066
+        }
+      ],
+      "genero": "Hombre",
+      "id": 227,
+      "nombre": "Teófilo Medina Zabala"
     },
     {
       "airtableId": "recERNQ8SGNgSqLWl",
@@ -22994,7 +23370,8 @@
     {
       "airtableId": "recfXwljENCLDFEN0",
       "autoridades": [
-        "recBpYsDbhG6TogXc"
+        "recBpYsDbhG6TogXc",
+        "reczHtclBFuVbyjs8"
       ],
       "fotos": [
         {
@@ -23022,11 +23399,74 @@
           "type": "image/jpeg",
           "url": "https://dl.airtable.com/.attachments/a7a6d8256030dfdbaf538b238a7a28f8/d582960e/oscarferrufino.jpg",
           "width": 840
+        },
+        {
+          "filename": "FBHl-fCWEAcGrnL.jpeg",
+          "height": 874,
+          "id": "attw7c0osrBB1s4cz",
+          "size": 230773,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b7c9d6ccb52dcbb8b63fceaebef7c911/41c00bff",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4ff930d6b1feb06625ed5edbe5d7d9fe/8fa4a6f2",
+              "width": 750
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d2a7c38c4c353604e33f830b763a359c/c9b6a834",
+              "width": 53
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/32b29f2c36f26e81c952d26224d86bac/a6d55301/FBHl-fCWEAcGrnL.jpeg",
+          "width": 1280
         }
       ],
       "genero": "Hombre",
       "id": 128,
       "nombre": "Oscar Ferrufino Morro"
+    },
+    {
+      "airtableId": "recfcTkrS1JRJUA30",
+      "autoridades": [
+        "recAvyPPiYkoTfal3"
+      ],
+      "fotos": [
+        {
+          "filename": "FA2q6wgXIAE2bDo.jpeg",
+          "height": 1599,
+          "id": "attPAQ6mP2pdMCJCp",
+          "size": 140608,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4f5a078cfd4e1d05e156d219a601030f/490462b8",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c178a3def05c94e686182113a585855f/bbb99898",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3daae41b168daabdd111cd463654f18b/fa60cca7",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/be43c7bf4068647c157ee2875b11a2d3/da5d917b/FA2q6wgXIAE2bDo.jpeg",
+          "width": 1066
+        }
+      ],
+      "genero": "Hombre",
+      "id": 228,
+      "nombre": "Francis Efraín Frank Salazar"
     },
     {
       "airtableId": "recfoAp2YUsP5Ht9v",
