@@ -11624,6 +11624,7 @@
     {
       "airtableId": "recoTcA6Jf19g7xAj",
       "cargo": "Ministro de Educación y Culturas",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "recDPejejWlgRG7Vc"
       ],
@@ -11659,10 +11660,12 @@
           "width": 760
         }
       ],
+      "fuente_fin": "https://www.la-razon.com/sociedad/2021/11/12/el-ministro-de-educacion-renuncia-tras-ser-imputado-por-el-caso-designaciones/",
       "fuente_inicio": "https://eldeber.com.bo/politica/quien-es-quien-en-el-gabinete-de-luis-arce-conoce-el-perfil-de-los-16-ministros-que-lo-conforman_208065",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-11-12",
       "id": 97,
       "nombre (from entidad)": [
         "Ministerio de Educación"
@@ -11685,6 +11688,7 @@
       "sigla (from entidad)": [
         "ME"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1459554606602768387",
       "twitter (from entidad)": [
         "@minedubol"
       ],
