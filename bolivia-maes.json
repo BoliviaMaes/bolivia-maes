@@ -629,6 +629,66 @@
       ]
     },
     {
+      "airtableId": "rec3ktIis7X99wugJ",
+      "cargo": "Ministro de Educación",
+      "dependencia (from entidad)": [
+        "recDPejejWlgRG7Vc"
+      ],
+      "desde": "2021-11-19",
+      "entidad": [
+        "recsuCxQwrF93G855"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "FEj2nKXXoAUhXbv.jpeg",
+          "height": 769,
+          "id": "att5jH81jvfveJXBL",
+          "size": 114232,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3e146a48627ea0ac0b14a27737270811/1c29ce18",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7da2dcac42bc65ad1dbc03cf57042749/827541b4",
+              "width": 979
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c1f0d6f19ec86f8becdcac860a6039cc/ddb93a3b",
+              "width": 69
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/9504b2d17aa9ab18b5e96724bf9717cf/5e6afdb2/FEj2nKXXoAUhXbv.jpeg",
+          "width": 1471
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/abi_bolivia/status/1461689240278949902",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 241,
+      "nombre (from entidad)": [
+        "Ministerio de Educación"
+      ],
+      "nombre (from persona)": [
+        "Edgar Pary Chambi"
+      ],
+      "persona": [
+        "rec8JMwxE7WcgM8Pw"
+      ],
+      "sigla (from entidad)": [
+        "ME"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1462875544769515521",
+      "twitter (from entidad)": [
+        "@minedubol"
+      ]
+    },
+    {
       "airtableId": "rec4AYqMCCP4MFNDp",
       "cargo": "Gerente General del SEDEM (Servicio de Desarrollo de las Empresas Públicas Productivas)",
       "dependencia (from entidad)": [
@@ -11688,6 +11748,9 @@
       "sigla (from entidad)": [
         "ME"
       ],
+      "sucesora": [
+        "rec3ktIis7X99wugJ"
+      ],
       "tweet_fin": "https://twitter.com/BoliviaMaes/status/1459554606602768387",
       "twitter (from entidad)": [
         "@minedubol"
@@ -16746,7 +16809,8 @@
     {
       "airtableId": "recsuCxQwrF93G855",
       "autoridades": [
-        "recoTcA6Jf19g7xAj"
+        "recoTcA6Jf19g7xAj",
+        "rec3ktIis7X99wugJ"
       ],
       "dependencia": [
         "recDPejejWlgRG7Vc"
@@ -18692,6 +18756,43 @@
       "id": 172,
       "nombre": "Dante Fedor Justiniano Segales",
       "twitter": "@DanteJuSegales"
+    },
+    {
+      "airtableId": "rec8JMwxE7WcgM8Pw",
+      "autoridades": [
+        "rec3ktIis7X99wugJ"
+      ],
+      "fotos": [
+        {
+          "filename": "FEj2nKXXoAUhXbv.jpeg",
+          "height": 769,
+          "id": "att5jH81jvfveJXBL",
+          "size": 114232,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3e146a48627ea0ac0b14a27737270811/1c29ce18",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7da2dcac42bc65ad1dbc03cf57042749/827541b4",
+              "width": 979
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c1f0d6f19ec86f8becdcac860a6039cc/ddb93a3b",
+              "width": 69
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/9504b2d17aa9ab18b5e96724bf9717cf/5e6afdb2/FEj2nKXXoAUhXbv.jpeg",
+          "width": 1471
+        }
+      ],
+      "genero": "Hombre",
+      "id": 229,
+      "nombre": "Edgar Pary Chambi"
     },
     {
       "airtableId": "rec8lA2uipifMwQ6I",
