@@ -811,6 +811,7 @@
     {
       "airtableId": "rec56DlAhd0OAmVVw",
       "cargo": "Gerente General de SABSA (Servicios de Aeropuertos de Bolivia)",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -846,10 +847,12 @@
           "width": 1024
         }
       ],
+      "fuente_fin": "https://eldeber.com.bo/pais/pozo-asume-como-director-de-naabol-y-ministro-pide-a-aasana-no-dejarse-llevar-por-los-vientos-del-go_257117",
       "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1338606134731698184",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-12-01",
       "id": 136,
       "nombre (from entidad)": [
         "Servicios de Aeropuertos Bolivianos SA"
@@ -863,6 +866,7 @@
       "sigla (from entidad)": [
         "SABSA"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1466337384975454208",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1338760107237236743",
       "twitter (from entidad)": [
         "@BoliviaSabsa"
@@ -1748,6 +1752,60 @@
       "twitter (from entidad)": [
         "@CNS_Bolivia"
       ]
+    },
+    {
+      "airtableId": "rec8Ue4aJI9Cge8eQ",
+      "cargo": "Viceministro de Educación Superior y Formación Profesional",
+      "dependencia (from entidad)": [
+        "recsuCxQwrF93G855"
+      ],
+      "desde": "2021-12-01",
+      "entidad": [
+        "recZa6mi9G06MfjCI"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "FFjAzxOWYAYDLUF.jpeg",
+          "height": 1599,
+          "id": "attUCpw42eAh8cU7T",
+          "size": 95794,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/15fdad54ae74c56192726195d9ea7c59/4bfafdb7",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/92cb8160498fb5c27bf368626f872470/2cb68bd0",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b5e3474bf4e630225d4081cc974a70ba/2a872241",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/4342734f2253b097e65d97266bf4c370/19f49587/FFjAzxOWYAYDLUF.jpeg",
+          "width": 1066
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/abi_bolivia/status/1466133681580523524",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 242,
+      "nombre (from entidad)": [
+        "Viceministerio de Educación Superior y Formación Profesional"
+      ],
+      "nombre (from persona)": [
+        "José Luis Gutiérrez"
+      ],
+      "persona": [
+        "recdGo17gVDeQU6H8"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1466334235107729422"
     },
     {
       "airtableId": "rec8p0focXIueZW1a",
@@ -3292,6 +3350,62 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333691504632721408",
       "twitter (from entidad)": [
         "@EditorialEstado"
+      ]
+    },
+    {
+      "airtableId": "recCzXtwYQvFTJRLi",
+      "cargo": "Director General Ejecutivo de Navegación Aérea y Aeropuertos Bolivianos",
+      "dependencia (from entidad)": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "desde": "2021-12-01",
+      "entidad": [
+        "recjW642dNJBNO0wH"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "EpOvLLcXYAIC6x6.jpeg",
+          "height": 873,
+          "id": "attFmFe2ojBN1BIE6",
+          "size": 144824,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8b873fab43d8d5569f30207cc42af969/d94cd0b9",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/84e0416108018eefed76a8df3b36666b/9df15319",
+              "width": 601
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ea9be6c1770599c10508cdbbeb5da608/0743e787",
+              "width": 42
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/5482128c5ba17739e55a84456e284b36/cf7369ba/EpOvLLcXYAIC6x6.jpeg",
+          "width": 1024
+        }
+      ],
+      "fuente_inicio": "https://eldeber.com.bo/pais/pozo-asume-como-director-de-naabol-y-ministro-pide-a-aasana-no-dejarse-llevar-por-los-vientos-del-go_257117",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 243,
+      "nombre (from entidad)": [
+        "Navegación Aérea y Aeropuertos Bolivianos"
+      ],
+      "nombre (from persona)": [
+        "Elmer Pozo Oliva"
+      ],
+      "persona": [
+        "recvquQEEyTTqkg71"
+      ],
+      "sigla (from entidad)": [
+        "NAABOL"
       ]
     },
     {
@@ -6363,6 +6477,7 @@
     {
       "airtableId": "recPhuw5iJDrnZnZ5",
       "cargo": "Viceministra de Educación Superior y Formación Profesional",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recsuCxQwrF93G855"
       ],
@@ -6402,6 +6517,7 @@
       "genero (from persona)": [
         "Mujer"
       ],
+      "hasta": "2021-12-01",
       "id": 57,
       "nombre (from entidad)": [
         "Viceministerio de Educación Superior y Formación Profesional"
@@ -6412,6 +6528,10 @@
       "persona": [
         "recXT62L8mD8YnVkF"
       ],
+      "sucesora": [
+        "rec8Ue4aJI9Cge8eQ"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1466334677623619588",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331070387543805953",
       "twitter (from persona)": [
         "@AUREABALDERRAMA"
@@ -6589,6 +6709,7 @@
     {
       "airtableId": "recQacFbxMHYJsJpd",
       "cargo": "Directora General Ejecutiva de AASANA (Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea)",
+      "causa_fin": "Supresión de la entidad",
       "dependencia (from entidad)": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -6624,10 +6745,12 @@
           "width": 1200
         }
       ],
+      "fuente_fin": "https://www.la-razon.com/lr-article/el-gobierno-suprime-aasana-y-crea-naabol/",
       "fuente_inicio": "https://www.la-razon.com/economia/2021/04/14/arminda-choque-trabajo-12-anos-en-aasana-y-ahora-es-su-maxima-autoridad/",
       "genero (from persona)": [
         "Mujer"
       ],
+      "hasta": "2021-11-30",
       "id": 195,
       "nombre (from entidad)": [
         "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea"
@@ -6641,6 +6764,7 @@
       "sigla (from entidad)": [
         "AASANA"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1466337977660022784",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1382563149434515459",
       "twitter (from entidad)": [
         "@AASANABOLIVIA"
@@ -15106,9 +15230,13 @@
         "recKXt5RcXpXXrIyO"
       ],
       "eleccion_mae": "designación",
+      "hasta": "2021-11-30",
       "id": 140,
       "nombre": "Administración de Aeropuertos y Servicios Auxiliares de Navegación Aérea",
       "sigla": "AASANA",
+      "sucesoras": [
+        "recjW642dNJBNO0wH"
+      ],
       "tipo": "Otro",
       "twitter": "@AASANABOLIVIA",
       "webpage": "https://aasana.bo/"
@@ -15907,7 +16035,8 @@
     {
       "airtableId": "recZa6mi9G06MfjCI",
       "autoridades": [
-        "recPhuw5iJDrnZnZ5"
+        "recPhuw5iJDrnZnZ5",
+        "rec8Ue4aJI9Cge8eQ"
       ],
       "dependencia": [
         "recsuCxQwrF93G855"
@@ -16411,6 +16540,21 @@
       "sigla": "PGE",
       "tipo": "Otro",
       "twitter": "@PGE_Bolivia"
+    },
+    {
+      "airtableId": "recjW642dNJBNO0wH",
+      "autoridades": [
+        "recCzXtwYQvFTJRLi"
+      ],
+      "dependencia": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "desde": "2021-11-30",
+      "eleccion_mae": "designación",
+      "id": 198,
+      "nombre": "Navegación Aérea y Aeropuertos Bolivianos",
+      "sigla": "NAABOL",
+      "tipo": "Otro"
     },
     {
       "airtableId": "recktwUPUvekQd9ZL",
@@ -22846,6 +22990,43 @@
       "nombre": "Wendy Jahel Pérez Salinas"
     },
     {
+      "airtableId": "recdGo17gVDeQU6H8",
+      "autoridades": [
+        "rec8Ue4aJI9Cge8eQ"
+      ],
+      "fotos": [
+        {
+          "filename": "FFjAzxOWYAYDLUF.jpeg",
+          "height": 1599,
+          "id": "attUCpw42eAh8cU7T",
+          "size": 95794,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/15fdad54ae74c56192726195d9ea7c59/4bfafdb7",
+              "width": 3000
+            },
+            "large": {
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/92cb8160498fb5c27bf368626f872470/2cb68bd0",
+              "width": 512
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b5e3474bf4e630225d4081cc974a70ba/2a872241",
+              "width": 24
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/4342734f2253b097e65d97266bf4c370/19f49587/FFjAzxOWYAYDLUF.jpeg",
+          "width": 1066
+        }
+      ],
+      "genero": "Hombre",
+      "id": 230,
+      "nombre": "José Luis Gutiérrez"
+    },
+    {
       "airtableId": "recdKXhJtgZdP5nzL",
       "autoridades": [
         "recR1NSGyn44FG6iq"
@@ -25943,7 +26124,8 @@
     {
       "airtableId": "recvquQEEyTTqkg71",
       "autoridades": [
-        "rec56DlAhd0OAmVVw"
+        "rec56DlAhd0OAmVVw",
+        "recCzXtwYQvFTJRLi"
       ],
       "fotos": [
         {
