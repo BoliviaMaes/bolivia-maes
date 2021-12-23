@@ -3238,6 +3238,7 @@
     {
       "airtableId": "recCFHGv3st69JOKh",
       "cargo": "Presidente de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)",
+      "causa_fin": "Renuncia",
       "dependencia (from entidad)": [
         "recVWx1zATfZJ6Z5x"
       ],
@@ -3273,10 +3274,12 @@
           "width": 0
         }
       ],
+      "fuente_fin": "https://www.la-razon.com/economia/2021/12/23/armin-dorgathen-es-posesionado-como-nuevo-presidente-de-ypfb/",
       "fuente_inicio": "https://www.la-razon.com/economia/2020/11/19/wilson-zelaya-asume-presidencia-de-ypfb-y-compromete-devolver-su-caracter-estrategico/",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2021-12-23",
       "id": 35,
       "nombre (from entidad)": [
         "Yacimientos Petrolíferos Fiscales Bolivianos"
@@ -3290,6 +3293,10 @@
       "sigla (from entidad)": [
         "YPFB"
       ],
+      "sucesora": [
+        "recXwvrJBAm6zEh1v"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1474041189569548293",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1329702895441354752",
       "twitter (from entidad)": [
         "@YPFB_corp"
@@ -3406,7 +3413,8 @@
       ],
       "sigla (from entidad)": [
         "NAABOL"
-      ]
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1466337139168354304"
     },
     {
       "airtableId": "recDKEWD88MNsFpPj",
@@ -8543,6 +8551,66 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1331629723793944576",
       "twitter (from entidad)": [
         "@FPS_Bolivia"
+      ]
+    },
+    {
+      "airtableId": "recXwvrJBAm6zEh1v",
+      "cargo": "Presidente interino de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)",
+      "dependencia (from entidad)": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "desde": "2021-12-23",
+      "entidad": [
+        "recMyjwIUpQLyZKnU"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "armin-ludwing-dorgathen-tapia_759062651_1140x520.jpeg",
+          "height": 520,
+          "id": "attjL2MpYx3fx1IIf",
+          "size": 25098,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2049919af553b41c05f237562ada6416/e4a93df9",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e474b49bebd0a60222d22c207e4c2ef8/f94ecea9",
+              "width": 678
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a85f117b12836b2fdda73f77b1ab27e7/92eb1506",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b569ecf9de704978d4a326c4904752f7/cd271b30/armin-ludwing-dorgathen-tapia_759062651_1140x520.jpeg",
+          "width": 689
+        }
+      ],
+      "fuente_inicio": "https://www.la-razon.com/economia/2021/12/23/armin-dorgathen-es-posesionado-como-nuevo-presidente-de-ypfb/",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 244,
+      "nombre (from entidad)": [
+        "Yacimientos Petrolíferos Fiscales Bolivianos"
+      ],
+      "nombre (from persona)": [
+        "Armin Ludwing Dorgathen Tapia"
+      ],
+      "persona": [
+        "recAq1FXH7ju6gglu"
+      ],
+      "sigla (from entidad)": [
+        "YPFB"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1474040475183112193",
+      "twitter (from entidad)": [
+        "@YPFB_corp"
       ]
     },
     {
@@ -15457,7 +15525,8 @@
     {
       "airtableId": "recMyjwIUpQLyZKnU",
       "autoridades": [
-        "recCFHGv3st69JOKh"
+        "recCFHGv3st69JOKh",
+        "recXwvrJBAm6zEh1v"
       ],
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
@@ -19149,6 +19218,43 @@
       "genero": "Hombre",
       "id": 152,
       "nombre": "Miguel del Castillo Quiroga"
+    },
+    {
+      "airtableId": "recAq1FXH7ju6gglu",
+      "autoridades": [
+        "recXwvrJBAm6zEh1v"
+      ],
+      "fotos": [
+        {
+          "filename": "armin-ludwing-dorgathen-tapia_759062651_1140x520.jpeg",
+          "height": 520,
+          "id": "attjL2MpYx3fx1IIf",
+          "size": 25098,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2049919af553b41c05f237562ada6416/e4a93df9",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e474b49bebd0a60222d22c207e4c2ef8/f94ecea9",
+              "width": 678
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a85f117b12836b2fdda73f77b1ab27e7/92eb1506",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/b569ecf9de704978d4a326c4904752f7/cd271b30/armin-ludwing-dorgathen-tapia_759062651_1140x520.jpeg",
+          "width": 689
+        }
+      ],
+      "genero": "Hombre",
+      "id": 231,
+      "nombre": "Armin Ludwing Dorgathen Tapia"
     },
     {
       "airtableId": "recB8czn0012QcC6r",
