@@ -10642,6 +10642,7 @@
     {
       "airtableId": "rechyuXOHMQy0YBAI",
       "cargo": "Viceministro de Régimen Interior y Policía",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recVFpQI3U7A124Tu"
       ],
@@ -10677,10 +10678,12 @@
           "width": 770
         }
       ],
+      "fuente_fin": "https://twitter.com/LaRazon_Bolivia/status/1480571146836004864",
       "fuente_inicio": "https://twitter.com/MindeGobierno/status/1409586063547400192",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2022-01-10",
       "id": 226,
       "nombre (from entidad)": [
         "Viceministerio de Régimen Interior y Policía"
@@ -10691,6 +10694,7 @@
       "persona": [
         "recrGn3EHlrFP2KCZ"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1481004732714041350",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1409776449620480000"
     },
     {
