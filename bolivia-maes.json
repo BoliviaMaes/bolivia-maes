@@ -5926,6 +5926,7 @@
     {
       "airtableId": "recNswUXJakBAQZWz",
       "cargo": "Presidente Ejecutivo Interino del Directorio de ENFE (Empresa Nacional de Ferrocarriles)",
+      "causa_fin": "Destitución",
       "dependencia (from entidad)": [
         "recKXt5RcXpXXrIyO"
       ],
@@ -5961,10 +5962,12 @@
           "width": 615
         }
       ],
+      "fuente_fin": "https://eldeber.com.bo/santa-cruz/destituyen-a-director-de-enfe-lo-acusan-de-uso-indebido-de-bienes-del-estado_269107",
       "fuente_inicio": "https://www.oopp.gob.bo/index.php/noticias/MINISTRO-MONTAO-POSESIONA-A-DIRECTORES-INTERINOS-DE-ENFE-Y-DGAC-SU-PRIMERA-TAREA-SANEAR-IRREGULARIDADES,3291.html",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2022-02-27",
       "id": 125,
       "nombre (from entidad)": [
         "Empresa Nacional de Ferrocarriles"
@@ -5978,6 +5981,7 @@
       "sigla (from entidad)": [
         "ENFE"
       ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1498704885407178757",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1336229157383114753",
       "twitter (from entidad)": [
         "@ENFE_BOLIVIA"
