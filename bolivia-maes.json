@@ -4478,6 +4478,66 @@
       ]
     },
     {
+      "airtableId": "recHBjgjNSbs0UC8Q",
+      "cargo": "Presidente Ejecutivo Interino de ENDE (Empresa Nacional de Electricidad)",
+      "dependencia (from entidad)": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "desde": "2022-03-05",
+      "entidad": [
+        "recGUD7Z0Yutsw0Qp"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "manuel_valle_vargas_presidente_ai_ende.jpg",
+          "height": 450,
+          "id": "attaBulj9rnYc20Hj",
+          "size": 117513,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dfe8280b26609a37b7a29cf31dff8f8d/4bdc508a",
+              "width": 3000
+            },
+            "large": {
+              "height": 450,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/82670cb19894036f26f8c1ea6650edff/34371b38",
+              "width": 700
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/66c523ac119783f8f26ab7d2bb81aa91/cf331797",
+              "width": 56
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/dfb75a4451a12d0ef54915c1811b360a/f0261e1d/manuel_valle_vargas_presidente_ai_ende.jpg",
+          "width": 700
+        }
+      ],
+      "fuente_inicio": "https://www.eldia.com.bo/noticia.php?id=349522&id_cat=1",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 245,
+      "nombre (from entidad)": [
+        "Empresa Nacional de Electricidad"
+      ],
+      "nombre (from persona)": [
+        "Manuel Valle Vargas"
+      ],
+      "persona": [
+        "rec5G9zFlV0ZH3j16"
+      ],
+      "sigla (from entidad)": [
+        "ENDE"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1500154462815637507",
+      "twitter (from entidad)": [
+        "@ENDECORPORACION"
+      ]
+    },
+    {
       "airtableId": "recHFb3zPcdwNDASK",
       "cargo": "Comandante General interino de la Policía Boliviana",
       "dependencia (from entidad)": [
@@ -6785,6 +6845,7 @@
     {
       "airtableId": "recQebcFZCzM7C4WA",
       "cargo": "Presidente Ejecutivo Interino de ENDE (Empresa Nacional de Electricidad)",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recVWx1zATfZJ6Z5x"
       ],
@@ -6820,10 +6881,12 @@
           "width": 1024
         }
       ],
+      "fuente_fin": "https://www.eldia.com.bo/noticia.php?id=349522&id_cat=1",
       "fuente_inicio": "https://twitter.com/BOLIVIA_MH/status/1333474215861899266",
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2022-03-05",
       "id": 74,
       "nombre (from entidad)": [
         "Empresa Nacional de Electricidad"
@@ -6837,6 +6900,10 @@
       "sigla (from entidad)": [
         "ENDE"
       ],
+      "sucesora": [
+        "recHBjgjNSbs0UC8Q"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1500154789270851589",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333476047350861831",
       "twitter (from entidad)": [
         "@ENDECORPORACION"
@@ -15154,7 +15221,8 @@
     {
       "airtableId": "recGUD7Z0Yutsw0Qp",
       "autoridades": [
-        "recQebcFZCzM7C4WA"
+        "recQebcFZCzM7C4WA",
+        "recHBjgjNSbs0UC8Q"
       ],
       "dependencia": [
         "recVWx1zATfZJ6Z5x"
@@ -18641,6 +18709,43 @@
       "genero": "Hombre",
       "id": 51,
       "nombre": "Mauricio Guzmán Mujica"
+    },
+    {
+      "airtableId": "rec5G9zFlV0ZH3j16",
+      "autoridades": [
+        "recHBjgjNSbs0UC8Q"
+      ],
+      "fotos": [
+        {
+          "filename": "manuel_valle_vargas_presidente_ai_ende.jpg",
+          "height": 450,
+          "id": "attaBulj9rnYc20Hj",
+          "size": 117513,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dfe8280b26609a37b7a29cf31dff8f8d/4bdc508a",
+              "width": 3000
+            },
+            "large": {
+              "height": 450,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/82670cb19894036f26f8c1ea6650edff/34371b38",
+              "width": 700
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/66c523ac119783f8f26ab7d2bb81aa91/cf331797",
+              "width": 56
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/dfb75a4451a12d0ef54915c1811b360a/f0261e1d/manuel_valle_vargas_presidente_ai_ende.jpg",
+          "width": 700
+        }
+      ],
+      "genero": "Hombre",
+      "id": 232,
+      "nombre": "Manuel Valle Vargas"
     },
     {
       "airtableId": "rec5IShn5IUHgzUnf",
