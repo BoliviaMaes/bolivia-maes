@@ -3360,6 +3360,66 @@
       ]
     },
     {
+      "airtableId": "recCUGxgOIDNOhFO2",
+      "cargo": "Gerente General de la EBC (Empresa Estratégica Boliviana de Construcción y Conservación de Infraestructura Civil)",
+      "dependencia (from entidad)": [
+        "recKXt5RcXpXXrIyO"
+      ],
+      "desde": "2022-03-16",
+      "entidad": [
+        "recSET9RDkDwWBCuM"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "FOACdg0WUAE4C0c.jpeg",
+          "height": 916,
+          "id": "attaF3M8JtXLg2gXF",
+          "size": 347818,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/72925b5a9de703ba0ff2055247ec9e74/cba34dce",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e607fd66fc73d664bde523cbd504534c/0067c0b5",
+              "width": 715
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/932d3f81c6a1b470f47351ec05408411/a872a1a2",
+              "width": 50
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/6a0ec2774a9e0026a268b2419c8d5e95/58666093/FOACdg0WUAE4C0c.jpeg",
+          "width": 1280
+        }
+      ],
+      "fuente_inicio": "https://twitter.com/mopsv_Bolivia/status/1504205144241627138",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 246,
+      "nombre (from entidad)": [
+        "Empresa Estratégica Boliviana de Construcción y Conservación de Infraestructura Civil"
+      ],
+      "nombre (from persona)": [
+        "Ernesto Mercado"
+      ],
+      "persona": [
+        "recd8bYdp9blpVUX9"
+      ],
+      "sigla (from entidad)": [
+        "EBC"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1505185026853507079",
+      "twitter (from entidad)": [
+        "@ebc_bolivia"
+      ]
+    },
+    {
       "airtableId": "recCzXtwYQvFTJRLi",
       "cargo": "Director General Ejecutivo de Navegación Aérea y Aeropuertos Bolivianos",
       "dependencia (from entidad)": [
@@ -15880,12 +15940,15 @@
     },
     {
       "airtableId": "recSET9RDkDwWBCuM",
+      "autoridades": [
+        "recCUGxgOIDNOhFO2"
+      ],
       "dependencia": [
         "recKXt5RcXpXXrIyO"
       ],
       "eleccion_mae": "designación",
       "id": 171,
-      "nombre": "Empresa Boliviana de la Construcción",
+      "nombre": "Empresa Estratégica Boliviana de Construcción y Conservación de Infraestructura Civil",
       "sigla": "EBC",
       "tipo": "Empresa",
       "twitter": "@ebc_bolivia",
@@ -23170,6 +23233,43 @@
       "id": 129,
       "nombre": "Freddy Mamani Machaca",
       "twitter": "@FreddyMamani_Bo"
+    },
+    {
+      "airtableId": "recd8bYdp9blpVUX9",
+      "autoridades": [
+        "recCUGxgOIDNOhFO2"
+      ],
+      "fotos": [
+        {
+          "filename": "FOACdg0WUAE4C0c.jpeg",
+          "height": 916,
+          "id": "attaF3M8JtXLg2gXF",
+          "size": 347818,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/72925b5a9de703ba0ff2055247ec9e74/cba34dce",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e607fd66fc73d664bde523cbd504534c/0067c0b5",
+              "width": 715
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/932d3f81c6a1b470f47351ec05408411/a872a1a2",
+              "width": 50
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/6a0ec2774a9e0026a268b2419c8d5e95/58666093/FOACdg0WUAE4C0c.jpeg",
+          "width": 1280
+        }
+      ],
+      "genero": "Hombre",
+      "id": 233,
+      "nombre": "Ernesto Mercado"
     },
     {
       "airtableId": "recdABzeBoiKOSu1W",
