@@ -12,6 +12,7 @@ Los proyectos siguientes, por [Mau Foronda](https://twitter.com/mauforonda), uti
 - Lista Twitter de cuentas de autoridades: https://twitter.com/i/lists/1342655206727815168
 - Lista Twitter de cuentas de entidades: https://twitter.com/i/lists/1342655444289019904
 
-## Proyectos relacionados
+## Proyectos relacionados y fuentes
 
-https://es.wikipedia.org/wiki/Anexo:Gabinete_de_Luis_Arce
+- https://es.wikipedia.org/wiki/Anexo:Gabinete_de_Luis_Arce
+- https://abi.bo/index.php/component/search/?searchword=posesion&searchphrase=all
