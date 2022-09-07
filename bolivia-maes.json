@@ -207,6 +207,62 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1431683381142691843"
     },
     {
+      "airtableId": "rec0XZUKurk3qWtRo",
+      "cargo": "Viceministro de Recursos Hídricos y Riego",
+      "dependencia (from entidad)": [
+        "recTV9hdUCYs4u19T"
+      ],
+      "desde": "2022-09-05",
+      "entidad": [
+        "recCRRYiYn2874TKD"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "TOROMAYO.jpg",
+          "height": 1365,
+          "id": "attjVhSuJceLLpDKl",
+          "size": 499397,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/05dee385136180ceee513feba1a00942/e4c60f80",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f19dd1091df5d5e62cd35ba3d817c0ff/1f5290da",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7fddef56ac4de266178a3cd47a7ed200/825c6cc5",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/8c4a93269cb5fa0555dff9f7bb2532ac/79cbd3d3/TOROMAYO.jpg",
+          "width": 2048
+        }
+      ],
+      "fuente_inicio": "https://abi.bo/index.php/component/content/article/37-notas/noticias/sociedad/26640-posesionan-a-eduardo-toromayo-como-nuevo-viceministro-de-recursos-hidricos-y-riego?Itemid=101",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 278,
+      "nombre (from entidad)": [
+        "Viceministerio de Recursos Hídricos y Riego"
+      ],
+      "nombre (from persona)": [
+        "Eduardo Toromayo"
+      ],
+      "persona": [
+        "recJPXQ3FnteS5G2h"
+      ],
+      "sigla (from entidad)": [
+        "VRHR"
+      ]
+    },
+    {
       "airtableId": "rec0f11gkgnvUv4HF",
       "cargo": "Gerente General de la Empresa Metalúrgica Vinto",
       "dependencia (from entidad)": [
@@ -13784,6 +13840,7 @@
     {
       "airtableId": "recq23rEliIxRiwFm",
       "cargo": "Viceministro de Recursos Hídricos y Riego",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recTV9hdUCYs4u19T"
       ],
@@ -13823,6 +13880,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2022-09-05",
       "id": 263,
       "nombre (from entidad)": [
         "Viceministerio de Recursos Hídricos y Riego"
@@ -13835,6 +13893,9 @@
       ],
       "sigla (from entidad)": [
         "VRHR"
+      ],
+      "sucesora": [
+        "rec0XZUKurk3qWtRo"
       ],
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1544959311964692484"
     },
@@ -16788,7 +16849,8 @@
       "airtableId": "recCRRYiYn2874TKD",
       "autoridades": [
         "recwU6eDpMvEYhyyh",
-        "recq23rEliIxRiwFm"
+        "recq23rEliIxRiwFm",
+        "rec0XZUKurk3qWtRo"
       ],
       "dependencia": [
         "recTV9hdUCYs4u19T"
@@ -22906,6 +22968,43 @@
       "genero": "Hombre",
       "id": 194,
       "nombre": "Johnny Franklin Vedia Rodríguez"
+    },
+    {
+      "airtableId": "recJPXQ3FnteS5G2h",
+      "autoridades": [
+        "rec0XZUKurk3qWtRo"
+      ],
+      "fotos": [
+        {
+          "filename": "TOROMAYO.jpg",
+          "height": 1365,
+          "id": "attjVhSuJceLLpDKl",
+          "size": 499397,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/05dee385136180ceee513feba1a00942/e4c60f80",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f19dd1091df5d5e62cd35ba3d817c0ff/1f5290da",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7fddef56ac4de266178a3cd47a7ed200/825c6cc5",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/8c4a93269cb5fa0555dff9f7bb2532ac/79cbd3d3/TOROMAYO.jpg",
+          "width": 2048
+        }
+      ],
+      "genero": "Hombre",
+      "id": 259,
+      "nombre": "Eduardo Toromayo"
     },
     {
       "airtableId": "recJWxmAYm41RDyHy",
