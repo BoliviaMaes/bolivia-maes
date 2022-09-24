@@ -376,6 +376,63 @@
       ]
     },
     {
+      "airtableId": "rec10EvcwqgrKEqDd",
+      "cargo": "Director General Ejecutivo de la Afcoop (Autoridad de Fiscalización y Control de Cooperativas)",
+      "dependencia (from entidad)": [
+        "recyMpkgqj37VCj7M"
+      ],
+      "desde": "2022-09-19",
+      "entidad": [
+        "rec60LAr5uanVLhQh"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "NUEVO_DIRECTOR_AFCOOP.jpg",
+          "height": 850,
+          "id": "attWdwkJzosFbWSz8",
+          "size": 125229,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b02ca68eb31412349942d5f917e49ac2/d716bde2",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/76782e80c1febd973cb47260fae262df/f032a285",
+              "width": 771
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/868c14d6ac359ddf5d23a5b182942dbf/f00f7567",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/2d42813935f175803341d9524ec7ce0c/6a52f37f/NUEVO_DIRECTOR_AFCOOP.jpg",
+          "width": 1280
+        }
+      ],
+      "fuente_inicio": "https://abi.bo/index.php/noticias/sociedad/27298-alejandro-ajata-jura-como-el-nuevo-director-de-la-autoridad-de-cooperativas",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 280,
+      "nombre (from entidad)": [
+        "Autoridad de Fiscalización y Control de Cooperativas"
+      ],
+      "nombre (from persona)": [
+        "Alejandro Ajata Cachaca"
+      ],
+      "persona": [
+        "recp4dK9WYt3eTQQw"
+      ],
+      "sigla (from entidad)": [
+        "AFCOOP"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1573222694623002625"
+    },
+    {
       "airtableId": "rec161AO5afiDeIfg",
       "cargo": "Viceministro de Desarrollo Rural y Agropecuario",
       "dependencia (from entidad)": [
@@ -4293,6 +4350,9 @@
       ],
       "sigla (from entidad)": [
         "ESM"
+      ],
+      "sucesora": [
+        "recyRO3zsAlwR7szu"
       ],
       "tweet_fin": "https://twitter.com/BoliviaMaes/status/1402523317756641285",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1351441179796271105",
@@ -12823,6 +12883,62 @@
       ]
     },
     {
+      "airtableId": "recmOPjiB0Tx3P8xy",
+      "cargo": "Presidente del CNDC (Comité Nacional de Despacho de Carga)",
+      "dependencia (from entidad)": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "desde": "2022-03-08",
+      "entidad": [
+        "reckWq85NNgsM7T7y"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "roman.jpeg",
+          "height": 512,
+          "id": "attBuE8J5jB2ZjoT2",
+          "size": 22771,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e30d667a8e674ad656312f420c8c53c9/ae78fed9",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a0359dd7573d9f65976faa76c9674f00/490e10bc",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/062f8ee7a7d809987bdae3ad27f0e638/f73fdad7",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c1f9fffa32667ae07da1f83bab6e03c9/e7f32bda/roman.jpeg",
+          "width": 768
+        }
+      ],
+      "fuente_inicio": "https://abi.bo/index.php/component/content/article/36-notas/noticias/economia/20363-fernando-roman-jura-como-presidente-del-comite-nacional-de-despacho-de-carga?Itemid=101",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 281,
+      "nombre (from entidad)": [
+        "Comité Nacional de Despacho de Carga"
+      ],
+      "nombre (from persona)": [
+        "Manuel Fernando Román"
+      ],
+      "persona": [
+        "rec3CW6hUXr5azrfo"
+      ],
+      "sigla (from entidad)": [
+        "CNDC"
+      ]
+    },
+    {
       "airtableId": "recmYOFPXlhzNtCbL",
       "cargo": "Gobernador Departamental de Potosí",
       "desde": "2021-05-03",
@@ -13082,6 +13198,7 @@
     {
       "airtableId": "reco0QZNlLa6zj6YJ",
       "cargo": "Director General Ejecutivo Autoridad de Fiscalización y Control de Cooperativas",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recyMpkgqj37VCj7M"
       ],
@@ -13121,6 +13238,7 @@
       "genero (from persona)": [
         "Hombre"
       ],
+      "hasta": "2022-09-19",
       "id": 108,
       "nombre (from entidad)": [
         "Autoridad de Fiscalización y Control de Cooperativas"
@@ -13134,6 +13252,10 @@
       "sigla (from entidad)": [
         "AFCOOP"
       ],
+      "sucesora": [
+        "rec10EvcwqgrKEqDd"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1573222964568391682",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1334550777306689536"
     },
     {
@@ -16032,6 +16154,65 @@
       ]
     },
     {
+      "airtableId": "recyRO3zsAlwR7szu",
+      "cargo": "Presidente Ejecutivo interino de la ESM (Empresa Siderúrgica del Mutún)",
+      "dependencia (from entidad)": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "desde": "2021-07-26",
+      "entidad": [
+        "rec6FJGQ0g3aA923f"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "224392606_2710523349245919_2513337333481083743_n.jpg",
+          "height": 1296,
+          "id": "att0Ay5nunqvgYeEc",
+          "size": 150345,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3acf8a421e5d1f13258349a426472dbc/638e69db",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6f38b86a3d0f24ce76c260cf6489882f/65dcad1d",
+              "width": 683
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5ef74454d40976050b34750e6b2c2196/9a9fb1bb",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/db810b072861ca03c2e9234736539d5c/18e31cbb/224392606_2710523349245919_2513337333481083743_n.jpg",
+          "width": 1728
+        }
+      ],
+      "fuente_inicio": "https://abi.bo/index.php/component/content/article/36-notas/noticias/economia/9211-Jorge-Alvarado-Rivas-jura-como-nuevo-presidente-de-la-Empresa-Sider%C3%BArgica-del-Mut%C3%BAn?Itemid=101",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 282,
+      "nombre (from entidad)": [
+        "Empresa Siderúrgica del Mutún"
+      ],
+      "nombre (from persona)": [
+        "Jorge Alvarado Rivas"
+      ],
+      "persona": [
+        "recoqLKVlQ8DhC391"
+      ],
+      "sigla (from entidad)": [
+        "ESM"
+      ],
+      "twitter (from entidad)": [
+        "@esmbolivia"
+      ]
+    },
+    {
       "airtableId": "recygYart4WLzcsLO",
       "cargo": "Director Ejecutivo de la UPRE (Unidad de Proyectos Especiales)",
       "dependencia (from entidad)": [
@@ -16607,7 +16788,8 @@
     {
       "airtableId": "rec60LAr5uanVLhQh",
       "autoridades": [
-        "reco0QZNlLa6zj6YJ"
+        "reco0QZNlLa6zj6YJ",
+        "rec10EvcwqgrKEqDd"
       ],
       "dependencia": [
         "recyMpkgqj37VCj7M"
@@ -16636,7 +16818,8 @@
     {
       "airtableId": "rec6FJGQ0g3aA923f",
       "autoridades": [
-        "recDrZhjvRtAwLmFZ"
+        "recDrZhjvRtAwLmFZ",
+        "recyRO3zsAlwR7szu"
       ],
       "dependencia": [
         "recnjo1nbKW3JKsVr"
@@ -18626,6 +18809,21 @@
       "webpage": "https://www.seprec.gob.bo"
     },
     {
+      "airtableId": "reckWq85NNgsM7T7y",
+      "autoridades": [
+        "recmOPjiB0Tx3P8xy"
+      ],
+      "dependencia": [
+        "recVWx1zATfZJ6Z5x"
+      ],
+      "eleccion_mae": "designación",
+      "id": 211,
+      "nombre": "Comité Nacional de Despacho de Carga",
+      "sigla": "CNDC",
+      "tipo": "Otro",
+      "webpage": "https://www.cndc.bo"
+    },
+    {
       "airtableId": "recktwUPUvekQd9ZL",
       "autoridades": [
         "recaAU4C3yRFrXdm8",
@@ -20131,6 +20329,43 @@
       "genero": "Hombre",
       "id": 185,
       "nombre": "Marcelo Laura Guarachi"
+    },
+    {
+      "airtableId": "rec3CW6hUXr5azrfo",
+      "autoridades": [
+        "recmOPjiB0Tx3P8xy"
+      ],
+      "fotos": [
+        {
+          "filename": "roman.jpeg",
+          "height": 512,
+          "id": "attBuE8J5jB2ZjoT2",
+          "size": 22771,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e30d667a8e674ad656312f420c8c53c9/ae78fed9",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a0359dd7573d9f65976faa76c9674f00/490e10bc",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/062f8ee7a7d809987bdae3ad27f0e638/f73fdad7",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c1f9fffa32667ae07da1f83bab6e03c9/e7f32bda/roman.jpeg",
+          "width": 768
+        }
+      ],
+      "genero": "Hombre",
+      "id": 261,
+      "nombre": "Manuel Fernando Román"
     },
     {
       "airtableId": "rec3MTYwmnvxKRgoS",
@@ -28215,6 +28450,43 @@
       "nombre": "Marcelo Juan Heredia Cuba"
     },
     {
+      "airtableId": "recoqLKVlQ8DhC391",
+      "autoridades": [
+        "recyRO3zsAlwR7szu"
+      ],
+      "fotos": [
+        {
+          "filename": "224392606_2710523349245919_2513337333481083743_n.jpg",
+          "height": 1296,
+          "id": "att0Ay5nunqvgYeEc",
+          "size": 150345,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3acf8a421e5d1f13258349a426472dbc/638e69db",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6f38b86a3d0f24ce76c260cf6489882f/65dcad1d",
+              "width": 683
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5ef74454d40976050b34750e6b2c2196/9a9fb1bb",
+              "width": 48
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/db810b072861ca03c2e9234736539d5c/18e31cbb/224392606_2710523349245919_2513337333481083743_n.jpg",
+          "width": 1728
+        }
+      ],
+      "genero": "Hombre",
+      "id": 262,
+      "nombre": "Jorge Alvarado Rivas"
+    },
+    {
       "airtableId": "recotgPGjFdGKEJ7v",
       "autoridades": [
         "recq23rEliIxRiwFm"
@@ -28288,6 +28560,43 @@
       "id": 99,
       "nombre": "Verónica Patricia Navia Tejada",
       "twitter": "@NaviaTejerina"
+    },
+    {
+      "airtableId": "recp4dK9WYt3eTQQw",
+      "autoridades": [
+        "rec10EvcwqgrKEqDd"
+      ],
+      "fotos": [
+        {
+          "filename": "NUEVO_DIRECTOR_AFCOOP.jpg",
+          "height": 850,
+          "id": "attWdwkJzosFbWSz8",
+          "size": 125229,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b02ca68eb31412349942d5f917e49ac2/d716bde2",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/76782e80c1febd973cb47260fae262df/f032a285",
+              "width": 771
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/868c14d6ac359ddf5d23a5b182942dbf/f00f7567",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/2d42813935f175803341d9524ec7ce0c/6a52f37f/NUEVO_DIRECTOR_AFCOOP.jpg",
+          "width": 1280
+        }
+      ],
+      "genero": "Hombre",
+      "id": 260,
+      "nombre": "Alejandro Ajata Cachaca"
     },
     {
       "airtableId": "recpgE92TAeTGXbTX",
