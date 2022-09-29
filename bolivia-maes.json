@@ -4732,6 +4732,68 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1337150847822815233"
     },
     {
+      "airtableId": "recFGjIpGKwQeTAZz",
+      "cargo": "Defensora del Pueblo interina",
+      "causa_fin": "Fin interinato",
+      "desde": "2019-01-30",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "20201116124824-154.jpg",
+          "height": 280,
+          "id": "att9b7UMC7A8TDE0q",
+          "size": 35908,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b5376f6bf5744f71e6261bd173e9c958/d59f1c45",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ba9deaac3e2e2044e2341beb85ec5390/0e06d84f",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e838188b8e5d191736fd1a81ccc283b5/5917306c",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/d0f9a21a220d68c504e634d86fc18cdb/aafebe13/20201116124824-154.jpg",
+          "width": 400
+        }
+      ],
+      "fuente_fin": "https://www.defensoria.gob.bo/contenido/historia-defensoria-del-pueblo",
+      "fuente_inicio": "https://www.defensoria.gob.bo/contenido/historia-defensoria-del-pueblo",
+      "genero (from persona)": [
+        "Mujer"
+      ],
+      "hasta": "2022-09-27",
+      "id": 284,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "Nadia Alejandra Cruz Tarifa"
+      ],
+      "persona": [
+        "recGT00NeUS4rOzik"
+      ],
+      "sucesora": [
+        "recmxEn8W8JcmOGt1"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
+      ],
+      "twitter (from persona)": [
+        "NadiaCruzDP"
+      ]
+    },
+    {
       "airtableId": "recFZWnVB8Jnq4Cyw",
       "cargo": "Ministro de Obras Públicas Servicios y Vivienda",
       "dependencia (from entidad)": [
@@ -7649,6 +7711,65 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330023229583396864"
     },
     {
+      "airtableId": "recQ76ZgN986SGjma",
+      "cargo": "Defensora del Pueblo",
+      "causa_fin": "Desconocida",
+      "desde": "1998-05-13",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "foto45_b.jpg",
+          "height": 280,
+          "id": "attIgfDTsXwxGEDQc",
+          "size": 53976,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b8d385f7895b2ab55b2022590586a4dd/3f76a4e3",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4342bc7921de85904aa70d98e660b4a8/919e11f1",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ddc9c88b491d82e6443a7a7e0ec03305/41c9c205",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c5234458854eb7206b4b32eb443d496c/6b7f80bf/foto45_b.jpg",
+          "width": 400
+        }
+      ],
+      "fuente_fin": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "fuente_inicio": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "genero (from persona)": [
+        "Mujer"
+      ],
+      "hasta": "2003-03-31",
+      "id": 288,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "Ana María Romero de Campero"
+      ],
+      "persona": [
+        "recfTfnzUMflCc2uZ"
+      ],
+      "sucesora": [
+        "recj2HKbQJriHPe4A"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
+      ]
+    },
+    {
       "airtableId": "recQGiiCKU8RljYpu",
       "cargo": "Viceministro de Medio Ambiente, Biodiversidad, Cambios Climáticos y de Gestión y Desarrollo Forestal",
       "dependencia (from entidad)": [
@@ -8298,6 +8419,37 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1389172885801996288",
       "twitter (from entidad)": [
         "@GobernacionBeni"
+      ]
+    },
+    {
+      "airtableId": "recTE1KDTlay4Knxk",
+      "cargo": "Defensor del Pueblo interino",
+      "causa_fin": "Fin interinato",
+      "desde": "2003-10-06",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fuente_fin": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "fuente_inicio": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "hasta": "2003-10-21",
+      "id": 291,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "Iván Zegada La Fuente "
+      ],
+      "persona": [
+        "recw3u1eATUY5Ocs5"
+      ],
+      "sucesora": [
+        "reccwHj0MHldzzSKv"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
       ]
     },
     {
@@ -10325,6 +10477,68 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1330914210197499904"
     },
     {
+      "airtableId": "recaJ4Obi87fPMX6K",
+      "cargo": "Defensor del Pueblo",
+      "causa_fin": "Fin mandato",
+      "desde": "2010-05-13",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "foto120_b.jpg",
+          "height": 280,
+          "id": "attrVX2dIvlYSfyXu",
+          "size": 29156,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b971438b543cae181d8231fcecc4ca94/61ee00a3",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a28ae3de908ccb2b2d24eab063cb30ce/a457e9dc",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/58ac4ec4864d06014800aa7ef12341a8/474adf61",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e61b43f871b25ad0aa48ecce5e101459/993d5243/foto120_b.jpg",
+          "width": 400
+        }
+      ],
+      "fuente_fin": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "fuente_inicio": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "hasta": "2016-05-13",
+      "id": 286,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "Rolando Villena Villegas"
+      ],
+      "persona": [
+        "recnjOscBS6KQJrot"
+      ],
+      "sucesora": [
+        "recwUENH74DsiV08j"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
+      ],
+      "twitter (from persona)": [
+        "RolandoVillenaV"
+      ]
+    },
+    {
       "airtableId": "recagPKLAJY0sLJLm",
       "cargo": "Ministro de Planificación del Desarrollo",
       "dependencia (from entidad)": [
@@ -10851,6 +11065,68 @@
       ],
       "twitter (from persona)": [
         "@jorgecambio"
+      ]
+    },
+    {
+      "airtableId": "reccwHj0MHldzzSKv",
+      "cargo": "Defensor del Pueblo",
+      "causa_fin": "Desconocida",
+      "desde": "2003-12-11",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "foto48_b.jpg",
+          "height": 280,
+          "id": "attsZ8LAAW0xfTXvJ",
+          "size": 38484,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3f8b34b18321b8250f85969218cfc87a/8b0a096e",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f5903d2362db2443b5489d6a6678cfe3/05a8ee0b",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c93b931138a4783f41a7af585cd1de32/a7265ec6",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/66ba4dec39ff08fede0ed83620cae8ea/dedb48e2/foto48_b.jpg",
+          "width": 400
+        }
+      ],
+      "fuente_fin": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "fuente_inicio": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "hasta": "2008-12-18",
+      "id": 287,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "Waldo Albarracín Sánchez"
+      ],
+      "persona": [
+        "receeso9qhfJ4G1F9"
+      ],
+      "sucesora": [
+        "reczxV2He2fr0OoWP"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
+      ],
+      "twitter (from persona)": [
+        "WaldoAlbarracin"
       ]
     },
     {
@@ -12320,6 +12596,65 @@
       ]
     },
     {
+      "airtableId": "recj2HKbQJriHPe4A",
+      "cargo": "Defensora del Pueblo interina",
+      "causa_fin": "Fin interinato",
+      "desde": "2003-03-31",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "images.jpg",
+          "height": 220,
+          "id": "attc9RDdwo7Zie9OY",
+          "size": 8809,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/270a2d74ecd44efa062873efdbe0d0a8/45c9481a",
+              "width": 3000
+            },
+            "large": {
+              "height": 220,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/95ba2bd217ccd68adea4d10e850fcf49/53902b07",
+              "width": 220
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/48546fbd9a9f8be80c6e44456ad91361/9a23356f",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/61decc62fd852cb92e7da3b0c50c7c0c/f1a6b3e2/images.jpg",
+          "width": 220
+        }
+      ],
+      "fuente_fin": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "fuente_inicio": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "genero (from persona)": [
+        "Mujer"
+      ],
+      "hasta": "2003-10-06",
+      "id": 290,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "Carmen Beatriz Ruiz Parada "
+      ],
+      "persona": [
+        "recttWaUjVt6zVmbi"
+      ],
+      "sucesora": [
+        "recTE1KDTlay4Knxk"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
+      ]
+    },
+    {
       "airtableId": "recj3qYSizNc1KvQH",
       "cargo": "Ministra de Planificación del Desarrollo",
       "causa_fin": "Renuncia",
@@ -13128,6 +13463,59 @@
       ],
       "twitter (from persona)": [
         "@Edgarpozoval"
+      ]
+    },
+    {
+      "airtableId": "recmxEn8W8JcmOGt1",
+      "cargo": "Defensor del Pueblo",
+      "desde": "2022-09-27",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "FdsIteXWIBMQG0D.jpg",
+          "height": 261,
+          "id": "attApj9tMgsesNlGv",
+          "size": 22720,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/42b459bb39358b07b4a8d95c9cbaeb68/dbe81f09",
+              "width": 3000
+            },
+            "large": {
+              "height": 261,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/845aed12a4d159d6dfc747809eb4b827/cab19307",
+              "width": 500
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/89e845f92b1dc04f6df413008422c3e3/dba27cde",
+              "width": 69
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/31c8dfe71abfc3a19fd5452918ae6974/54e4c157/FdsIteXWIBMQG0D.jpg",
+          "width": 500
+        }
+      ],
+      "fuente_inicio": "https://abi.bo/index.php/component/content/article/35-notas/noticias/politica/27738-vicepresidente-posesiona-a-pedro-callisaya-como-nuevo-defensor-y-le-pide-reestructurar-la-institucion?Itemid=101",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 283,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "Pedro Francisco Callisaya Aro"
+      ],
+      "persona": [
+        "reciGIDOEq3PvsHi1"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
       ]
     },
     {
@@ -15730,6 +16118,65 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1333482090705412099"
     },
     {
+      "airtableId": "recwUENH74DsiV08j",
+      "cargo": "Defensor del Pueblo",
+      "causa_fin": "Renuncia",
+      "desde": "2016-01-13",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "fotot2_b.jpg",
+          "height": 280,
+          "id": "attkwAsPabeCOCVTR",
+          "size": 21624,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/71ea3458f1ce53415e5f7f802429e89a/0a2eeb67",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e07dab60594401d1b6d6a2301290f531/49528764",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8e6e4f8fa19ab0d2b8a02a6e1dd223c8/7a555526",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/16acb82afa2e4ec41436b3d9d998998a/a0210c73/fotot2_b.jpg",
+          "width": 400
+        }
+      ],
+      "fuente_fin": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "fuente_inicio": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "hasta": "2019-01-24",
+      "id": 285,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "David Alonzo Tezanos Pinto Ledezma"
+      ],
+      "persona": [
+        "recNu1wmp0tKsNNfE"
+      ],
+      "sucesora": [
+        "recFGjIpGKwQeTAZz"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
+      ]
+    },
+    {
       "airtableId": "recwllukjAp4G4eQT",
       "cargo": "Directora Ejecutiva Nacional de la AJAM (Autoridad Jurisdiccional Administrativa Minera)",
       "dependencia (from entidad)": [
@@ -16615,6 +17062,65 @@
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1352368384432885761",
       "twitter (from entidad)": [
         "@adecinebolivia"
+      ]
+    },
+    {
+      "airtableId": "reczxV2He2fr0OoWP",
+      "cargo": "Defensora del Pueblo interina",
+      "causa_fin": "Fin interinato",
+      "desde": "2008-12-18",
+      "entidad": [
+        "recXrpkPyCTA22G6P"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "image39.png",
+          "height": 348,
+          "id": "attRPlp8f4XOlyCYX",
+          "size": 260758,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/90a62eab8332a9aa3f369373d87031ec/c39bb810",
+              "width": 3000
+            },
+            "large": {
+              "height": 348,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7e38132cd67d343a6ab5ad20cf3b69e9/2aef31ff",
+              "width": 259
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5633ffa15226f8051d81930d9aecd8e7/dbe81bde",
+              "width": 27
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/a3497eb3e6923281960bfc6baa59e47d/47b28fa3/image39.png",
+          "width": 259
+        }
+      ],
+      "fuente_fin": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "fuente_inicio": "https://es.wikipedia.org/wiki/Defensor%C3%ADa_del_Pueblo_(Bolivia)",
+      "genero (from persona)": [
+        "Mujer"
+      ],
+      "hasta": "2010-05-13",
+      "id": 289,
+      "nombre (from entidad)": [
+        "Defensoría del Pueblo"
+      ],
+      "nombre (from persona)": [
+        "Rielma Loreta Mencias Rivadeneira"
+      ],
+      "persona": [
+        "recVf5qVoLTizgh0x"
+      ],
+      "sucesora": [
+        "recaJ4Obi87fPMX6K"
+      ],
+      "twitter (from entidad)": [
+        "DPBoliviaOf"
       ]
     }
   ],
@@ -18192,6 +18698,26 @@
       "sigla": "Envibol",
       "tipo": "Empresa",
       "twitter": "@envibol"
+    },
+    {
+      "airtableId": "recXrpkPyCTA22G6P",
+      "autoridades": [
+        "recmxEn8W8JcmOGt1",
+        "recFGjIpGKwQeTAZz",
+        "recwUENH74DsiV08j",
+        "recaJ4Obi87fPMX6K",
+        "reccwHj0MHldzzSKv",
+        "recQ76ZgN986SGjma",
+        "reczxV2He2fr0OoWP",
+        "recj2HKbQJriHPe4A",
+        "recTE1KDTlay4Knxk"
+      ],
+      "eleccion_mae": "elección asamblea plurinacional",
+      "id": 212,
+      "nombre": "Defensoría del Pueblo",
+      "tipo": "Otro",
+      "twitter": "DPBoliviaOf",
+      "webpage": "https://www.defensoria.gob.bo/"
     },
     {
       "airtableId": "recZ6kwgXgK2i7Wuk",
@@ -22618,6 +23144,44 @@
       "nombre": "Gonzalo Rodríguez"
     },
     {
+      "airtableId": "recGT00NeUS4rOzik",
+      "autoridades": [
+        "recFGjIpGKwQeTAZz"
+      ],
+      "fotos": [
+        {
+          "filename": "20201116124824-154.jpg",
+          "height": 280,
+          "id": "att9b7UMC7A8TDE0q",
+          "size": 35908,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b5376f6bf5744f71e6261bd173e9c958/d59f1c45",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ba9deaac3e2e2044e2341beb85ec5390/0e06d84f",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e838188b8e5d191736fd1a81ccc283b5/5917306c",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/d0f9a21a220d68c504e634d86fc18cdb/aafebe13/20201116124824-154.jpg",
+          "width": 400
+        }
+      ],
+      "genero": "Mujer",
+      "id": 264,
+      "nombre": "Nadia Alejandra Cruz Tarifa",
+      "twitter": "NadiaCruzDP"
+    },
+    {
       "airtableId": "recGU1ozqANDRAt03",
       "autoridades": [
         "rec4AYqMCCP4MFNDp"
@@ -23881,6 +24445,43 @@
       "twitter": "@alexmachicado"
     },
     {
+      "airtableId": "recNu1wmp0tKsNNfE",
+      "autoridades": [
+        "recwUENH74DsiV08j"
+      ],
+      "fotos": [
+        {
+          "filename": "fotot2_b.jpg",
+          "height": 280,
+          "id": "attkwAsPabeCOCVTR",
+          "size": 21624,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/71ea3458f1ce53415e5f7f802429e89a/0a2eeb67",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e07dab60594401d1b6d6a2301290f531/49528764",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8e6e4f8fa19ab0d2b8a02a6e1dd223c8/7a555526",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/16acb82afa2e4ec41436b3d9d998998a/a0210c73/fotot2_b.jpg",
+          "width": 400
+        }
+      ],
+      "genero": "Hombre",
+      "id": 265,
+      "nombre": "David Alonzo Tezanos Pinto Ledezma"
+    },
+    {
       "airtableId": "recOK9aMART2TIYNL",
       "autoridades": [
         "recG8xE6KeTlikqsb"
@@ -24816,6 +25417,43 @@
       "genero": "Hombre",
       "id": 219,
       "nombre": "Oscar David Zelada Jaldín"
+    },
+    {
+      "airtableId": "recVf5qVoLTizgh0x",
+      "autoridades": [
+        "reczxV2He2fr0OoWP"
+      ],
+      "fotos": [
+        {
+          "filename": "image39.png",
+          "height": 348,
+          "id": "attRPlp8f4XOlyCYX",
+          "size": 260758,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/90a62eab8332a9aa3f369373d87031ec/c39bb810",
+              "width": 3000
+            },
+            "large": {
+              "height": 348,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7e38132cd67d343a6ab5ad20cf3b69e9/2aef31ff",
+              "width": 259
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5633ffa15226f8051d81930d9aecd8e7/dbe81bde",
+              "width": 27
+            }
+          },
+          "type": "image/png",
+          "url": "https://dl.airtable.com/.attachments/a3497eb3e6923281960bfc6baa59e47d/47b28fa3/image39.png",
+          "width": 259
+        }
+      ],
+      "genero": "Mujer",
+      "id": 269,
+      "nombre": "Rielma Loreta Mencias Rivadeneira"
     },
     {
       "airtableId": "recVoHL1U4tCQRYtJ",
@@ -26125,6 +26763,44 @@
       "nombre": "Edgar Freddy Caero Ayala"
     },
     {
+      "airtableId": "receeso9qhfJ4G1F9",
+      "autoridades": [
+        "reccwHj0MHldzzSKv"
+      ],
+      "fotos": [
+        {
+          "filename": "foto48_b.jpg",
+          "height": 280,
+          "id": "attsZ8LAAW0xfTXvJ",
+          "size": 38484,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3f8b34b18321b8250f85969218cfc87a/8b0a096e",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f5903d2362db2443b5489d6a6678cfe3/05a8ee0b",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c93b931138a4783f41a7af585cd1de32/a7265ec6",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/66ba4dec39ff08fede0ed83620cae8ea/dedb48e2/foto48_b.jpg",
+          "width": 400
+        }
+      ],
+      "genero": "Hombre",
+      "id": 267,
+      "nombre": "Waldo Albarracín Sánchez",
+      "twitter": "WaldoAlbarracin"
+    },
+    {
       "airtableId": "recelLtv9bJg4Ae75",
       "autoridades": [
         "recmcUEFmO5osT56H"
@@ -26511,6 +27187,43 @@
       "id": 171,
       "nombre": "Rodo Condori Benavidez",
       "twitter": "@BenavidezRodo"
+    },
+    {
+      "airtableId": "recfTfnzUMflCc2uZ",
+      "autoridades": [
+        "recQ76ZgN986SGjma"
+      ],
+      "fotos": [
+        {
+          "filename": "foto45_b.jpg",
+          "height": 280,
+          "id": "attIgfDTsXwxGEDQc",
+          "size": 53976,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b8d385f7895b2ab55b2022590586a4dd/3f76a4e3",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4342bc7921de85904aa70d98e660b4a8/919e11f1",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ddc9c88b491d82e6443a7a7e0ec03305/41c9c205",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/c5234458854eb7206b4b32eb443d496c/6b7f80bf/foto45_b.jpg",
+          "width": 400
+        }
+      ],
+      "genero": "Mujer",
+      "id": 268,
+      "nombre": "Ana María Romero de Campero"
     },
     {
       "airtableId": "recfU0rLEmQ7mxUGg",
@@ -27176,6 +27889,43 @@
       "id": 199,
       "nombre": "Iván Arias Durán",
       "twitter": "@ivanariasduran"
+    },
+    {
+      "airtableId": "reciGIDOEq3PvsHi1",
+      "autoridades": [
+        "recmxEn8W8JcmOGt1"
+      ],
+      "fotos": [
+        {
+          "filename": "FdsIteXWIBMQG0D.jpg",
+          "height": 261,
+          "id": "attApj9tMgsesNlGv",
+          "size": 22720,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/42b459bb39358b07b4a8d95c9cbaeb68/dbe81f09",
+              "width": 3000
+            },
+            "large": {
+              "height": 261,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/845aed12a4d159d6dfc747809eb4b827/cab19307",
+              "width": 500
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/89e845f92b1dc04f6df413008422c3e3/dba27cde",
+              "width": 69
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/31c8dfe71abfc3a19fd5452918ae6974/54e4c157/FdsIteXWIBMQG0D.jpg",
+          "width": 500
+        }
+      ],
+      "genero": "Hombre",
+      "id": 263,
+      "nombre": "Pedro Francisco Callisaya Aro"
     },
     {
       "airtableId": "reciTQFx6kC5OntpY",
@@ -28276,6 +29026,44 @@
       "twitter": "@Ed_Novillo"
     },
     {
+      "airtableId": "recnjOscBS6KQJrot",
+      "autoridades": [
+        "recaJ4Obi87fPMX6K"
+      ],
+      "fotos": [
+        {
+          "filename": "foto120_b.jpg",
+          "height": 280,
+          "id": "attrVX2dIvlYSfyXu",
+          "size": 29156,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b971438b543cae181d8231fcecc4ca94/61ee00a3",
+              "width": 3000
+            },
+            "large": {
+              "height": 280,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a28ae3de908ccb2b2d24eab063cb30ce/a457e9dc",
+              "width": 400
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/58ac4ec4864d06014800aa7ef12341a8/474adf61",
+              "width": 51
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/e61b43f871b25ad0aa48ecce5e101459/993d5243/foto120_b.jpg",
+          "width": 400
+        }
+      ],
+      "genero": "Hombre",
+      "id": 266,
+      "nombre": "Rolando Villena Villegas",
+      "twitter": "RolandoVillenaV"
+    },
+    {
       "airtableId": "reco5hMTHBxCTzZnU",
       "autoridades": [
         "recV7qz9LRPvqOQtz"
@@ -29268,6 +30056,43 @@
       "nombre": "Adhemar Willcarani Morales"
     },
     {
+      "airtableId": "recttWaUjVt6zVmbi",
+      "autoridades": [
+        "recj2HKbQJriHPe4A"
+      ],
+      "fotos": [
+        {
+          "filename": "images.jpg",
+          "height": 220,
+          "id": "attc9RDdwo7Zie9OY",
+          "size": 8809,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/270a2d74ecd44efa062873efdbe0d0a8/45c9481a",
+              "width": 3000
+            },
+            "large": {
+              "height": 220,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/95ba2bd217ccd68adea4d10e850fcf49/53902b07",
+              "width": 220
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/48546fbd9a9f8be80c6e44456ad91361/9a23356f",
+              "width": 36
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/61decc62fd852cb92e7da3b0c50c7c0c/f1a6b3e2/images.jpg",
+          "width": 220
+        }
+      ],
+      "genero": "Mujer",
+      "id": 270,
+      "nombre": "Carmen Beatriz Ruiz Parada "
+    },
+    {
       "airtableId": "recuOkcYJnUxty3mv",
       "autoridades": [
         "recnuHQrPgPMmRhZg"
@@ -29478,6 +30303,15 @@
       "genero": "Hombre",
       "id": 131,
       "nombre": "Elmer Pozo Oliva"
+    },
+    {
+      "airtableId": "recw3u1eATUY5Ocs5",
+      "autoridades": [
+        "recTE1KDTlay4Knxk"
+      ],
+      "genero": "Hombre",
+      "id": 271,
+      "nombre": "Iván Zegada La Fuente "
     },
     {
       "airtableId": "recwIpxivedCYkbB8",
