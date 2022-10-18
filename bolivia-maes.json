@@ -260,7 +260,8 @@
       ],
       "sigla (from entidad)": [
         "VRHR"
-      ]
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1567058836921491456"
     },
     {
       "airtableId": "rec0f11gkgnvUv4HF",
@@ -521,7 +522,8 @@
       ],
       "persona": [
         "reclhaXeEH4r5myXQ"
-      ]
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1544954322936598531"
     },
     {
       "airtableId": "rec2VWDUcJm5gZYpW",
@@ -9004,6 +9006,66 @@
       ]
     },
     {
+      "airtableId": "recVGh0ofDopq5QLl",
+      "cargo": "Director Ejecutivo Nacional de la AJAM (Autoridad Jurisdiccional Administrativa Minera)",
+      "dependencia (from entidad)": [
+        "recnjo1nbKW3JKsVr"
+      ],
+      "desde": "2022-10-14",
+      "entidad": [
+        "reciPvyYzpk1CjOk9"
+      ],
+      "fotos (from persona)": [
+        {
+          "filename": "AJAMM.jpg",
+          "height": 853,
+          "id": "att7rzZcFJja70nkX",
+          "size": 220056,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a488744397e02b26c29e949cedaa02c5/f9a0418d",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d1fee6c58876ccb773517932e2bb9396/0769213f",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/12e7a3ff517da4d61cb0c8e73ade25c1/71812f3f",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/426c6c4077135905971d5d61a90b3002/2be8cbeb/AJAMM.jpg",
+          "width": 1280
+        }
+      ],
+      "fuente_inicio": "https://abi.bo/index.php/component/content/article/36-notas/noticias/economia/28535-posesionan-a-heriberto-arinez-como-director-ejecutivo-de-la-ajam?Itemid=101",
+      "genero (from persona)": [
+        "Hombre"
+      ],
+      "id": 292,
+      "nombre (from entidad)": [
+        "Autoridad Juridiccional Administrativa Minera"
+      ],
+      "nombre (from persona)": [
+        "Heriberto Erik Ariñez Bazzan"
+      ],
+      "persona": [
+        "reckMlpriJFJW26cw"
+      ],
+      "sigla (from entidad)": [
+        "AJAM"
+      ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1581934063257939968",
+      "twitter (from entidad)": [
+        "@AJAMBolivia"
+      ]
+    },
+    {
       "airtableId": "recVTGN6t3SybDamY",
       "cargo": "Director General Ejecutivo del Fonabosque (Fondo Nacional de Desarrollo Forestal).",
       "dependencia (from entidad)": [
@@ -13514,6 +13576,7 @@
       "persona": [
         "reciGIDOEq3PvsHi1"
       ],
+      "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1575028342688026627",
       "twitter (from entidad)": [
         "DPBoliviaOf"
       ]
@@ -16179,6 +16242,7 @@
     {
       "airtableId": "recwllukjAp4G4eQT",
       "cargo": "Directora Ejecutiva Nacional de la AJAM (Autoridad Jurisdiccional Administrativa Minera)",
+      "causa_fin": "Desconocida",
       "dependencia (from entidad)": [
         "recnjo1nbKW3JKsVr"
       ],
@@ -16218,6 +16282,7 @@
       "genero (from persona)": [
         "Mujer"
       ],
+      "hasta": "2022-10-14",
       "id": 248,
       "nombre (from entidad)": [
         "Autoridad Juridiccional Administrativa Minera"
@@ -16231,6 +16296,10 @@
       "sigla (from entidad)": [
         "AJAM"
       ],
+      "sucesora": [
+        "recVGh0ofDopq5QLl"
+      ],
+      "tweet_fin": "https://twitter.com/BoliviaMaes/status/1581935127088594944",
       "tweet_inicio": "https://twitter.com/BoliviaMaes/status/1532288072779542528",
       "twitter (from entidad)": [
         "@AJAMBolivia"
@@ -19260,7 +19329,8 @@
       "airtableId": "reciPvyYzpk1CjOk9",
       "autoridades": [
         "recZXvyClhE8ZyTnR",
-        "recwllukjAp4G4eQT"
+        "recwllukjAp4G4eQT",
+        "recVGh0ofDopq5QLl"
       ],
       "dependencia": [
         "recnjo1nbKW3JKsVr"
@@ -28451,6 +28521,43 @@
       "id": 7,
       "nombre": "Felipe Jorge Silva Trujillo",
       "twitter": "@jorgecambio"
+    },
+    {
+      "airtableId": "reckMlpriJFJW26cw",
+      "autoridades": [
+        "recVGh0ofDopq5QLl"
+      ],
+      "fotos": [
+        {
+          "filename": "AJAMM.jpg",
+          "height": 853,
+          "id": "att7rzZcFJja70nkX",
+          "size": 220056,
+          "thumbnails": {
+            "full": {
+              "height": 3000,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a488744397e02b26c29e949cedaa02c5/f9a0418d",
+              "width": 3000
+            },
+            "large": {
+              "height": 512,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d1fee6c58876ccb773517932e2bb9396/0769213f",
+              "width": 768
+            },
+            "small": {
+              "height": 36,
+              "url": "https://dl.airtable.com/.attachmentThumbnails/12e7a3ff517da4d61cb0c8e73ade25c1/71812f3f",
+              "width": 54
+            }
+          },
+          "type": "image/jpeg",
+          "url": "https://dl.airtable.com/.attachments/426c6c4077135905971d5d61a90b3002/2be8cbeb/AJAMM.jpg",
+          "width": 1280
+        }
+      ],
+      "genero": "Hombre",
+      "id": 272,
+      "nombre": "Heriberto Erik Ariñez Bazzan"
     },
     {
       "airtableId": "reckqcdfvWwB8AOgT",
